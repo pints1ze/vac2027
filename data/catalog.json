@@ -1,0 +1,964 @@
+{
+  "trip": {
+    "id": "family-trip-2027",
+    "title": "Our 2027 family trip",
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10",
+    "dates": "July 4–10, 2027",
+    "nights": 6,
+    "party_size": 8,
+    "party_size_word": "eight",
+    "households_word": "three",
+    "weather_months": [
+      "July"
+    ],
+    "budget": {
+      "lodging_nightly_max_usd": 2800,
+      "before_tax": true
+    },
+    "people": [
+      {
+        "id": "scott",
+        "name": "Scott",
+        "household": "scott_andrea"
+      },
+      {
+        "id": "andrea",
+        "name": "Andrea",
+        "household": "scott_andrea"
+      },
+      {
+        "id": "sam",
+        "name": "Sam",
+        "household": "parents"
+      },
+      {
+        "id": "karen",
+        "name": "Karen",
+        "household": "parents"
+      },
+      {
+        "id": "ryan",
+        "name": "Ryan",
+        "household": "brother_family"
+      },
+      {
+        "id": "jenna",
+        "name": "Jenna",
+        "household": "brother_family"
+      },
+      {
+        "id": "ethan",
+        "name": "Ethan",
+        "household": "brother_family"
+      },
+      {
+        "id": "aubrey",
+        "name": "Aubrey",
+        "household": "brother_family"
+      }
+    ],
+    "households": [
+      {
+        "id": "scott_andrea",
+        "name": "Scott & Andrea",
+        "lockoff": true
+      },
+      {
+        "id": "parents",
+        "name": "Sam & Karen",
+        "lockoff": false
+      },
+      {
+        "id": "brother_family",
+        "name": "Ryan, Jenna & kids",
+        "lockoff": false
+      }
+    ],
+    "origins": [
+      {
+        "id": "den",
+        "label": "Denver (DEN)",
+        "travelers": 6
+      },
+      {
+        "id": "bay_area",
+        "label": "Sacramento / Oakland / San Francisco (SMF, OAK, SFO)",
+        "travelers": 2
+      }
+    ],
+    "rubric": {
+      "categories": [
+        {
+          "id": "lodging",
+          "label": "Lodging: private + shared configuration",
+          "short_label": "Lodging",
+          "weight": 25
+        },
+        {
+          "id": "town_scenery",
+          "label": "Town / scenery",
+          "short_label": "Town",
+          "weight": 18
+        },
+        {
+          "id": "animals",
+          "label": "Animal experiences",
+          "short_label": "Animals",
+          "weight": 18
+        },
+        {
+          "id": "food",
+          "label": "Food / convenience",
+          "short_label": "Food",
+          "weight": 15
+        },
+        {
+          "id": "other",
+          "label": "Other activities / logistics",
+          "short_label": "Other",
+          "weight": 10
+        },
+        {
+          "id": "golf",
+          "label": "Golf",
+          "short_label": "Golf",
+          "weight": 9
+        },
+        {
+          "id": "weather",
+          "label": "Weather",
+          "short_label": "Weather",
+          "weight": 5
+        }
+      ],
+      "hard_constraint_cap": 60
+    },
+    "lodging_ratings": [
+      {
+        "id": "privacy",
+        "label": "Privacy",
+        "short_label": "Privacy"
+      },
+      {
+        "id": "shared_space",
+        "label": "Shared space",
+        "short_label": "Shared"
+      },
+      {
+        "id": "parents",
+        "label": "Seniors' access",
+        "short_label": "Parents"
+      },
+      {
+        "id": "location",
+        "label": "Location",
+        "short_label": "Location"
+      },
+      {
+        "id": "value",
+        "label": "Value",
+        "short_label": "Value"
+      }
+    ],
+    "hard_constraints": [
+      {
+        "id": "airport",
+        "label": "Airport"
+      },
+      {
+        "id": "seniors",
+        "label": "Seniors"
+      }
+    ],
+    "focus_sections": [
+      {
+        "id": "animals",
+        "label": "Animal experiences",
+        "short_label": "Animals",
+        "price_label": "Price",
+        "fields": [
+          {
+            "id": "interactivity",
+            "label": "Interactivity",
+            "enum": [
+              "hands-on",
+              "close viewing",
+              "viewing"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "golf",
+        "label": "Golf",
+        "short_label": "Golf",
+        "price_label": "Green fee",
+        "fields": []
+      }
+    ],
+    "site": {
+      "brochure": {
+        "title": "Our 2027 family trip",
+        "kicker": "Summer 2027 · the whole family",
+        "banned_terms": [
+          "Andrea",
+          "Scott",
+          "privacy",
+          "private retreat",
+          "lock-off",
+          "separate quarters",
+          "rubric",
+          "/100"
+        ]
+      },
+      "analysis": {
+        "title": "2027 family vacation: scored comparison",
+        "audience": "Scott and Andrea"
+      },
+      "rank": {
+        "kicker": "Summer 2027 · family vote"
+      }
+    }
+  },
+  "destinations": [
+    {
+      "slug": "victoria-bc",
+      "name": "Victoria, BC",
+      "region": "Canada",
+      "type": "land",
+      "tagline": "Harbour walks, whale boats, gardens and a hawk walk",
+      "highlights": [
+        "Kayak among sea lions and seals from Oak Bay",
+        "Whale-watching boats leave from the Inner Harbour",
+        "Walk with a hawk at The Raptors",
+        "Butchart Gardens on paved paths",
+        "Mountain-top golf at Bear Mountain, 25 minutes away",
+        "Old Town restaurants a short flat walk from the hotels"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 75,
+        "low_f": 54
+      },
+      "hero": {
+        "url": "https://admin.tourismvictoria.com/content/uploads/2026/06/Inner-Harbour-with-Flowers-in-the-Summer-1047x698.png",
+        "src": "img/d7568695fc2b17cb.webp",
+        "alt": "Victoria's Inner Harbour with summer flowers",
+        "credit": "Tourism Victoria",
+        "page": "https://www.tourismvictoria.com/things-to-do"
+      },
+      "hero_analysis": {
+        "url": "https://admin.tourismvictoria.com/content/uploads/2026/06/Inner-Harbour-with-Flowers-in-the-Summer-1047x698.png",
+        "src": "../img/d7568695fc2b17cb.webp",
+        "alt": "Victoria's Inner Harbour with summer flowers",
+        "credit": "Tourism Victoria",
+        "page": "https://www.tourismvictoria.com/things-to-do"
+      },
+      "scores": {
+        "lodging": 19,
+        "town_scenery": 16,
+        "animals": 11,
+        "food": 15,
+        "other": 7,
+        "golf": 8,
+        "weather": 5,
+        "total": 81,
+        "rationale": {
+          "lodging": "19/25: rests on Victoria Regent 2 Bedroom Executive Suite (Waterfront) + two 1BR suites, US$1,560/night (verified, C$2,228 rate re-quoted 2026-11-15), with separate kitchen suites and a 950 sq ft deck in 307, but the dining table seats 6, not 8, the executive suite is booked by phone (307 not selectable online), and elevator and adjacent placement are not stated.",
+          "town_scenery": "16/18: flat, walkable Inner Harbour and Old Town with harbour views from the lodging; it is a small city rather than a village, and parts of downtown slope.",
+          "animals": "11/18: the top two are activities with wild animals (a guided Trial Island kayak paddle among seals and sea lions, 15 min, for paddlers with some experience, and a hawk walk at The Raptors, 55 min), but neither publishes price, minimum age or 2027 dates, the paddle is watching from a kayak rather than touching, and nothing involves exotic animals beyond holding insects at the Bug Zoo.",
+          "food": "15/15: well over 10 restaurants within a 10-minute flat walk of the Victoria Regent, including Il Terrazzo and Q at the Empress for the special dinner.",
+          "other": "7/10: escape rooms, kayaking, whale watching, Butchart Gardens and a museum cover every age, but there are no nonstop flights from either origin and passports are needed.",
+          "golf": "8/9: Bear Mountain Mountain Course (25 min, C$257 peak public rate) is a memorable mountain-top course, and Olympic View (about 25 min) is a cheaper alternative with waterfalls.",
+          "weather": "5/5: July normal high about 75 F (24 C) and July is the driest month; the downtown waterfront usually runs cooler than the station figure."
+        }
+      },
+      "summary": "Victoria works as a three-suite hotel stay on the Inner Harbour: BC's principal-residence rental law rules out whole houses and guest cottages, so every option here is separate kitchen suites in one hotel, which gives Scott & Andrea a true lock-off by default. The best fit is the Victoria Regent (2BR Executive Suite 307 with a 950 sq ft harbour deck plus two 1BR suites), verified at US$1,560 a night for July 4-10 (re-quoted 2026-11-15), well under the cap, with Old Town restaurants a flat 5-minute walk away. The best animal options are activities with wild animals rather than feeding: a guided sea-lion kayak paddle from Oak Bay (15 min) and a hawk walk at The Raptors (55 min), both with prices and ages unpublished; the Bug Zoo lets visitors hold insects. Bear Mountain golf is 25 min out and July highs sit around 75 F. The biggest caveat is the gathering space: no suite has a confirmed table for 8 indoors, and there are no confirmed nonstop flights from Denver or the Bay Area.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: YYJ is about 30 min from the Inner Harbour (within 90). No nonstop from DEN or SFO/OAK/SMF was confirmed; everyone connects via Seattle (Alaska) or Vancouver (Air Canada/United), or takes the Clipper ferry from Seattle. One-stop connections were judged reasonable, so it passes. Seniors: the Inner Harbour, Wharf St and Old Town are flat; all options are hotel suites with no stairs inside, except Swans lofts (avoid for the parents). Elevators were not stated on the Victoria Regent pages read (8-storey building); Chateau Victoria's 2BR suites are on floors 16-17, so it has elevators."
+      },
+      "top_lodging": {
+        "name": "Victoria Regent Waterfront Hotel & Suites",
+        "lockoff": true,
+        "nightly_low": 1560,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "banff-canmore",
+      "name": "Banff / Canmore, AB",
+      "region": "Canadian Rockies",
+      "type": "land",
+      "tagline": "Mountain views, husky carts, horse rides and Main Street dinners",
+      "highlights": [
+        "Ride in a husky-pulled cart through the forest",
+        "Guided horseback rides near Canmore and Banff",
+        "Banff Gondola to the top of Sulphur Mountain",
+        "Golf under the Three Sisters or at Banff Springs",
+        "Flat walks to Main Street cafes and restaurants",
+        "Lake Minnewanka boat cruise in the mountains"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 71,
+        "low_f": 45
+      },
+      "hero": {
+        "url": "https://banfflakelouise.bynder.com/m/526b3589b1182f83/1000x540_jpg-2019_BanffTownsite_Aerial_BrandonLam.jpg",
+        "src": "img/7ad1515bb8ff044e.jpg",
+        "alt": "Aerial view of the Banff townsite and surrounding peaks",
+        "credit": "Banff & Lake Louise Tourism / Brandon Lam",
+        "page": "https://www.banfflakelouise.com/"
+      },
+      "hero_analysis": {
+        "url": "https://banfflakelouise.bynder.com/m/526b3589b1182f83/1000x540_jpg-2019_BanffTownsite_Aerial_BrandonLam.jpg",
+        "src": "../img/7ad1515bb8ff044e.jpg",
+        "alt": "Aerial view of the Banff townsite and surrounding peaks",
+        "credit": "Banff & Lake Louise Tourism / Brandon Lam",
+        "page": "https://www.banfflakelouise.com/"
+      },
+      "scores": {
+        "lodging": 17,
+        "town_scenery": 16,
+        "animals": 13,
+        "food": 13,
+        "other": 8,
+        "golf": 9,
+        "weather": 4,
+        "total": 80,
+        "rationale": {
+          "lodging": "17/25: rests on Spring Creek Timberstone 3BR (110 TM) + two 1BR condos at US$1,448-1,892/night (verified 2026-11-15, inside the cap); each household has its own condo, but the gathering room is a condo living room with table size and elevator not stated.",
+          "town_scenery": "16/18: Canmore's Main Street and Spring Creek are flat and walkable with Three Sisters and Ha Ling views from the streets; Banff Avenue is 25 min away for a second town day.",
+          "animals": "13/18: the top two both have guests doing something with the animals in July within 25 min (riding a husky-pulled cart with Snowy Owl, 5+, mornings below 25 C only; Boundary Ranch trail rides, 6+), but the animals are dogs and horses, and wild animals are viewing or a facility tour only (Yamnuska Intro 10+, its Interactive Tour 15+ excludes Aubrey; evening wildlife safari).",
+          "food": "13/15: more than 10 restaurants within about 10-12 min walk of Spring Creek, including Crazyweed for the special dinner; walk times are map estimates, not measured.",
+          "other": "8/10: cave tour, rafting, gondola and outdoor clue games for teens, gondola and views for the parents, hotel spa options; DEN and SFO nonstops to YYC but a 76-min drive, passports and park passes.",
+          "golf": "9/9: Fairmont Banff Springs Stanley Thompson 18 (public tee times, about C$270-330 peak) 25 min away, plus Stewart Creek under 10 min.",
+          "weather": "4/5: Banff July normal high 71 F (below 75 F), minus 1 because about 16 of 31 July days have precipitation."
+        }
+      },
+      "summary": "Strong all-round pick: base in Canmore, where Spring Creek Vacations can put each household in its own condo in one building, a flat walk from Main Street restaurants, at a quoted US$1,448-1,892/night for the trip dates (unit 213 is taken; sister 3BR 110 TM quoted). Hands-on animals mean doing something with dogs and horses (riding in a husky-pulled cart, trail rides at Boundary Ranch or Banff Trail Riders); wild animals are viewing only. Golf is excellent (Stewart Creek and Silvertip under 10 min, Banff Springs 25 min), and July normals are 71/45 F with about 16 wet days. The biggest caveat is the gathering room and depth of choice: the Spring Creek split's gathering room is a 3BR living room with an unstated table size, the five big-room options are booked for July 4 check-in and sit in backups, Stoneridge and Basecamp have no 3BR left for the dates, and the only other option quoted as available is Blackstone Mountain Lodge (2BR + two 1BR suites, US$1,303-1,629/night, a small 2BR living room as the gathering room).",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: YYC to Canmore about 76 min (passes the 90-min check); Banff townsite is about 96 min, so the Banff lodging options sit outside the 90-min line while the Canmore options are inside. DEN has United/WestJet nonstops; SFO has United/WestJet nonstops; OAK/SMF connect. Seniors: downtown Canmore (Main Street, Spring Creek) and Banff Avenue are flat valley-floor grids; the recommended condo split can put Sam & Karen in a ground-floor (100-series) unit, though the elevator is not stated. Stoneridge Mountain Resort states elevator access to all floors. The Black Bear Chalet and Timberstone townhouse involve stairs and should not be the parents' unit."
+      },
+      "top_lodging": {
+        "name": "Spring Creek Vacations",
+        "lockoff": true,
+        "nightly_low": 1448,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "monterey-pacific-grove-carmel",
+      "name": "Monterey / Pacific Grove / Carmel, CA",
+      "region": "California coast",
+      "type": "land",
+      "tagline": "Otters, a world-class aquarium, ocean-view golf and Carmel's village streets",
+      "highlights": [
+        "Monterey Bay Aquarium on Cannery Row, with otters in the bay",
+        "Paddle a kayak among wild sea otters at Elkhorn Slough",
+        "Humpback whale season on Monterey Bay",
+        "Golf at Pacific Grove Links beside Point Pinos Lighthouse",
+        "Flat shoreline path from Lovers Point toward Cannery Row",
+        "Nonstop United flights from Denver"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 65.8,
+        "low_f": 54.4
+      },
+      "hero": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pacific_Grove%2C_California_-_2022_19.jpg",
+        "src": "img/4d7a1a2f8d3ae61c.jpg",
+        "alt": "Lovers Point Beach, Pacific Grove",
+        "credit": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Pacific_Grove,_California"
+      },
+      "hero_analysis": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pacific_Grove%2C_California_-_2022_19.jpg",
+        "src": "../img/4d7a1a2f8d3ae61c.jpg",
+        "alt": "Lovers Point Beach, Pacific Grove",
+        "credit": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Pacific_Grove,_California"
+      },
+      "scores": {
+        "lodging": 17,
+        "town_scenery": 16,
+        "animals": 11,
+        "food": 10,
+        "other": 9,
+        "golf": 9,
+        "weather": 5,
+        "total": 77,
+        "rationale": {
+          "lodging": "17/25: rests on Mission Ranch (Honeymoon Cottage + Bunkhouse Cottage + Main Barn 2-room unit, $1,140-1,500/night estimate from the ranch's published pre-2027 room rates; the ranch quotes only by phone, re-checked 2026-11-15): true separate cottage and ground-floor rooms for the parents, but the only gathering room is the 550 sq ft Bunkhouse, too small for 8 at one table; Carmel Country Inn is verified at $1,534/night but has no kitchens or group room, and Andril's Rancho Reposo (better living room) shows no availability for the trip dates and is now a backup.",
+          "town_scenery": "16/18: Pacific Grove's Lighthouse Ave and the level Ocean View Blvd shoreline path give a flat, walkable village with real coast views; Carmel is walkable but sloped.",
+          "animals": "11/18: rests on the top two by the ranking, a guided kayak among wild sea otters and harbor seals in Elkhorn Slough ($70, 2.5 hr, over-10s, daily) and a 75-min horseback ride through the Monterey Dunes and beach ($175, ages 10+, July schedule not published); the only exotic hands-on option, Monterey Zoo's full-contact tours (feeding a lion or tiger, putting a rhino to bed), has no published price, ages or 2027 schedule, and nothing involves touching or swimming with wild animals.",
+          "food": "10/15: downtown Pacific Grove has 10+ restaurants on foot from the High Tide duplex, including Passionfish for the special dinner, but the two lodging options with the best layout (Mission Ranch, Andril) are a 20-30 min walk or short drive from town.",
+          "other": "9/10: Escape Room 831 on Cannery Row, kayaks and bikes, aquarium, Carmel shopping, plus a year-round United DEN-MRY nonstop and a 10-minute transfer.",
+          "golf": "9/9: Pebble Beach Golf Links ($755 non-guest) 15-20 min away, with Pacific Grove Golf Links ($66-89, dunes holes by Point Pinos Lighthouse) in town as the alternative.",
+          "weather": "5/5: Monterey July normal high 65.8 F, low 54.4 F, 1.1 rain days (NOAA 1991-2020); fog is common but not a scoring factor."
+        }
+      },
+      "summary": "Strong all-round fit: MRY is about 10 minutes away with a year-round United DEN nonstop, July highs are about 66 F, and Pacific Grove Golf Links plus Pebble Beach cover golf. Lodging works through cottage clusters and inns, not whole houses: Mission Ranch in Carmel (separate cottage plus a 2BR cottage and ground-floor barn rooms, an estimated $1,140-1,500/night, phone booking only) carries the score, Carmel Country Inn (three ground-floor-capable units) is verified at $1,534/night, and Andril's Rancho Reposo shows no availability Jul 4-11 so it now sits in backups beside Yellow House (main house booked for the trip dates). Animals: the best options are kayaking among wild sea otters in Elkhorn Slough and a horseback ride on the Monterey Dunes beach; the Monterey Zoo's tiger/lion feeding tours are the only exotic hands-on option and are unpublished for 2027. Biggest caveat: no option has a confirmed room where all 8 sit at one table.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: Monterey Regional (MRY) is about 10 minutes from Pacific Grove and Monterey and about 15 from Carmel; United flies DEN-MRY year-round (Boeing 737-800s from May 2026); the Bay Area pair can drive (OAK/SFO about 1.75-2 hr) or connect via SFO. Seniors: downtown Pacific Grove (Lighthouse Ave), Cannery Row and the Ocean View Blvd shoreline path are short, mostly level walks. Carmel's Ocean Ave slopes noticeably toward the beach. Mission Ranch has all-ground-floor Main Barn rooms and an ADA cottage. Stairs are not stated for the Pacific Grove houses."
+      },
+      "top_lodging": {
+        "name": "Mission Ranch",
+        "lockoff": true,
+        "nightly_low": 1140,
+        "price_label": "estimate",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "vail-beaver-creek-avon",
+      "name": "Vail / Beaver Creek / Avon, CO",
+      "region": "Colorado Rockies",
+      "type": "land",
+      "tagline": "Gondola rides, goat yoga and creekside strolls in a car-free mountain village",
+      "highlights": [
+        "Gondola rides from Lionshead and Vail Village",
+        "Feed goats or try goat yoga at Vail Stables",
+        "Trail rides through aspen groves above town",
+        "Betty Ford Alpine Gardens and the Sunday farmers' market",
+        "Golf along Gore Creek, 8 minutes from Lionshead",
+        "Free in-town bus and walkable creekside villages"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 76.7,
+        "low_f": 41.6
+      },
+      "hero": {
+        "url": "https://discovervail.com/app/uploads/2026/06/T2D-Hero-3-1800x1201.jpg",
+        "src": "img/eedba1f4dbd59dc0.jpg",
+        "alt": "Summer in Vail",
+        "credit": "Discover Vail",
+        "page": "https://www.discovervail.com/things-to-do/"
+      },
+      "hero_analysis": {
+        "url": "https://discovervail.com/app/uploads/2026/06/T2D-Hero-3-1800x1201.jpg",
+        "src": "../img/eedba1f4dbd59dc0.jpg",
+        "alt": "Summer in Vail",
+        "credit": "Discover Vail",
+        "page": "https://www.discovervail.com/things-to-do/"
+      },
+      "scores": {
+        "lodging": 17,
+        "town_scenery": 16,
+        "animals": 11,
+        "food": 14,
+        "other": 8,
+        "golf": 7,
+        "weather": 4,
+        "total": 77,
+        "rationale": {
+          "lodging": "17/25: rests on Antlers at Vail Unit 104 (3BR/2BA category, first floor on request) plus a separate 1BR + bunk condo, $1,167/night before tax (verified 2026-11-14 and re-read 2026-11-15, Advanced Purchase; $1,351 flexible), well inside the cap; points lost because the gathering room is a 1,400 sq ft condo with table size not stated.",
+          "town_scenery": "16/18: Lionshead and Vail Village are car-free creekside villages under Vail Mountain with flat short walks, joined by a roughly 15-minute path or the free bus; some village streets have gentle grades.",
+          "animals": "11/18: the top two items are guided horseback trail rides (Vail Stables, 8 min, 5+; Beaver Creek Stables, 20 min, 7+), a top-tier activity but with farm animals; below them are goat yoga and goat feeding (touching) and a llama-packed hike (close viewing), with no wild or exotic animal encounter.",
+          "food": "14/15: Discover Vail lists 18 Lionshead restaurants within a few minutes' walk of Antlers, and Michelin-recommended Sweet Basil is about 15 minutes away on foot in Vail Village; reservations are hard in July.",
+          "other": "8/10: gondolas, Betty Ford Alpine Gardens, Sunday farmers' market, 12 spas and mountain biking cover most interests; EGE is 40 min with United DEN service, but the Bay Area pair likely connects or drives from DEN, and no escape room or bingo was confirmed.",
+          "golf": "7/9: public Vail Golf Club (par 71 along Gore Creek with Gore Range views, reopens May 2027) is 8 min away and EagleVail is the alternative; green fees unpublished and Red Sky is a members/resort operation with access not confirmed.",
+          "weather": "4/5: NOAA 1991-2020 July mean high for Vail is 76.7 F (1-2 F over the 75 F target), low 41.6 F, 10 precipitation days."
+        }
+      },
+      "summary": "Lionshead in Vail fits this party well. Condo lodges such as Antlers at Vail and Lion Square Lodge rent separate condos or true lock-off suites in one building, about 150 yards from the gondola and roughly 18 restaurants. The animal options are all domestic animals: guided trail rides at Vail Stables (8 minutes) and Beaver Creek Stables (20 minutes), a llama-packed hike with Paragon Guides, and goat yoga or goat feeding at Vail Stables. The municipal Vail Golf Club along Gore Creek is 8 minutes from Lionshead. Antlers quotes US$1,167/night for the trip dates (3BR + 1BR, advance purchase), well under the cap; most other lodges sell the needed units by phone only. The gathering room is always a condo living room whose table size is not stated. The town also sleeps at about 8,150 ft, which matters for travelers aged 79 and 82, and July highs average 76.7 F with about 10 rain days.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: Eagle County Regional (EGE) is 37 miles from Vail, about 40 minutes by car, with year-round United/United Express service to Denver; DEN itself is about 2 hours by I-70. Seniors: Lionshead and Vail Village are pedestrian villages along Gore Creek with short walks, and the recommended Antlers Unit 104 is on the first floor. Lion Square, Manor Vail and Beaver Creek Lodge do not state elevators or floors. The town sits at about 8,150-8,240 ft; altitude is a health consideration for travelers aged 79 and 82 but not a staircase or walking problem."
+      },
+      "top_lodging": {
+        "name": "Antlers at Vail",
+        "lockoff": true,
+        "nightly_low": 1166.6,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "coeur-d-alene",
+      "name": "Coeur d'Alene, ID",
+      "region": "US mountain",
+      "type": "land",
+      "tagline": "Lake cruises, a floating golf green and big-cat feeding at Cat Tales",
+      "highlights": [
+        "Scenic and dinner cruises leave from the resort dock",
+        "Play the world's only floating golf green",
+        "Feed a tiger or bear at Cat Tales, a sloth at Big Red's",
+        "Sherman Avenue shops and restaurants on flat sidewalks",
+        "Lake views from Tubbs Hill, a short downtown hike",
+        "Roller coasters and a water park 25 minutes away"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 83,
+        "low_f": 57
+      },
+      "hero": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lake_Coeur_d%27Alene_from_Tubbs_Hill_at_Sunset.jpg",
+        "src": "img/473f47d208c35b61.jpg",
+        "alt": "Lake Coeur d'Alene from Tubbs Hill at sunset",
+        "credit": "Natecation, Wikimedia Commons (CC BY-SA 4.0)",
+        "page": "https://commons.wikimedia.org/wiki/File:Lake_Coeur_d'Alene_from_Tubbs_Hill_at_Sunset.jpg"
+      },
+      "hero_analysis": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lake_Coeur_d%27Alene_from_Tubbs_Hill_at_Sunset.jpg",
+        "src": "../img/473f47d208c35b61.jpg",
+        "alt": "Lake Coeur d'Alene from Tubbs Hill at sunset",
+        "credit": "Natecation, Wikimedia Commons (CC BY-SA 4.0)",
+        "page": "https://commons.wikimedia.org/wiki/File:Lake_Coeur_d'Alene_from_Tubbs_Hill_at_Sunset.jpg"
+      },
+      "scores": {
+        "lodging": 15,
+        "town_scenery": 16,
+        "animals": 13,
+        "food": 14,
+        "other": 8,
+        "golf": 8,
+        "weather": 1,
+        "total": 75,
+        "rationale": {
+          "lodging": "15/25: rests on the Sanders Beach duplex, both sides (Vrbo 2183982 + 2183980), verified at US$1,450.33/night (fees included, well inside the cap), with a whole side for Scott & Andrea and a main-floor king for the parents, but stairs to the lower bedrooms, no stated dining seat count and a 10-min walk to Sherman Ave, below the Casago Historic 4BR + Cottage it replaced (that cottage is booked for the trip nights as of 2026-11-15).",
+          "town_scenery": "16/18: flat, walkable lakefront downtown with Sherman Avenue, McEuen Park, City Beach and Tubbs Hill all within about 10 min on foot of the recommended lodging; lake views are a short walk rather than from the house.",
+          "animals": "13/18: the top two are both exotic-animal feeding within 60 min, Cat Tales tiger feeding (8+, 45 min) and a Big Red's Barn sloth or capybara feed-and-pet session (8-10+, 15 min), with Cat Tales bear hand-feeding third; nothing lets the party do an activity with animals, both venues open Thu-Sun only, and the tiger feeding method is not described.",
+          "food": "14/15: well over 10 restaurants on Sherman Avenue and at the resort within about 5-10 min on foot, including Beverly's (7th floor of the resort, 14,000-bottle wine cellar) as the special dinner.",
+          "other": "8/10: Silverwood theme park, zip lines, lake cruises (including Fourth of July cruises), the resort spa and a pottery studio cover teens, crafts and spa; no escape room was found, and GEG is 40 min away but flight routes were not re-verified this pass.",
+          "golf": "8/9: the Coeur d'Alene Resort course with its floating 14th green, boat shuttle and forecaddies, plus Circling Raven (No. 1 public course in Idaho) about 40 min away; green fees are unpublished and non-guest access to the resort course is not stated.",
+          "weather": "1/5: Coeur d'Alene July normal high is 83 F (NOAA 1991-2020 via Current Results), 8 F over the 75 F target, so 20% of the weight; rain is light (0.7 in, 4 wet days)."
+        }
+      },
+      "summary": "A good town pick with bookable lodging. The lodging score now rests on both sides of a Sanders Beach duplex by Tubbs Hill (sharing only a driveway, main-floor king on each side), verified at US$1,450.33/night; Casago's historic 4BR across from McEuen Park plus a 1BR cottage, the better layout, is out because the cottage is booked for the trip nights while later July dates price (2026-11-15). Also bookable: a Fort Grounds 5BR by City Beach with Scott & Andrea in a resort Lake Tower room, verified at US$2,198.67/night; the Sherman Suite house and the historic guest house plus cottage are closed for the dates and sit in the backups. Animals are better than first thought: tiger feeding at Cat Tales (45 min) and sloth or capybara feeding at Big Red's Barn (15 min), both Thu-Sun only. Golf is good (the floating green, and Circling Raven 40 min away), and the NOAA July normal high is 83 F, 8 F over the target.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: Spokane International (GEG) is about 40 min (roughly 35 miles on I-90, map estimate) from downtown Coeur d'Alene, inside the 90-min check. GEG carriers include United, Southwest, Alaska, Delta, American and Allegiant (airport site); DEN nonstops (United, Southwest) come from the earlier pass and were not re-verified, and Bay Area nonstops were not confirmed this pass. Seniors: downtown Coeur d'Alene is a flat lakefront grid (Sherman Ave, McEuen Park, City Park). The lodging score now rests on the Sanders Beach duplex: the parents have the main-floor king on the Vrbo 2183982 side, near Tubbs Hill and about 4 min on foot from McEuen Park; the lower bedrooms are down stairs, and the floors of the full baths and entry steps are not stated on the listing. The Casago Historic 4BR (main-floor king with en-suite) and the Sherman Suite (downstairs queen and bath) are sold out and sit in the backups. Tubbs Hill, Cat Tales and the golf outings are optional."
+      },
+      "top_lodging": {
+        "name": "Sanders Beach duplex, both sides (Vrbo 2183982 + Vrbo 2183980)",
+        "lockoff": true,
+        "nightly_low": 1450.33,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "vancouver-bc",
+      "name": "Vancouver, BC",
+      "region": "Canada",
+      "type": "land",
+      "tagline": "Seawall bike rides, mountain views and Yaletown patio dinners",
+      "highlights": [
+        "Cycle or stroll the flat Stanley Park seawall",
+        "Cross the Capilano Suspension Bridge in the forest",
+        "Feed and walk alpacas at a farm in Langley",
+        "Browse the market and studios on Granville Island",
+        "Dinner on Yaletown patios, a short flat walk away",
+        "July highs around 73 F"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 73,
+        "low_f": 59
+      },
+      "hero": {
+        "url": "https://images.spaicelabs.com/images/flus6j8v/production/1db385380089ca5ec87ca17fe7c1ad878c9b8762-2432x1248.png?rect=318%2C0%2C1797%2C1248&w=3840&fm=webp&q=75&fit=max",
+        "src": "img/aa57d15b100f9d7c.webp",
+        "alt": "Beach park with trees and downtown high-rises",
+        "credit": "Destination Vancouver",
+        "page": "https://www.destinationvancouver.com/things-to-do/"
+      },
+      "hero_analysis": {
+        "url": "https://images.spaicelabs.com/images/flus6j8v/production/1db385380089ca5ec87ca17fe7c1ad878c9b8762-2432x1248.png?rect=318%2C0%2C1797%2C1248&w=3840&fm=webp&q=75&fit=max",
+        "src": "../img/aa57d15b100f9d7c.webp",
+        "alt": "Beach park with trees and downtown high-rises",
+        "credit": "Destination Vancouver",
+        "page": "https://www.destinationvancouver.com/things-to-do/"
+      },
+      "scores": {
+        "lodging": 15,
+        "town_scenery": 15,
+        "animals": 8,
+        "food": 15,
+        "other": 9,
+        "golf": 7,
+        "weather": 5,
+        "total": 74,
+        "rationale": {
+          "lodging": "15/25: rests on Level Yaletown-Seymour (two 1BR suites + a Deluxe 2BR/2BA, US$1,401-1,796/night, verified for Jul 4-10, re-quoted 2026-11-15): each household has its own suite and kitchen and the building has a pool and hot tub, but no private room seats all 8 at a table and the 2BR's two queens leave the teens sharing a bed or the sofa bed.",
+          "town_scenery": "15/18: downtown, Yaletown and the West End are flat and walkable to the False Creek and Stanley Park seawalls with water and mountain views, but it is a big city, not a village.",
+          "animals": "8/18: ranked by what guests do, the top items are a Deep Cove kayak paddle among harbour seals (25 min, 12+, sightings not guaranteed, not for the parents) and a guided horseback trail ride at Glen Valley Stables (about 55 min, 6+, Tue-Sun), then alpaca feeding and walks at Kensington Prairie Farm (55 min, Fri-Sun); the only hands-on options are farm animals, which keeps the category in the lower half; whale watching (2027 dates unconfirmed) and the Grouse grizzly add viewing, and the Aquarium seal encounter (14+, excludes Aubrey) and the sold-out sea otter encounter do not count.",
+          "food": "15/15: more than 10 restaurants within an 8-minute flat walk of Level Seymour on Granville St and in Yaletown (Destination Vancouver lists 20 in Yaletown), with Blue Water Cafe about 6 minutes away for the special dinner.",
+          "other": "9/10: Capilano bridges, seawall bikes, an outdoor escape game, Granville Island shopping and Science World cover teens, parents and rain; DEN and SFO nonstops and a 30-min transfer, with passports needed.",
+          "golf": "7/9: Furry Creek on Howe Sound (about 40 min) is the scenic pick, University Golf Club (20 min) the alternative; July green fees are unconfirmed and University GC is mid-renovation.",
+          "weather": "5/5: July normal high about 73 F (at or under the 75 F target) with about 7 rain days."
+        }
+      },
+      "summary": "Vancouver is a strong all-rounder: a flat, walkable downtown and West End by False Creek, Stanley Park and English Bay, dozens of restaurants on foot, two public courses within 40 minutes, typical July highs around 73 F, and nonstop flights from Denver and SFO. Provincial and city short-term rental rules leave no legal whole house with a guest suite in the city, so the workable setup is three separate suites in one apartment hotel. The best bookable one is Level Yaletown-Seymour, verified at US$1,401-1,796/night for Jul 4-10 with a pool and hot tub; Carmana Hotel & Suites downtown is verified at US$1,413/night and gives the teens twin beds; La Grande Residence is verified at US$1,755. Each household gets its own door, but no room seats all 8 at one table. The biggest caveat is animals: the two hands-on options are farm animals about 55 minutes away (a horseback trail ride in Langley, Tue-Sun, and alpaca feeding and walks, Fri-Sun), with a Deep Cove kayak paddle among harbour seals as the best wildlife outing; the Aquarium seal encounter is 14+ and the sea otter encounter is sold out indefinitely. Passports are required.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: YVR is about 30 min by car from downtown (Canada Line train also runs to Yaletown-Roundhouse and Waterfront); nonstops from DEN (United, Air Canada) and SFO, so it passes. Seniors: the recommended Level Yaletown-Seymour is a high-rise at 1022 Seymour St (elevator not stated in the listings read, but suites above ground level are reached by lift in a tower this size; confirm); Granville St restaurants are 1-3 min and Yaletown's Hamilton/Mainland streets 5-8 min on flat sidewalks, the False Creek seawall about 10 min. The West End options (Lord Stanley Suites; backup Times Square Suites) are flatter still to English Bay and Stanley Park. Capilano and Grouse involve stairs and trails, but those are optional for the parents. Passes."
+      },
+      "top_lodging": {
+        "name": "Level Vancouver Yaletown-Seymour",
+        "lockoff": true,
+        "nightly_low": 1401,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "whitefish",
+      "name": "Whitefish, MT",
+      "region": "US mountain",
+      "type": "land",
+      "tagline": "Llama walks, Glacier drives and ice cream on Central Avenue",
+      "highlights": [
+        "Hand-feed goats and alpacas on a Glacier-side farm",
+        "Lead a llama on a ranch walk",
+        "Horseback rides inside Glacier National Park",
+        "Zip lines, alpine slide and chairlift on Big Mountain",
+        "36 holes of golf a few minutes from downtown",
+        "Daily nonstop flight from Denver, 20 minutes to town"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 81,
+        "low_f": 50
+      },
+      "hero": {
+        "url": "https://cdn.elebase.io/7dd4f748-a5bf-4d04-b851-d367f4d396e5/8be3c02c-a6ea-486a-a073-f85c64b2b8a1-whitefish-autumn0dji_0261---schott-2-crop.jpg",
+        "src": "img/e8b391aa76545a12.jpg",
+        "alt": "Aerial view of Whitefish, the lake and Big Mountain (autumn)",
+        "credit": "Explore Whitefish",
+        "page": "https://explorewhitefish.com/"
+      },
+      "hero_analysis": {
+        "url": "https://cdn.elebase.io/7dd4f748-a5bf-4d04-b851-d367f4d396e5/8be3c02c-a6ea-486a-a073-f85c64b2b8a1-whitefish-autumn0dji_0261---schott-2-crop.jpg",
+        "src": "../img/e8b391aa76545a12.jpg",
+        "alt": "Aerial view of Whitefish, the lake and Big Mountain (autumn)",
+        "credit": "Explore Whitefish",
+        "page": "https://explorewhitefish.com/"
+      },
+      "scores": {
+        "lodging": 18,
+        "town_scenery": 15,
+        "animals": 9,
+        "food": 13,
+        "other": 9,
+        "golf": 8,
+        "weather": 2,
+        "total": 74,
+        "rationale": {
+          "lodging": "18/25: rests on the Stay Montana O'Brien trio (Penthouse West 3BR + View 2BR + Loft 2BR) at US$2,304/night before tax (verified 2026-11-15 for 2027-07-04/10, inside the US$2,800 cap); each household has its own single-level condo in an elevator building, but the indoor table seats 6 plus bar stools and the rooftop fire pit is shared with the building.",
+          "town_scenery": "15/18: downtown Whitefish is a flat, walkable grid with Big Mountain views and the lake about 20 min on foot from the O'Brien condos; the town core is small and views from the condos are partial (Big Mountain balcony on the Loft).",
+          "animals": "9/18: the top two are activities with domestic animals, guided horseback rides in Glacier (Swan Mountain, operating in July) and a llama pack trek (Great Northern Llama Co., 2027 schedule unpublished), backed by goat and alpaca hand-feeding at Goats of Glacier; with no wild or exotic animal program within 60 min the category stays in the lower half.",
+          "food": "13/15: well over 10 restaurants on and around Central Avenue within a short walk (Tupelo Grille, Abruzzo, Latitude 48, Buffalo Cafe, Loula's), though the standout special dinner, Cafe Kandahar, is a 20-min drive up the mountain.",
+          "other": "9/10: zip lines, alpine slide and aerial park on Big Mountain for the teens, Glacier National Park scenery for the parents, an escape room in Kalispell, daily DEN nonstop and a seasonal SFO nonstop with a 20-min transfer.",
+          "golf": "8/9: Whitefish Lake Golf Club, 36 public holes in town (US$100-112 peak in 2026), plus Eagle Bend in Bigfork about 45 min away; scenic but not a destination course on the level of a Banff Springs.",
+          "weather": "2/5: Whitefish July normal high is 81 F (NOAA 1991-2020 via Current Results), 6 F over the 75 F target, so 40% of the weight; rain is light (about 1.2 in for the month)."
+        }
+      },
+      "summary": "Solid pick with a workable lodging answer: Stay Montana manages three condos (3BR + 2BR + 2BR) in the O'Brien building downtown, with an elevator, a shared rooftop fire pit and Central Avenue a couple of blocks away, at a quoted US$2,304/night before tax; Stay Montana's Whitefish Nest 3BR + Modern Loft 1BR is the low-cost alternative at a quoted US$1,118/night, and a second downtown trio (two penthouses with private hot tubs plus a 2BR with a table for 8) is estimated at US$1,704-1,854/night because the Downtown Penthouse has no July 2027 dates open yet. Animals are domestic only: guided horseback rides in Glacier (Swan Mountain), llama treks and Clydesdale rides, and hand-feeding goats at Goats of Glacier; there is no wildlife or exotic-animal program within 60 min. Whitefish Lake Golf Club is in town, FCA is 20 min away with a daily United DEN nonstop and a seasonal SFO one. The single biggest caveat is heat: the July normal high is 81 F (NOAA 1991-2020), 6 F over the target.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: Glacier Park International (FCA) is about 20 min from downtown Whitefish (map estimate), inside the 90-min check. FCA has a daily United DEN nonstop, a seasonal United SFO nonstop and a seasonal Allegiant OAK nonstop (airport route list); SMF connects. Seniors: downtown Whitefish (Central Ave, 2nd-3rd St) is a flat grid; the O'Brien building has an elevator to all three floors and all three condos are single-level per the manager. In the second downtown trio the parents' Whitefish Downtown Loft is a second-floor condo with elevator access and all rooms on one level; The Whitefish Nest lists all bedrooms and baths on the main level (a 'main level stairway' photo caption is unexplained). The Lodge at Whitefish Lake homes (#7, #15, now backups, sold out) are one level. Stairs are an issue only in the Grouse Mountain Loft Suite, the Downtown Luxury Escape upper level and the Bear Tracks Flat (one flight from the building door, backup), which are flagged where the parents are assigned."
+      },
+      "top_lodging": {
+        "name": "Stay Montana",
+        "lockoff": true,
+        "nightly_low": 2304,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "girdwood-anchorage",
+      "name": "Girdwood / Anchorage, AK",
+      "region": "Alaska",
+      "type": "land",
+      "tagline": "Moose feeding, glacier dog sleds and tram rides in an Alaska mountain valley",
+      "highlights": [
+        "Hand-feed a moose at the wildlife center",
+        "Helicopter to a glacier and a dog sled team",
+        "Alyeska tram to dinner at 2,300 feet",
+        "Five-hour glacier cruise from Whittier",
+        "Anchorage Golf Course with Denali views",
+        "Long July daylight for evening outings"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 64,
+        "low_f": 49
+      },
+      "hero": {
+        "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1600xAUTO_crop_center-center_65_none/DJI_0004-alaska-hotel-alyeska-girdwood.jpg",
+        "src": "img/c8c8922cdceac9cc.jpg",
+        "alt": "Aerial view of Hotel Alyeska and the Girdwood valley below Mount Alyeska",
+        "credit": "Alaska.org / Alyeska Resort",
+        "page": "https://www.alaska.org/detail/hotel-alyeska"
+      },
+      "hero_analysis": {
+        "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1600xAUTO_crop_center-center_65_none/DJI_0004-alaska-hotel-alyeska-girdwood.jpg",
+        "src": "../img/c8c8922cdceac9cc.jpg",
+        "alt": "Aerial view of Hotel Alyeska and the Girdwood valley below Mount Alyeska",
+        "credit": "Alaska.org / Alyeska Resort",
+        "page": "https://www.alaska.org/detail/hotel-alyeska"
+      },
+      "scores": {
+        "lodging": 16,
+        "town_scenery": 10,
+        "animals": 17,
+        "food": 7,
+        "other": 8,
+        "golf": 5,
+        "weather": 4,
+        "total": 67,
+        "rationale": {
+          "lodging": "16/25: rests on the Vacasa Girdwood Estate / Monarch duplex at US$1,727-1,868/night including fees (verified 2026-11-15 for 2027-07-04/2027-07-10: US$1,727 booking Casago's lower and upper units, US$1,868 on Vacasa; inside the cap): Scott & Andrea take the upper unit, the parents and Ryan's family the step-free lower unit with its own ground-floor entrance, with a hot tub, fire pit and big deck; points off because seat counts and stairs to the upper unit are not stated and the lower-level entrance comes from Casago's listing of what appears to be the same property.",
+          "town_scenery": "10/18: glacier-and-peak scenery from every lodging and Turnagain Arm on the drive in, but no walkable village core; the resort base and the townsite are about 2.5 miles apart and the parents would drive between them.",
+          "animals": "17/18: the top two items both stand during the stay within 20 min: Alpine Air glacier dog sledding, where guests ride behind or drive a dog team (activity with animals, the top tier), and AWCC hand-feeding of a moose (feeding a large wild animal, all ages); Alaska Zoo bear/moose feedings (9+) back them up; minus 1 because the sledding depends on helicopter weather and 2027 schedules are not yet published.",
+          "food": "7/15: no option has 10 restaurants on foot: from the resort-base condos the Bake Shop, Jack Sprat and La Bodega are a short walk (guest review), from AlohAlaska Girdwood Izakaya, Chair 5 and the brewery, and from the recommended Monarch estate only Girdwood Station's coffee, pizza and bakery; Hotel Alyeska, the one stay with about 6 places on foot, is booked for the dates.",
+          "other": "8/10: tram, bike park, glacier cruise from Whittier and gold panning for the teens, the adults-only Nordic Spa (18+) for the adults and parents, and United DEN and Alaska SFO nonstops with a 45-50 min transfer; no escape room or shopping street in Girdwood.",
+          "golf": "5/9: Anchorage Golf Course, a municipal public 18 with Denali and Cook Inlet views about 40 min away (about $65-84), but no course in Girdwood, and the only alternative, Moose Run, sits on JBER (about 60 min) and needs base access vetting (civilian policy unconfirmed).",
+          "weather": "4/5: Girdwood July normal high about 64 F (below 75 F), minus 1 because about 13 of 31 July days are wet and skies are mostly cloudy 69% of the time."
+        }
+      },
+      "summary": "Girdwood is the strongest animal destination on the list: Alpine Air helicopter glacier dog sledding from the Girdwood airstrip (ride or drive the team, about $784 per person), AWCC moose hand-feeding (all ages, 20 min) and Alaska Zoo feedings (9+, 45 min) all run in early July, with 64/49 F July weather. Lodging has real lock-off options with quotes for July 4-10 inside the cap: the Vacasa/Casago Monarch estate duplex ($1,727-1,868/night with fees, before tax) puts the parents and Ryan's family in a step-free lower level with its own ground-floor entrance and Scott & Andrea in the upper unit with the hot tub and deck; the AlohAlaska Lodge splits into three units near the townsite ($1,474/night) and the St. Moritz compound pairs a house with a studio ($750/night). The biggest caveat is the town: there is no walkable village core, the resort and the townsite are about 2.5 miles apart and Girdwood has under ten restaurants. Hotel Alyeska (the only step-free, walk-to-dinner hotel) and Wendy's chalet are booked for the dates and now sit in the backups. Golf is a 40-min drive to the municipal Anchorage Golf Course.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: ANC (Ted Stevens Anchorage International) to Girdwood is about 40 miles on the Seward Highway, about 45-50 min (passes the 90-min check). DEN has United nonstops (3 daily, 4 daily in peak weeks, in summer 2026); the Bay Area pair has Alaska Airlines summer nonstops from SFO and a 1-2x weekly SMF nonstop (2026 pattern); OAK connects via SEA. 2027 schedules are not yet published. Seniors: passes narrowly. Hotel Alyeska (the step-free, walk-to-dinner option) is booked for the dates (price-checker 2026-11-14), so the pass now rests on the lower level of the Monarch estate duplex (Vacasa 95240 / Casago 1039779), which Casago lists with 'a private ground-floor entrance' and 'step-free access' for its three bedrooms, and on the flat valley floor and paved Bird-to-Gird / Alyeska Highway paths. The gathering space there (upper unit, hot tub deck) is up a level; stairs to it are not stated. Every other rental involves stairs: AlohAlaska is a two-level duplex, the St. Moritz compound is a three-storey hillside house with a steep driveway, and the Slopeside B-4 townhome is three floors. There is no village core to stroll; the resort base and the townsite are about 2.5 miles apart."
+      },
+      "top_lodging": {
+        "name": "Vacasa Girdwood Estate",
+        "lockoff": true,
+        "nightly_low": 1727,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    },
+    {
+      "slug": "south-lake-tahoe",
+      "name": "Lake Tahoe (South Lake / Incline), CA/NV",
+      "region": "US mountain",
+      "type": "land",
+      "tagline": "Gondola rides, lake beaches and a celebrity golf tournament",
+      "highlights": [
+        "Gondola ride to a 9,123-foot lookout over the lake",
+        "Watch the American Century celebrity golf, July 7-11",
+        "Beaches, kayaking and paddleboarding on the lake",
+        "Trail rides through the forest by the shore",
+        "Paddlewheeler cruise to Emerald Bay",
+        "Village restaurants and casino dining on foot"
+      ],
+      "trip_weather": {
+        "month": "July",
+        "high_f": 80.4,
+        "low_f": 42.5
+      },
+      "hero": {
+        "url": "https://visitlaketahoe.com/wp-content/uploads/2020/11/Boating-on-Lake-Tahoe-1024x682.jpg",
+        "src": "img/995475dcd9c07269.jpg",
+        "alt": "Boats on Lake Tahoe with mountains behind",
+        "credit": "Visit Lake Tahoe",
+        "page": "https://visitlaketahoe.com/things-to-do/"
+      },
+      "hero_analysis": {
+        "url": "https://visitlaketahoe.com/wp-content/uploads/2020/11/Boating-on-Lake-Tahoe-1024x682.jpg",
+        "src": "../img/995475dcd9c07269.jpg",
+        "alt": "Boats on Lake Tahoe with mountains behind",
+        "credit": "Visit Lake Tahoe",
+        "page": "https://visitlaketahoe.com/things-to-do/"
+      },
+      "scores": {
+        "lodging": 17,
+        "town_scenery": 13,
+        "animals": 7,
+        "food": 13,
+        "other": 8,
+        "golf": 7,
+        "weather": 2,
+        "total": 67,
+        "rationale": {
+          "lodging": "17/25: rests on Zalanta Resort at the Village, a 3BR + 2BR in one elevator building across US-50 from Heavenly Village (verified $1,913-2,733/night before tax, Jul 4-10, 2027, re-quoted 2026-11-15; Forest Suites' three suites are verified cheaper at $1,320-1,613 but share only a suite living room), with a separate residence for Scott & Andrea; points lost because the gathering room is the 3BR's living room with table seats not stated, the parents share a residence with Ryan's family, and the top rate is near the cap.",
+          "town_scenery": "13/18: Heavenly Village is flat, walkable and at the gondola with the lake nearby, but it is a resort plaza beside US-50 and the Stateline casinos rather than a historic town, and lake views from the lodging are not stated.",
+          "animals": "7/18: the top two are Camp Richardson Corral trail rides (reopen May 2027, no minimum age listed) and Zephyr Cove Stables (7+, Apr 1-Oct 31), both riding on horses, the farm-animal tier; a Tahoe Sportfishing lake charter (all ages, daily) is third because catching a fish is handling an animal, not an activity with it; there is no feeding, hosted encounter or exotic/large-wild option within 60 minutes (Animal Ark's keeper-led Meet and Greets are 105 minutes away, weekends only), so the score stays in the lower half.",
+          "food": "13/15: village restaurants plus the Harrah's and Caesars Republic restaurants (Sage Room, Hell's Kitchen, Sapori, El Jefe's, Brew Brothers and others) are within about a 10-minute flat walk of Zalanta, but Friday's Station is temporarily closed and the village restaurants were not listed venue by venue.",
+          "other": "8/10: gondola, mountain coaster, zip line, kayaks, escape rooms, an Emerald Bay paddlewheeler and the American Century Championship as spectators cover teens and parents, and Denver has three nonstops to RNO, but RNO is 75 minutes away and OAK/SMF have no RNO nonstop.",
+          "golf": "7/9: Edgewood Tahoe hosts the American Century Championship Jul 7-11, 2027 and takes no public tee times that week, so the scenic round is Incline Village Championship (lake views, about 50 minutes, $242-263 in 2026) with Lake Tahoe Golf Course in Meyers ($54-108) as the alternative.",
+          "weather": "2/5: July normal high is 80.4 F at Lake Tahoe Airport (1991-2020), 5 F over the 75 F target (40%), with only 2.1 rain days."
+        }
+      },
+      "summary": "South Lake Tahoe works for lodging through two Heavenly Village options bookable for July 4-10: Zalanta, a 3BR + 2BR pair verified at $1,913-2,733/night before tax, a 4-minute walk across US-50 to the village, and Forest Suites at the gondola, a 2BR + two 1BR suites verified at $1,320-1,613/night with breakfast but no large shared room. The Landing (lakefront 3BR suite + two rooms) and Margaritaville are sold out for the dates, and Edgewood, Timber Lodge and Grand Residence are sold out and sit in the backups. Golf is hit by the American Century Championship at Edgewood Tahoe (July 7-11, 2027), which closes that course to public play for most of the stay, so the scenic round is Incline Village's Championship Course, about 50 minutes away. Animals are weak: a lake fishing charter and two horseback stables are the only hands-on options, with no feeding or wildlife encounter within 60 minutes. Biggest caveat: July 4 plus the tournament make this the most crowded, most expensive week of the Tahoe summer, and July highs average about 80 F, above the 75 F target.",
+      "hard_constraints": {
+        "airport": true,
+        "seniors": true,
+        "notes": "Airport: Reno-Tahoe (RNO) is about 75 minutes by car (figure from the earlier pass, not re-timed), under the 90-minute limit. RNO has nonstops to Denver (United, Southwest, Frontier) and to SFO (United). Seniors: Heavenly Village is a flat pedestrian plaza. Zalanta states an elevator (one listing: 2nd floor, no steps) and Timber Lodge lists one; Forest Suites' elevator appears only on an aggregator; Edgewood villa levels are not stated. The Stateline casino restaurants are a flat sidewalk walk along US-50. The town sits at 6,237 ft. Emerald Bay/Vikingsholm and the gondola-top hikes are steep and optional."
+      },
+      "top_lodging": {
+        "name": "Zalanta Resort at the Village",
+        "lockoff": true,
+        "nightly_low": 1913,
+        "price_label": "verified",
+        "stale": false,
+        "over_cap": false
+      },
+      "stale": {
+        "stale": false,
+        "dates_differ": false,
+        "researched_for": {
+          "check_in": "2027-07-04",
+          "check_out": "2027-07-10",
+          "display": "Jul 4–10, 2027"
+        },
+        "trip_display": "Jul 4–10, 2027",
+        "stale_prices": 0,
+        "stale_price_names": [],
+        "disagreements": [],
+        "check_disagreements": [],
+        "messages": []
+      }
+    }
+  ]
+}

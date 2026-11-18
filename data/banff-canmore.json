@@ -1,0 +1,1624 @@
+{
+  "slug": "banff-canmore",
+  "name": "Banff / Canmore, AB",
+  "region": "Canadian Rockies",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "Strong all-round pick: base in Canmore, where Spring Creek Vacations can put each household in its own condo in one building, a flat walk from Main Street restaurants, at a quoted US$1,448-1,892/night for the trip dates (unit 213 is taken; sister 3BR 110 TM quoted). Hands-on animals mean doing something with dogs and horses (riding in a husky-pulled cart, trail rides at Boundary Ranch or Banff Trail Riders); wild animals are viewing only. Golf is excellent (Stewart Creek and Silvertip under 10 min, Banff Springs 25 min), and July normals are 71/45 F with about 16 wet days. The biggest caveat is the gathering room and depth of choice: the Spring Creek split's gathering room is a 3BR living room with an unstated table size, the five big-room options are booked for July 4 check-in and sit in backups, Stoneridge and Basecamp have no 3BR left for the dates, and the only other option quoted as available is Blackstone Mountain Lodge (2BR + two 1BR suites, US$1,303-1,629/night, a small 2BR living room as the gathering room).",
+  "images": {
+    "hero": {
+      "url": "https://banfflakelouise.bynder.com/m/526b3589b1182f83/1000x540_jpg-2019_BanffTownsite_Aerial_BrandonLam.jpg",
+      "page_url": "https://www.banfflakelouise.com/",
+      "credit": "Banff & Lake Louise Tourism / Brandon Lam",
+      "alt": "Aerial view of the Banff townsite and surrounding peaks",
+      "src": "img/7ad1515bb8ff044e.jpg"
+    },
+    "gallery": [
+      {
+        "url": "https://banfflakelouise.bynder.com/asset/e9d00674-956e-4d72-9856-dce66fd7d037/1500x915_jpg/2025_Peyto-Lake_Summer_-Bryan-Peters-Photography.jpg",
+        "page_url": "https://www.banfflakelouise.com/",
+        "credit": "Banff & Lake Louise Tourism / Bryan Peters Photography",
+        "alt": "Peyto Lake in summer, Icefields Parkway",
+        "src": "img/44fea9c5bddcdd86.jpg"
+      },
+      {
+        "url": "https://www.banffjaspercollection.com/Brewster/media/Images/Attractions/Banff-Gondola/MBN-Gondola-Top.jpg?ext=.jpg",
+        "page_url": "https://www.banffjaspercollection.com/attractions/banff-gondola/",
+        "credit": "Banff Jasper Collection by Pursuit",
+        "alt": "Banff Gondola summit on Sulphur Mountain",
+        "src": "img/e923ea6a865064b8.jpg"
+      },
+      {
+        "url": "https://www.snowyowltours.com/wp-content/uploads/2021/08/Summer-Carting-_26-027.jpg",
+        "page_url": "https://www.snowyowltours.com/",
+        "credit": "Snowy Owl Sled Dog Tours",
+        "alt": "Huskies pulling a summer dog cart at Boundary Ranch",
+        "src": "img/83582eaa223f5217.jpg"
+      },
+      {
+        "url": "https://www.canmorecavetours.com/templates/yootheme/cache/e9/cavers-in-grotto-rats-nest-cave-e9a5326e.jpeg",
+        "page_url": "https://www.canmorecavetours.com/",
+        "credit": "Canmore Cave Tours",
+        "alt": "Cavers in the Grand Gallery of Rat's Nest Cave",
+        "src": "img/2fb1fd45e520fe9b.jpg"
+      },
+      {
+        "url": "https://cdn.prod.website-files.com/6007167e74a8b24ad2b98eb9/600b237f6d9a4ec794bbe3fc_yamnuska-hero-image.jpg",
+        "page_url": "https://www.yamnuskawolfdogsanctuary.com/",
+        "credit": "Yamnuska Wolfdog Sanctuary",
+        "alt": "Wolfdog at Yamnuska Wolfdog Sanctuary",
+        "src": "img/7edffd568436d4ff.jpg"
+      }
+    ]
+  },
+  "brochure": {
+    "tagline": "Mountain views, husky carts, horse rides and Main Street dinners",
+    "intro": "Base in Canmore and walk to Main Street for dinner, then drive 25 minutes for Banff's gondola and lake cruises. Days can mix husky dog carts, trail rides and golf with easy strolls. Bring passports; everyone needs one.",
+    "highlights": [
+      "Ride in a husky-pulled cart through the forest",
+      "Guided horseback rides near Canmore and Banff",
+      "Banff Gondola to the top of Sulphur Mountain",
+      "Golf under the Three Sisters or at Banff Springs",
+      "Flat walks to Main Street cafes and restaurants",
+      "Lake Minnewanka boat cruise in the mountains"
+    ],
+    "pros": [
+      "Canmore is only about 76 minutes from Calgary airport",
+      "Husky cart rides and horse trail rides within 25 minutes",
+      "Two excellent golf courses within 25 minutes",
+      "Cool July highs, around 71 F",
+      "Flat, walkable town centre with mountain views"
+    ],
+    "cons": [
+      "Passports needed for everyone",
+      "Showers are common in July, about half the days",
+      "Dog carting stops on hot days, so book an early morning",
+      "Rental cars needed for Banff, Kananaskis and golf"
+    ],
+    "stays": [
+      {
+        "name": "Spring Creek Vacations: Timberstone 3BR Premier + two 1BR condos",
+        "blurb": "Three condos in one Canmore building, a short flat walk from Spring Creek and Main Street. Each has its own kitchen and gas fireplace.",
+        "highlights": [
+          "Full kitchens and gas fireplaces",
+          "Balconies with grills in the 1BR condos",
+          "Heated underground parking",
+          "About 5 minutes on foot to Spring Creek restaurants"
+        ]
+      },
+      {
+        "name": "Blackstone Mountain Lodge: 2BR suite + two 1BR suites, Canmore",
+        "blurb": "Condo-style suites in one Canmore lodge, with an outdoor pool and hot tubs for after a day out.",
+        "highlights": [
+          "Outdoor pool and hot tubs",
+          "Full kitchens and fireplaces",
+          "In-suite laundry",
+          "Balconies, with mountain views from the 1BR Mountain View suite"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Husky dog cart ride",
+        "kind": "animals",
+        "blurb": "Ride along in a wheeled cart pulled by a husky team through the forest at Boundary Ranch, about 25 minutes away. Ages 5 and up; mornings only, and only when it is cooler than 25 C.",
+        "url": "https://www.snowyowltours.com/",
+        "image": {
+          "url": "https://www.snowyowltours.com/wp-content/uploads/2021/08/Summer-Carting-_26-027.jpg",
+          "page_url": "https://www.snowyowltours.com/",
+          "credit": "Snowy Owl Sled Dog Tours",
+          "alt": "Husky team pulling a summer dog cart",
+          "src": "img/83582eaa223f5217.jpg"
+        }
+      },
+      {
+        "name": "Trail ride at Boundary Ranch",
+        "kind": "animals",
+        "blurb": "Guided horseback rides of 1 to 2 hours in Kananaskis Country, about 25 minutes away. Ages 6 and up, and each rider handles their own horse.",
+        "url": "https://explorekananaskis.com/?p=16440"
+      },
+      {
+        "name": "Bow River trail ride from Banff",
+        "kind": "animals",
+        "blurb": "A one-hour guided horseback ride along the Bow River, leaving from the stables on Sundance Road in Banff. Ages 8 and up; a wagon ride with a cookout is also offered.",
+        "url": "https://horseback.com/"
+      },
+      {
+        "name": "Yamnuska Wolfdog Sanctuary intro tour",
+        "kind": "animals",
+        "blurb": "A guided talk from a viewing platform inside a wolfdog enclosure, about 50 minutes away. Ages 10 and up; open Thursday to Monday.",
+        "url": "https://www.yamnuskawolfdogsanctuary.com/",
+        "image": {
+          "url": "https://cdn.prod.website-files.com/6007167e74a8b24ad2b98eb9/600b237f6d9a4ec794bbe3fc_yamnuska-hero-image.jpg",
+          "page_url": "https://www.yamnuskawolfdogsanctuary.com/",
+          "credit": "Yamnuska Wolfdog Sanctuary",
+          "alt": "Wolfdog at Yamnuska Wolfdog Sanctuary",
+          "src": "img/7edffd568436d4ff.jpg"
+        }
+      },
+      {
+        "name": "Golf at Stewart Creek or Banff Springs",
+        "kind": "golf",
+        "blurb": "Stewart Creek is under 10 minutes from the condos, with mountain views on every hole. The 1928 Banff Springs course sits below Mount Rundle, 25 minutes away.",
+        "url": "https://www.banff-springs-hotel.com/play/golf-course/"
+      },
+      {
+        "name": "Banff Gondola",
+        "kind": "outdoors",
+        "blurb": "Ride to the summit of Sulphur Mountain for big views, a boardwalk, coffee and lunch. Easy to enjoy from the summit building.",
+        "url": "https://www.banffjaspercollection.com/attractions/banff-gondola/",
+        "image": {
+          "url": "https://www.banffjaspercollection.com/Brewster/media/Images/Attractions/Banff-Gondola/MBN-Gondola-Top.jpg?ext=.jpg",
+          "page_url": "https://www.banffjaspercollection.com/attractions/banff-gondola/",
+          "credit": "Banff Jasper Collection by Pursuit",
+          "alt": "Banff Gondola summit on Sulphur Mountain",
+          "src": "img/e923ea6a865064b8.jpg"
+        }
+      },
+      {
+        "name": "Lake Minnewanka cruise",
+        "kind": "outdoors",
+        "blurb": "A boat tour on the largest lake in Banff National Park. The 2027 season runs May 7 to October 11, weather permitting.",
+        "url": "https://www.banffjaspercollection.com/attractions/banff-lake-cruise/",
+        "image": {
+          "url": "https://www.banffjaspercollection.com/Brewster/media/Images/Attractions/Lake-Minnewanka-Cruise/MBN-LMC-Cruise-Mountains-Sun-Glow.jpg?ext=.jpg",
+          "page_url": "https://www.banffjaspercollection.com/attractions/banff-lake-cruise/",
+          "credit": "Banff Jasper Collection by Pursuit",
+          "alt": "Lake Minnewanka cruise boat with mountains in the sun",
+          "src": "img/bb66f36471982a56.jpg"
+        }
+      },
+      {
+        "name": "Rat's Nest Cave tour",
+        "kind": "rainy day",
+        "blurb": "A guided wild-cave trip under Grotto Mountain for ages 10 and up. Good on a wet day, and about 5 minutes from Canmore.",
+        "url": "https://www.canmorecavetours.com/",
+        "image": {
+          "url": "https://www.canmorecavetours.com/templates/yootheme/cache/e9/cavers-in-grotto-rats-nest-cave-e9a5326e.jpeg",
+          "page_url": "https://www.canmorecavetours.com/",
+          "credit": "Canmore Cave Tours",
+          "alt": "Cavers in the Grand Gallery of Rat's Nest Cave",
+          "src": "img/2fb1fd45e520fe9b.jpg"
+        }
+      },
+      {
+        "name": "Main Street shops and museum",
+        "kind": "town",
+        "blurb": "A few flat blocks of galleries, outdoor shops and cafes on 8th Street, with the Canmore Museum on the same strip.",
+        "url": "https://www.explorecanmore.ca/things-to-do"
+      },
+      {
+        "name": "Brewpubs, bagels and Brazilian steak",
+        "kind": "food",
+        "blurb": "Canmore's Main Street has a long-running brewpub, a churrascaria and a bagel shop for easy group meals.",
+        "url": "https://www.explorecanmore.ca/things-to-do/dining-nightlife/"
+      }
+    ],
+    "dinner_spots": [
+      "Crazyweed Kitchen: seasonal menu for the special night out",
+      "Rocky Mountain Flatbread Co.: wood-fired flatbreads, easy for a big group",
+      "Gaucho Brazilian Steakhouse: table-side meats on Main Street",
+      "Grizzly Paw Brewing Co.: Main Street brewpub with pub food"
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: YYC to Canmore about 76 min (passes the 90-min check); Banff townsite is about 96 min, so the Banff lodging options sit outside the 90-min line while the Canmore options are inside. DEN has United/WestJet nonstops; SFO has United/WestJet nonstops; OAK/SMF connect. Seniors: downtown Canmore (Main Street, Spring Creek) and Banff Avenue are flat valley-floor grids; the recommended condo split can put Sam & Karen in a ground-floor (100-series) unit, though the elevator is not stated. Stoneridge Mountain Resort states elevator access to all floors. The Black Bear Chalet and Timberstone townhouse involve stairs and should not be the parents' unit."
+  },
+  "scores": {
+    "lodging": 17,
+    "town_scenery": 16,
+    "animals": 13,
+    "food": 13,
+    "other": 8,
+    "golf": 9,
+    "weather": 4,
+    "total": 80,
+    "rationale": {
+      "lodging": "17/25: rests on Spring Creek Timberstone 3BR (110 TM) + two 1BR condos at US$1,448-1,892/night (verified 2026-11-15, inside the cap); each household has its own condo, but the gathering room is a condo living room with table size and elevator not stated.",
+      "town_scenery": "16/18: Canmore's Main Street and Spring Creek are flat and walkable with Three Sisters and Ha Ling views from the streets; Banff Avenue is 25 min away for a second town day.",
+      "animals": "13/18: the top two both have guests doing something with the animals in July within 25 min (riding a husky-pulled cart with Snowy Owl, 5+, mornings below 25 C only; Boundary Ranch trail rides, 6+), but the animals are dogs and horses, and wild animals are viewing or a facility tour only (Yamnuska Intro 10+, its Interactive Tour 15+ excludes Aubrey; evening wildlife safari).",
+      "food": "13/15: more than 10 restaurants within about 10-12 min walk of Spring Creek, including Crazyweed for the special dinner; walk times are map estimates, not measured.",
+      "other": "8/10: cave tour, rafting, gondola and outdoor clue games for teens, gondola and views for the parents, hotel spa options; DEN and SFO nonstops to YYC but a 76-min drive, passports and park passes.",
+      "golf": "9/9: Fairmont Banff Springs Stanley Thompson 18 (public tee times, about C$270-330 peak) 25 min away, plus Stewart Creek under 10 min.",
+      "weather": "4/5: Banff July normal high 71 F (below 75 F), minus 1 because about 16 of 31 July days have precipitation."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Spring Creek Vacations: Timberstone 3BR Premier + two 1BR condos",
+      "kind": "3 condos in one building (3BR + 1BR + 1BR)",
+      "quick_verdict": "Three self-contained condos in one Canmore building, a short flat walk to Main Street.",
+      "configuration": "Timberstone Mountain Lodge, Spring Creek, Canmore (managed by Spring Creek Vacations, which lists about 20 Timberstone units). Unit 213 3BR Premier: 3 bedrooms (2 king, 1 queen), 3 bathrooms (ensuite arrangement not stated), sofa bed, gas fireplace, dining area, gourmet kitchen, private balcony, laundry. 1BR condos in the same building (e.g. 307, 311, 305, 211; ground-floor 105, 106, 107, 108): king bedroom, sofa bed, full kitchen, gas fireplace, glass shower, stacked washer/dryer, balcony with grill. Floor of each unit not stated by the manager (unit numbers suggest 100 = ground, 200/300 upper). Elevator not stated on the manager's pages. Heated underground parking and a locked storage cage per third-party listings. Dining-table seat count not stated; the gathering room is the 3BR living/dining area (likely seats 6-8 with the sofa bed; not stated). No hot tub stated for these units. Alternative 3BRs: 110 and 408 Timberstone; 103, 203, 208, 309 White Spruce Lodge next door.",
+      "family_split": {
+        "scott_andrea": "1BR condo (e.g. 307 Timberstone): own door, king bedroom and bath",
+        "parents": "Second 1BR condo, ideally a ground-floor 100-series unit (e.g. 105-108 Timberstone)",
+        "brother_family": "3BR Premier 213 Timberstone (Ryan & Jenna king; Ethan and Aubrey each get a bedroom); also the gathering room"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate condo unit with its own entry door, king bedroom, bathroom and kitchen (Spring Creek Vacations unit page for 307 Timberstone). Shares only the building corridor."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 6,
+        "location": 8,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Spring Creek restaurants within about 5 min; Main Street (Grizzly Paw, Gaucho, Rocky Mountain Bagel) about 10 min on flat paths (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 1448,
+        "nightly_total_usd_high": 1892,
+        "label": "verified",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "110 TM Three Bedroom Premier Condo (brother_family: 2 adults + 2 children 15 and 13; max 8), Pre-Pay & Save C$1,046/night avg, Flexible Rate C$1,367/night avg",
+          "307 TM One Bedroom Condo (scott_andrea: 2 adults), Pre-Pay & Save C$511/night avg, Flexible Rate C$667/night avg",
+          "205 TM or 211 TM One Bedroom Condo (parents: 2 adults), Pre-Pay & Save C$511/night avg, Flexible Rate C$667/night avg (flexible read for the 1BR category)"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 2068,
+        "local_stay_total_with_tax": 14592,
+        "source_kind": "manager",
+        "basis": "Re-checked 2026-11-15 in the same engine (2 adults + 2 children): 110 TM Three Bedroom Premier (max 8, 2 king + 1 queen + sofa bed) Pre-Pay & Save C$1,046 avg/night + C$178 taxes/fees; 205 TM and 307 TM One Bedroom Condo Pre-Pay & Save C$511 + C$93, unchanged from 2026-11-14; 213 TM, villas and ground-floor 105-108 TM still not offered. Flexible Rate not re-read 2026-11-15 (MORE RATES blocked by a cookie banner); the C$1,367 / C$667 Flexible figures are from 2026-11-14. Sum C$2,068-2,701/night = US$1,448-1,892 at US$1 = C$1.4278 (Wise mid-market, 2026-11-15). Earlier read: Spring Creek Vacations booking engine (Amadeus/TravelClick hotel 9878790), 6 nights 2027-07-04 to 2027-07-10, read 2026-11-14. 110 TM Three Bedroom Premier Condo: Pre-Pay & Save C$1,046 avg/night, Flexible Rate (cancel up to 72 h) C$1,367. 307 TM One Bedroom Condo: C$511 / C$667. Second Timberstone 1BR (205 TM or 211 TM): C$511 / C$667. Sum C$2,068/night (Pre-Pay & Save) to C$2,701/night (Flexible) = US$1,449-1,893 at US$1 = C$1.4272 (Wise mid-market, 2026-11-14). Engine shows an average per night, not a per-night breakdown. Unit 213 TM (the 3BR in the family split) is not offered for these dates (it is offered for a Dec 2026 control stay); 110 TM is the Timberstone 3BR Premier substitute. Ground-floor 1BRs 105-108 TM not offered; T103A One Bedroom Condo is offered at the same C$511. A Members Rate (C$567 for 1BR) needs a sign-up and is not counted.",
+        "source_url": "https://bookings.travelclick.com/9878790?datein=07/04/2027&dateout=07/10/2027&adults=2&children=2&rooms=1#/accommodation/room",
+        "fees_notes": "Engine lists 'additional taxes and fees per night' as one figure: 3BR C$178 (Pre-Pay) / C$219 (Flexible); each TM 1BR C$93 / C$113. Stay total with tax C$14,592 (Pre-Pay & Save) or C$18,876 (Flexible). Breakdown of GST, tourism levy and any fee not shown before checkout.",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Each household behind its own door",
+        "Flat walk to Spring Creek and Main Street",
+        "One manager can hold all three units",
+        "Underground parking"
+      ],
+      "compromises": [
+        "Gathering room is a condo living room; table size not stated",
+        "Elevator and unit floors not stated",
+        "No private hot tub"
+      ],
+      "best_for": "Choose this if you want three self-contained condos in one building with walkable dinners.",
+      "links": [
+        "https://www.springcreekvacations.com/accommodations/213-timberstone-lodge-three-bedroom-premier-condo",
+        "https://www.springcreekvacations.com/accommodations/307-timberstone-lodge-one-bedroom-condo",
+        "https://www.springcreekvacations.com/accommodations/all-accommodations"
+      ],
+      "images": [
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-4eixj5qiq1mphwmkzjh8uoa1r/021-0r2a2902.jpg?width=1920",
+          "page_url": "https://www.springcreekvacations.com/",
+          "credit": "Spring Creek Vacations",
+          "alt": "Spring Creek Vacations condo, Canmore",
+          "src": "img/3b5b449eeae8888d.jpg"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-8gd8ts5ewapnqix68ze2akl1x/masonry-amenity-living.jpg?width=960",
+          "page_url": "https://www.springcreekvacations.com/",
+          "credit": "Spring Creek Vacations",
+          "alt": "Condo living room with gas fireplace",
+          "src": "img/c93efa9f68a5774b.jpg"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-8mviqqbihyq4lv4w4k7gzajxh/masonry-amenity-kitchen.jpg?width=960",
+          "page_url": "https://www.springcreekvacations.com/",
+          "credit": "Spring Creek Vacations",
+          "alt": "Condo kitchen",
+          "src": "img/ab97a62568a7dc1e.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Stoneridge Mountain Resort: 3BR suite + two 1BR King suites, Canmore",
+      "kind": "3 condo-hotel suites in one resort building (3BR + 1BR + 1BR)",
+      "quick_verdict": "Three self-contained suites with a stated elevator to all floors; about a 15-20 min walk to Main Street.",
+      "configuration": "30 Lincoln Park, Canmore (resort's own site). Three Bedroom Suite: 1,170 sq ft, max 8; king bedroom with en-suite bath, two queen bedrooms, fold-out queen sofa bed, 2 bathrooms (each with shower); full gourmet kitchen (oven, stovetop), separate living and dining areas (table seat count not stated), fireplace, private balcony or patio with Napoleon BBQ, in-suite laundry, A/C. Three Bedroom Top-Floor Suite: 1,300 sq ft, vaulted ceilings, king + king + two singles (convertible to king), floor plan published. One Bedroom King Suite: 700 sq ft, king bedroom, en-suite bathroom with shower, fold-out queen sofa bed, full kitchen, balcony with BBQ, max 4. Also listed: One Bedroom King Suite Plus Den (1,000 sq ft, king + two fold-out queen sofa beds, 2 bathrooms, full kitchen, max 4) and a Two Bedroom Suite (the resort's home page lists it; its size, beds and bath count are not stated on pages read). The resort states 'Elevator Access to All Floors'; floors of individual suites not stated. Shared outdoor heated pool and hot tub (year round), outdoor dry sauna, 24-hour fitness centre. No on-site restaurant. Distance to Main Street not stated on the resort's site; about 1.2-1.5 km by map (estimate).",
+      "family_split": {
+        "scott_andrea": "One Bedroom King Suite (own door, king, en-suite bath, kitchen)",
+        "parents": "Second One Bedroom King Suite (elevator access; en-suite shower)",
+        "brother_family": "Three Bedroom Suite (Ryan & Jenna king en-suite; Ethan and Aubrey each a queen room); also the gathering room"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate resort suite with its own entry, king bedroom, en-suite bathroom and kitchen (stoneridgeresort.ca One Bedroom Suites page). Shares only the building corridor and elevator."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 7,
+        "location": 6,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 18,
+      "food_convenience": "No restaurant on site; Main Street and Railway Avenue restaurants about 15-20 min on foot (map estimate, not stated by the resort), or a 3-min drive.",
+      "price": {
+        "nightly_total_usd_low": 1962,
+        "nightly_total_usd_high": 2201,
+        "label": "estimate",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Luxury 700 sq ft suite, king bed + queen fold-out sofa (One Bedroom King Suite; scott_andrea: 2 adults), 10% off 1-7 Nights Pre-Paid Non-Refundable C$750/night, Best Available Rate 72hr CXL C$834/night",
+          "Second One Bedroom King Suite (parents: 2 adults), same rates C$750 / C$834/night"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 2802,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "basis": "Sold out: the split cannot be booked as written. The resort's GuestCentric engine for 2027-07-04 to 2027-07-10 (read 2026-11-15, 2 and 4 adults) offers no Three Bedroom Suite (1,170 sq ft) and no Three Bedroom Top-Floor Suite (1,300 sq ft), while a 2-night 14-16 Dec 2026 control offers both (C$474-527 and C$564-627/night, 4 adults); 1BR, 1BR + den and 2BR suites (sleeps 6) are offered for the trip dates, but no 3BR equivalent. Quoted: One Bedroom King Suite x2 at C$750 (pre-paid) to C$834 (BAR) = C$1,500-1,668. Still guessed: the 3BR, scaled from the Dec control by the 1BR July/Dec ratio (C$1,302-1,475). Sum C$2,802-3,143/night = US$1,962-2,201 at US$1 = C$1.4278 (Wise mid-market, 2026-11-15). With 4 adults the 1BR shows C$800-884.",
+        "source_url": "https://hypercommerce.guestcentric.net/?gc=0119554137b9c1ad3812850147dad946&url=http://stoneridgemountainresort-hotel.guestcentric.net/&channelKey=58e5de4e971fc00be29aa10492813ad4&ck=1111&startDay=2027-07-04&nrNights=6&nrAdults=2",
+        "fees_notes": "Engine says 'Approximate prices in $ per room, per night ... (Some taxes may not be included)'; tax not shown before checkout.",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Elevator to all floors stated by the resort",
+        "Each household in its own suite",
+        "Shared outdoor pool and hot tub",
+        "Full kitchens and balconies with BBQs"
+      ],
+      "compromises": [
+        "About 15-20 min walk to Main Street (estimate)",
+        "Dining-table seats not stated",
+        "Not priced for the dates"
+      ],
+      "best_for": "Choose this if a stated elevator for Sam & Karen matters more than walking to dinner.",
+      "links": [
+        "https://stoneridgeresort.ca/",
+        "https://www.stoneridgeresort.ca/three-bedroom-suites/",
+        "https://www.stoneridgeresort.ca/one-bedroom-suites/"
+      ],
+      "images": [
+        {
+          "url": "https://www.stoneridgeresort.ca/wp-content/uploads/2023/02/Stoneridge-Mountain-Resort_Exterior-Close-1024x683.jpg",
+          "page_url": "https://stoneridgeresort.ca/",
+          "credit": "Stoneridge Mountain Resort",
+          "alt": "Stoneridge Mountain Resort exterior, Canmore",
+          "src": "img/2dba9f0b2ea5fba1.jpg"
+        },
+        {
+          "url": "https://www.stoneridgeresort.ca/wp-content/uploads/2025/11/Living1.jpg",
+          "page_url": "https://www.stoneridgeresort.ca/three-bedroom-suites/",
+          "credit": "Stoneridge Mountain Resort",
+          "alt": "Suite living room",
+          "src": "img/2317c8cd45e864f8.jpg"
+        },
+        {
+          "url": "https://www.stoneridgeresort.ca/wp-content/uploads/2025/11/Balcony1-1.jpg",
+          "page_url": "https://www.stoneridgeresort.ca/three-bedroom-suites/",
+          "credit": "Stoneridge Mountain Resort",
+          "alt": "Suite balcony",
+          "src": "img/e69c5aa2a649d9dc.jpg"
+        },
+        {
+          "url": "https://www.stoneridgeresort.ca/wp-content/uploads/2025/11/Bedroom1.jpg",
+          "page_url": "https://www.stoneridgeresort.ca/three-bedroom-suites/",
+          "credit": "Stoneridge Mountain Resort",
+          "alt": "Suite bedroom",
+          "src": "img/d94464cf4cb5b846.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Basecamp Resorts Canmore: 3BR suite + two 1BR suites",
+      "kind": "3 suites in one resort (3BR + 1BR + 1BR)",
+      "quick_verdict": "Self-contained suites with a dining table for 8 in the 3BR; stairs to the units and a longer walk to Main Street.",
+      "configuration": "1102 Bow Valley Trail, Canmore (address shown in the Basecamp booking engine; the site header also shows a company office address). Three Bedroom Suite: 1,000 sq ft, max 8; three private bedrooms each with a queen bed, queen sofa bed in the living room, 2 full + 1 half bathrooms; full kitchen (full-size fridge, oven, dishwasher); dining table seats eight (stated); in-suite washer/dryer; portable A/C in some bedrooms; one parking spot; outdoor seating in summer but not a private patio. One Bedroom Suite: 600 sq ft, max 4; queen bedroom, queen sofa bed, one full bathroom with tub, full kitchen with breakfast bar. Resort: shared rooftop hot tubs (9 am-10 pm), shared BBQs, Everwild shuttle. The booking engine says stairs are used to reach the Three Bedroom and that One Bedroom access may involve stairs (price-checker, 2026-11-15); the One Bedroom page itself says nothing on stairs, floors or elevator, so step-free access is not supported for either. The home page says larger units have 'semi-private upstairs patios', which may mean multi-level units. Distance to downtown described only as 'a short walk'; about 1.5 km to Main Street by map (estimate).",
+      "family_split": {
+        "scott_andrea": "One Bedroom Suite (own door, queen bedroom, bath, kitchen)",
+        "parents": "Second One Bedroom Suite (booking engine says access may involve stairs; no elevator stated; ask for ground level)",
+        "brother_family": "Three Bedroom Suite (one queen room each for Ryan & Jenna, Ethan and Aubrey); also the gathering room with the table for 8"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate resort suite with its own bedroom, full bathroom and full kitchen (basecampresorts.com One Bedroom Suite page). Separate units within the resort; shares only common areas."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 4,
+        "location": 6,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 20,
+      "food_convenience": "Main Street about 20 min on foot (map estimate; the resort says only 'a short walk'); Bow Valley Trail has a few restaurants closer.",
+      "price": {
+        "nightly_total_usd_low": 1369,
+        "nightly_total_usd_high": 1611,
+        "label": "estimate",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "One Bedroom (scott_andrea: 2 adults), Stay Three Nights and Save C$582.82/night, Nightly Rate C$685.67/night (excl taxes+fees)",
+          "Second One Bedroom (parents: 2 adults), same rates C$582.82 / C$685.67/night"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 1955.34,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "basis": "Sold out: the split cannot be booked as written. Basecamp webrez engine 2161 for 2027-07-04 to 2027-07-10 (read 2026-11-15, 2 adults) lists Three Bedroom, Three Bedroom With Bunk and Three Bedroom Dog Friendly as 'Unavailable', while a 2-night 15-17 Dec 2026 control offers all three (Three Bedroom C$229 Nightly Rate). Offered for the trip dates: One Bedroom (Stay Three Nights and Save C$582.82, Nightly Rate C$685.67; a third line at C$548.53 shows no plan name in the read and is not counted) and Two Bedroom Dog Friendly (C$723.35-851; not a 3BR equivalent). Still guessed: the 3BR, scaled from the Dec control by its 3BR/1BR ratio (1.355): C$790-929. Sum C$1,955-2,300/night = US$1,369-1,611 at US$1 = C$1.4278 (Wise mid-market, 2026-11-15). The engine says stairs are used to access the Three Bedroom and that One Bedroom access may involve stairs. Earlier basis: an Expedia NZ listing for the Basecamp Canmore Three Bedroom Apartment showed NZ$1,376 for 11-12 June including taxes and fees (search snippet; year not shown), about US$800; an Orbitz snapshot showed a Basecamp Canmore unit from US$194 for a May 3 night. Assumed July 2027: 3BR US$700-1,000 plus two 1BR at US$300-450 each. The Basecamp engine (webrez 2161) did not render rates in this pass.",
+        "source_url": "https://secure.webrez.com/Bookings105/activity-edit.html?table=hotels&listing_id=2161&hotel_id=2161&merchant_id=2161&mode=command&command=roomsearch_version6_perl&date_from=20270704&date_to=20270710&num_adults=2&num_children=0",
+        "fees_notes": "Rates shown 'excl taxes+fees'; tax not shown before checkout. Pet and housekeeping fees apply on request.",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Dining table seats 8 in the 3BR",
+        "Teens get their own bedrooms",
+        "Shared rooftop hot tubs",
+        "Each household in its own suite"
+      ],
+      "compromises": [
+        "About 20 min walk to Main Street (estimate)",
+        "Stairs to the 3BR and possibly the 1BRs; no elevator stated",
+        "Not priced for the dates"
+      ],
+      "best_for": "Choose this if a real table for 8 matters more than a short walk to dinner.",
+      "links": [
+        "https://www.basecampresorts.com/canmore/",
+        "https://secure.webrez.com/hotel/2161",
+        "https://basecampresorts.com/room-details/canmore-resorts-three-bedroom/",
+        "https://basecampresorts.com/room-details/canmore-resorts-one-bedroom/"
+      ],
+      "images": [
+        {
+          "url": "https://basecampresorts.com/wp-content/uploads/14ec86aa-ae24-491f-b4a1-d3365d536341.webp",
+          "page_url": "https://basecampresorts.com/room-details/canmore-resorts-three-bedroom/",
+          "credit": "Basecamp Resorts",
+          "alt": "Three Bedroom Suite, Basecamp Resorts Canmore",
+          "src": "img/2dd7da0f64029db2.webp"
+        },
+        {
+          "url": "https://basecampresorts.com/wp-content/uploads/0f18e6fc-0468-43ea-8a88-3714d0063b2f.webp",
+          "page_url": "https://basecampresorts.com/room-details/canmore-resorts-one-bedroom/",
+          "credit": "Basecamp Resorts",
+          "alt": "One Bedroom Suite, Basecamp Resorts Canmore",
+          "src": "img/0671953bdac9a38a.webp"
+        }
+      ]
+    },
+    {
+      "name": "Blackstone Mountain Lodge: 2BR suite + two 1BR suites, Canmore",
+      "kind": "3 condo-style hotel suites in one lodge (2BR + 1BR + 1BR)",
+      "quick_verdict": "Condo-style suites with full kitchens and an outdoor pool; the 2BR living room is small for 8.",
+      "configuration": "Blackstone Mountain Lodge, Canmore (lodge's own site; street address not shown on the pages read). Two Bedroom Suite: about 900 sq ft, 2 bedrooms (queen or king each), 2 bathrooms (master bath + main bath), living room with sofa bed and double sofa bed, dining area (seats not stated), fireplace, gourmet kitchen, in-suite laundry, A/C, private balcony or patio. One Bedroom Mountain View Suite: about 830 sq ft, condo-style, bedroom with pillowtop bed, double sofa bed, full kitchen with granite breakfast bar, fireplace, in-suite laundry, private balcony, guaranteed mountain view; bathroom count not stated. Lodge: outdoor pool and hot tubs. Elevator, max guests per suite, floors and distance to downtown not stated.",
+      "family_split": {
+        "scott_andrea": "One Bedroom Mountain View Suite (own door, bedroom, bath, kitchen)",
+        "parents": "Second One Bedroom Suite (floor and elevator not stated)",
+        "brother_family": "Two Bedroom Suite (Ryan & Jenna in the master; teens share the second bedroom or one uses a sofa bed); also the gathering room"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own bedroom, bathroom and kitchen (blackstonelodge.ca One Bedroom Mountain View Suite page); a separate hotel suite qualifies under the rubric."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 4,
+        "parents": 5,
+        "location": 6,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Distance to Main Street not stated by the lodge; plan on a short drive or a long walk.",
+      "price": {
+        "nightly_total_usd_low": 1303,
+        "nightly_total_usd_high": 1629,
+        "label": "verified",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Two Bedroom Suite (brother_family: 2 adults + 2 children 15 and 13; max 6), Best Public Rate Non-Refundable C$665.87/night avg, undiscounted rate C$832.33",
+          "One Bedroom Mountain View Suite (scott_andrea: 2 adults; 'Only 1 Room Left'), Best Public Rate Non-Refundable C$642.53/night avg, undiscounted rate C$803.17",
+          "One Bedroom Suite (parents: 2 adults; max 4), Best Public Rate Non-Refundable C$551.87/night avg, undiscounted rate C$689.83"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 1860.27,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "basis": "Blackstone Lodge engine (Amadeus/TravelClick 85085, opened in a browser via bookings.travelclick.com; redirects to blackstonelodge.ca/book), 6 nights 2027-07-04 to 2027-07-10, read 2026-11-15, CAD. Two Bedroom Suite C$665.87 (Best Public Rate: Non-Refundable, 20% off) / C$832.33 undiscounted; same rates with 2 adults + 2 children. One Bedroom Mountain View Suite C$642.53 / C$803.17 (only 1 left). One Bedroom Suite C$551.87 / C$689.83 (the parents' 'second one-bedroom'). Sum C$1,860.27-2,325.33/night = US$1,303-1,629 at US$1 = C$1.4278 (Wise mid-market, 2026-11-15). High = the engine's struck-through undiscounted price; the refundable plan behind MORE RATES was not opened. A 30%-off 'Insider + Best Public Rate' (Clique Insider Offer, C$482.88-582.63) needs a loyalty sign-up and is not counted. Engine shows an average per night, not a per-night breakdown.",
+        "source_url": "https://bookings.travelclick.com/85085?datein=07/04/2027&dateout=07/10/2027&adults=2&children=2&rooms=1#/accommodation/room",
+        "fees_notes": "Engine lists 'additional taxes and fees per night' as one figure: One Bedroom Suite C$111.96 on the Best Public Rate (C$97.97 on the Insider rate); One Bedroom Mountain View C$107.01 and Deluxe Hotel Room C$85.44 seen on the Insider rate only. Breakdown and stay total with tax not shown before checkout.",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Each household in its own suite",
+        "Full kitchens, fireplaces, in-suite laundry",
+        "Outdoor pool and hot tubs"
+      ],
+      "compromises": [
+        "2BR living room small as the gathering room",
+        "Elevator and distance to town not stated",
+        "Teens may share a bedroom"
+      ],
+      "best_for": "Choose this if a low price and a pool matter more than a big shared room.",
+      "links": [
+        "https://www.blackstonelodge.ca/",
+        "https://reservations.travelclick.com/85085?HotelId=85085&languageid=1&rooms=1&adults=1&roomtypeid=305898",
+        "https://www.blackstonelodge.ca/rooms/two-bedroom-suite",
+        "https://www.blackstonelodge.ca/rooms/one-bedroom-mountain-view-suite"
+      ],
+      "images": [
+        {
+          "url": "https://image-tc.galaxy.tf/wipng-e2bzgd6cvldlhhj2upe8guc6/elegant-beige-and-black-hotel-gift-certificate-38.png?width=1920",
+          "page_url": "https://www.blackstonelodge.ca/",
+          "credit": "Blackstone Mountain Lodge",
+          "alt": "Sunbeds beside the outdoor pool at Blackstone Mountain Lodge",
+          "src": "img/c46f6f0271f115ba.png"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-93dfv60c0ky8ohe3ws7ifqmdy/bs204106-orig.jpg?width=960",
+          "page_url": "https://www.blackstonelodge.ca/",
+          "credit": "Blackstone Mountain Lodge",
+          "alt": "Family relaxing in a hot tub at the lodge",
+          "src": "img/992f44b3fe133d77.jpg"
+        }
+      ]
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Bellstar Suites at Solara Resort: 3BR suite + two 1BR suites, Canmore",
+      "kind": "3 resort suites in one building (3BR + 1BR + 1BR)",
+      "quick_verdict": "Resort suites with a spa and a dining room for six; configuration from third-party sources only.",
+      "configuration": "187 Kananaskis Way, Canmore (Bow Valley Trail area). Third-party descriptions only; the resort's own site did not resolve. Standard Three Bedroom Suite: king bedroom, two queen bedrooms, pull-out sofa, 2 bathrooms (Canadian Sky). Premium Three Bedroom Suite: top floor, about 1,800 sq ft, gourmet kitchen with island and bar stools, dining room for six, living room, fireplaces, washer/dryer, max 6 (2021 Bellstar property document; an Expedia-family listing says a 3BR sleeps 8). One-bedroom suites with kitchens per booking sites (beds not read). Resort: indoor pool, spa, fitness centre, about 155-210 units (sources differ). Elevator not stated in the sources read. Distance to Main Street not stated; about 1.5 km by map (estimate).",
+      "family_split": {
+        "scott_andrea": "One-bedroom suite (own door, bedroom, bath, kitchen)",
+        "parents": "Second one-bedroom suite",
+        "brother_family": "Three Bedroom Suite (Ryan & Jenna king; Ethan and Aubrey each a queen room); also the gathering room (dining for six in the premium suite)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate resort suite with its own bedroom, bathroom and kitchen (Expedia and Hotels.com listings for Bellstar Suites at Solara Resort; a separate hotel suite qualifies under the rubric)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 5,
+        "location": 6,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": 20,
+      "food_convenience": "Main Street about 20 min on foot (map estimate); Bow Valley Trail restaurants closer.",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "basis": "Sold out: no unit of the split is offered. bellstarhotels.com does not resolve (DNS error, 2026-11-15) and no property booking engine was found, so Expedia was used. Expedia for 2027-07-04 to 2027-07-10 (read 2026-11-15, 2 adults and 2 adults + 2 children) offers only 'Standard Suite, 2 Bedrooms, 2 Bathrooms' at US$675/night (US$4,494 total with taxes and fees); no One Bedroom Suite and no 3BR suite, while a 2-night 15-17 Dec 2026 control offers the One Bedroom Suite (US$211/night) and three 2BR suite types. No 3BR suite appears on Expedia even for the control, so the 3BR may be sold only by the resort (403-609-3600). Earlier basis: no dated rate found; the resort's own site did not resolve, and the booking sites showed no July 2027 figures in search snippets.",
+        "source_url": "https://www.expedia.com/Canmore-Hotels-Solara-Resort-Spa-Bellstar-Hotels-Resorts.h3912100.Hotel-Information?chkin=2027-07-04&chkout=2027-07-10&rm1=a2",
+        "fees_notes": "Expedia shows totals with taxes and fees; a CAD 147 per-stay deposit is collected at the property.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "ota",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "On-site spa and indoor pool",
+        "Premium 3BR has a dining room for six",
+        "Each household in its own suite"
+      ],
+      "compromises": [
+        "Configuration from third-party sources only",
+        "About 20 min walk to Main Street (estimate)",
+        "Dining for six, not eight"
+      ],
+      "best_for": "Choose this if an on-site spa for Jenna and Andrea matters more than walking to dinner.",
+      "links": [
+        "https://www.expedia.com/Canmore-Hotels-Solara-Resort-Bellstar-Hotels-Resorts.h3912100.Hotel-Information",
+        "https://www.hotels.com/ho360911/solara-resort-bellstar-hotels-resorts-canmore-canada/",
+        "https://www.canadiansky.co.uk/alberta-holidays/canmore/solara-resort-spa-hotel"
+      ],
+      "images": []
+    },
+    {
+      "name": "Spring Creek Vacations: Timberstone Mountain Villas 4BR townhouse + 1BR condo",
+      "kind": "townhouse + separate 1BR condo, same development",
+      "quick_verdict": "Townhouse with a private hot tub for six, plus a separate condo; stairs likely.",
+      "configuration": "Timberstone Mountain Villas 4BR townhouse (units 4, 12, 18, 24): 4 bedrooms (manager text: 'the king, two queen bedrooms or 2-twin bedroom', exact arrangement unclear), 3 bathrooms, gourmet kitchen, living room with gas fireplace and TV, dining room with wooden table (seat count not stated), private balcony with hot tub. Number of levels, which floor each bedroom is on, square footage and max guests not stated; a townhouse is normally multi-level. Paired with a 1BR condo in Timberstone Mountain Lodge (king bed, own kitchen and bath). Distance between the villa and the lodge building not stated (same Timberstone development in Spring Creek).",
+      "family_split": {
+        "scott_andrea": "1BR condo in Timberstone Mountain Lodge (own door, king, bath, kitchen)",
+        "parents": "Townhouse king bedroom (floor not stated)",
+        "brother_family": "Townhouse remaining 3 bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate 1BR condo unit in a different building of the same development (Spring Creek Vacations unit list and 1BR unit page)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 4,
+        "location": 8,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Same as the Timberstone condos: Spring Creek about 5 min, Main Street about 10 min (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 1400,
+        "nightly_total_usd_high": 2100,
+        "label": "estimate",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "307 TM One Bedroom Condo (scott_andrea: 2 adults), Pre-Pay & Save C$511/night avg, Flexible Rate C$667/night avg"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 511,
+        "local_stay_total_with_tax": 3624,
+        "source_kind": "manager",
+        "basis": "Townhouse not bookable yet, or sold out, for these dates: no Timberstone Mountain Villa appears in the Spring Creek engine (hotel 9878790) for 2027-07-04 to 2027-07-10 (searched 4 adults + 2 children and 2 + 2), while Villas 4 and 18 show at C$713/night for a 14-16 Dec 2026 control stay. Quoted: 307 TM One Bedroom Condo C$511/night Pre-Pay & Save, C$667 Flexible (US$358-467 at US$1 = C$1.4272, Wise 2026-11-14). Still guessed: the 4BR townhouse (old assumption US$900-1,300 + headroom for the hot tub). Range kept from the earlier estimate.",
+        "source_url": "https://bookings.travelclick.com/9878790?datein=07/04/2027&dateout=07/10/2027&adults=4&children=2&rooms=1#/accommodation/room",
+        "fees_notes": "1BR: engine lists C$93 (Pre-Pay) / C$113 (Flexible) additional taxes and fees per night; townhouse taxes not shown.",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Private hot tub on the townhouse balcony",
+        "Real dining room for the group",
+        "Scott & Andrea's condo fully separate"
+      ],
+      "compromises": [
+        "Bedroom floors and stairs not stated",
+        "Parents share with the brother's family",
+        "Bed layout unclear on manager page"
+      ],
+      "best_for": "Choose this if a hot tub and dining room matter more than a step-free unit for the parents.",
+      "links": [
+        "https://www.springcreekvacations.com/accommodations/4-timberstone-mountain-villas-four-bedroom-townhouse",
+        "https://www.springcreekvacations.com/accommodations/307-timberstone-lodge-one-bedroom-condo"
+      ],
+      "images": [
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-4eixj5qiq1mphwmkzjh8uoa1r/021-0r2a2902.jpg?width=1920",
+          "page_url": "https://www.springcreekvacations.com/",
+          "credit": "Spring Creek Vacations",
+          "alt": "Spring Creek Vacations property, Canmore",
+          "src": "img/3b5b449eeae8888d.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Black Bear Chalet + Little Black Bear suite, Banff",
+      "kind": "chalet + lower suite with own outside entrance",
+      "quick_verdict": "Walkable downtown Banff chalet with a separate-entrance suite and a table for 8; stairs throughout.",
+      "configuration": "336 Beaver St, Banff (private host). Combined Vrbo listing: 4 bedrooms (king, queen, queen, king), 4 bathrooms, sleeps 8. Main chalet (sleeps 6): bedroom 1 king plus daybed with ensuite walk-in shower and double vanity (photo caption places it on the main floor); bedrooms 2 and 3 queens (per the price-checker's Vrbo reading, bedroom 2 is on the main floor with its bath across the hall and bedroom 3 is on the top floor; the Vrbo pages I fetched do not state bedroom floors); open-plan living, dining and kitchen area on the TOP floor up a flight of stairs (Vrbo 9508125), with gas fireplace and balcony access, seating for 8 (photo caption); kitchen with fridge, dishwasher, microwave and 2-burner cooktop, no oven (Town of Banff rule); balcony/large deck. Little Black Bear: about 700 sq ft lower-level suite with its own private outside entrance (keypad), 1 king bedroom, 1 bath with tub/shower, kitchenette (2-burner, microwave, fridge, no oven), living room; no interior access to the main house. Access: about six outside stairs up to the entrance, a flight of stairs down to the suite. Owners live in a separate unit in the building. No hot tub listed.",
+      "family_split": {
+        "scott_andrea": "Little Black Bear lower suite (own outside entrance, king, bath)",
+        "parents": "Main chalet bedroom 1, king with ensuite (main floor per photo caption; outside entry stairs)",
+        "brother_family": "Main chalet bedrooms 2 and 3, two queens (teens share one queen or use the daybed/sofa; no fifth bed stated)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Listing text: the lower suite 'has its own private outside entrance', 1 king bedroom and 1 bathroom, and 'there is no interior access between the lower suite and the rest of the house' (Vrbo 9508125 / 9503498 search snippets)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 8,
+        "parents": 3,
+        "location": 9,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Banff Avenue restaurants about 5 min on foot (Beaver St is two blocks off Banff Ave; map estimate).",
+      "price": {
+        "nightly_total_usd_low": 1400,
+        "nightly_total_usd_high": 2400,
+        "label": "estimate",
+        "basis": "Not bookable, or sold out, for these dates: Vrbo 9508125 with 2027-07-04 to 2027-07-10 and 8 guests says 'This property is not available for check-in on this day' (read 2026-11-14), while a 5-night 10-15 Jan 2027 control priced at US$1,556/night (US$7,779 for 5 nights, all fees included). Earlier basis: 'from US$1,311' incl. taxes and fees for 1 night on 16 Nov 2026; July assumed 10-80% higher. Range kept from that estimate. Listed only on Vrbo (private host); ask the host via Vrbo whether July 2027 is open.",
+        "source_url": "https://www.vrbo.com/9508125ha?startDate=2027-07-04&endDate=2027-07-10&adults=6&children=1_15,1_13",
+        "fees_notes": "Vrbo totals include fees and taxes ('All fees included' on the Jan 2027 control); no July figure.",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Table seats 8 in a vaulted great room",
+        "Suite has its own outside entrance",
+        "Two blocks from Banff Avenue"
+      ],
+      "compromises": [
+        "Stairs at every entrance; poor for Sam & Karen",
+        "No oven; kitchenettes only",
+        "Banff is about 96 min from YYC",
+        "Only 4 beds for the brother's family of four"
+      ],
+      "best_for": "Choose this if being in Banff town with one big shared room beats step-free access.",
+      "links": [
+        "https://www.vrbo.com/9508125ha",
+        "https://vrbo.com/9503498ha"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/60000000/59680000/59675600/59675580/7a50b875.jpg?impolicy=resizecrop&rw=598&ra=fit",
+          "page_url": "https://www.vrbo.com/9508125ha",
+          "credit": "Vrbo listing",
+          "alt": "The Black Bear Chalet, Banff",
+          "src": "img/bf8fb7b29579c103.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/60000000/59180000/59176900/59176818/0cf0325d.jpg?impolicy=resizecrop&rw=598&ra=fit",
+          "page_url": "https://vrbo.com/9503498ha",
+          "credit": "Vrbo listing",
+          "alt": "Black Bear Chalet main living area",
+          "src": "img/6d805b00bbcff17d.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Moose Hotel & Suites: Rooftop 2BR suite + 1BR suite + Corner House",
+      "kind": "hotel 2BR suite + 1BR suite + historic cottage in the courtyard",
+      "quick_verdict": "Step-free-ish hotel on Banff Avenue with rooftop hot pools and spa; the gathering room is small.",
+      "configuration": "345 Banff Ave, Banff. Rooftop Two Bedroom Suite: about 812 sq ft, king bedroom plus a bedroom with two queens, 2 bathrooms (one tub/shower, one rain shower), living room, kitchen nook (mini fridge, sink, microwave, toaster); sleeps 6 (third-party listings). One Bedroom Suite: living room, gas fireplace, kitchenette (beds and size not stated on the hotel page). Corner House: restored early-1900s miner's cottage in the hotel courtyard, about 660 sq ft over two levels, 1 queen bedroom and full bath (clawfoot tub) upstairs reached by stairs, main-floor living room with wet bar, covered porch, max 2. Hotel: two rooftop hot pools, Meadow Spa, indoor pool, sauna, Pacini Italian restaurant, free parking, Banff Roam bus passes. Elevator not stated on the hotel page (an Accessible Hotel Room type is listed). Gathering room is the 2BR suite living room; dining seating not stated.",
+      "family_split": {
+        "scott_andrea": "Corner House (stand-alone cottage in the courtyard)",
+        "parents": "One Bedroom Suite",
+        "brother_family": "Rooftop Two Bedroom Suite (Ryan & Jenna king; teens in the two-queen room)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Corner House is a separate stand-alone cottage rented as private accommodation, max 2 guests, with its own bedroom and bathroom (moosehotelandsuites.com Corner House page). A separate hotel suite would also qualify."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 4,
+        "parents": 8,
+        "location": 9,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 1,
+      "food_convenience": "Pacini on site; Banff Avenue restaurants 1-10 min on foot.",
+      "price": {
+        "nightly_total_usd_low": 3745,
+        "nightly_total_usd_high": 3903,
+        "label": "verified",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Rooftop 2 Bedroom Suite (brother_family: 2 adults + 2 children; max 6), Best Available Rate C$2,799/night avg, one rate shown",
+          "Superior One Bedroom Suite 1 King (parents: 2 adults), Stay Longer, Save More C$1,274.15/night avg, Best Available Rate C$1,499/night avg (BAR read 2026-11-14)",
+          "Corner House (scott_andrea: 2 adults; max 2), Stay Longer, Save More C$1,274.15/night avg"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 5347.3,
+        "local_stay_total_with_tax": 36325.26,
+        "source_kind": "property",
+        "basis": "Re-checked 2026-11-15 (engine 99402, 2 adults): the Corner House is now offered for 2027-07-04 to 2027-07-10 at C$1,274.15 avg/night (Stay Longer, Save More) + C$168.44 taxes/fees; Superior One Bedroom Suite 1 King C$1,274.15 + C$168.44; Rooftop 2 Bedroom Suite C$2,799 + C$370.03 (Best Available Rate). Three-unit sum C$5,347.30/night (cheapest plans) to C$5,572.15 (with the 1BR at its C$1,499 BAR read 2026-11-14; Corner House BAR not read, its Stay Longer rate used in both) = US$3,745-3,903 at US$1 = C$1.4278 (Wise mid-market, 2026-11-15). Stay total with tax C$36,325.26 on the cheapest plans. All three units offered, so availability is now available, but the option is over the nightly cap. Earlier read: Moose Hotel & Suites engine (Amadeus/iHotelier 99402), 6 nights 2027-07-04 to 2027-07-10, read 2026-11-14. Rooftop 2 Bedroom Suite C$2,799 avg/night. Superior One Bedroom Suite 1 King C$1,274.15 (Stay Longer, Save More, 15% off) to C$1,499 (Best Available Rate). Two-unit sum C$4,073.15-4,298 = US$2,854-3,011 at US$1 = C$1.4272 (Wise mid-market, 2026-11-14). Still unpriced: the Corner House is not offered for these dates (sold out or not open), though it shows at C$399 for a 14-16 Dec 2026 control; the figures above exclude it, so the real total is higher. Already over the cap with two of the three units. Stay total with tax (C$27,669.72) covers the two quoted units only.",
+        "source_url": "https://bookings.travelclick.com/99402?datein=07/04/2027&dateout=07/10/2027&adults=2&children=2&rooms=1#/accommodation/room",
+        "fees_notes": "Engine lists 'additional taxes and fees per night': Rooftop 2BR C$370.03; Superior 1BR C$168.44 (Stay Longer) / C$198.17 (BAR); Corner House C$168.44 (Stay Longer). Breakdown not shown before checkout. Rates include parking, Wi-Fi and Roam transit passes.",
+        "availability": "available",
+        "stale": false,
+        "over_cap": true
+      },
+      "pros": [
+        "Rooftop hot pools and on-site spa",
+        "One minute to downtown Banff",
+        "Corner House is a one-off stay"
+      ],
+      "compromises": [
+        "Gathering room is a suite living room for about 6",
+        "Kitchen nooks only",
+        "Over the cap: two of three units quote about US$2,854-3,011/night; Banff is about 96 min from YYC"
+      ],
+      "best_for": "Choose this if spa days and hotel convenience for the parents matter more than a big shared room.",
+      "links": [
+        "https://www.moosehotelandsuites.com/",
+        "https://www.moosehotelandsuites.com/corner-house/",
+        "https://reservations.travelclick.com/99402"
+      ],
+      "images": [
+        {
+          "url": "https://moosehotelandsuites.com/wp-content/uploads/2017/06/corner-1920.jpg",
+          "page_url": "https://www.moosehotelandsuites.com/corner-house/",
+          "credit": "Moose Hotel & Suites",
+          "alt": "The Corner House cottage in the Moose Hotel courtyard",
+          "src": "img/04601cf82706128d.jpg"
+        },
+        {
+          "url": "https://moosehotelandsuites.com/wp-content/uploads/2026/07/Two-bedroom-suite.jpg",
+          "page_url": "https://www.moosehotelandsuites.com/",
+          "credit": "Moose Hotel & Suites",
+          "alt": "Two-bedroom suite",
+          "src": "img/ccbdd46ee78508fc.jpg"
+        },
+        {
+          "url": "https://moosehotelandsuites.com/wp-content/uploads/2026/07/One-bedroom-suite.jpg",
+          "page_url": "https://www.moosehotelandsuites.com/",
+          "credit": "Moose Hotel & Suites",
+          "alt": "One-bedroom suite living room",
+          "src": "img/812c96499e994ec9.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mercer Clubhouse (whole property), Canmore",
+      "kind": "two self-contained residences in one building (5BR + 3BR)",
+      "quick_verdict": "Ideal two-residence layout with hot tubs and theatre rooms, but over the cap and listed for sale.",
+      "configuration": "21 & 22, 108 Montane Road, Canmore; completed 2023. Two self-contained residences rentable together or separately: Mountain Suite 5 bedrooms and Valley Suite 3 bedrooms; 8 bedrooms and 8 bathrooms total, about 5,777 sq ft, up to 20 guests. Two gourmet kitchens, two theatre rooms with wet bars, arcade/games room, two private hot tubs, outdoor living spaces. About an 8-minute walk to downtown per the sales listing. Floors per bedroom and elevator not stated. Listed for sale at C$7,675,000 (2026), so 2027 rental operation is not assured. The 5BR alone is bookable only within 60 days if the whole property is free.",
+      "family_split": {
+        "scott_andrea": "Valley Suite (3BR residence) on their own",
+        "parents": "Mountain Suite (5BR residence), ensuite bedroom",
+        "brother_family": "Mountain Suite (5BR residence), remaining bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Sales listing: 'two self-contained residences' that can be rented separately, each with its own kitchen and hot tub (onepercentrealty.com MLS A2340968)."
+      },
+      "ratings": {
+        "privacy": 10,
+        "shared_space": 9,
+        "parents": 4,
+        "location": 7,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 8,
+      "food_convenience": "About an 8-minute walk to downtown Canmore per the sales listing.",
+      "price": {
+        "nightly_total_usd_low": 3000,
+        "nightly_total_usd_high": 3800,
+        "label": "estimate",
+        "basis": "Not bookable, or sold out, for these dates: Vrbo 9805804ha (listed only on Vrbo and its partner sites; no owner booking site found) with 2027-07-04 to 2027-07-10 and 8 guests says 'This property is not available for check-in on this day' (read 2026-11-14), while a 5-night 10-15 Jan 2027 control priced at US$3,362/night (US$16,811 for 5 nights). Range kept from the earlier late-June 2027 estimate (US$3,000-3,800); the Jan control alone is over the cap. Ask the owner via Vrbo whether July 2027 is open after the sale listing.",
+        "source_url": "https://www.vrbo.com/9805804ha?startDate=2027-07-04&endDate=2027-07-10&adults=6&children=1_15,1_13",
+        "fees_notes": "Taxes and cleaning not included in the old estimate; Vrbo did not state 'all fees included' on the Jan control.",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": true
+      },
+      "pros": [
+        "Two complete residences with hot tubs",
+        "Theatre and games rooms",
+        "Walk to downtown Canmore"
+      ],
+      "compromises": [
+        "Estimated over the nightly cap",
+        "Listed for sale; 2027 bookings uncertain",
+        "Stairs and elevator not stated"
+      ],
+      "best_for": "Choose this if the budget can stretch and the owners confirm 2027 bookings.",
+      "links": [
+        "https://www.vrbo.com/9805804ha",
+        "https://ab.onepercentrealty.com/properties/1560400667/Canmore-21_&_22,_108_Montane_Road"
+      ],
+      "images": [
+        {
+          "url": "https://ddfcdn.realtor.ca/listings/TS639289633962300000/reb9/highres/8/A2340968_1.jpg",
+          "page_url": "https://ab.onepercentrealty.com/properties/1560400667/Canmore-21_&_22,_108_Montane_Road",
+          "credit": "One Percent Realty / REALTOR.ca",
+          "alt": "Mercer Clubhouse exterior, Canmore",
+          "src": "img/16e75c86952bcdbe.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Paintbox Lodge (whole lodge), Canmore",
+      "kind": "boutique lodge buyout, 5 suites",
+      "quick_verdict": "Perfect suite layout a block off Main Street, but about twice the cap in July.",
+      "configuration": "629 10th St, Canmore, just off Main Street (managed by Elk & Owl). 8 bedrooms in 5 private suites over 2 floors, sleeps 21. First floor: suite with king, pull-out, full bath and garden/patio access; bunk room; two accessible half baths. Second floor: Suite 1 king + queen room, 4-piece ensuite, patio; Suite 2 queen + sofa bed, ensuite; Suite 3 two bedrooms + living space, ensuite; Suite 4 queen, ensuite. Full Miele kitchen, common room with gas fireplace and board games, large dining table (reviews), fire pit. No elevator mentioned; stairs between floors. No hot tub.",
+      "family_split": {
+        "scott_andrea": "Second-floor Suite 2 (queen, ensuite)",
+        "parents": "First-floor suite (king, full bath, garden access)",
+        "brother_family": "Second-floor Suite 3 (two bedrooms, living space)"
+      },
+      "lockoff": {
+        "scott_andrea": "not stated",
+        "basis": "Listing calls them 'private suites' with ensuites, but does not say each suite door locks or whether suites open onto a shared hallway. Elk & Owl could confirm."
+      },
+      "ratings": {
+        "privacy": 6,
+        "shared_space": 9,
+        "parents": 7,
+        "location": 10,
+        "value": 1
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Main Street restaurants 1-3 min on foot.",
+      "price": {
+        "nightly_total_usd_low": 5606,
+        "nightly_total_usd_high": 5606,
+        "label": "estimate",
+        "basis": "Not bookable, or sold out, for these dates: the Elk & Owl engine with 2027-07-04 to 2027-07-10 and 8 guests shows 'Choose available dates' and offers only alternative dates (Jun 25-Jul 1, Jun 24-30, Jun 23-29 2027, each US$32,934 for 6 nights, about US$5,489/night) (read 2026-11-14). Earlier basis kept: the booking calendar showed US$5,606.29 before taxes and fees for the night of 5 Jul 2027 (one night read, not a full-stay quote).",
+        "source_url": "https://book.elkandowl.ca/property/697844095795597239/private-lodgesleeps-21-miele-kitchenfirepit?checkin=2027-07-04&checkout=2027-07-10&guests=8",
+        "fees_notes": "Taxes and fees extra; minimum stay varies by date.",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": true
+      },
+      "pros": [
+        "Main-floor suite with garden access for the parents",
+        "Miele kitchen and fire pit",
+        "One block off Main Street"
+      ],
+      "compromises": [
+        "About twice the nightly cap",
+        "Suite locks not stated",
+        "Sized for 21; paying for empty rooms"
+      ],
+      "best_for": "Choose this if price is no object and you want everyone under one lodge roof.",
+      "links": [
+        "https://book.elkandowl.ca/listings/145711",
+        "https://www.explorecanmore.ca/listings/paintbox-lodge"
+      ],
+      "images": []
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Snowy Owl Sled Dog Tours: Adventure Dog Cart Tour / Dog Days of Summer",
+        "what_you_do": "Ride in a wheeled cart pulled by a husky team through the forest at Boundary Ranch (1.5 h, ages 5+). The Dog Days of Summer package (2 h, 8+) adds a kennel tour with off-tether free-run play with the pack.",
+        "why_memorable": "Being pulled by a working sled-dog team in summer, then playing with the dogs.",
+        "interactivity": "hands-on",
+        "drive_minutes": 25,
+        "price_usd": "Not published on the operator page; a Rocky Mountain Outlook article gave C$125 per person for the cart tour (undated)",
+        "age_min": 5,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book ahead; morning tours only, and carting runs only below 25 C (on hot days only an early-morning tour). Guests ride belted in as passengers with a guide at the back calling to the dogs; the operator page does not say whether guests drive (a news article describes passengers), so guests are pulled by the team, not driving it.",
+        "url": "https://www.snowyowltours.com/",
+        "image": {
+          "url": "https://www.snowyowltours.com/wp-content/uploads/2021/08/Summer-Carting-_26-027.jpg",
+          "page_url": "https://www.snowyowltours.com/",
+          "credit": "Snowy Owl Sled Dog Tours",
+          "alt": "Husky team pulling a summer dog cart",
+          "src": "img/83582eaa223f5217.jpg"
+        }
+      },
+      {
+        "name": "Boundary Ranch trail rides, Kananaskis",
+        "what_you_do": "Guided 1- to 2-hour horseback rides (Buffalo Loop, Valley Vista, Ridge Ride) in Kananaskis Country; each rider handles their own horse.",
+        "why_memorable": "Easy-going mountain trail riding 25 min from Canmore, with a steak-lunch ride option; Snowy Owl's Woof & Hoof package (6+) pairs it with dog carting.",
+        "interactivity": "hands-on",
+        "drive_minutes": 25,
+        "price_usd": "About US$104 (1 hr) to US$147-191 (2 hr) per adult on resellers; Ridge Ride n' Steak Lunch C$220 + GST",
+        "age_min": 6,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Moderate; some rides need 2+ people; 225 lb weight limit (reseller, not on the operator page)",
+        "url": "https://explorekananaskis.com/?p=16440"
+      },
+      {
+        "name": "Banff Trail Riders: 1 Hour Bow River Ride",
+        "what_you_do": "One-hour guided horseback ride along the Bow River from the stables at 100 Sundance Road, Banff; 2- and 3-hour loops and a trail ride or wagon ride with BBQ cookout also run.",
+        "why_memorable": "Riding right out of Banff townsite along the river; the wagon cookout lets the parents come along without riding.",
+        "interactivity": "hands-on",
+        "drive_minutes": 25,
+        "price_usd": "Not published on the operator page; about C$112-136 per adult on resellers (undated)",
+        "age_min": 8,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book a few days ahead in July; riders under 230 lb fully dressed (weighed at check-in); open 9am-6pm daily",
+        "url": "https://horseback.com/"
+      },
+      {
+        "name": "Yamnuska Wolfdog Sanctuary: Intro Tour (Interactive Tour is 15+)",
+        "what_you_do": "Guided talk on a viewing platform inside a wolfdog enclosure (Intro, 10+). The Interactive Tour, where wolfdogs may take a treat from your hand, is 15+ and excludes Aubrey (13).",
+        "why_memorable": "Close-up time with rescued wolfdogs and an honest talk about why they are not pets.",
+        "interactivity": "close viewing",
+        "drive_minutes": 50,
+        "price_usd": "Not published on the sanctuary page; group forms show about C$52-89 per person",
+        "age_min": 10,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Open Thu-Mon 10am-5pm, closed Tue/Wed; Intro walk-in or reserve; Interactive requires reservation",
+        "url": "https://www.yamnuskawolfdogsanctuary.com/",
+        "image": {
+          "url": "https://cdn.prod.website-files.com/6007167e74a8b24ad2b98eb9/600b237f6d9a4ec794bbe3fc_yamnuska-hero-image.jpg",
+          "page_url": "https://www.yamnuskawolfdogsanctuary.com/",
+          "credit": "Yamnuska Wolfdog Sanctuary",
+          "alt": "Wolfdog at the sanctuary",
+          "src": "img/7edffd568436d4ff.jpg"
+        }
+      },
+      {
+        "name": "Discover Banff Tours: Evening Wildlife Safari",
+        "what_you_do": "Two-hour evening small-group bus tour (up to 24) through Banff wildlife corridors looking for elk, bighorn sheep and bears from the vehicle; sightings not guaranteed.",
+        "why_memorable": "The best chance to see large wild animals, with a guide who knows where they feed at dusk; easy for the parents.",
+        "interactivity": "viewing",
+        "drive_minutes": 25,
+        "price_usd": "About US$52 / C$72 per adult on Tripster; child (3-12) tickets offered",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Book ahead; pickup from most Banff hotels (Canmore guests drive to Banff); 2027 schedule not confirmed",
+        "url": "https://www.tripster.com/detail/banff-evening-wildlife-safari-guided-tour"
+      }
+    ],
+    "golf": [
+      {
+        "name": "Fairmont Banff Springs Golf Course, Stanley Thompson 18",
+        "what_you_do": "18 holes on the 1928 Stanley Thompson layout along the Bow River below Mount Rundle; shared power cart and range included.",
+        "why_memorable": "One of Canada's classic mountain courses, with the castle-like hotel and Rundle in view; Tunnel Mountain 9 as a shorter option.",
+        "drive_minutes": 25,
+        "price_usd": "Green fee varies by date; about C$270-330 + GST peak (guides, indicative 2026); early season from C$191. Non-golfing riders C$120 + tax",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book tee times well ahead for July; online or by phone",
+        "url": "https://www.banff-springs-hotel.com/play/golf-course/"
+      },
+      {
+        "name": "Stewart Creek Golf & Country Club, Canmore",
+        "what_you_do": "18 holes (semi-private, public tee times) on the Three Sisters bench above Canmore; carts compulsory.",
+        "why_memorable": "Mountain views on every hole and under 10 min from the Canmore condos; Silvertip is a second option nearby.",
+        "drive_minutes": 8,
+        "price_usd": "Green fee with cart about C$175-235 depending on day (directory listings, not the club's own sheet)",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book in advance in summer",
+        "url": "https://banffnationalpark.com/?p=474"
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Banff Gondola, Sulphur Mountain",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Gondola to the summit with a 2 km boardwalk to Sanson's Peak, coffee, buffet and Sky Bistro; ages 5 and under free; Family Experience lets kids ride free in the first two hours. Boardwalk accessibility not stated (it has stairs in places; parents can stay at the summit building).",
+      "drive_minutes": 25,
+      "url": "https://www.banffjaspercollection.com/attractions/banff-gondola/",
+      "found_via": "Banff & Lake Louise Tourism",
+      "image": {
+        "url": "https://www.banffjaspercollection.com/Brewster/media/Images/Attractions/Banff-Gondola/MBN-Gondola-Top.jpg?ext=.jpg",
+        "page_url": "https://www.banffjaspercollection.com/attractions/banff-gondola/",
+        "credit": "Banff Jasper Collection by Pursuit",
+        "alt": "Banff Gondola summit",
+        "src": "img/e923ea6a865064b8.jpg"
+      }
+    },
+    {
+      "name": "Canmore Cave Tours: Rat's Nest Cave Explorer Tour",
+      "good_for": [
+        "teens",
+        "adults",
+        "rainy day"
+      ],
+      "details": "4.5 hours, about 2.5 underground, crawling and squeezing through a wild cave under Grotto Mountain; C$149 + GST adult, C$129 ages 10-15; min age 10 (Adventure Tour with an 18 m rappel is 12+, C$199). Not for the parents.",
+      "drive_minutes": 5,
+      "url": "https://www.canmorecavetours.com/",
+      "found_via": "TripAdvisor Canmore things to do (snippet) and travel guides",
+      "image": {
+        "url": "https://www.canmorecavetours.com/templates/yootheme/cache/e9/cavers-in-grotto-rats-nest-cave-e9a5326e.jpeg",
+        "page_url": "https://www.canmorecavetours.com/",
+        "credit": "Canmore Cave Tours",
+        "alt": "Cavers in Rat's Nest Cave",
+        "src": "img/2fb1fd45e520fe9b.jpg"
+      }
+    },
+    {
+      "name": "Cluesolvers outdoor escape games, downtown Canmore",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "App-based puzzle hunts (Around the World, Smuggler's Blues, Unchained Melody) on about a 3 km walk around town, about 90 min, from about C$83 per group listing. Not a locked indoor escape room; none found in Canmore.",
+      "drive_minutes": 0,
+      "url": "https://www.explorecanmore.ca/listings/cluesolvers-adventures/",
+      "found_via": "Explore Canmore listing"
+    },
+    {
+      "name": "Meadow Spa & rooftop hot pools, Moose Hotel, Banff",
+      "good_for": [
+        "adults",
+        "rainy day"
+      ],
+      "details": "10 treatment rooms, private outdoor hot pool, indoor pool and sauna on the 3rd floor of the Moose Hotel on Banff Avenue; for Jenna and Andrea's spa day. Treatment prices not stated.",
+      "drive_minutes": 25,
+      "url": "https://www.moosehotelandsuites.com/"
+    },
+    {
+      "name": "Ha Ling Peak or Grassi Lakes hike",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "Ha Ling Peak is a 5.4 km round trip steep climb above Canmore for Ethan and Ryan; Grassi Lakes and Grotto Canyon are gentler outings near town.",
+      "drive_minutes": 10,
+      "url": "https://www.nickkembel.com/things-to-do-in-canmore-alberta/",
+      "found_via": "Travel guide (nickkembel.com)"
+    },
+    {
+      "name": "Canmore Museum and Main Street / 8th Street browsing",
+      "good_for": [
+        "parents",
+        "everyone",
+        "rainy day"
+      ],
+      "details": "Flat strolling and shops on 8th Street (Main Street) for Karen, Jenna and Andrea; the Canmore Museum and Geoscience Centre is on the same strip for a rainy hour.",
+      "drive_minutes": 0,
+      "url": "https://www.nickkembel.com/things-to-do-in-canmore-alberta/",
+      "found_via": "Travel guide (nickkembel.com)"
+    }
+  ],
+  "shopping_exploring": "Canmore's 8th Street (Main Street) is a few flat blocks of galleries, outdoor shops and cafes; Banff Avenue, 25 min away, is the bigger shopping street. Explore Canmore lists shopping, spas, paddling and helicopter tours.",
+  "restaurants": [
+    {
+      "name": "Grizzly Paw Brewing Co.",
+      "category": "casual",
+      "notes": "Main Street brewpub, pub food, nearly 30 years in Canmore; often busy in summer.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://wereintherockies.com/where-to-eat-canmore/"
+    },
+    {
+      "name": "Bridgette Bar",
+      "category": "casual",
+      "notes": "Mediterranean/Italian share plates; noted for happy hour; OpenTable 4.7.",
+      "walk_minutes_from_lodging": 8,
+      "url": "https://thebanffblog.com/best-restaurants-canmore/"
+    },
+    {
+      "name": "Rocky Mountain Flatbread Co.",
+      "category": "family dinner",
+      "notes": "Wood-fired flatbreads on 10th Street, one block off Main Street; easy for 8.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://thebanffblog.com/best-restaurants-canmore/"
+    },
+    {
+      "name": "Gaucho Brazilian Steakhouse",
+      "category": "family dinner",
+      "notes": "Canmore's only churrascaria, on Main Street; table-side meats suit a group.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://thebanffblog.com/best-restaurants-canmore/"
+    },
+    {
+      "name": "Crazyweed Kitchen",
+      "category": "special dinner",
+      "notes": "Seasonal menu on Railway Avenue, often rated Canmore's best dining; reservations via tbdine. Main-course prices not shown on the site.",
+      "walk_minutes_from_lodging": 12,
+      "url": "https://www.crazyweed.ca/",
+      "image": {
+        "url": "https://images.squarespace-cdn.com/content/v1/61f46c4aa6b23d4e7511790b/7797e50f-0af2-4add-a695-296fb03eb362/BrandingPhotos-82.jpg",
+        "page_url": "https://www.crazyweed.ca/",
+        "credit": "Crazyweed Kitchen",
+        "alt": "Crazyweed Kitchen",
+        "src": "img/1953e89b10b488bb.webp"
+      }
+    },
+    {
+      "name": "Rocky Mountain Bagel Co.",
+      "category": "breakfast/coffee",
+      "notes": "Main Street bagels and coffee; a standard Canmore breakfast stop (not separately verified this pass).",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://thecanadianrockies.com/canmore-restaurants"
+    }
+  ],
+  "weather": {
+    "july": {
+      "high_f": 71,
+      "low_f": 45,
+      "rain_days": 16,
+      "notes": "Banff 1981-2010 normals (Canmore sits about 80 m lower and runs a degree or two warmer). 68 mm of rain over 16 wet days, mostly afternoon showers. Snowy Owl dog carting stops above 25 C (77 F)."
+    },
+    "source_url": "https://www.currentresults.com/Weather/Canada/Alberta/temperature-july.php"
+  },
+  "logistics": {
+    "airport": "Calgary International (YYC)",
+    "drive_minutes_from_airport": 76,
+    "flights": {
+      "den": "United and WestJet fly DEN-YYC nonstop, about 2 h 30 min; July 2027 frequency not confirmed (aggregator counts conflict).",
+      "bay_area": "SFO-YYC nonstop on United and WestJet, about 3 h 05 min; OAK and SMF need a connection."
+    },
+    "car_needed": "Yes: 2-3 cars for YYC transfer, Banff, Kananaskis and the golf courses; Canmore itself is walkable.",
+    "notes": "Passports required for all 8. A Parks Canada pass is needed for Banff National Park and an Alberta Kananaskis Conservation Pass for Kananaskis (Boundary Ranch). YYC to Banff townsite is about 96 min."
+  },
+  "caveats": [
+    "Spring Creek is the only lodging option quoted as available for the dates; Stoneridge, Basecamp, Blackstone and Solara are not yet priced.",
+    "Condo split gathering room is a 3BR living room; dining-table size not stated.",
+    "Elevators in Timberstone/White Spruce not stated; ask for ground-floor units for Sam & Karen.",
+    "Stoneridge, Basecamp and Solara are about 15-20 min on foot from Main Street (map estimates).",
+    "Snowy Owl dog carting runs only below 25 C; a warm July morning can cancel or shorten it.",
+    "Hands-on animals are dogs and horses; wild animals are viewing only (wolfdog Intro Tour, wildlife safari).",
+    "Yamnuska Interactive Tour is 15+; Aubrey (13) can only do the Intro Tour (close viewing).",
+    "Banff-based options (Black Bear Chalet, Moose) are about 96 min from YYC, over the 90-min line.",
+    "Mercer Clubhouse is listed for sale; 2027 bookings may not be honoured.",
+    "July wildfire smoke has hit the Bow Valley in some recent summers; not quantified here.",
+    "Moose Hotel & Suites is over the nightly cap: Rooftop 2BR + Superior 1BR alone quoted C$4,073-4,298/night (US$2,854-3,011) before tax, before the unpriced Corner House (2026-11-14).",
+    "Unit 213 Timberstone and the Timberstone Mountain Villas, Black Bear Chalet, Mercer Clubhouse, Paintbox Lodge and the Moose Corner House are not available for 2027-07-04 check-in in their booking engines (2026-11-14); those options now sit in lodging_backups.",
+    "Stoneridge (no 3BR suite), Basecamp (all 3BR types 'Unavailable') and Bellstar Suites at Solara (no 1BR or 3BR on Expedia) are sold out for the split on 2027-07-04 to 2027-07-10; Spring Creek (US$1,448-1,892) and Blackstone (US$1,303-1,629) are the options quoted as available (2026-11-15).",
+    "Moose Hotel & Suites (backup) is over the nightly cap: all three units are now offered, Rooftop 2BR + Superior 1BR + Corner House C$5,347-5,572/night (US$3,745-3,903) before tax (2026-11-15)."
+  ],
+  "open_questions": [
+    "Timberstone Mountain Lodge: is there an elevator, and which 1BRs are ground floor? (Spring Creek Vacations)",
+    "Timberstone 213 3BR: dining table seat count and whether bathrooms are ensuite? (Spring Creek Vacations)",
+    "Timberstone Villa 4BR: levels, bedroom floors and bed layout? (Spring Creek Vacations)",
+    "Spring Creek: will they hold 110 TM 3BR + two TM 1BRs (ground-floor if possible) together for 2027-07-04/10, and what makes up the C$93-219/night 'additional taxes and fees'? (Spring Creek Vacations, 403-678-5108)",
+    "Spring Creek: when do Timberstone Mountain Villas open for July 2027, or are they already booked? (Spring Creek Vacations)",
+    "Stoneridge Mountain Resort: July 2027 rate for a 3BR + two 1BR King suites, dining-table seats, and can the 1BRs be on the same floor near the elevator? (Stoneridge front desk / price-checker)",
+    "Basecamp Resorts Canmore: are the 3BR and 1BR suites on one level, is there an elevator, and the July 2027 rate? (Basecamp Resorts reservations)",
+    "Blackstone Mountain Lodge: street address and walk to Main Street, elevator, max guests per suite, and July 2027 rates? (Blackstone front desk)",
+    "Bellstar Suites at Solara: official booking site, 1BR beds, elevator and July 2027 rates? (Solara front desk, 403-609-3600)",
+    "Black Bear Chalet: is 2027-07-04 check-in closed by a booking or by a check-in-day or minimum-stay rule? (host, via Vrbo)",
+    "Moose Hotel: elevator to the suites, rooftop 2BR dining seating, and whether the Corner House can be held for 2027-07-04/10? (Moose Hotel & Suites reservations)",
+    "Mercer Clubhouse: still renting in July 2027 after the sale listing, why 2027-07-04 check-in is closed, and the whole-property July rate? (owner via Vrbo)",
+    "Paintbox Lodge: do suite doors lock individually off a shared hall? (Elk & Owl)",
+    "Snowy Owl: 2027 summer season dates, cart tour and Dog Days prices, and whether guests drive the cart or ride? (Snowy Owl, 403-678-4369)",
+    "Banff Trail Riders: 2027 price for the 1 Hour Bow River Ride and the wagon cookout? (Banff Trail Riders)",
+    "Discover Banff Tours: does the evening wildlife safari run in July 2027, and minimum age? (Discover Banff Tours)",
+    "Do Calgary Stampede 2027 dates overlap the stay and raise YYC car-rental and flight prices? (Calgary Stampede site)",
+    "Stewart Creek 2027 public green fee and tee-time window? (Stewart Creek golf shop)"
+  ],
+  "verification_notes": [
+    "Walk minutes from Timberstone to Main Street restaurants are map estimates, not measured.",
+    "YYC-Canmore 76 min carried from the earlier pass (not date-dependent); not re-timed.",
+    "price-checker 2026-11-14: Spring Creek Timberstone 3BR + two 1BR: estimate US$1,500-2,200 to verified US$1,449-1,893 (Spring Creek engine, CAD at 1.4272). Unit 213 is not offered for the dates; 110 TM Three Bedroom Premier (2 king, 1 queen, sofa bed, max 8, 1,401 ft2) quoted instead; beds match the configuration's 213, but the unit number differs from the family split. 1BRs quoted: 307 TM (655 ft2) and 205/211 TM; ground-floor 105-108 TM not offered. Value 7 to 8 (about 52-68% of the cap).",
+    "price-checker 2026-11-14: Timberstone Villa 4BR + 1BR: estimate US$1,400-2,100 kept as estimate; villas not in the engine for the dates (Villas 4 and 18 show for a Dec 2026 control), 1BR quoted C$511-667.",
+    "price-checker 2026-11-14: Black Bear Chalet: estimate US$1,400-2,400 kept; Vrbo says not available for 2027-07-04 check-in (Jan 2027 5-night control US$1,556/night all-in). Listing text read on Vrbo differs from the configuration: bedroom 2 (queen) is on the main floor with its bathroom across the hall, and bedroom 3, the living/dining room and kitchenette are on the top floor up a flight of stairs.",
+    "price-checker 2026-11-14: Moose Hotel & Suites: unknown to estimate US$2,854-3,011 (Rooftop 2BR + Superior 1BR quoted; Corner House not offered for the dates, so excluded). The engine dropped the children count (mask shows 2 adults); the 2BR max is 6, so the rate should not change. Value 4 to 2 (over the cap).",
+    "price-checker 2026-11-14: Mercer Clubhouse: estimate US$3,000-3,800 kept; Vrbo says not available for 2027-07-04 check-in (Jan 2027 control US$3,362/night). The links entry vrbo.com/9805804 returns 404; the working listing is vrbo.com/9805804ha.",
+    "price-checker 2026-11-14: Paintbox Lodge: estimate US$5,606 kept; Elk & Owl offers only alternative dates (Jun 23-Jul 1 2027, US$32,934 for 6 nights). Engine lists children as 2-12, so the teens count as adults.",
+    "fact-checker 2026-11-14: Black Bear Chalet configuration corrected: living/dining/kitchen are on the top floor up stairs (Vrbo 9508125 confirms top floor); the parents' main-floor bedroom 1 means stairs to reach the gathering room too. Bedroom 2/3 floors and bath positions not stated on the pages I read (price-checker's reading kept, attributed). Ratings (parents 3, shared 8) already reflect stairs; Black Bear is not the lodging-score option, so no score change. Table seats 8 is from a photo caption only.",
+    "fact-checker 2026-11-14: confirmed on operator pages: Timberstone 213 (3BR, 2 king + 1 queen, 3 baths) and 307 (king + sofa bed); Villas 4BR (hot tub, wooden dining table, levels not stated); Moose Corner House (stand-alone, 1 queen BR upstairs, max 2, 660 sq ft); Snowy Owl (Dog Days package 8+, below 25 C, kennel free-run); Boundary Ranch (6+, Buffalo Loop C$95, Steak Lunch C$220, season May-Oct); Yamnuska (Intro 10+, Interactive 15+, open Thu-Mon); Banff Springs (Stanley Thompson 18 par 71, cart included, public online tee times; only 2026 opening dates published).",
+    "fact-checker 2026-11-14: could not verify: Boundary Ranch 225 lb limit (operator page silent); Snowy Owl 2027 summer dates and price (not published); Yamnuska prices (not published); Banff Springs 2027 season dates and green fee (page lists no amounts); Stewart Creek and Banff Trail Riders pages not opened (reseller/directory sources only); elevator, floors and ensuite arrangement for Timberstone units (manager pages silent); Mercer Clubhouse and Paintbox Lodge pages not opened (sales/booking engines).",
+    "price-checker 2026-11-14: lodging score 17 unchanged, total 81 unchanged; the option it rests on is still eligible, and the rationale's lost points are for the gathering room and elevator, not the price.",
+    "researcher rerun 2026-11-15: the five options the price-checker found unavailable for 2027-07-04 check-in (Timberstone Villas, Black Bear Chalet, Moose Hotel, Mercer Clubhouse, Paintbox Lodge) moved from lodging to lodging_backups with their quotes and availability unchanged. Added to lodging: Stoneridge Mountain Resort, Basecamp Resorts Canmore, Blackstone Mountain Lodge (all lock-off yes, separate suites); added to backups: Bellstar Suites at Solara (lock-off yes, third-party sources only). Booking engines for Basecamp (webrez), Blackstone (TravelClick 85085, redirect loop) and Stoneridge (GuestCentric) did not show rates by WebFetch; the price-checker should quote them in a browser.",
+    "researcher rerun 2026-11-15: animals section re-ranked by what guests do, then the animal. Snowy Owl's own page lists an Adventure Dog Cart Tour at 5+ (1.5 h) and the Dog Days package at 8+; age_min changed 8 to 5. Banff Trail Riders now cited from the operator (horseback.com: Bow River Ride 1 h, 8+, under 230 lb, 100 Sundance Road; prices not published). Added Discover Banff Tours evening wildlife safari (viewing; Tripster listing, 2027 schedule not confirmed). Animals score 14 to 13: the top two are activities with dogs and horses, and no hands-on option involves wild or exotic animals; total 81 to 80. Lodging score unchanged (rests on the Spring Creek split, still available and inside the cap).",
+    "researcher rerun 2026-11-15: the Malcolm Hotel (Spring Creek) was checked and not added: its own page lists only hotel rooms and a king suite with a wet bar, no kitchens or living space to gather in.",
+    "price-checker 2026-11-15: Spring Creek Timberstone 3BR + two 1BR: verified US$1,449-1,893 to verified US$1,448-1,892 (same CAD rates re-read for 110 TM, 205 TM and 307 TM; new rate C$1.4278; Flexible figures carried from 2026-11-14). 213 TM, the Timberstone villas and 105-108 TM are still not offered for the dates. Value 8 kept.",
+    "price-checker 2026-11-15: Stoneridge Mountain Resort: unknown to estimate US$1,962-2,201, availability sold_out (GuestCentric engine offers no 3BR or Top-Floor 3BR for the dates; both show for a Dec 2026 control; two 1BR King Suites quoted at C$750-834). Value 5 to 6. The engine names the 1BR 'Luxury 700 sq ft suite' and lists a 1BR + den and 2BR suites not in the configuration.",
+    "price-checker 2026-11-15: Basecamp Resorts Canmore: estimate US$1,300-1,900 to estimate US$1,369-1,611, availability sold_out (webrez 2161 lists every 3BR type as Unavailable for the dates; Three Bedroom shows at C$229 for a 15-17 Dec 2026 control; 1BR quoted C$582.82-685.67). Value 7 kept. The engine states 'Stairs are used to access this unit' for the Three Bedroom and 'Access to this unit may involve stairs' for the One Bedroom; the configuration says stairs not stated.",
+    "price-checker 2026-11-15: Blackstone Mountain Lodge: estimate US$800-1,300 to verified US$1,303-1,629, availability available (TravelClick 85085 loads in a browser; the WebFetch redirect loop does not occur). Value 7 to 8 (about 47-58% of the cap). Engine states max occupancy 6 for the Two Bedroom Suite and 4 for each 1BR; the One Bedroom Mountain View Suite shows 'Only 1 Room Left'.",
+    "price-checker 2026-11-15: Bellstar Suites at Solara (backup): unknown kept (no unit of the split quoted), availability sold_out on Expedia (only a 2BR Standard Suite at US$675/night offered for the dates; the One Bedroom Suite shows for a Dec 2026 control; no 3BR listed on Expedia at all). The resort's own booking site was not found (bellstarhotels.com does not resolve); the resort may sell the 3BR by phone.",
+    "price-checker 2026-11-15: Moose Hotel & Suites (backup): estimate US$2,854-3,011 to verified US$3,745-3,903, availability sold_out to available (the Corner House is now offered at C$1,274.15); over the cap, value 2 kept. Timberstone Villas still not in the Spring Creek list for the dates (re-checked in the same search); Black Bear Chalet, Mercer Clubhouse and Paintbox Lodge were not re-checked.",
+    "price-checker 2026-11-15: lodging score 17 unchanged, total 80 unchanged; the option it rests on (Spring Creek) is still available and inside the cap, and the rationale's lost points are for the gathering room and elevator, not the price. No backup promoted.",
+    "fact-checker 2026-11-15: Stoneridge configuration confirmed on stoneridgeresort.ca (1BR King 700 sq ft, max 4, 1 en-suite bath, fold-out queen, full kitchen, elevator to all floors, 30 Lincoln Park); added the 1BR + Den (1,000 sq ft, 2 baths, max 4) and the Two Bedroom Suite listing (details not on the pages read). Split, ratings and lock-off unchanged: 1BR + den and 2BR do not change who sleeps where (the 3BR is still the sold-out unit). Own-entry per suite is not stated by the resort; lock-off 'yes' rests on a separate suite with its own bedroom, bath and kitchen.",
+    "fact-checker 2026-11-15: Basecamp One Bedroom page confirmed (600 sq ft, max 4, queen + queen sofa bed, 1 full bath, full kitchen); the page is silent on stairs, floors, elevator and entry. Configuration, parents' split line, compromise and quick_verdict now carry the engine's stairs statement (3BR stairs; 1BR may involve stairs). Parents' rating 4 kept (already reflects possible stairs); no rating or score changed.",
+    "fact-checker 2026-11-15: could not verify: Blackstone street address, walk time to Main Street, elevator and max guests (home and contact pages silent; walk_minutes_to_restaurants left null); Blackstone has no images (none added). Bellstar Suites at Solara configuration remains third-party only (not re-checked; resort site does not resolve). Discover Banff safari 2027 schedule and age minimum not verified (Tripster only).",
+    "fact-checker 2026-11-15: Snowy Owl operator page confirms Adventure Dog Cart Tour at age 5, 1.5 h, mornings only, below 25 C, no price or 2027 dates, no closure notice; it does not say whether guests drive. A news article and the guide-at-the-back description indicate guests ride belted in as passengers, so interactivity stays hands-on only in the sense of being pulled by the dog team (the top rank in the guidance), not driving; booking_difficulty rewritten. Brochure cart blurb corrected from 'ages 8 and up' to 5+ (8+ for the kennel play package). Ranking order (cart, Boundary Ranch, Banff Trail Riders, Yamnuska Intro, safari) fits the guidance; animals 13/18 unchanged. No score changed."
+  ],
+  "sources": [
+    {
+      "title": "Spring Creek Vacations home",
+      "url": "https://www.springcreekvacations.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Spring Creek Vacations: all accommodations",
+      "url": "https://www.springcreekvacations.com/accommodations/all-accommodations",
+      "section": "lodging"
+    },
+    {
+      "title": "213 Timberstone 3BR Premier Condo",
+      "url": "https://www.springcreekvacations.com/accommodations/213-timberstone-lodge-three-bedroom-premier-condo",
+      "section": "lodging"
+    },
+    {
+      "title": "307 Timberstone 1BR Condo",
+      "url": "https://www.springcreekvacations.com/accommodations/307-timberstone-lodge-one-bedroom-condo",
+      "section": "lodging"
+    },
+    {
+      "title": "Timberstone Mountain Villas 4BR Townhouse",
+      "url": "https://www.springcreekvacations.com/accommodations/4-timberstone-mountain-villas-four-bedroom-townhouse",
+      "section": "lodging"
+    },
+    {
+      "title": "Spring Creek 208W 3BR on Expedia (June 2026 price)",
+      "url": "https://www.expedia.co.uk/Canmore-Hotels-208-3-Bedroom-Premier-Condo.h73650731.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "Stoneridge Mountain Resort home",
+      "url": "https://stoneridgeresort.ca/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stoneridge Mountain Resort: Three Bedroom Suites",
+      "url": "https://www.stoneridgeresort.ca/three-bedroom-suites/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stoneridge Mountain Resort: One Bedroom Suites",
+      "url": "https://www.stoneridgeresort.ca/one-bedroom-suites/",
+      "section": "lodging"
+    },
+    {
+      "title": "Basecamp Resorts Canmore",
+      "url": "https://www.basecampresorts.com/canmore/",
+      "section": "lodging"
+    },
+    {
+      "title": "Basecamp Canmore Three Bedroom Suite",
+      "url": "https://basecampresorts.com/room-details/canmore-resorts-three-bedroom/",
+      "section": "lodging"
+    },
+    {
+      "title": "Basecamp Canmore One Bedroom Suite",
+      "url": "https://basecampresorts.com/room-details/canmore-resorts-one-bedroom/",
+      "section": "lodging"
+    },
+    {
+      "title": "Basecamp Canmore booking engine (webrez 2161)",
+      "url": "https://secure.webrez.com/hotel/2161",
+      "section": "lodging"
+    },
+    {
+      "title": "Basecamp Canmore Three Bedroom Apartment (Expedia NZ, June price)",
+      "url": "https://www.expedia.co.nz/Canmore-Hotels-Vrbo-Property.h66859634.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "Basecamp Canmore Three Bedroom Apartment (Orbitz)",
+      "url": "https://www.orbitz.com/Canmore-Hotels-Basecamp-Resorts-I-Three-Bedroom-Apartment.h37013743.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "Blackstone Mountain Lodge home",
+      "url": "https://www.blackstonelodge.ca/",
+      "section": "lodging"
+    },
+    {
+      "title": "Blackstone Mountain Lodge: Two Bedroom Suite",
+      "url": "https://www.blackstonelodge.ca/rooms/two-bedroom-suite",
+      "section": "lodging"
+    },
+    {
+      "title": "Blackstone Mountain Lodge: One Bedroom Mountain View Suite",
+      "url": "https://www.blackstonelodge.ca/rooms/one-bedroom-mountain-view-suite",
+      "section": "lodging"
+    },
+    {
+      "title": "Bellstar Suites at Solara Resort (Expedia)",
+      "url": "https://www.expedia.com/Canmore-Hotels-Solara-Resort-Bellstar-Hotels-Resorts.h3912100.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "Solara Resort suite descriptions (Canadian Sky)",
+      "url": "https://www.canadiansky.co.uk/alberta-holidays/canmore/solara-resort-spa-hotel",
+      "section": "lodging"
+    },
+    {
+      "title": "Bellstar 2021 property descriptions (Voyages Gendron PDF)",
+      "url": "https://www.voyagesgendron.com/wp-content/uploads/2021/10/2021-Property-Descriptions-revised-July-2021.pdf",
+      "section": "lodging"
+    },
+    {
+      "title": "The Malcolm Hotel (checked, not added)",
+      "url": "https://www.malcolmhotel.ca/",
+      "section": "lodging"
+    },
+    {
+      "title": "Black Bear Chalet combined listing (Vrbo 9508125)",
+      "url": "https://www.vrbo.com/9508125ha",
+      "section": "lodging"
+    },
+    {
+      "title": "Black Bear Chalet main house (Vrbo 9503498)",
+      "url": "https://vrbo.com/9503498ha",
+      "section": "lodging"
+    },
+    {
+      "title": "Moose Hotel & Suites",
+      "url": "https://www.moosehotelandsuites.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Moose Hotel Corner House",
+      "url": "https://www.moosehotelandsuites.com/corner-house/",
+      "section": "lodging"
+    },
+    {
+      "title": "Moose Hotel Rooftop 2BR suite (Inspiring Travel)",
+      "url": "https://www.inspiringtravel.co.uk/north-america/canada/alberta/banff/hotels/moose-hotel-suites",
+      "section": "lodging"
+    },
+    {
+      "title": "Mercer Clubhouse sales listing (MLS A2340968)",
+      "url": "https://ab.onepercentrealty.com/properties/1560400667/Canmore-21_&_22,_108_Montane_Road",
+      "section": "lodging"
+    },
+    {
+      "title": "Paintbox Lodge on Elk & Owl booking",
+      "url": "https://book.elkandowl.ca/listings/145711",
+      "section": "lodging"
+    },
+    {
+      "title": "Snowy Owl Sled Dog Tours",
+      "url": "https://www.snowyowltours.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Rocky Mountain Outlook: Snowy Owl dog carting",
+      "url": "https://www.rmotoday.com/summer-explorers/summer-explorer-no-snow-no-problem-snowy-owl-brings-dog-carting-to-bow-valley-3844877",
+      "section": "animals"
+    },
+    {
+      "title": "Yamnuska Wolfdog Sanctuary",
+      "url": "https://www.yamnuskawolfdogsanctuary.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Explore Kananaskis: Boundary Ranch",
+      "url": "https://explorekananaskis.com/?p=16440",
+      "section": "animals"
+    },
+    {
+      "title": "Banff Trail Riders (horseback.com)",
+      "url": "https://horseback.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Banff Trail Riders 1 Hour Bow River Ride (Expedia)",
+      "url": "https://www.expedia.ca/things-to-do/1-hour-bow-river-ride.a1223592.activity-details",
+      "section": "animals"
+    },
+    {
+      "title": "Discover Banff Tours Evening Wildlife Safari (Tripster)",
+      "url": "https://www.tripster.com/detail/banff-evening-wildlife-safari-guided-tour",
+      "section": "animals"
+    },
+    {
+      "title": "Fairmont Banff Springs golf course",
+      "url": "https://www.banff-springs-hotel.com/play/golf-course/",
+      "section": "golf"
+    },
+    {
+      "title": "Banff golf guide (fee ranges)",
+      "url": "https://banffbound.com/blog/banff-golf-guide",
+      "section": "golf"
+    },
+    {
+      "title": "Banff National Park golf directory (Stewart Creek)",
+      "url": "https://banffnationalpark.com/?p=474",
+      "section": "golf"
+    },
+    {
+      "title": "Banff Gondola",
+      "url": "https://www.banffjaspercollection.com/attractions/banff-gondola/",
+      "section": "activities"
+    },
+    {
+      "title": "Canmore Cave Tours",
+      "url": "https://www.canmorecavetours.com/",
+      "section": "activities"
+    },
+    {
+      "title": "Explore Canmore things to do",
+      "url": "https://www.explorecanmore.ca/things-to-do",
+      "section": "activities"
+    },
+    {
+      "title": "Explore Canmore: Cluesolvers Adventures",
+      "url": "https://www.explorecanmore.ca/listings/cluesolvers-adventures/",
+      "section": "activities"
+    },
+    {
+      "title": "TripAdvisor Canmore attractions",
+      "url": "https://www.tripadvisor.com/Attractions-g181727.html",
+      "section": "activities"
+    },
+    {
+      "title": "Things to do in Canmore (Nick Kembel)",
+      "url": "https://www.nickkembel.com/things-to-do-in-canmore-alberta/",
+      "section": "activities"
+    },
+    {
+      "title": "The Banff Blog: best Canmore restaurants",
+      "url": "https://thebanffblog.com/best-restaurants-canmore/",
+      "section": "restaurants"
+    },
+    {
+      "title": "We're in the Rockies: where to eat in Canmore",
+      "url": "https://wereintherockies.com/where-to-eat-canmore/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Crazyweed Kitchen",
+      "url": "https://www.crazyweed.ca/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Canmore restaurants (The Canadian Rockies)",
+      "url": "https://thecanadianrockies.com/canmore-restaurants",
+      "section": "restaurants"
+    },
+    {
+      "title": "Current Results: Alberta July temperatures",
+      "url": "https://www.currentresults.com/Weather/Canada/Alberta/temperature-july.php",
+      "section": "weather"
+    },
+    {
+      "title": "Current Results: Alberta July precipitation",
+      "url": "https://www.currentresults.com/Weather/Canada/Alberta/precipitation-july.php",
+      "section": "weather"
+    },
+    {
+      "title": "FlightConnections SFO-YYC",
+      "url": "https://www.flightconnections.com/flights-from-sfo-to-yyc",
+      "section": "logistics"
+    },
+    {
+      "title": "FlightConnections YYC-DEN",
+      "url": "https://www.flightconnections.com/flights-from-yyc-to-den",
+      "section": "logistics"
+    },
+    {
+      "title": "Banff & Lake Louise Tourism",
+      "url": "https://www.banfflakelouise.com/",
+      "section": "general"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 71,
+    "low_f": 45
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://horseback.com/": {
+      "url": "https://z3gtxirxykvj7t0v.public.blob.vercel-storage.com/uploads/2017/06/Halfway-Lodge-Backcountry-Trip-with-Glaciers.jpg",
+      "src": "img/2d36630e550794fb.jpg"
+    },
+    "https://www.banff-springs-hotel.com/play/golf-course/": {
+      "url": "https://www.banff-springs-hotel.com/content/uploads/2026/05/FairmontBSH_Golf_ROAM_6557-scaled.jpg",
+      "src": "img/02c91e684e0e09d0.jpg"
+    },
+    "https://www.explorecanmore.ca/things-to-do": {
+      "url": "https://www.explorecanmore.ca/content/uploads/2021/10/canmore-and-kananaskis-where-winter-wonder-awaits-3-scaled.jpg",
+      "src": "img/133118050fa7955b.jpg"
+    },
+    "https://www.explorecanmore.ca/things-to-do/dining-nightlife/": {
+      "url": "https://www.explorecanmore.ca/content/uploads/atis/2024/10/1sage-bistro-wine-lounge-L-4-2.jpg",
+      "src": "img/ff5f1ab1711407ca.jpg"
+    },
+    "https://www.explorecanmore.ca/listings/cluesolvers-adventures/": {
+      "url": "https://www.explorecanmore.ca/content/uploads/atis/2025/12/9a0781d5774011679e86769e172db5656aa7cb5b-1024x683-1.jpg",
+      "src": "img/2113600bf0251882.jpg"
+    },
+    "https://www.moosehotelandsuites.com/": {
+      "url": "https://moosehotelandsuites.com/wp-content/uploads/2018/11/summer-exterior-1920.jpg",
+      "src": "img/59b868236ca0b332.jpg"
+    },
+    "https://www.nickkembel.com/things-to-do-in-canmore-alberta/": {
+      "url": "https://www.nickkembel.com/wp-content/uploads/2021/08/canmore-things-to-do-header.jpg",
+      "src": "img/ebad863e5afa53e3.jpg"
+    },
+    "https://www.tripster.com/detail/banff-evening-wildlife-safari-guided-tour": {
+      "url": "https://cdn.tripster.com/media/product/gallery/original/Banff_Evening_Wildlife_Safari_(67850).jpg",
+      "src": "img/946d3c6432d22dff.jpg"
+    },
+    "https://banffnationalpark.com/?p=474": {
+      "url": "https://banffnationalpark.com/wp-content/uploads/2009/04/golf-canadian-rockies-banff-alberta.jpg",
+      "src": "img/5c9e483229af20f7.jpg"
+    },
+    "https://wereintherockies.com/where-to-eat-canmore/": {
+      "url": "https://wereintherockies.com/wp-content/uploads/2024/10/sandwichjkbakery.jpg",
+      "src": "img/5f15452abed216db.jpg"
+    },
+    "https://thebanffblog.com/best-restaurants-canmore/": {
+      "url": "https://thebanffblog.com/wp-content/uploads/2021/10/Canmore-restaurants-1024x683.jpg",
+      "src": "img/232b9640d98fbd18.jpg"
+    },
+    "https://thecanadianrockies.com/canmore-restaurants": {
+      "url": "https://thecanadianrockies.com/wp-content/uploads/2023/02/crazyweed-1024x683.jpg",
+      "src": "img/c82c1e838fd50db4.jpg"
+    }
+  }
+}

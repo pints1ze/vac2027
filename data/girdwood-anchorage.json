@@ -1,0 +1,1458 @@
+{
+  "slug": "girdwood-anchorage",
+  "name": "Girdwood / Anchorage, AK",
+  "region": "Alaska",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "Girdwood is the strongest animal destination on the list: Alpine Air helicopter glacier dog sledding from the Girdwood airstrip (ride or drive the team, about $784 per person), AWCC moose hand-feeding (all ages, 20 min) and Alaska Zoo feedings (9+, 45 min) all run in early July, with 64/49 F July weather. Lodging has real lock-off options with quotes for July 4-10 inside the cap: the Vacasa/Casago Monarch estate duplex ($1,727-1,868/night with fees, before tax) puts the parents and Ryan's family in a step-free lower level with its own ground-floor entrance and Scott & Andrea in the upper unit with the hot tub and deck; the AlohAlaska Lodge splits into three units near the townsite ($1,474/night) and the St. Moritz compound pairs a house with a studio ($750/night). The biggest caveat is the town: there is no walkable village core, the resort and the townsite are about 2.5 miles apart and Girdwood has under ten restaurants. Hotel Alyeska (the only step-free, walk-to-dinner hotel) and Wendy's chalet are booked for the dates and now sit in the backups. Golf is a 40-min drive to the municipal Anchorage Golf Course.",
+  "images": {
+    "hero": {
+      "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1600xAUTO_crop_center-center_65_none/DJI_0004-alaska-hotel-alyeska-girdwood.jpg",
+      "page_url": "https://www.alaska.org/detail/hotel-alyeska",
+      "credit": "Alaska.org / Alyeska Resort",
+      "alt": "Aerial view of Hotel Alyeska and the Girdwood valley below Mount Alyeska",
+      "src": "img/c8c8922cdceac9cc.jpg"
+    },
+    "gallery": [
+      {
+        "url": "https://alpineairalaska.com/wp-content/uploads/2025/03/Dog-Sled-Team-Sunny-Glacier.jpg",
+        "page_url": "https://alpineairalaska.com/girdwood/dog-sledding-tours/",
+        "credit": "Alpine Air Alaska",
+        "alt": "Sled dog team on a sunny glacier above Girdwood",
+        "src": "img/cb86a96868a69a8c.jpg"
+      },
+      {
+        "url": "https://alaskawildlife.org/wp-content/uploads/2025/06/AWCC-MooseEncounter_6-14-25_JaneThompson6-WEB-Size.jpg",
+        "page_url": "https://alaskawildlife.org/education/tours/",
+        "credit": "Alaska Wildlife Conservation Center / Jane Thompson",
+        "alt": "Visitors hand-feeding a moose at the Alaska Wildlife Conservation Center",
+        "src": "img/96153407ebd35a86.jpg"
+      },
+      {
+        "url": "https://uploads.alaska.org/suppliers/activities/A/alyeska-tram/_960xAUTO_fit_center-center_65_none/RKP_Alyeska_summer_socialdistance-6-alaska-hotel-alyeska-girdwood-aerial-tram.jpg",
+        "page_url": "https://www.alaska.org/destination/girdwood",
+        "credit": "Alaska.org / Alyeska Resort",
+        "alt": "The Alyeska tram climbing the mountain in summer",
+        "src": "img/df0c0e8757bfeef5.jpg"
+      },
+      {
+        "url": "https://uploads.alaska.org/suppliers/dining/S/seven-glaciers/hero/_450x300_crop_center-center_65_none/2710170/seven-glaciers-alyeska-hero-1.jpg",
+        "page_url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+        "credit": "Alaska.org",
+        "alt": "Seven Glaciers restaurant at the top of the Alyeska tram",
+        "src": "img/3d00624c48534a00.jpg"
+      },
+      {
+        "url": "https://alpineairalaska.com/wp-content/uploads/2025/03/Huskies-Puppies.jpg",
+        "page_url": "https://alpineairalaska.com/girdwood/dog-sledding-tours/",
+        "credit": "Alpine Air Alaska",
+        "alt": "Husky puppies at the glacier dog camp",
+        "src": "img/ce23de0fc7056783.jpg"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/59b9ecdabebafb8293096530/019abb6b-8fe2-4ddc-ac17-8b2f5a2468a1/IMG_3427.jpg",
+        "page_url": "https://www.alaskazoo.org/summer-feedings-tours",
+        "credit": "Alaska Zoo",
+        "alt": "Guided animal feeding at the Alaska Zoo",
+        "src": "img/23f73b50b3468866.jpg"
+      }
+    ]
+  },
+  "brochure": {
+    "tagline": "Moose feeding, glacier dog sleds and tram rides in an Alaska mountain valley",
+    "intro": "Girdwood sits in a green valley ringed by glaciers, about 45 minutes from the Anchorage airport along Turnagain Arm. Days are for feeding a moose, flying to a glacier to meet a dog sled team and taking the tram up the mountain. July highs sit around 64 F, so bring a jacket.",
+    "highlights": [
+      "Hand-feed a moose at the wildlife center",
+      "Helicopter to a glacier and a dog sled team",
+      "Alyeska tram to dinner at 2,300 feet",
+      "Five-hour glacier cruise from Whittier",
+      "Anchorage Golf Course with Denali views",
+      "Long July daylight for evening outings"
+    ],
+    "pros": [
+      "Several hands-on animal experiences within an hour",
+      "Glacier and mountain views all around",
+      "Short drive from the airport, with nonstop flights from Denver and San Francisco",
+      "Cool July weather, highs around 64 F"
+    ],
+    "cons": [
+      "No walkable village; the resort and the townsite are 2.5 miles apart",
+      "Rental houses have stairs and the town has under ten restaurants",
+      "Rental cars needed for nearly everything",
+      "Golf is a 40-minute drive away"
+    ],
+    "stays": [
+      {
+        "name": "Vacasa Girdwood Estate: 9BR duplex (Unit A + Unit B)",
+        "title": "Girdwood Estate (Monarch)",
+        "blurb": "A large two-level house with two full kitchens, near Girdwood Station at the highway end of town. The big viewing deck has a hot tub and a stone fire pit.",
+        "highlights": [
+          "Hot tub, fire pit and gas grill on the deck",
+          "Stone fireplace and several living areas",
+          "Coffee, pizza and bakery steps away at Girdwood Station",
+          "Step-free ground-floor level"
+        ]
+      },
+      {
+        "name": "AlohAlaska Lodge (Chugach Properties): top-floor duplex + lower-level duplex + back studio",
+        "title": "AlohAlaska Lodge",
+        "blurb": "A three-unit lodge in Girdwood with kitchens throughout, a short walk from the brewery and townsite restaurants. It sits about half a mile from the Alyeska lifts.",
+        "highlights": [
+          "Full kitchens and a sunny deck with grill",
+          "Fireplace in the open living room",
+          "Walk to Girdwood Izakaya and Chair 5",
+          "Five parking spaces"
+        ]
+      },
+      {
+        "name": "St. Moritz Compound (Casago): 3BR house + adjoining studio apartment",
+        "title": "St. Moritz Compound",
+        "blurb": "A three-storey hillside house with a studio apartment next door, about a mile from Alyeska Resort. It has a deck with mountain views and a wood stove.",
+        "highlights": [
+          "Mountain-view deck",
+          "Two living rooms and a wood stove",
+          "Indoor jetted soaking tub",
+          "Full kitchen in the studio"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Hand-feed a moose",
+        "kind": "animals",
+        "blurb": "Feed a full-size moose by hand at the Alaska Wildlife Conservation Center, then walk the loop past bears, bison and musk ox.",
+        "url": "https://alaskawildlife.org/education/tours/",
+        "image": {
+          "url": "https://alaskawildlife.org/wp-content/uploads/2025/06/AWCC-MooseEncounter_6-14-25_JaneThompson6-WEB-Size.jpg",
+          "page_url": "https://alaskawildlife.org/education/tours/",
+          "credit": "Alaska Wildlife Conservation Center / Jane Thompson",
+          "alt": "Visitors hand-feeding a moose",
+          "src": "img/96153407ebd35a86.jpg"
+        }
+      },
+      {
+        "name": "Glacier dog sledding by helicopter",
+        "kind": "animals",
+        "blurb": "Fly from the Girdwood airstrip to a glacier dog camp, then ride the sled or mush your own team, and meet the dogs.",
+        "url": "https://alpineairalaska.com/girdwood/dog-sledding-tours/",
+        "image": {
+          "url": "https://alpineairalaska.com/wp-content/uploads/2025/03/Petting-Sled-Dog.jpg",
+          "page_url": "https://alpineairalaska.com/girdwood/dog-sledding-tours/",
+          "credit": "Alpine Air Alaska",
+          "alt": "Guest petting a sled dog on the glacier",
+          "src": "img/7e9c06e38b02c9a3.jpg"
+        }
+      },
+      {
+        "name": "Alaska Zoo animal feedings",
+        "kind": "animals",
+        "blurb": "Feed moose, musk ox, alpacas or black bears with a keeper on an Anchorage day trip; ages 9 and up.",
+        "url": "https://www.alaskazoo.org/summer-feedings-tours",
+        "image": {
+          "url": "https://images.squarespace-cdn.com/content/v1/59b9ecdabebafb8293096530/019abb6b-8fe2-4ddc-ac17-8b2f5a2468a1/IMG_3427.jpg",
+          "page_url": "https://www.alaskazoo.org/summer-feedings-tours",
+          "credit": "Alaska Zoo",
+          "alt": "Guided animal feeding at the Alaska Zoo",
+          "src": "img/23f73b50b3468866.jpg"
+        }
+      },
+      {
+        "name": "Walk on the Wild Side tour",
+        "kind": "animals",
+        "blurb": "A small-group, behind-the-scenes walk at the wildlife center that includes feeding an animal; ages 10 and up.",
+        "url": "https://alaskawildlife.org/education/tours/",
+        "image": {
+          "url": "https://alaskawildlife.org/wp-content/uploads/2025/03/Amy-leading-WOW-tour-10-17-24-by-Jane-1-WEB-.jpg",
+          "page_url": "https://alaskawildlife.org/education/tours/",
+          "credit": "Alaska Wildlife Conservation Center",
+          "alt": "Naturalist leading a behind-the-scenes tour",
+          "src": "img/dc11e6b750ff1374.jpg"
+        }
+      },
+      {
+        "name": "Anchorage Golf Course",
+        "kind": "golf",
+        "blurb": "A public 18 above Anchorage with views to Cook Inlet and, on clear days, Denali; long daylight allows evening rounds.",
+        "url": "https://www.anchoragegolfcourse.com/",
+        "image": {
+          "url": "https://www.anchoragegolfcourse.com/images/slider2/showcase1.jpg",
+          "page_url": "https://www.anchoragegolfcourse.com/",
+          "credit": "Anchorage Golf Course",
+          "alt": "Anchorage Golf Course fairway",
+          "src": "img/2dd74439924c73fc.jpg"
+        }
+      },
+      {
+        "name": "Alyeska Aerial Tram",
+        "kind": "outdoors",
+        "blurb": "Ride up to the 2,300-foot level for glacier and Turnagain Arm views.",
+        "url": "https://www.alaska.org/detail/alyeska-tram",
+        "image": {
+          "url": "https://uploads.alaska.org/suppliers/activities/A/alyeska-tram/_960xAUTO_fit_center-center_65_none/RKP_Alyeska_summer_socialdistance-6-alaska-hotel-alyeska-girdwood-aerial-tram.jpg",
+          "page_url": "https://www.alaska.org/destination/girdwood",
+          "credit": "Alaska.org / Alyeska Resort",
+          "alt": "The Alyeska tram climbing the mountain",
+          "src": "img/df0c0e8757bfeef5.jpg"
+        }
+      },
+      {
+        "name": "Phillips 26 Glacier Cruise",
+        "kind": "rainy day",
+        "blurb": "About five hours in Prince William Sound past 26 glaciers, in a heated cabin, leaving from Whittier.",
+        "url": "https://www.alaska.org/detail/26-glacier-cruise-phillips"
+      },
+      {
+        "name": "Alyeska Nordic Spa",
+        "kind": "spa",
+        "blurb": "Hot and cold pools, saunas and steam rooms at the resort base, for adults 18 and over.",
+        "url": "https://www.alyeskaresort.com/product/stay-spa/"
+      },
+      {
+        "name": "Dinner at Seven Glaciers",
+        "kind": "food",
+        "blurb": "Take the tram up the mountain for a special dinner with glacier views; reserve ahead.",
+        "url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+        "image": {
+          "url": "https://uploads.alaska.org/suppliers/dining/S/seven-glaciers/hero/_450x300_crop_center-center_65_none/2710170/seven-glaciers-alyeska-hero-1.jpg",
+          "page_url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+          "credit": "Alaska.org",
+          "alt": "Seven Glaciers dining room",
+          "src": "img/3d00624c48534a00.jpg"
+        }
+      }
+    ],
+    "dinner_spots": [
+      "Seven Glaciers: special dinner at the top of the tram",
+      "Jack Sprat: world cuisine with local ingredients",
+      "Chair 5: pizza and burgers in the townsite",
+      "The Bake Shop: cinnamon rolls and sandwiches"
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: ANC (Ted Stevens Anchorage International) to Girdwood is about 40 miles on the Seward Highway, about 45-50 min (passes the 90-min check). DEN has United nonstops (3 daily, 4 daily in peak weeks, in summer 2026); the Bay Area pair has Alaska Airlines summer nonstops from SFO and a 1-2x weekly SMF nonstop (2026 pattern); OAK connects via SEA. 2027 schedules are not yet published. Seniors: passes narrowly. Hotel Alyeska (the step-free, walk-to-dinner option) is booked for the dates (price-checker 2026-11-14), so the pass now rests on the lower level of the Monarch estate duplex (Vacasa 95240 / Casago 1039779), which Casago lists with 'a private ground-floor entrance' and 'step-free access' for its three bedrooms, and on the flat valley floor and paved Bird-to-Gird / Alyeska Highway paths. The gathering space there (upper unit, hot tub deck) is up a level; stairs to it are not stated. Every other rental involves stairs: AlohAlaska is a two-level duplex, the St. Moritz compound is a three-storey hillside house with a steep driveway, and the Slopeside B-4 townhome is three floors. There is no village core to stroll; the resort base and the townsite are about 2.5 miles apart."
+  },
+  "scores": {
+    "lodging": 16,
+    "town_scenery": 10,
+    "animals": 17,
+    "food": 7,
+    "other": 8,
+    "golf": 5,
+    "weather": 4,
+    "total": 67,
+    "rationale": {
+      "lodging": "16/25: rests on the Vacasa Girdwood Estate / Monarch duplex at US$1,727-1,868/night including fees (verified 2026-11-15 for 2027-07-04/2027-07-10: US$1,727 booking Casago's lower and upper units, US$1,868 on Vacasa; inside the cap): Scott & Andrea take the upper unit, the parents and Ryan's family the step-free lower unit with its own ground-floor entrance, with a hot tub, fire pit and big deck; points off because seat counts and stairs to the upper unit are not stated and the lower-level entrance comes from Casago's listing of what appears to be the same property.",
+      "town_scenery": "10/18: glacier-and-peak scenery from every lodging and Turnagain Arm on the drive in, but no walkable village core; the resort base and the townsite are about 2.5 miles apart and the parents would drive between them.",
+      "animals": "17/18: the top two items both stand during the stay within 20 min: Alpine Air glacier dog sledding, where guests ride behind or drive a dog team (activity with animals, the top tier), and AWCC hand-feeding of a moose (feeding a large wild animal, all ages); Alaska Zoo bear/moose feedings (9+) back them up; minus 1 because the sledding depends on helicopter weather and 2027 schedules are not yet published.",
+      "food": "7/15: no option has 10 restaurants on foot: from the resort-base condos the Bake Shop, Jack Sprat and La Bodega are a short walk (guest review), from AlohAlaska Girdwood Izakaya, Chair 5 and the brewery, and from the recommended Monarch estate only Girdwood Station's coffee, pizza and bakery; Hotel Alyeska, the one stay with about 6 places on foot, is booked for the dates.",
+      "other": "8/10: tram, bike park, glacier cruise from Whittier and gold panning for the teens, the adults-only Nordic Spa (18+) for the adults and parents, and United DEN and Alaska SFO nonstops with a 45-50 min transfer; no escape room or shopping street in Girdwood.",
+      "golf": "5/9: Anchorage Golf Course, a municipal public 18 with Denali and Cook Inlet views about 40 min away (about $65-84), but no course in Girdwood, and the only alternative, Moose Run, sits on JBER (about 60 min) and needs base access vetting (civilian policy unconfirmed).",
+      "weather": "4/5: Girdwood July normal high about 64 F (below 75 F), minus 1 because about 13 of 31 July days are wet and skies are mostly cloudy 69% of the time."
+    }
+  },
+  "lodging": [
+    {
+      "name": "AlohAlaska Lodge (Chugach Properties): top-floor duplex + lower-level duplex + back studio",
+      "kind": "duplex (2 units) + separate studio, one building",
+      "quick_verdict": "Three separately rentable units in one building, a short walk from the townsite restaurants.",
+      "configuration": "Managed by Chugach Properties LLC (local, since 1994, 19 properties). Booked whole as 'Five Bedroom Close to Ski Lifts and Brewery' (5 bedrooms, 5 full bathrooms, sleeps up to 16, 5 parking spaces) or as separate listings. Upstairs main level ('Top Floor Duplex', listed separately, sleeps 6): 2 bedrooms, 2 full bathrooms, large open-concept living room with electric fireplace, full kitchen, sunny deck with seating and propane grill. Downstairs level ('Lower Level Duplex', listed separately, sleeps 8): 2 bedrooms, 2 bathrooms (primary bedroom with en-suite; bunk room with a double-size bunk plus a double bed and its own bathroom and TV), full kitchen with dining area, washer/dryer. Back studio (listed separately as 'AlohAlaska Studio' on Stayz, described there as a lower-level studio): private studio with its own bathroom, TV and kitchenette. Two washer/dryer sets. Dining-table seat count, living-room seating, steps to each entrance and whether the studio is at grade are not stated. No hot tub. Location: about 0.5 mile walk to the Alyeska lifts; Girdwood Izakaya about 3 min walk, Chair 5 about 12 min walk, Girdwood Brewing 'a short walk' (Vrbo/Bookabach and Savvy listing text). Guests must be 21+ or with a parent; 1 dog allowed; quiet hours 10pm-8am.",
+      "family_split": {
+        "scott_andrea": "Lower-level duplex unit (primary bedroom with en-suite; own kitchen; bunk room unused)",
+        "parents": "Back studio (own bathroom and kitchenette; level not stated)",
+        "brother_family": "Top-floor duplex unit (Ryan & Jenna one bedroom, Ethan and Aubrey the other); its living room and deck are the gathering space"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "The lower-level duplex is rented on its own as 'Lower Level Duplex Close to Ski Slopes' (Savvy listing kKxu) with its own kitchen and two bathrooms, i.e. a separate unit; the whole-property listing describes 'three separate living spaces'. Entrance arrangement is not described on the pages read; a Bookabach search snippet described three spaces each with its own entrance, but the fetched page did not repeat it. Fact-checker 2026-11-14: the Savvy whole-property, Savvy lower-unit and Bookabach pages say nothing about entrances; a Bookabach guest review ('code didn't work for upstairs unit') suggests the upstairs unit has its own door code. The yes rests on the separate-unit listing, not on a confirmed outside entrance."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 6,
+        "parents": 4,
+        "location": 6,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Girdwood Izakaya about 3 min and Chair 5 about 12 min on foot (listing distances); Coast Pizza and Alpine Cafe about 4 min by car; Seven Glaciers 12 min by car plus the tram.",
+      "price": {
+        "nightly_total_usd_low": 1474,
+        "nightly_total_usd_high": 1474,
+        "label": "verified",
+        "basis": "Vrbo listing 4205966 'AlohAlaska Lodge - 5 Bedroom - Close to Ski Lifts' (whole property, 5 bedrooms, sleeps 16: covers the top-floor duplex, lower-level duplex and studio in the split), 8 travelers (6 adults, children 15 and 13), Jul 4-Jul 10 2027, read 2026-11-15: US$8,845 for 6 nights, 'All fees included', shown as US$1,474/night ('The current price is $1,474'). One rate shown; per-night rates and the fee/tax split are not itemized before 'Book now'. Sum: US$8,845 / 6 = US$1,474/night including Vrbo fees. Savvy (the manager's no-fee listing) shows no price, only 'Check Availability' (2026-11-14).",
+        "source_url": "https://www.vrbo.com/4205966?startDate=2027-07-04&endDate=2027-07-10&adults=6&children=1_15%2C1_13",
+        "fees_notes": "Vrbo: 'All fees included' in the US$8,845; whether Anchorage room tax is included is not shown before checkout (tax not shown before checkout). Full refund before Jun 4 2027, 50% before Jun 20 2027. Minimum age to rent 21.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "AlohAlaska Lodge - 5 Bedroom - Close to Ski Lifts (whole property), Vrbo listed rate, US$8,845 for 6 nights all fees included (US$1,474/night avg)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1474,
+        "local_stay_total_with_tax": null,
+        "source_kind": "ota",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Each household in its own unit",
+        "Two full kitchens plus studio kitchenette",
+        "Short walk to Izakaya, Chair 5, brewery",
+        "Five parking spaces"
+      ],
+      "compromises": [
+        "Quoted on Vrbo; manager site takes inquiries only",
+        "Stairs between levels; studio level not stated",
+        "Table size not stated; no hot tub"
+      ],
+      "best_for": "Choose this if three self-contained units under one roof near the townsite matter most.",
+      "links": [
+        "https://www.savvy.com/listings/alohalaska-lodge-5-bedroom-close-to-ski-lifts-girdwood-alaska-FbIY",
+        "https://www.savvy.com/listings/newly-remodeled-duplex-lower-level-close-to-ski-lifts-girdwood-alaska-kKxu",
+        "https://www.savvy.com/listings/newly-remodeled-duplex-top-floor-close-to-ski-lifts-girdwood-alaska-VSxA",
+        "https://www.bookabach.co.nz/holiday-accommodation/p4205966vb",
+        "https://www.vrbo.com/en-gb/p4205966vb"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/110000000/109080000/109076100/109076087/7df7b5cc.jpg",
+          "page_url": "https://www.bookabach.co.nz/holiday-accommodation/p4205966vb",
+          "credit": "AlohAlaska Lodge (Vrbo)",
+          "alt": "AlohAlaska Lodge at twilight",
+          "src": "img/5c2b80be0e8dff9c.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/110000000/109080000/109076100/109076087/4c3096cc.jpg",
+          "page_url": "https://www.bookabach.co.nz/holiday-accommodation/p4205966vb",
+          "credit": "AlohAlaska Lodge (Vrbo)",
+          "alt": "Upstairs open-plan living room with fireplace",
+          "src": "img/c15325eb36c1d6df.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/110000000/109080000/109076100/109076087/3e4be339.jpg",
+          "page_url": "https://www.bookabach.co.nz/holiday-accommodation/p4205966vb",
+          "credit": "AlohAlaska Lodge (Vrbo)",
+          "alt": "Lower-floor primary bedroom with en-suite",
+          "src": "img/c7492c3e84d251c7.jpg"
+        }
+      ],
+      "review_notes": "Savvy shows 5.0 from 22 reviews for the whole property and 5.0 from 5 for the lower unit."
+    },
+    {
+      "name": "St. Moritz Compound (Casago): 3BR house + adjoining studio apartment",
+      "kind": "house + adjoining studio apartment (two-building compound)",
+      "quick_verdict": "Hillside house plus a self-contained studio at the lowest price found; stairs and a steep driveway.",
+      "configuration": "Casago listing 'Girdwood Compound' (also listed on Vacasa/Marriott as St. Moritz House and St. Moritz Apartment, each bookable alone): 4 bedrooms total, 3 full + 1 half bathrooms, sleeps 10. House (3 bedrooms, 2.5 baths, sleeps 8 per Marriott): bedroom 1 king, bedroom 2 queen, bedroom 3 queen; a bedroom with 3 twins and a sofa bed is also listed (which unit it sits in is not clear). Three-storey house with third-floor observation balcony, two living rooms, wood stove, indoor jetted soaking tub (not a hot tub), deck with mountain views. Studio apartment: separate unit with its own full kitchen and bathroom, max 2 guests, no separate bedroom; Airbnb describes a 'two-building compound'. Floor of each bedroom not stated; dining seating not stated. Hillside about 1 mile from Alyeska Resort; steep driveway section (listing advises parking on the street if needed). Keypad entry. No air conditioning.",
+      "family_split": {
+        "scott_andrea": "Studio apartment (own kitchen and bathroom)",
+        "parents": "House king bedroom (floor not stated)",
+        "brother_family": "House queen bedroom for Ryan & Jenna; twin room or second queen for Ethan and Aubrey"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "The studio is a separately bookable unit with its own full kitchen and bathroom in a two-building compound (Casago 1039785: 'adjoining studio apartment... booked separately or together'; Airbnb 25818928: 'separate studio apartment with its own full kitchen')."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 6,
+        "parents": 2,
+        "location": 3,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Hillside location; walk time to restaurants not stated. Drive to the resort base or townsite, about 5 min (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 750,
+        "nightly_total_usd_high": 750,
+        "label": "verified",
+        "basis": "Casago listing 1039785 (whole Girdwood compound: house + studio apartment, sleeps 10; covers scott_andrea in the studio and parents + brother_family in the house), 8 guests (6 adults, 2 children), 07/04/2027-07/10/2027, read 2026-11-15: US$605.56 x 6 nights = US$3,633.34 (average nightly rate; per-night rates not itemized), Fees US$866.00, 'Total excl. taxes' US$4,499.34. One rate shown. Sum: US$4,499.34 / 6 = US$750/night before tax including fees (US$606/night on the rate alone). Casago's comparison widget shows the same stay at US$5,062 on Airbnb and US$5,161 on Vrbo.",
+        "source_url": "https://casago.com/rentals/1039785/?checkIn=07-04-2027&checkOut=07-10-2027&adults=6&children=2",
+        "fees_notes": "Fees US$866.00 (not itemized; includes the damage waiver covering up to US$2,000); taxes excluded and not shown before checkout.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Girdwood Compound (house + studio apartment, whole listing), Casago direct rate, US$605.56/night avg + US$866.00 fees for the stay"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 750,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Lowest quoted price found",
+        "Studio fully self-contained",
+        "Two living rooms and a mountain-view deck"
+      ],
+      "compromises": [
+        "Three storeys; bedroom floors not stated",
+        "Steep driveway",
+        "No walkable restaurants"
+      ],
+      "best_for": "Choose this if price matters most and the parents are fine with stairs.",
+      "links": [
+        "https://casago.com/rentals/1039785/",
+        "https://www.airbnb.com.au/rooms/25818928",
+        "https://homes-and-villas.marriott.com/en/properties/40003282-girdwood-st-moritz-house"
+      ],
+      "images": [
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039785/69faf838431b02001277110d.jpg?w=830&h=500&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039785/",
+          "credit": "Casago",
+          "alt": "St. Moritz compound, Girdwood",
+          "src": "img/fb546cb6ed713362.jpg"
+        },
+        {
+          "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-25818928/original/b6a394e9-9b49-4fd6-a3bd-b573a9eeec09.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.com.au/rooms/25818928",
+          "credit": "Airbnb listing",
+          "alt": "St. Moritz compound exterior",
+          "src": "img/50ae08d6527f1d98.jpg"
+        },
+        {
+          "url": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-25818928/original/81bbcbbb-a959-4a78-b7e4-af58d9d01875.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.com.au/rooms/25818928",
+          "credit": "Airbnb listing",
+          "alt": "St. Moritz compound interior",
+          "src": "img/a8cf299210e35ba0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vacasa Girdwood Estate: 9BR duplex (Unit A + Unit B)",
+      "kind": "duplex, two independent levels",
+      "quick_verdict": "Two-unit estate near Girdwood Station: step-free lower unit with its own entrance, hot tub deck upstairs.",
+      "configuration": "Vacasa unit 95240 'Newly Remodeled Girdwood Estate for Large Groups': 9 bedrooms plus loft, 6.5 bathrooms, sleeps 21. Duplex with two independent levels (Unit A and Unit B) and two full kitchens; multiple living zones, stone fireplace, large viewing deck, stone fire pit, gas grill, hot tub, keypad entry, parking for 10. The same property appears to be listed by Casago (which took over Vacasa's inventory) as two separate rentals at the Monarch Mine estate: 'Upper Level of the Monarch Estate for Group Stays' (Casago 1039799, 'The Monarch at Monarch Mine - Unit A, upper level', 7 bedrooms plus loft: kings in bedrooms 1, 3, 4 and 5, queen in bedroom 2, 2 twins in each of bedrooms 6 and 7, 2 sofa beds in the loft; 5 full + 1 half baths; sleeps 15; keypad entry, no stairs mentioned; the lower-level page instead says the upper level has '6 more bedrooms and 4 baths', so Casago's own counts disagree (upper 7 + lower 3 = 10 bedrooms vs Vacasa's 9; 3+6 = 9 matches); expansive private deck and hot tub; Girdwood Station 0.06 mile, Girdwood Depot 0.2 mile) and 'Lower Level of the Monarch Estate for Smaller Groups' (Casago 1039779: 3 bedrooms (king, king, 2 twins), 2 bathrooms, sleeps 6, full kitchen, living area, private mountain-view patio with grill, 'a private ground-floor entrance', 'step-free access' in the amenity list, 'you may occasionally hear footsteps from the upper unit'; a 2025 reviewer on that page calls the property a tri-plex and says the exterior photos do not match). The match rests on the same 9-bedroom-plus-loft total, the Unit A label and the 0.2-mile Depot distance; Casago's lower plus upper bath count (7.5) differs from Vacasa's 6.5. Living-room and dining seat counts not stated; stairs to the upper unit not stated. Highway end of town near Girdwood Station, about 2.5 miles from the resort. Renters 21+; no pets.",
+      "family_split": {
+        "scott_andrea": "Upper unit (Unit A): a king bedroom with its own bath; the upper living room, deck and hot tub are the gathering space",
+        "parents": "Lower unit (Unit B), king bedroom (step-free per the Casago listing)",
+        "brother_family": "Lower unit (Unit B): Ryan & Jenna second king bedroom, Ethan and Aubrey the twin room"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Vacasa 95240 describes 'two independent levels' (Unit A and Unit B) each with its own kitchen, i.e. two sides of a duplex; Casago rents the lower level on its own with 'a private ground-floor entrance' and says the upper level 'is also available for rental' (Casago 1039779, 1039799, read 2026-11-15). Scott & Andrea in the upper unit share no hallway, stair or living area with the lower unit. The upper unit's own entrance is not described ('keypad entry' only); the identity of the Vacasa and Casago listings is inferred, not stated."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 8,
+        "parents": 6,
+        "location": 4,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Girdwood Station (coffee, pizza, bakery, fuel) about 0.06 mile and the Depot 0.2 mile per Casago; the townsite restaurants and the resort are a drive (about 5-10 min).",
+      "price": {
+        "nightly_total_usd_low": 1727,
+        "nightly_total_usd_high": 1868,
+        "label": "verified",
+        "basis": "Quoted 2026-11-15 for 07/04/2027-07/10/2027 on two engines for the same estate. Low, Casago (the manager's own listings of the two levels, one rate shown on each): parents + brother_family (4 adults, children 15 and 13) in 'Lower Level of the Monarch Estate' (Casago 1039779, 3 bedrooms): US$405.22 x 6 nights = US$2,431.30 + fees US$618.76 = US$3,050.06 excl. taxes; scott_andrea (2 adults) in 'Upper Level of the Monarch Estate' (Casago 1039799, 7 bedrooms as Casago counts them): US$986.58 x 6 nights = US$5,919.48 + fees US$1,390.34 = US$7,309.82 excl. taxes. Sum: US$10,359.88 / 6 = US$1,727/night before tax including fees (US$1,392/night on the rates alone). Each Casago page says the other level 'is also available for rental' and repeats Vacasa's Girdwood Station 0.06-mile text. High, Vacasa unit 95240 'Newly Remodeled Girdwood Estate for Large Groups' (whole duplex), 8 guests: US$11,208.53 for 6 nights, 'Price includes all fees' (unchanged from 2026-11-14) = US$1,868/night. Per-night rates not itemized on either engine.",
+        "source_url": "https://casago.com/rentals/1039779/?checkIn=07-04-2027&checkOut=07-10-2027&adults=4&children=2",
+        "fees_notes": "Casago: fees US$618.76 (lower) and US$1,390.34 (upper), not itemized; 'Total excl. taxes', taxes not shown before checkout. Vacasa: 'Price includes all fees'; whether room tax is included is not shown before checkout (tax not shown before checkout). Vacasa free cancellation before Jun 27 2027. Upper-level Casago quote: https://casago.com/rentals/1039799/?checkIn=07-04-2027&checkOut=07-10-2027&adults=2&children=0; Vacasa quote: https://www.vacasa.com/unit/95240?adults=6&children=2&checkIn=07-04-2027&checkOut=07-10-2027",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Lower Level of the Monarch Estate (Casago 1039779), Casago direct rate, US$405.22/night avg + US$618.76 fees = US$3,050.06 excl. taxes (parents, brother_family)",
+          "Upper Level of the Monarch Estate (Casago 1039799), Casago direct rate, US$986.58/night avg + US$1,390.34 fees = US$7,309.82 excl. taxes (scott_andrea)",
+          "Newly Remodeled Girdwood Estate for Large Groups (Vacasa 95240, whole duplex), Vacasa direct rate, US$11,208.53 for 6 nights all fees included (US$1,868/night avg)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1727,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Step-free lower unit with own entrance",
+        "Hot tub, fire pit and big deck",
+        "Two kitchens, two living zones",
+        "Coffee and pizza a short walk"
+      ],
+      "compromises": [
+        "Far more space than needed",
+        "Stairs to the upper unit not stated",
+        "Highway end of town, 2.5 miles from resort"
+      ],
+      "best_for": "Choose this if a step-free unit for the parents and a hot tub deck for evenings matter most.",
+      "links": [
+        "https://www.vacasa.com/unit/95240",
+        "https://casago.com/rentals/1039779/",
+        "https://casago.com/rentals/1039799/",
+        "https://www.vacasa.com/usa/alaska/girdwood"
+      ],
+      "images": [
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039799/6a98699f5196a600824a3460.jpg?w=830&h=500&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039799/",
+          "credit": "Casago",
+          "alt": "Monarch estate upper level, Girdwood",
+          "src": "img/b55f56ffcd8ac07e.jpg"
+        },
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039799/69faf99f118a4b00144c968f.jpg?w=600&h=400&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039799/",
+          "credit": "Casago",
+          "alt": "Monarch estate upper level interior",
+          "src": "img/2765d8af263cb49f.jpg"
+        },
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039779/6a9869ea87d5cb007a7b78a3.jpg?w=830&h=500&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039779/",
+          "credit": "Casago",
+          "alt": "Monarch estate lower level",
+          "src": "img/f01017ee99e9fee9.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Alyeska Slopeside B-4 + Mountainside one-bedroom loft condo (Casago)",
+      "kind": "two separate condos near the resort base",
+      "quick_verdict": "Two Casago condos about a quarter mile apart near the resort base; walkable bakery and dinners, but a three-floor townhome.",
+      "configuration": "Two separate rentals from Casago. (1) 'Three-Floor Slopeside Condo w/ Direct Mountain Views' (Alyeska Slopeside B-4, Casago 1039777): townhome condo, 3 bedrooms (bedroom 1 king, bedroom 2 queen, bedroom 3 a double plus three twins), 2 bathrooms, sleeps 8, 'three full floors', full kitchen, dining area (seats not stated), living room with large sofa, private outdoor hot tub facing the mountain, deck with gas grill, parking for 3, 'a short walk to Alyeska Resort'; floor of each bedroom and stairs not stated; rated 4.71 from 14 reviews; renters 25+. (2) 'One-Bedroom Loft Condo w/ Full Mountain Views' (Casago 1039792, a review calls it Mountainside Condo #307): 1 bedroom (king) plus a queen loft, 1 bathroom, full kitchen, sleeps 4, ski-in/ski-out, on the Girdwood shuttle line, 'quick walking access to the resort spa facility, trailheads, and valley fine dining'; a guest review names La Bodega, Jack Sprat and the Bake Shop as walkable; floor and elevator not stated; 1 parking space; rated 4.55 from 20 reviews; renters 21+. Casago's map pins (60.9579,-149.1142 and 60.9601,-149.1085) put them about 0.25 mile apart (my estimate). Gathering room: the B-4 living room and hot tub deck; whether it seats 8 is not stated.",
+      "family_split": {
+        "scott_andrea": "Mountainside one-bedroom loft condo (king bedroom, own bathroom and kitchen)",
+        "parents": "Slopeside B-4 king bedroom (floor not stated)",
+        "brother_family": "Slopeside B-4: Ryan & Jenna queen bedroom; Ethan and Aubrey the double + three twins room"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate rental in a different building about 0.25 mile from the others (Casago 1039792 vs 1039777), with its own bedroom, bathroom and kitchen: a nearby rental qualifies under the rubric."
+      },
+      "ratings": {
+        "privacy": 10,
+        "shared_space": 5,
+        "parents": 3,
+        "location": 7,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Bake Shop, Jack Sprat and La Bodega walkable from the Mountainside condo (guest review); Slopeside 'a short walk to Alyeska Resort'; Hotel Alyeska and the tram about a mile (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 829,
+        "nightly_total_usd_high": 829,
+        "label": "estimate",
+        "basis": "sold_out: Slopeside B-4 (Casago 1039777, 4 adults + children 15 and 13 for parents + brother_family) shows 'This unit is unavailable for the dates selected' for 07/04/2027-07/10/2027 (read 2026-11-15); its calendar has Jul 7-9 and Jul 10-11 2027 blocked, while a 6-night control Jul 18-24 2027 prices at US$405.22 x 6 = US$2,431.30 + fees US$735.76 = US$3,167.06 excl. taxes, so July is open and the trip dates are booked. (2-night controls Dec 15-17 2026 and Jul 25-27 2027 also returned unavailable, likely a minimum stay; not stated.) No other Casago unit was checked as an equivalent. Quoted: scott_andrea (2 adults) in 'One-Bedroom Loft Condo w/ Full Mountain Views' (Casago 1039792): US$243.81 x 6 nights = US$1,462.86 + fees US$341.54 = US$1,804.40 excl. taxes = US$301/night. Still guessed: B-4 at its Jul 18-24 2027 quote, US$528/night. Sum: US$301 + US$528 = US$829/night before tax including fees (estimate; the split cannot be booked as written).",
+        "source_url": "https://casago.com/rentals/1039777/?checkIn=07-04-2027&checkOut=07-10-2027&adults=4&children=2",
+        "fees_notes": "Casago fees US$341.54 on the loft condo (not itemized); 'Total excl. taxes', taxes not shown before checkout. Loft quote: https://casago.com/rentals/1039792/?checkIn=07-04-2027&checkOut=07-10-2027&adults=2&children=0",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "One-Bedroom Loft Condo w/ Full Mountain Views (Casago 1039792), Casago direct rate, US$243.81/night avg + US$341.54 fees = US$1,804.40 excl. taxes (scott_andrea)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 829,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate buildings a short walk apart",
+        "Walk to Bake Shop and Jack Sprat",
+        "Private hot tub at the townhome",
+        "Lowest estimated price"
+      ],
+      "compromises": [
+        "Townhome is three floors; parents on stairs",
+        "Gathering seats not stated",
+        "Price not yet quoted for July"
+      ],
+      "best_for": "Choose this if walking to the resort base and a fully separate condo matter more than step-free access.",
+      "links": [
+        "https://casago.com/rentals/1039777/",
+        "https://casago.com/rentals/1039792/"
+      ],
+      "images": [
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039777/69faf95a779d120013d2ee7d.jpg?w=830&h=500&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039777/",
+          "credit": "Casago",
+          "alt": "Alyeska Slopeside B-4 townhome condo",
+          "src": "img/15af9e22ba03c973.jpg"
+        },
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039777/69faf95a779d120013d2ee7e.jpg?w=600&h=400&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039777/",
+          "credit": "Casago",
+          "alt": "Slopeside B-4 interior",
+          "src": "img/0d1e7531e2af60c2.jpg"
+        },
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039792/69faf935685ae50013ed58d0.jpg?w=830&h=500&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039792/",
+          "credit": "Casago",
+          "alt": "One-bedroom loft condo near the Alyeska base",
+          "src": "img/8c595f4b2638d21f.jpg"
+        }
+      ]
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Penguin Ridge Perch full duplex (Casago): Unit A + Unit B",
+      "kind": "duplex, both sides",
+      "quick_verdict": "Cheap two-sided duplex near Virgin Creek; one side each, but the second side is tight for six.",
+      "configuration": "Casago 1039778 'Full Duplex Staging Ground for Large Family Groups' (review summary: 'Penguin Ridge Perch'): 'Both independent sides of our premium Girdwood duplex combined', 4 bedrooms (bedroom 1 king; bedroom 2 double + twin; bedroom 3 king; bedroom 4 double + twin), 2 full + 2 half baths, sleeps 10, two full kitchens, two living rooms with large sofas, formal dining table and breakfast bar (seats not stated), dual viewing decks and a shared grilling area; no hot tub or fire pit listed. Unit A is also listed alone (Casago 1039822 / Vacasa 116086 'Cozy Mountainside Duplex Near Virgin Creek Trailhead': 2 bedrooms, king and queen + 2 twins, 1.5 baths, sleeps 6, 'Pairs with Unit B for larger group bookings'; the bed list differs from the combined listing). Separate entrances not stated (keypad entry). Floors and stairs not stated. Near the Virgin Creek trailhead; restaurants 'a brief drive'. Renters 25+.",
+      "family_split": {
+        "scott_andrea": "Unit A: king bedroom (second bedroom unused)",
+        "parents": "Unit B: king bedroom",
+        "brother_family": "Unit B: second bedroom (double + twin per the combined listing) plus a living-room sofa, not stated as a sofa bed"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "One side of a duplex: Casago 1039778 describes 'both independent sides' with two kitchens and two living rooms, and Unit A is listed alone (1039822: 'Pairs with Unit B'). A guest review on 1039822 mentions 'a family in Unit B'. Entrances not described."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 5,
+        "parents": 3,
+        "location": 3,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Restaurants 'a brief drive' (listing); walk times not stated.",
+      "price": {
+        "nightly_total_usd_low": 660,
+        "nightly_total_usd_high": 660,
+        "label": "verified",
+        "basis": "Casago 1039778 'Full Duplex Staging Ground for Large Family Groups' (both sides, Unit A + Unit B: 'This home is a combination of two units'; covers scott_andrea in Unit A and parents + brother_family in Unit B), 8 guests (6 adults, 2 children), 07/04/2027-07/10/2027, read 2026-11-15: US$525.42 x 6 nights = US$3,152.52 (average nightly rate; per-night rates not itemized) + fees US$808.30 = US$3,960.82 excl. taxes. One rate shown. Sum: US$3,960.82 / 6 = US$660/night before tax including fees (US$525/night on the rate alone).",
+        "source_url": "https://casago.com/rentals/1039778/?checkIn=07-04-2027&checkOut=07-10-2027&adults=6&children=2",
+        "fees_notes": "Fees US$808.30 (not itemized); 'Total excl. taxes', taxes not shown before checkout.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Full Duplex Staging Ground for Large Family Groups (Casago 1039778, both sides), Casago direct rate, US$525.42/night avg + US$808.30 fees = US$3,960.82 excl. taxes"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 660,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "One duplex side per group",
+        "Two kitchens and two living rooms",
+        "Low estimated price"
+      ],
+      "compromises": [
+        "Ryan's family short on beds",
+        "Entrances, floors and stairs not stated",
+        "No walkable restaurants"
+      ],
+      "best_for": "Choose this if price matters most and Ryan's family will share a room.",
+      "links": [
+        "https://casago.com/rentals/1039778/",
+        "https://casago.com/rentals/1039822/",
+        "https://www.vacasa.com/unit/116086"
+      ],
+      "images": [
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039778/69faf9882db9590013e7c7ff.jpg?w=830&h=500&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1039778/",
+          "credit": "Casago",
+          "alt": "Penguin Ridge Perch duplex, Girdwood",
+          "src": "img/df32743f74737690.jpg"
+        },
+        {
+          "url": "https://images.casago.com/unit-images/pal/1039822/69faf9751f58a70012f58304.jpg",
+          "page_url": "https://casago.com/rentals/1039822/",
+          "credit": "Casago",
+          "alt": "Penguin Ridge Perch Unit A",
+          "src": "img/55cfec9bd15787ad.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Wendy's Girdwood Getaway (Airbnb): 3BR chalet + first-floor apartment + dry cabin",
+      "kind": "chalet (upper two floors) + separate ground-floor apartment + log cabin",
+      "quick_verdict": "Chalet with a separate apartment below, hot tub and fire pit; booked for the dates.",
+      "configuration": "Host Wendy Nilsson (Superhost; chalet rated 4.96 from 112 reviews; permit STR20260945). Chalet on the 2nd and 3rd floors, sleeps 8, 3 bedrooms, 5 beds, 2 bathrooms: 2nd-floor great room (kitchen, dining, living) with two-storey windows facing the mountain and glaciers; bedroom 2 queen + airbed and bedroom 3 two singles (suspended twin over twin) + airbed on the 2nd floor sharing a full bath with tub; 3rd-floor master suite with king, ottoman single pull-out, en-suite bath with tub and loft reading nook. First-floor one-bedroom apartment listed separately on Airbnb as 'Perfect Apartment', with its own locking security door to the shared laundry room; its kitchen and seating not described. Detached log cabin sleeps 4 (king loft by ladder, double pull-out), dry (no bathroom or running water), rentable only when available. Small hot tub on the cabin deck shared by all guests; large yard and fire pit. Residential neighbourhood under a mile from Chair 4. Dining seat count not stated. Exact address after booking. Moved to backups 2026-11-15: both Airbnb listings show Jul 4-10 2027 as not available.",
+      "family_split": {
+        "scott_andrea": "First-floor one-bedroom apartment",
+        "parents": "Chalet 2nd-floor queen bedroom (one flight up from the ground floor)",
+        "brother_family": "Chalet 3rd-floor king master for Ryan & Jenna; 2nd-floor twin room for Ethan and Aubrey"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "The first floor is 'a separate one bedroom apartment', also rented on its own as 'Perfect Apartment', with its own locking security door (Airbnb 25455404 listing text). It shares the laundry room; whether its outside entrance is separate from the chalet's is not stated."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 7,
+        "parents": 3,
+        "location": 4,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Under a mile from Chair 4 at the resort; restaurant walk times not stated. Short drive to the resort base or townsite.",
+      "price": {
+        "nightly_total_usd_low": 500,
+        "nightly_total_usd_high": 800,
+        "label": "estimate",
+        "basis": "Not bookable yet, or sold out, for these dates (checked 2026-11-14): Airbnb 25455404 (chalet + cabin) and the host's whole-property listing 1198119671985284940 'Wendy's Girdwood Getaway!' (chalet + apartment + cabin, 15 guests, 6 bedrooms) both show 'Those dates are not available' for Jul 4-Jul 10 2027; a 2-night control stay (Dec 14-16 2026) on the whole-property listing prices at US$2,012 including fees. Numbers below are the old estimate: comparable Girdwood listings (Casago St. Moritz house + studio averages US$485/night; Casago one-bedroom garage apartment US$162/night); July peak assumed higher. Ask the host on Airbnb when July 2027 opens.",
+        "source_url": "https://www.airbnb.com/rooms/1198119671985284940?check_in=2027-07-04&check_out=2027-07-10&adults=6&children=2",
+        "fees_notes": "Airbnb prices include all fees; no quote for the trip dates.",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "ota",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate apartment below the chalet",
+        "Hot tub, fire pit and big yard",
+        "Glacier-view great room",
+        "Highly rated host"
+      ],
+      "compromises": [
+        "Not available for Jul 4-10 on Airbnb",
+        "Living level and bedrooms upstairs",
+        "Hot tub shared with any other guests",
+        "Apartment entrance not described"
+      ],
+      "best_for": "Choose this if a hot tub, fire pit and a view room for evenings matter more than step-free access.",
+      "links": [
+        "https://www.airbnb.co.uk/rooms/25455404"
+      ],
+      "images": [
+        {
+          "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-25455404/original/b060f9a7-6faf-472a-99fe-511affc8eed5.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.co.uk/rooms/25455404",
+          "credit": "Airbnb listing (Wendy's Girdwood Getaway)",
+          "alt": "Chalet in Girdwood",
+          "src": "img/46f5cd19661faa20.jpg"
+        },
+        {
+          "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-25455404/original/bc78c0b9-48b6-4899-8702-28746d6f6218.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.co.uk/rooms/25455404",
+          "credit": "Airbnb listing (Wendy's Girdwood Getaway)",
+          "alt": "Chalet great room",
+          "src": "img/844ea712fc9f97c2.jpg"
+        },
+        {
+          "url": "https://a0.muscache.com/im/pictures/hosting/Hosting-25455404/original/c4a16de0-502a-4923-8944-b958ddca2f9b.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.co.uk/rooms/25455404",
+          "credit": "Airbnb listing (Wendy's Girdwood Getaway)",
+          "alt": "Chalet interior",
+          "src": "img/7305eede6551f9d0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hotel Alyeska: three rooms",
+      "kind": "resort hotel rooms",
+      "quick_verdict": "Step-free and walkable to resort dining and the tram, but no private room for the group; booked and over the cap.",
+      "configuration": "Hotel Alyeska, 1000 Arlberg Ave (about 300 rooms; Black Diamond Club on the 8th floor). Room types per Alaska.org: Deluxe (1 king or 2 doubles); Signature Rooms 325 sq ft (2 queens or 1 king); Signature Suites 500 sq ft; Black Diamond Club rooms, Executive Suite, One-Bedroom Suite and Loft Suite; a third-party listing names a 2-bedroom Glacier Suite (2 kings, 8 guests). Rates cover 2 adults; US$25 per extra adult; under-18s free with no more than two adults. Connecting rooms on request (third-party listing). In-hotel dining: Forte (Italian, on the pond), Sakura Asian Bistro, aBar; Sitzmark at the Daylodge; tram from the hotel to Seven Glaciers. Nordic Spa is at the base (adults 18+). Elevator not stated on the pages read (assumed for a multi-storey 300-room hotel). Gathering space: lobby, bars and pond grounds only, unless a suite is added. Moved to backups 2026-11-15: the price-checker found standard rooms and any room for 2 adults + 2 children unavailable for the dates.",
+      "family_split": {
+        "scott_andrea": "Own room (Club King; Signature rooms unavailable for the dates)",
+        "parents": "Own room (Club King), ideally near the elevator",
+        "brother_family": "Not offered online for 2 adults + 2 children for the dates; Club King-priced room or suite assumed"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel room with its own bathroom and locking door (rubric: a separate hotel room qualifies)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 2,
+        "parents": 8,
+        "location": 7,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Forte, Sakura and aBar in the hotel; Sitzmark and the tram to Seven Glaciers a few minutes away; Jack Sprat and the Bake Shop at the resort base about 10 min on foot (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 3146,
+        "nightly_total_usd_high": 4195,
+        "label": "estimate",
+        "basis": "Alyeska Resort's own engine (Windsurfer, propertyID 17002), 07/04/2027-07/10/2027. 1 room, 2 adults: 'Alyeska Resort Guest Rooms' (the Signature/Deluxe rooms in the split) UNAVAILABLE; available are Club King (Daily Rate, flexible cancellation, US$1,048.66 per night excluding taxes and fees; the only plan shown), Signature Suite King from US$1,257.66, Club Executive Suite King and Executive Suite King Accessible from US$1,615.66 ('From' = cheapest plan). Quoted: scott_andrea Club King US$1,048.66 and parents Club King US$1,048.66 = US$2,097.32/night. Still guessed: brother_family (2 adults + 2 children 15 and 13): 1 room, 2 adults, 2 children returns no rooms at all. Range: low = a third room at the Club King rate (US$3,146/night) if a 4-person room opens; high = two Club Kings for the family (four rooms, US$4,195/night). Both are over the nightly cap.",
+        "source_url": "https://res.windsurfercrs.com/ibe/index.aspx?propertyID=17002&checkin=07/04/2027&checkout=07/10/2027&adults=2",
+        "fees_notes": "Rates 'per night excluding taxes and fees'; taxes and resort fee not shown before checkout (tax not shown before checkout).",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Club King, Daily Rate, US$1,048.66/night (scott_andrea)",
+          "Club King, Daily Rate, US$1,048.66/night (parents)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 2097.32,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": true
+      },
+      "pros": [
+        "Walk to six resort restaurants and the tram",
+        "Easiest option for the parents",
+        "Nordic Spa next door"
+      ],
+      "compromises": [
+        "No private gathering room",
+        "No kitchens",
+        "Over the cap: about $3,146+/night for three rooms"
+      ],
+      "best_for": "Choose this if walkable dinners and an easy week for the parents beat a shared living room.",
+      "links": [
+        "https://www.alyeskaresort.com/",
+        "https://www.alaska.org/detail/hotel-alyeska"
+      ],
+      "images": [
+        {
+          "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1600xAUTO_crop_center-center_65_none/Hotel_exterior_summer_HagePhoto-alaska-hotel-alyeska-girdwood.jpg",
+          "page_url": "https://www.alaska.org/detail/hotel-alyeska",
+          "credit": "Alaska.org / Alyeska Resort",
+          "alt": "Hotel Alyeska exterior in summer",
+          "src": "img/8aedb4891ec98ff3.jpg"
+        },
+        {
+          "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1600xAUTO_crop_center-center_65_none/RKP_Room-409-DX1K-3-alaska-hotel-alyeska-girdwood.jpg",
+          "page_url": "https://www.alaska.org/detail/hotel-alyeska",
+          "credit": "Alaska.org / Alyeska Resort",
+          "alt": "Hotel Alyeska deluxe king room",
+          "src": "img/015af21bcc30efeb.jpg"
+        },
+        {
+          "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1600xAUTO_crop_center-center_65_none/AlyeskaHotelLobby-1-2-2-alaska-hotel-alyeska-girdwood.jpg",
+          "page_url": "https://www.alaska.org/detail/hotel-alyeska",
+          "credit": "Alaska.org / Alyeska Resort",
+          "alt": "Hotel Alyeska lobby",
+          "src": "img/dd900e06bcd540d6.jpg"
+        }
+      ]
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Alpine Air Alaska: helicopter glacier dog sledding",
+        "what_you_do": "Fly by helicopter from Girdwood to a glacier dog camp, then ride behind a dog team or drive it yourself ('mush your own team or sit back'), and pet and play with the dogs, possibly cuddling puppies. 1.5 hours; 2.5 hours as the combined Ultimate Summer Tour.",
+        "why_memorable": "Being pulled across a summer glacier by an Iditarod-style dog team, five minutes from the lodging.",
+        "interactivity": "hands-on",
+        "drive_minutes": 5,
+        "price_usd": "About $784 per person (Alaska Railroad listing for the 2027 season, read 2026-11-14); Alpine Air's page lists no price",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book online (FareHarbor) well ahead; weather-dependent flights; season May 15-Aug 30 (Alpine Air page, read 2026-11-15, no closure notice); Alaska Railroad lists May 14-Sep 12, 2027. Minimum age and weight limits not stated.",
+        "url": "https://alpineairalaska.com/girdwood/dog-sledding-tours/",
+        "image": {
+          "url": "https://alpineairalaska.com/wp-content/uploads/2025/03/Petting-Sled-Dog.jpg",
+          "page_url": "https://alpineairalaska.com/girdwood/dog-sledding-tours/",
+          "credit": "Alpine Air Alaska",
+          "alt": "Guest petting a sled dog on the glacier",
+          "src": "img/7e9c06e38b02c9a3.jpg"
+        }
+      },
+      {
+        "name": "Alaska Wildlife Conservation Center: Moose Encounter",
+        "what_you_do": "Hand-feed a moose and take a photo while staff explain diet and behaviour; then walk or drive the 1.5-mile loop past bears, bison, musk ox and elk.",
+        "why_memorable": "Feeding a full-size moose by hand, at a sanctuary for orphaned and injured Alaska wildlife.",
+        "interactivity": "hands-on",
+        "drive_minutes": 20,
+        "price_usd": "$30 per person plus admission ($30 adult 13+, $26 youth 4-12), 2026 rates",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Reservations required; Tue, Thu, Sat, Sun at 10:30am, June 1-Sep 15 (2026 schedule); up to 35 people. During the stay: Sun Jul 4, Tue Jul 6, Thu Jul 8.",
+        "url": "https://alaskawildlife.org/education/tours/",
+        "image": {
+          "url": "https://alaskawildlife.org/wp-content/uploads/2025/06/AWCC-MooseEncounter_6-14-25_JaneThompson6-WEB-Size.jpg",
+          "page_url": "https://alaskawildlife.org/education/tours/",
+          "credit": "Alaska Wildlife Conservation Center / Jane Thompson",
+          "alt": "Visitor hand-feeding a moose",
+          "src": "img/96153407ebd35a86.jpg"
+        }
+      },
+      {
+        "name": "Alaska Zoo: summer animal feedings",
+        "what_you_do": "Feed animals with a keeper in a 30-min session: moose and musk ox (10:30am), alpaca and porcupine (12:30pm), black bear (2:30pm). The page says 'feed an animal with a trained guide', not whether it is by hand.",
+        "why_memorable": "A keeper-led bear or moose feeding, with several slots a day to fit an Anchorage outing.",
+        "interactivity": "hands-on",
+        "drive_minutes": 45,
+        "price_usd": "$30 per person plus zoo entry",
+        "age_min": 9,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Pay at the gate the same day; no online reservations; max 10 per session, so arrive early. Season May 21-Sep 1 (2026); no feedings Aug 1-9 (outside the stay).",
+        "url": "https://www.alaskazoo.org/summer-feedings-tours",
+        "image": {
+          "url": "https://images.squarespace-cdn.com/content/v1/59b9ecdabebafb8293096530/019abb6b-8fe2-4ddc-ac17-8b2f5a2468a1/IMG_3427.jpg",
+          "page_url": "https://www.alaskazoo.org/summer-feedings-tours",
+          "credit": "Alaska Zoo",
+          "alt": "Guided animal feeding at the Alaska Zoo",
+          "src": "img/23f73b50b3468866.jpg"
+        }
+      },
+      {
+        "name": "Alaska Wildlife Conservation Center: Walk on the Wild Side (WOW) tour",
+        "what_you_do": "A 90-minute naturalist-led behind-the-scenes walk that includes feeding an animal (the species is not named in the text; the page photos show guests feeding a porcupine).",
+        "why_memorable": "Small group (max 10) and a behind-the-scenes feeding without the bear-encounter price.",
+        "interactivity": "hands-on",
+        "drive_minutes": 20,
+        "price_usd": "$140 per person including admission",
+        "age_min": 10,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Reservations required; daily 2:00-3:30pm year-round; max 10. Brown Bear Encounter (watch training and feeding, 12+, $175, Mon/Wed/Fri) can be added at 20% off the same day.",
+        "url": "https://alaskawildlife.org/education/tours/",
+        "image": {
+          "url": "https://alaskawildlife.org/wp-content/uploads/2025/03/Amy-leading-WOW-tour-10-17-24-by-Jane-1-WEB-.jpg",
+          "page_url": "https://alaskawildlife.org/education/tours/",
+          "credit": "Alaska Wildlife Conservation Center",
+          "alt": "Naturalist leading a WOW tour",
+          "src": "img/dc11e6b750ff1374.jpg"
+        }
+      },
+      {
+        "name": "Lazy Otter Charters: guided sea kayaking from Whittier",
+        "what_you_do": "Boat out to a sheltered part of Prince William Sound and paddle a guided kayak trip; sea otters, seals, sea lions and eagles are among the wildlife the operator lists, but sightings are not guaranteed.",
+        "why_memorable": "Paddling at water level among glaciers where sea otters and seals live; for the active members of the party.",
+        "interactivity": "viewing",
+        "drive_minutes": 40,
+        "price_usd": "About $400 per person (search snippet only; the Alaska.org page read 2026-11-15 lists no kayak price)",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Alaska.org page (read 2026-11-15) describes a full-day trip and states no price, season, minimum age or minimum group; the June 1-Aug 31 season and four-paddler minimum came from a search snippet and are unconfirmed. Whittier tunnel runs on a timed schedule (a cruise-line Whittier kayak listing sets 10+ and 275 lb).",
+        "url": "https://alaska.org/detail/lazy-otter-charters-kayak-tours",
+        "image": {
+          "url": "https://uploads.alaska.org/suppliers/_450x300_crop_center-center_65_none/2017-WP_20160918_11_36_52_Pro-oz2lyu.jpg",
+          "page_url": "https://www.alaska.org/destination/whittier/sea-kayaking-tours",
+          "credit": "Alaska.org / Lazy Otter Charters",
+          "alt": "Kayakers in Prince William Sound near Whittier",
+          "src": "img/97c2f0abd3715f93.jpg"
+        }
+      }
+    ],
+    "golf": [
+      {
+        "name": "Anchorage Golf Course (O'Malley Road)",
+        "what_you_do": "Public municipal 18 on the Hillside above Anchorage; tee times by phone.",
+        "why_memorable": "Views over the city to Cook Inlet and, on clear days, Denali; long July daylight allows evening rounds.",
+        "drive_minutes": 40,
+        "price_usd": "About $65-84 for 18 holes (2026 third-party rate trackers); cart extra; course does not publish rates on its home page",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Call 907-522-3363; summer weekends busy.",
+        "url": "https://www.anchoragegolfcourse.com/",
+        "image": {
+          "url": "https://www.anchoragegolfcourse.com/images/slider2/showcase1.jpg",
+          "page_url": "https://www.anchoragegolfcourse.com/",
+          "credit": "Anchorage Golf Course",
+          "alt": "Anchorage Golf Course fairway",
+          "src": "img/2dd74439924c73fc.jpg"
+        }
+      },
+      {
+        "name": "Moose Run Golf Course (Joint Base Elmendorf-Richardson)",
+        "what_you_do": "Two 18-hole courses (Hill and Creek) on the military base north of Anchorage.",
+        "why_memorable": "Wooded Chugach-foothill layout, often cited as the best golf in Anchorage.",
+        "drive_minutes": 60,
+        "price_usd": "Civilian about $53-56 for 18 (third-party listings)",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Civilian access not confirmed: base entry needs a Visitor Control Center pass or sponsor (ID for 16+); a $10 iSportsman recreation pass was not supported by the sources read and iSportsman/RecAccess permits reportedly cover training lands, not base entry. Call Moose Run, 907-428-0056.",
+        "url": "https://www.golflink.com/golf-courses/ak/fort-richardson/moose-run-golf-course-512/rates-tee-times"
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Alyeska Aerial Tram",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "40-passenger tram from Hotel Alyeska to the 2,300 ft level with glacier and Turnagain Arm views, elevator at the top to Seven Glaciers. About $55 adult (Alaska.org); free with a Seven Glaciers dinner reservation (third-party listing). Season about May 21-Sep 20.",
+      "drive_minutes": 0,
+      "url": "https://www.alaska.org/detail/alyeska-tram",
+      "found_via": "Alaska.org; Travel Alaska",
+      "image": {
+        "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1600xAUTO_crop_center-center_65_none/RKP_FromtheAirN_polished2018-copy-alaska-hotel-alyeska-girdwood.jpg",
+        "page_url": "https://www.alaska.org/detail/hotel-alyeska",
+        "credit": "Alaska.org / Alyeska Resort",
+        "alt": "Alyeska Resort from the air",
+        "src": "img/b1bcaeb975e6a840.jpg"
+      }
+    },
+    {
+      "name": "Alyeska Nordic Spa",
+      "good_for": [
+        "adults",
+        "parents",
+        "rainy day"
+      ],
+      "details": "50,000 sq ft indoor-outdoor hydrotherapy spa (hot and cold pools, saunas, steam) at the resort base. Adults only, 18+, so Ethan and Aubrey cannot go. Day pass from about $109 (undated article); reservations recommended.",
+      "drive_minutes": 0,
+      "url": "https://www.alyeskaresort.com/product/stay-spa/",
+      "found_via": "Alaska.org Hotel Alyeska page"
+    },
+    {
+      "name": "Phillips 26 Glacier Cruise from Whittier",
+      "good_for": [
+        "everyone",
+        "rainy day"
+      ],
+      "details": "About 5 hours in Prince William Sound past 26 glaciers in a heated cabin; departs 12:30pm. About $219 adult / $137 child plus $26.95 tax and fee (2026); drive through the timed Whittier tunnel (toll extra), about 40 min from Girdwood.",
+      "drive_minutes": 40,
+      "url": "https://www.alaska.org/detail/26-glacier-cruise-phillips",
+      "found_via": "Search; Travel Alaska listing"
+    },
+    {
+      "name": "Crow Creek Mine gold panning",
+      "good_for": [
+        "teens",
+        "everyone"
+      ],
+      "details": "Historic 1896 placer mine up Crow Creek Road; gold panning mid-May to mid-September in past seasons. The property was listed for sale in June 2026, so 2027 operations are unconfirmed.",
+      "drive_minutes": 10,
+      "url": "https://www.alaskasnewssource.com/2026/06/26/historic-crow-creek-mine-up-sale/",
+      "found_via": "Anchorage.net Girdwood page; Frommer's"
+    },
+    {
+      "name": "Girdwood Forest Fair",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Annual arts, crafts and music fair at the Girdwood fairgrounds over the Fourth of July weekend (July 4-6, 2025; July 3-5, 2026). 2027 dates not announced; if it runs July 2-4 the stay catches only arrival day, and the holiday weekend tightens lodging.",
+      "drive_minutes": 5,
+      "url": "https://www.anchorage.net/events/annual-events/july-4th-celebration/",
+      "found_via": "Visit Anchorage events"
+    }
+  ],
+  "shopping_exploring": "Girdwood has a few made-in-Alaska shops at the townsite and the resort; real shopping is a day in downtown Anchorage (45-50 min).",
+  "restaurants": [
+    {
+      "name": "Seven Glaciers",
+      "category": "special dinner",
+      "notes": "AAA Four Diamond restaurant at 2,300 ft, reached by the tram from Hotel Alyeska; reservations recommended. Prices not found.",
+      "walk_minutes_from_lodging": 2,
+      "url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+      "image": {
+        "url": "https://uploads.alaska.org/suppliers/dining/S/seven-glaciers/hero/_450x300_crop_center-center_65_none/2710170/seven-glaciers-alyeska-hero-1.jpg",
+        "page_url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+        "credit": "Alaska.org",
+        "alt": "Seven Glaciers dining room",
+        "src": "img/3d00624c48534a00.jpg"
+      }
+    },
+    {
+      "name": "Jack Sprat",
+      "category": "family dinner",
+      "notes": "'Fat & Lean' world cuisine with local ingredients at the resort base; evenings Wed-Sun per a dining directory.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+      "image": {
+        "url": "https://uploads.alaska.org/suppliers/_450x300_crop_center-center_65_none/2019-IMG_9247-prk62f.jpg",
+        "page_url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+        "credit": "Alaska.org",
+        "alt": "Jack Sprat restaurant",
+        "src": "img/56b9acf7ced5a927.jpg"
+      }
+    },
+    {
+      "name": "Forte (Hotel Alyeska)",
+      "category": "family dinner",
+      "notes": "Italian in the hotel overlooking the pond.",
+      "walk_minutes_from_lodging": 2,
+      "url": "https://www.alaska.org/detail/hotel-alyeska"
+    },
+    {
+      "name": "Sakura Asian Bistro (Hotel Alyeska)",
+      "category": "casual",
+      "notes": "Sushi, bento, steak; communal seating, in the hotel.",
+      "walk_minutes_from_lodging": 2,
+      "url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+      "image": {
+        "url": "https://uploads.alaska.org/suppliers/dining/S/sakura-asian-bistro/_450x300_crop_center-center_65_none/RKP_Sakura_9-8-2019-191-alaska-hotel-alyeska-girdwood-sakura-asian-bistro.jpg",
+        "page_url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+        "credit": "Alaska.org",
+        "alt": "Sakura Asian Bistro",
+        "src": "img/32419e2bb58805cb.jpg"
+      }
+    },
+    {
+      "name": "Chair 5",
+      "category": "casual",
+      "notes": "Pizza, burgers, beer and whiskey in the townsite; Alaska.org calls it loud even on weeknights. About 12 min walk from AlohAlaska.",
+      "walk_minutes_from_lodging": 12,
+      "url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+      "image": {
+        "url": "https://uploads.alaska.org/suppliers/_450x300_crop_center-center_65_none/Chair_5-DSC00235-o5p71g.jpg",
+        "page_url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+        "credit": "Alaska.org",
+        "alt": "Chair 5 restaurant",
+        "src": "img/8a77532a1468c32b.jpg"
+      }
+    },
+    {
+      "name": "The Bake Shop",
+      "category": "breakfast/coffee",
+      "notes": "Year-round bakery: cinnamon rolls, soups, sandwiches; at the resort base.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+      "image": {
+        "url": "https://uploads.alaska.org/suppliers/_450x300_crop_center-center_65_none/Girdwood-01-n8ij2g.jpg",
+        "page_url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+        "credit": "Alaska.org",
+        "alt": "The Bake Shop, Girdwood",
+        "src": "img/390585adffd4edaa.jpg"
+      }
+    }
+  ],
+  "weather": {
+    "july": {
+      "high_f": 64,
+      "low_f": 49,
+      "rain_days": 13,
+      "notes": "Weather Spark Girdwood: chance of a wet day rises from 38% to 48% through July (about 13 wet days); overcast or mostly cloudy 69% of the time; highs rarely above 72 F. Anchorage is drier than Girdwood."
+    },
+    "source_url": "https://weatherspark.com/m/246/7/Average-Weather-in-July-in-Girdwood-Alaska-United-States"
+  },
+  "logistics": {
+    "airport": "Ted Stevens Anchorage International (ANC)",
+    "drive_minutes_from_airport": 50,
+    "flights": {
+      "den": "United nonstop DEN-ANC, 3 daily in summer 2026 (4 daily Jun 25-Aug 10), 737 MAX 8; 2027 schedule not yet published.",
+      "bay_area": "Alaska Airlines summer nonstop SFO-ANC; SMF-ANC nonstop 1-2x weekly in summer (2026 pattern); OAK connects via SEA."
+    },
+    "car_needed": "Yes. The resort, townsite, AWCC, Whittier and Anchorage are all drives; 2-3 rental cars from ANC.",
+    "notes": "About 40 miles on the Seward Highway along Turnagain Arm, 45-50 min. Fourth of July weekend arrival: expect holiday traffic and busy rental counters."
+  },
+  "caveats": [
+    "No walkable village: the resort base and the townsite are about 2.5 miles apart, and Girdwood has under ten restaurants.",
+    "Hotel Alyeska and Wendy's Girdwood Getaway are booked for Jul 4-10 2027 (2026-11-14) and now sit in the backups; Hotel Alyeska was also over the nightly cap (about US$3,146-4,195/night for three or four rooms).",
+    "The step-free option for the parents is the Monarch estate's lower level; its 'private ground-floor entrance' and 'step-free access' come from Casago's listing, matched to the Vacasa estate by bedroom count and location, and the hot tub deck is up a level.",
+    "Lodging prices quoted 2026-11-14 for Jul 4-10 2027: Vacasa estate US$1,868/night (fees included), AlohAlaska US$1,476/night (Vrbo, fees included), St. Moritz compound US$749/night (Casago, before tax); the resort-base condo pair (about US$548/night) and Penguin Ridge (about US$396/night) are undated Casago averages; taxes not shown before checkout on any of them.",
+    "2027 schedules for AWCC, Alaska Zoo and Alpine Air are not published; figures are from 2026 pages.",
+    "Golf is a 40-min drive to a municipal course; Moose Run requires military-base access.",
+    "Nordic Spa is 18+ and the AWCC bear encounters are 12+; Aubrey (13) qualifies for the bear encounters, neither teen for the spa.",
+    "Crow Creek Mine was listed for sale in June 2026; 2027 operation is unconfirmed.",
+    "Lodging prices re-quoted 2026-11-15 for Jul 4-10 2027 (before tax, fees included): Monarch estate US$1,727/night as Casago's two level listings or US$1,868 on Vacasa, AlohAlaska US$1,474 (Vrbo), St. Moritz compound US$750, Penguin Ridge duplex backup US$660; the Slopeside B-4 + loft condo pair is sold out (B-4 booked for the dates, 2026-11-15)."
+  ],
+  "open_questions": [
+    "AlohAlaska: room tax on the Vrbo US$8,858 quote, whether each of the three spaces has its own outside entrance, steps to the studio, and dining-table size (ask Chugach Properties via Savvy).",
+    "St. Moritz compound: which floor each bedroom is on, where the 3-twin room sits, and dining seating (ask Casago).",
+    "Vacasa Girdwood Estate: confirm it is the Monarch estate Casago lists as 1039779 (lower) and 1039799 (upper), that the lower level's ground-floor entrance and step-free access apply, how many steps lead to the upper unit's living room and hot tub deck, and dining seat count (ask Casago/Vacasa Girdwood).",
+    "Alyeska Slopeside B-4 + Mountainside loft condo: July 2027 rates, which floor the B-4 king bedroom is on, whether condo #307 has an elevator, and whether the B-4 dining table seats 8 (ask Casago).",
+    "Penguin Ridge Perch duplex: Unit B's bed list (the combined and Unit A listings disagree), separate entrances, and July 2027 rates (ask Casago).",
+    "Wendy's Girdwood Getaway: whether the first-floor apartment has its own outside entrance, its kitchen, and whether Jul 4-10 2027 is booked or not yet open (ask the host on Airbnb).",
+    "Hotel Alyeska: whether a room for 2 adults + 2 children (or standard Signature rooms) opens for Jul 4-10 2027, elevator and step-free path to rooms (ask Alyeska Resort reservations, 907-754-2111).",
+    "Alpine Air dog sledding: 2027 price, minimum age and weight limits, and whether guests drive the team on every departure (ask Alpine Air, 907-783-2360).",
+    "Lazy Otter kayak tour: minimum age, 2027 price and whether a shorter trip runs (ask Lazy Otter Charters in Whittier).",
+    "Anchorage Golf Course: 2027 green fee and cart price (call 907-522-3363); Moose Run civilian access in 2027 (call the pro shop).",
+    "Girdwood Forest Fair 2027 dates (organizers announce in spring).",
+    "Seven Glaciers 2027 menu prices and whether the tram is free with a reservation (ask Alyeska Resort)."
+  ],
+  "verification_notes": [
+    "Vrbo, Stayz and Marriott Homes & Villas pages returned 429/403; AlohAlaska and St. Moritz details come from Savvy, Bookabach, Casago and Airbnb pages instead.",
+    "Alyeska Resort's own room pages redirected and its 2026 summer guide PDF could not be read; hotel details come from Alaska.org.",
+    "TripAdvisor's Girdwood list was not retrievable; its #1 entry (Alyeska Ski Area) appeared in a search snippet. Activities were cross-checked against Visit Anchorage and Alaska.org.",
+    "price-checker 2026-11-14: AlohAlaska Lodge estimate US$600-1,000 to verified US$1,476/night (Vrbo 4205966 whole property, US$8,858 for 6 nights all fees included, 8 travelers). Savvy shows no price. Vrbo full-property listing 3082641 (links: vrbo.com/en-sg/p3082641vb) now redirects to the Alyeska area search while 4205966 loads, so that listing is gone; the option is unaffected. Value 8 to 7.",
+    "price-checker 2026-11-14: St. Moritz Compound estimate US$500-800 to verified US$749/night (Casago 1039785, US$604.99 x 6 + US$865.59 fees = US$4,495.52 excl. taxes, 8 guests). Value stays 9.",
+    "price-checker 2026-11-14: Wendy's Girdwood Getaway estimate US$500-800 kept as estimate; not bookable yet or sold out: Airbnb 25455404 and whole-property listing 1198119671985284940 both 'Those dates are not available' for Jul 4-10 2027, while a Dec 14-16 2026 control stay prices at US$2,012. Value stays 8 (no quote).",
+    "price-checker 2026-11-14: Hotel Alyeska estimate US$1,400-2,300 to estimate US$3,146-4,195/night (2 Club King rooms quoted at US$1,048.66/night each on the resort's Windsurfer engine; standard guest rooms unavailable; no room returned for 2 adults + 2 children). Over the cap; value 6 to 2. The engine's available rooms (Club King, suites) differ from the Signature 1-king / 2-queen rooms in family_split.",
+    "price-checker 2026-11-14: Vacasa Girdwood Estate estimate US$1,000-1,600 to verified US$1,868/night (Vacasa 95240, US$11,208.53 for 6 nights all fees included, 8 guests). Value stays 6.",
+    "fact-checker 2026-11-14: Alpine Air what_you_do said guests could 'mush your own' and 'hold puppies'; the Alpine Air and Alaska Railroad pages say only ride on a sled (or watch), pet and play with dogs, 'possibly cuddle puppies'. Corrected. Price $674 (2026) updated to $784 per Alaska Railroad's 2027-season listing (season May 14-Sep 12, 2027); Alpine Air page lists no price, minimum age or weight (could not verify: minimum age/weight).",
+    "fact-checker 2026-11-14: AWCC Moose Encounter confirmed: all ages (ticketed adult with minors), Tue/Thu/Sat/Sun 10:30am, Jun 1-Sep 15, $30 plus admission, hand-fed browse, max 35; Jul 4 2027 is a Sunday so Jul 4, 6, 8 fall in the stay (2027 schedule not published). WOW tour 10+, $140, daily 2:00pm confirmed. Alaska Zoo feedings confirmed: 9+, $30 plus entry, 30 min, max 10, 2026 season May 21-Sep 1, no feedings Aug 1-9 (outside the stay); page says 'feed an animal with a trained guide' without saying hand-feed; 'hands-on' kept.",
+    "fact-checker 2026-11-14: Moose Run: the '$10 iSportsman pass' claim was not supported (search results say iSportsman/RecAccess cover training lands, not base entry; base entry needs a VCC pass or sponsor, ID 16+). JBER pages returned 403. Booking text corrected; 2027 civilian access remains could not verify. Golf score left at 5 (rationale already treated Moose Run as an uncertain alternative). Anchorage Golf Course: public municipal facility, currently closed for the season (normal in November), rates not on the home page.",
+    "fact-checker 2026-11-14: AlohAlaska entrances: not stated on Savvy (whole and lower unit) or Bookabach; Vrbo/Stayz-sourced snippets say the studio is lower-level with its own bathroom and kitchenette; separate-unit listings keep lockoff yes under the rubric (separate unit / one side of a duplex). Entrances could not verify. Layout ratings unchanged.",
+    "fact-checker 2026-11-14: Vacasa 95240: page confirms 9BR plus loft, 6.5 baths, two independent units each with its own kitchen, keypad entry, parking for 10; says nothing on separate entrances, bed types or stairs. lockoff stays 'not stated'. St. Moritz (Casago): 4 bedrooms, 3.5 baths, studio rentable separately with own kitchen; entrances and bedroom floors not stated; lockoff yes kept on separate-unit basis. Wendy's apartment: Airbnb says 'separate one bedroom apartment' with locking security door to shared laundry; outside entrance not stated; lockoff yes kept. Hotel Alyeska: 299 rooms, room types confirmed, elevator and connecting rooms not stated.",
+    "fact-checker 2026-11-14: no score changed; no correction altered a fact a score rests on.",
+    "price-checker 2026-11-14: lodging score 14 to 14, total 65 to 65; the score rests on AlohAlaska, still eligible (lock-off yes, US$1,476/night inside the cap), and its rationale did not cite the unconfirmed price as the reason for lost points.",
+    "rerun 2026-11-15: Wendy's Girdwood Getaway and Hotel Alyeska (both availability sold_out) moved to lodging_backups with their quotes unchanged; Penguin Ridge Perch duplex added as a new backup; Alyeska Slopeside B-4 + Mountainside loft condo pair added to lodging. No verified quote was altered.",
+    "rerun 2026-11-15: Vacasa Girdwood Estate lockoff 'not stated' to 'yes'. Basis: Vacasa's own 'two independent levels (Unit A and Unit B)' with two kitchens is one side of a duplex under the rubric (the same basis AlohAlaska's yes rests on), and Casago lists what appears to be the same Monarch estate as two rentals, the lower with 'a private ground-floor entrance' and 'step-free access'. Split changed so the parents and Ryan's family use the step-free lower unit and Scott & Andrea the upper. Ratings privacy 6 to 9, parents 4 to 6. Lodging score 14 to 16, now resting on this option.",
+    "rerun 2026-11-15: Animal section re-ranked under the current guidance (what you do first, then the animal): dog sledding (pulled by or driving a dog team) first, moose hand-feeding second, Alaska Zoo bear/moose feedings third, the AWCC WOW tour fourth; Lazy Otter sea kayaking added fifth as viewing because otter and seal sightings are incidental and not guaranteed. The Alpine Air page read 2026-11-15 says 'Whether you choose to mush your own team or sit back', so driving the team is now stated on the operator's page (the fact-checker's 2026-11-14 read did not show it). Animals score 16 to 17.",
+    "rerun 2026-11-15: food score 8 to 7 because Hotel Alyeska, the stay its rationale rested on, is booked for the dates.",
+    "price-checker 2026-11-15: Vacasa Girdwood Estate verified US$1,868 to verified US$1,727-1,868/night: Vacasa 95240 unchanged at US$11,208.53 for 6 nights; Casago's lower level (1039779, US$3,050.06) plus upper level (1039799, US$7,309.82) excl. taxes for the split's guests = US$1,727/night. Casago counts 7 bedrooms on the upper level against 6 plus loft in configuration; configuration left alone. Value stays 6.",
+    "price-checker 2026-11-15: AlohAlaska Lodge verified US$1,476 to verified US$1,474/night (Vrbo 4205966, US$8,845 for 6 nights all fees included, 8 travelers). Value stays 7.",
+    "price-checker 2026-11-15: St. Moritz Compound verified US$749 to verified US$750/night (Casago 1039785, US$605.56 x 6 + US$866.00 fees = US$4,499.34 excl. taxes, 8 guests). Value stays 9.",
+    "price-checker 2026-11-15: Alyeska Slopeside B-4 + Mountainside loft condo estimate US$548 (undated averages) to estimate US$829/night, availability sold_out: B-4 (Casago 1039777) 'unavailable for the dates selected' for Jul 4-10 2027 with Jul 7-11 blocked on its calendar, while Jul 18-24 2027 prices at US$3,167.06; the loft condo (1039792) quotes US$1,804.40 excl. taxes. Value stays 9 (estimate well inside the cap; option not eligible while sold out).",
+    "price-checker 2026-11-15: Penguin Ridge Perch full duplex (backup) estimate US$396 (undated average) to verified US$660/night (Casago 1039778, US$525.42 x 6 + US$808.30 fees = US$3,960.82 excl. taxes, 8 guests), availability available. Value stays 9. Not promoted: the option the score rests on is still eligible.",
+    "fact-checker 2026-11-15: Monarch estate: Casago 1039779 confirms 3 bedrooms (king, king, 2 twins), 2 baths, sleeps 6, 'private ground-floor entrance', 'step-free access', footsteps from the upper unit, and that the upper level is rentable separately; a 2025 reviewer calls it a tri-plex with non-matching exterior photos (unresolved). Casago 1039799 lists 7 bedrooms (not 6) plus a 2-sofa-bed loft, 5.5 baths, sleeps 15, keypad entry, hot tub, no stairs mentioned; the lower page says the upper adds 6 bedrooms and 4 baths, so Casago's counts conflict and the Vacasa match (9 bedrooms, 6.5 baths) stays inferred. Configuration corrected to 7 bedrooms; the family split fits the lower unit (king, king, twin room for 6 guests) and Scott & Andrea in the upper. Lock-off yes kept (separate-unit listings, own entrance for the lower; upper entrance not described).",
+    "fact-checker 2026-11-15: Slopeside B-4 (1039777): 3 bedrooms (king; queen; double + 3 twins), 2 baths, 3 floors, private hot tub (a 2024 review says it was not working), sleeps 8 (bed capacities add to 9), bedroom floors, stairs, entrance and table size not stated. Loft condo 1039792: 1 king bedroom + queen loft, 1 bath, sleeps 4; '#307' appears only in a guest review; floor and elevator not stated (could not verify: elevator). Sold_out status is the price-checker's and untouched.",
+    "fact-checker 2026-11-15: Penguin Ridge Perch (backup): 1039778 confirmed (4 bedrooms: king; double + twin; king; double + twin; 2 full + 2 half baths; sleeps 10; 'combination of two units'); 1039822 Unit A: king + (queen + 2 twins), 1 full + 1 half bath, keypad entry, 'Pairs with Unit B'. Unit B's own beds, entrances and stairs not stated on either page (could not verify).",
+    "fact-checker 2026-11-15: animals: Alpine Air page confirms 'mush your own team', season May 15-Aug 30, no closure notice; minimum age, weight and price not stated (could not verify). AWCC Moose Encounter (all ages, $30 + admission, Tue/Thu/Sat/Sun 10:30, Jun 1-Sep 15), WOW (10+, $140, daily 2:00-3:30) and Alaska Zoo feedings (9+, $30 + entry, May 21-Sep 1 2026) confirmed; WOW feeding shown in photos is a porcupine; zoo page does not say guests feed by hand. Lazy Otter: Alaska.org page states no price, season, minimum age or minimum group; operates_during_stay changed yes to unknown and price/booking text corrected; it is the fifth, viewing-level item so no score depends on it. Ranking follows the trip.yaml guidance; 2027 schedules unpublished. Ages vs Aubrey (13): moose encounter, zoo (9+), WOW (10+) all admit her; dog sledding limits unknown.",
+    "fact-checker 2026-11-15: no score changed (lodging 16, animals 17, total 67); the corrections did not alter a fact a score rests on.",
+    "price-checker 2026-11-15: lodging score 16 to 16, total 67 to 67; the score rests on the Vacasa Girdwood Estate, still eligible (lock-off yes, US$1,727-1,868/night inside the cap), and its rationale did not cite an unconfirmed price as the reason for lost points."
+  ],
+  "sources": [
+    {
+      "title": "Savvy: AlohAlaska Lodge 5 bedroom (Chugach Properties)",
+      "url": "https://www.savvy.com/listings/alohalaska-lodge-5-bedroom-close-to-ski-lifts-girdwood-alaska-FbIY",
+      "section": "lodging"
+    },
+    {
+      "title": "Savvy: AlohAlaska Lower Level Duplex",
+      "url": "https://www.savvy.com/listings/newly-remodeled-duplex-lower-level-close-to-ski-lifts-girdwood-alaska-kKxu",
+      "section": "lodging"
+    },
+    {
+      "title": "Savvy: AlohAlaska Top Floor Duplex",
+      "url": "https://www.savvy.com/listings/newly-remodeled-duplex-top-floor-close-to-ski-lifts-girdwood-alaska-VSxA",
+      "section": "lodging"
+    },
+    {
+      "title": "Bookabach: AlohAlaska Lodge (walk times, photos)",
+      "url": "https://www.bookabach.co.nz/holiday-accommodation/p4205966vb",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Girdwood Compound (St. Moritz)",
+      "url": "https://casago.com/rentals/1039785/",
+      "section": "lodging"
+    },
+    {
+      "title": "Airbnb: St Moritz Compound",
+      "url": "https://www.airbnb.com.au/rooms/25818928",
+      "section": "lodging"
+    },
+    {
+      "title": "Airbnb: Beautiful 3bd Chalet plus Cabin (Wendy's Girdwood Getaway)",
+      "url": "https://www.airbnb.co.uk/rooms/25455404",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Quiet Apartment-Above-Garage (comparable price)",
+      "url": "https://casago.com/rentals/1039787/",
+      "section": "lodging"
+    },
+    {
+      "title": "Vacasa: Newly Remodeled Girdwood Estate",
+      "url": "https://www.vacasa.com/unit/95240",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Lower Level of the Monarch Estate (private ground-floor entrance, step-free)",
+      "url": "https://casago.com/rentals/1039779/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Upper Level of the Monarch Estate (Unit A)",
+      "url": "https://casago.com/rentals/1039799/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Alyeska Slopeside B-4 three-floor condo",
+      "url": "https://casago.com/rentals/1039777/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: One-Bedroom Loft Condo w/ Full Mountain Views",
+      "url": "https://casago.com/rentals/1039792/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Full Duplex (Penguin Ridge Perch)",
+      "url": "https://casago.com/rentals/1039778/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Cozy Mountainside Duplex, Unit A",
+      "url": "https://casago.com/rentals/1039822/",
+      "section": "lodging"
+    },
+    {
+      "title": "Vacasa: Cozy Mountainside Duplex (Penguin Ridge Perch Unit A)",
+      "url": "https://www.vacasa.com/unit/116086",
+      "section": "lodging"
+    },
+    {
+      "title": "Vacasa: Girdwood rentals",
+      "url": "https://www.vacasa.com/usa/alaska/girdwood",
+      "section": "lodging"
+    },
+    {
+      "title": "Alaska.org: Hotel Alyeska",
+      "url": "https://www.alaska.org/detail/hotel-alyeska",
+      "section": "lodging"
+    },
+    {
+      "title": "Alpine Air Alaska: glacier dog sledding",
+      "url": "https://alpineairalaska.com/girdwood/dog-sledding-tours/",
+      "section": "animals"
+    },
+    {
+      "title": "Alaska Railroad: summer glacier dog sled tour (2027 price)",
+      "url": "https://alaskarailroad.com/travel-planning/day-trips/summer-glacier-dog-sled-tour",
+      "section": "animals"
+    },
+    {
+      "title": "AWCC tours and experiences",
+      "url": "https://alaskawildlife.org/education/tours/",
+      "section": "animals"
+    },
+    {
+      "title": "Alaska Zoo: summer feedings and tours",
+      "url": "https://www.alaskazoo.org/summer-feedings-tours",
+      "section": "animals"
+    },
+    {
+      "title": "Alaska.org: Lazy Otter Charters kayak tours",
+      "url": "https://alaska.org/detail/lazy-otter-charters-kayak-tours",
+      "section": "animals"
+    },
+    {
+      "title": "Alaska.org: Whittier sea kayaking tours",
+      "url": "https://www.alaska.org/destination/whittier/sea-kayaking-tours",
+      "section": "animals"
+    },
+    {
+      "title": "NCL: Blackstone Glacier guided kayak (10+ age rule)",
+      "url": "https://www.ncl.com/shore-excursions/WQF_07/Blackstone-Glacier-Guided-Kayak-Adventure",
+      "section": "animals"
+    },
+    {
+      "title": "Anchorage Golf Course",
+      "url": "https://www.anchoragegolfcourse.com/",
+      "section": "golf"
+    },
+    {
+      "title": "Green Fee Tracker: Anchorage",
+      "url": "https://greenfeetracker.com/ak/anchorage",
+      "section": "golf"
+    },
+    {
+      "title": "GolfLink: Moose Run rates",
+      "url": "https://www.golflink.com/golf-courses/ak/fort-richardson/moose-run-golf-course-512/rates-tee-times",
+      "section": "golf"
+    },
+    {
+      "title": "JBER: recreating on JBER",
+      "url": "https://www.jber.jb.mil/News/News-Articles/Article/1042744",
+      "section": "golf"
+    },
+    {
+      "title": "Alaska.org: Alyeska Tram",
+      "url": "https://www.alaska.org/detail/alyeska-tram",
+      "section": "activities"
+    },
+    {
+      "title": "Alyeska Resort: Stay & Spa (18+)",
+      "url": "https://www.alyeskaresort.com/product/stay-spa/",
+      "section": "activities"
+    },
+    {
+      "title": "Alaska.org: Phillips 26 Glacier Cruise",
+      "url": "https://www.alaska.org/detail/26-glacier-cruise-phillips",
+      "section": "activities"
+    },
+    {
+      "title": "Alaska's News Source: Crow Creek Mine up for sale (June 2026)",
+      "url": "https://www.alaskasnewssource.com/2026/06/26/historic-crow-creek-mine-up-sale/",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Anchorage: Girdwood",
+      "url": "https://www.anchorage.net/girdwood/",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Anchorage: Girdwood Forest Fair",
+      "url": "https://www.anchorage.net/events/annual-events/july-4th-celebration/",
+      "section": "activities"
+    },
+    {
+      "title": "TripAdvisor: Alyeska Ski Area (#1 of 16 in Girdwood)",
+      "url": "https://www.tripadvisor.com/--d109929.html",
+      "section": "activities"
+    },
+    {
+      "title": "Alaska.org: Girdwood dining and nightlife",
+      "url": "https://www.alaska.org/destination/girdwood/dining-and-nightlife",
+      "section": "restaurants"
+    },
+    {
+      "title": "TripAdvisor: Best restaurants in Girdwood",
+      "url": "https://www.tripadvisor.co.uk/Restaurants-g31000-Girdwood_Anchorage_Alaska.html",
+      "section": "restaurants"
+    },
+    {
+      "title": "Weather Spark: July weather in Girdwood",
+      "url": "https://weatherspark.com/m/246/7/Average-Weather-in-July-in-Girdwood-Alaska-United-States",
+      "section": "weather"
+    },
+    {
+      "title": "Aviation A2Z: United doubles Denver-Anchorage flights",
+      "url": "https://aviationa2z.com/index.php/2025/10/21/united-dubles-flights-from-denver-to-anchorage/",
+      "section": "logistics"
+    },
+    {
+      "title": "AeroRoutes: United NS26 domestic additions",
+      "url": "https://www.aeroroutes.com/eng/251225-uans26dom",
+      "section": "logistics"
+    },
+    {
+      "title": "Alaska Airlines: new flights to Anchorage from Sacramento",
+      "url": "https://news.alaskaair.com/destinations/new-flights-to-anchorage-from-detroit-and-sacramento/",
+      "section": "logistics"
+    },
+    {
+      "title": "Alaska Air Cargo: Anchorage summer network 2026 (SFO nonstop)",
+      "url": "https://public.alaskacargo.com/cargo-news/anchorage-summer-network-2026",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 64,
+    "low_f": 49
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://www.alaska.org/detail/26-glacier-cruise-phillips": {
+      "url": "https://uploads.alaska.org/suppliers/activities/P/phillips-26-glacier-cruise/_1200x630_crop_center-center_82_none/PhillipsCruises_IMG_0087_Bravest-alaska-untitled.jpg?mtime=1654265381",
+      "src": "img/0b8da01cc503158c.jpg"
+    },
+    "https://www.alaskasnewssource.com/2026/06/26/historic-crow-creek-mine-up-sale/": {
+      "url": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/C3AJZXYIBJEVBKTQYNAFHDIAAA.jpg?auth=59fb08c31e93f0b4ad864918d93d93337332239397f3fde7ec666434a4104c2b&width=1200&height=600&smart=true",
+      "src": "img/adf842407cea0cb5.jpg"
+    },
+    "https://www.anchorage.net/events/annual-events/july-4th-celebration/": {
+      "url": "https://assets.simpleviewinc.com/sv-anchorage/image/upload/c_limit,h_1200,q_75,w_1200/v1/cms_resources/clients/anchorage/July_4_Header_2_4601a093-4284-455a-9222-9df1793333ef.jpg",
+      "src": "img/f74d0db9591eea2a.jpg"
+    },
+    "https://www.golflink.com/golf-courses/ak/fort-richardson/moose-run-golf-course-512/rates-tee-times": {
+      "url": "https://ui.glimg.net/ui/images/layout/GL_profile_pic_FB.jpg?v=20171227095456",
+      "src": "img/c45b763919aca9cb.jpg"
+    },
+    "https://www.vacasa.com/unit/95240": {
+      "url": "https://images.casago.com/unit-images/pal/1039793/69faf9431f58a70012f58147.jpg?w=1280&fit=max&q=40&auto=format",
+      "src": "img/687ace2de0275468.jpg"
+    },
+    "https://www.alaska.org/detail/hotel-alyeska": {
+      "url": "https://uploads.alaska.org/suppliers/lodging/H/Hotel-Alyeska/_1200x630_crop_center-center_82_none/Hotel_exterior_summer_HagePhoto-alaska-hotel-alyeska-girdwood.jpg?mtime=1600971350",
+      "src": "img/d1844985a0f8fe3a.jpg"
+    }
+  }
+}

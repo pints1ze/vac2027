@@ -1,0 +1,1679 @@
+{
+  "slug": "south-lake-tahoe",
+  "name": "Lake Tahoe (South Lake / Incline), CA/NV",
+  "region": "US mountain",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "South Lake Tahoe works for lodging through two Heavenly Village options bookable for July 4-10: Zalanta, a 3BR + 2BR pair verified at $1,913-2,733/night before tax, a 4-minute walk across US-50 to the village, and Forest Suites at the gondola, a 2BR + two 1BR suites verified at $1,320-1,613/night with breakfast but no large shared room. The Landing (lakefront 3BR suite + two rooms) and Margaritaville are sold out for the dates, and Edgewood, Timber Lodge and Grand Residence are sold out and sit in the backups. Golf is hit by the American Century Championship at Edgewood Tahoe (July 7-11, 2027), which closes that course to public play for most of the stay, so the scenic round is Incline Village's Championship Course, about 50 minutes away. Animals are weak: a lake fishing charter and two horseback stables are the only hands-on options, with no feeding or wildlife encounter within 60 minutes. Biggest caveat: July 4 plus the tournament make this the most crowded, most expensive week of the Tahoe summer, and July highs average about 80 F, above the 75 F target.",
+  "images": {
+    "hero": {
+      "url": "https://visitlaketahoe.com/wp-content/uploads/2020/11/Boating-on-Lake-Tahoe-1024x682.jpg",
+      "page_url": "https://visitlaketahoe.com/things-to-do/",
+      "credit": "Visit Lake Tahoe",
+      "alt": "Boats on Lake Tahoe with mountains behind",
+      "src": "img/995475dcd9c07269.jpg"
+    },
+    "gallery": [
+      {
+        "url": "https://visitlaketahoe.com/wp-content/uploads/2026/04/family-at-a-lake-tahoe-beach.webp",
+        "page_url": "https://visitlaketahoe.com/things-to-do/",
+        "credit": "Visit Lake Tahoe",
+        "alt": "Family on a Lake Tahoe beach",
+        "src": "img/c0017707278f8809.webp"
+      },
+      {
+        "url": "https://visitlaketahoe.com/wp-content/uploads/2021/01/eagle-falls-emerald-bay-lake-tahoe934x1399-684x1024.jpg",
+        "page_url": "https://visitlaketahoe.com/things-to-do/",
+        "credit": "Visit Lake Tahoe",
+        "alt": "Eagle Falls above Emerald Bay",
+        "src": "img/19ad059578e6a47d.jpg"
+      },
+      {
+        "url": "https://theshopsatheavenly.com/wp-content/uploads/2024/06/119968790_10157639269493202_4821696049982827808_n.jpg",
+        "page_url": "https://www.theshopsatheavenly.com/",
+        "credit": "The Shops at Heavenly Village",
+        "alt": "Heavenly Village and gondola",
+        "src": null
+      },
+      {
+        "url": "https://theshopsatheavenly.com/wp-content/uploads/2024/06/130741200_10157818611768202_6307867072203297444_n.jpg",
+        "page_url": "https://theshopsatheavenly.com/food-drink/",
+        "credit": "The Shops at Heavenly Village",
+        "alt": "Outdoor dining in Heavenly Village",
+        "src": null
+      },
+      {
+        "url": "https://edgewoodtahoe.com/wp-content/uploads/2020/06/golf-hero.jpg",
+        "page_url": "https://www.edgewoodtahoe.com/golf/",
+        "credit": "Edgewood Tahoe",
+        "alt": "Edgewood Tahoe golf course on the lakeshore",
+        "src": "img/a7c10a6d6c1be195.jpg"
+      },
+      {
+        "url": "https://camprichardsoncorral.com/wp-content/uploads/2022/06/extended-ride-on-HP-bottom-1.jpg",
+        "page_url": "https://www.camprichardsoncorral.com/",
+        "credit": "Camp Richardson Corral",
+        "alt": "Trail ride at Camp Richardson Corral",
+        "src": "img/37b8eefd59f9a6a8.jpg"
+      }
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: Reno-Tahoe (RNO) is about 75 minutes by car (figure from the earlier pass, not re-timed), under the 90-minute limit. RNO has nonstops to Denver (United, Southwest, Frontier) and to SFO (United). Seniors: Heavenly Village is a flat pedestrian plaza. Zalanta states an elevator (one listing: 2nd floor, no steps) and Timber Lodge lists one; Forest Suites' elevator appears only on an aggregator; Edgewood villa levels are not stated. The Stateline casino restaurants are a flat sidewalk walk along US-50. The town sits at 6,237 ft. Emerald Bay/Vikingsholm and the gondola-top hikes are steep and optional."
+  },
+  "scores": {
+    "lodging": 17,
+    "town_scenery": 13,
+    "animals": 7,
+    "food": 13,
+    "other": 8,
+    "golf": 7,
+    "weather": 2,
+    "total": 67,
+    "rationale": {
+      "lodging": "17/25: rests on Zalanta Resort at the Village, a 3BR + 2BR in one elevator building across US-50 from Heavenly Village (verified $1,913-2,733/night before tax, Jul 4-10, 2027, re-quoted 2026-11-15; Forest Suites' three suites are verified cheaper at $1,320-1,613 but share only a suite living room), with a separate residence for Scott & Andrea; points lost because the gathering room is the 3BR's living room with table seats not stated, the parents share a residence with Ryan's family, and the top rate is near the cap.",
+      "town_scenery": "13/18: Heavenly Village is flat, walkable and at the gondola with the lake nearby, but it is a resort plaza beside US-50 and the Stateline casinos rather than a historic town, and lake views from the lodging are not stated.",
+      "animals": "7/18: the top two are Camp Richardson Corral trail rides (reopen May 2027, no minimum age listed) and Zephyr Cove Stables (7+, Apr 1-Oct 31), both riding on horses, the farm-animal tier; a Tahoe Sportfishing lake charter (all ages, daily) is third because catching a fish is handling an animal, not an activity with it; there is no feeding, hosted encounter or exotic/large-wild option within 60 minutes (Animal Ark's keeper-led Meet and Greets are 105 minutes away, weekends only), so the score stays in the lower half.",
+      "food": "13/15: village restaurants plus the Harrah's and Caesars Republic restaurants (Sage Room, Hell's Kitchen, Sapori, El Jefe's, Brew Brothers and others) are within about a 10-minute flat walk of Zalanta, but Friday's Station is temporarily closed and the village restaurants were not listed venue by venue.",
+      "other": "8/10: gondola, mountain coaster, zip line, kayaks, escape rooms, an Emerald Bay paddlewheeler and the American Century Championship as spectators cover teens and parents, and Denver has three nonstops to RNO, but RNO is 75 minutes away and OAK/SMF have no RNO nonstop.",
+      "golf": "7/9: Edgewood Tahoe hosts the American Century Championship Jul 7-11, 2027 and takes no public tee times that week, so the scenic round is Incline Village Championship (lake views, about 50 minutes, $242-263 in 2026) with Lake Tahoe Golf Course in Meyers ($54-108) as the alternative.",
+      "weather": "2/5: July normal high is 80.4 F at Lake Tahoe Airport (1991-2020), 5 F over the 75 F target (40%), with only 2.1 rain days."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Zalanta Resort at the Village: 3BR residence + 2BR residence",
+      "kind": "luxury condo resort, 2 separate residences in one building",
+      "quick_verdict": "One of two options bookable for the dates and the better gathering space; elevator stated, inside the cap.",
+      "configuration": "4101 Lake Tahoe Blvd, across US-50 from Heavenly Village, 'steps from the Heavenly Mountain Gondola'. Managed by Vail Resorts, with a 24-hour front desk and housekeeping. 2, 3 and 4BR residences. RedAwning 3BR: 1,803 sq ft, 3 bedrooms, 3 baths ('a bathroom for each bedroom', attached or just outside the bedroom; bed types not stated), sleeps 8, elevator, gourmet kitchen, dining table (seats not stated), a living room with 'plenty of seating', and a private balcony with gondola and village views. A VRBO 3BR describes a fast elevator to the 2nd floor with no steps, but one unit is at the end of a long hallway. Shared heated pool and hot tub courtyard, fitness center, free self-parking. Bed layouts vary by unit (king/king/two doubles in one). The 2BR's layout was not opened.",
+      "family_split": {
+        "scott_andrea": "2BR residence (own unit, same building)",
+        "parents": "3BR residence, one en-suite bedroom",
+        "brother_family": "3BR residence, two bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate 2BR residence with its own door in the same building."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 8,
+        "location": 9,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 4,
+      "food_convenience": "Cross US-50 to Heavenly Village; casinos about 10 minutes on foot.",
+      "price": {
+        "nightly_total_usd_low": 1913,
+        "nightly_total_usd_high": 2733,
+        "label": "verified",
+        "basis": "Re-quoted 2026-11-15 on the Heavenly (Vail Resorts) lodging engine, the Book Online link on zalanta.com, Jul 4-10, 2027 (engine counts ages 13+ as adults). 3BR for Sam & Karen + Ryan's family (6 adults): 'Zalanta | Three Bedroom Residence', Summer Advanced Purchase: Non-Refundable $6,994 stay = $1,165.67/night; Standard Room Rate $9,991 stay = $1,665.17/night. 2BR for Scott & Andrea (2 adults): 'Zalanta | Two Bedroom Residence', Summer Advanced Purchase: Non-Refundable $4,485 stay = $747.50/night; Standard Room Rate $6,406 stay = $1,067.67/night (with 6 adults the same 2BR prices higher, $4,714 / $6,733). Sum: $1,913.17/night low (non-refundable), $2,732.84/night high (standard). Only stay totals and nightly averages shown, no per-night breakdown; no 'N left' message shown this time. Lower 'Rewards' prices ($5,595 3BR NR, $3,588 2BR NR; $7,993 / $5,125 standard) are for Epic Mountain Rewards members and not used. 'Summer Stay Longer, Save More' not re-read.",
+        "source_url": "https://www.skiheavenly.com/plan-your-trip/stay/details/zalanta-resort-at-the-village?location=50016753&arrivaldate=07%2F04%2F2027&departuredate=07%2F10%2F2027&adultcount=6&childcount=0&package=50009867",
+        "fees_notes": "Engine prices are labelled 'Nightly Including Fees'; tax not shown before checkout.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Zalanta | Three Bedroom Residence, 6 adults: Summer Advanced Purchase Non-Refundable $1,165.67/night; Standard Room Rate $1,665.17/night",
+          "Zalanta | Two Bedroom Residence, 2 adults: Summer Advanced Purchase Non-Refundable $747.50/night; Standard Room Rate $1,067.67/night"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1913.17,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Bookable for Jul 4-10 at a verified price",
+        "Elevator stated; one bath per bedroom",
+        "1,803 sq ft 3BR with gondola-view balcony",
+        "Hotel services and pool/hot tub courtyard"
+      ],
+      "compromises": [
+        "Top of the quoted range ($2,733) is near the cap",
+        "Across US-50 from the village",
+        "S&A get a 2BR they do not need",
+        "Dining-table seats not stated"
+      ],
+      "best_for": "Choose this if you want the confirmed, bookable condo pair at the village.",
+      "links": [
+        "https://www.zalanta.com/book",
+        "https://www.redawning.com/rental-property/luxury-three-bedroom-residence-steps-heavenly-village-book-7-nights-10-california",
+        "https://www.zalanta.com/"
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5589c54ae4b0872e7abd91e6/1499450934377-1C4FEIKJOHL034J8TRBP/Zalanta+One+Ext.jpg",
+          "page_url": "https://www.zalanta.com/book",
+          "credit": "Zalanta",
+          "alt": "Zalanta building exterior",
+          "src": "img/4c186bf401132e3b.jpg"
+        },
+        {
+          "url": "https://d1jdxwh22u19ad.cloudfront.net/image/sites/default/files/rental_property/462985/8c7caae6789311e56692a95c04059959.jpeg?width=1024&height=768&fit=cover&format=webp",
+          "page_url": "https://www.redawning.com/rental-property/luxury-three-bedroom-residence-steps-heavenly-village-book-7-nights-10-california",
+          "credit": "RedAwning",
+          "alt": "Zalanta 3BR residence",
+          "src": "img/8378f06b9d81e62e.webp"
+        },
+        {
+          "url": "https://d1jdxwh22u19ad.cloudfront.net/image/sites/default/files/rental_property/462985/a4025d853dd4c6dc683c3775d229baee.jpeg?width=1024&height=768&fit=cover&format=webp",
+          "page_url": "https://www.redawning.com/rental-property/luxury-three-bedroom-residence-steps-heavenly-village-book-7-nights-10-california",
+          "credit": "RedAwning",
+          "alt": "Zalanta 3BR residence interior",
+          "src": "img/086a2eeb120814b0.webp"
+        }
+      ],
+      "review_notes": "Zalanta reservations 866.331.6944."
+    },
+    {
+      "name": "Forest Suites Resort at Heavenly Village: 2BR suite + two 1BR suites",
+      "kind": "all-suite hotel, 3 separate suites",
+      "quick_verdict": "Village-door suites with breakfast included; the gathering room is a 750 sq ft suite living room.",
+      "configuration": "1 Lake Parkway, 'steps from Heavenly Village and the Heavenly Mountain Resort Gondola' (hotel site). All suites have a separate living room, dining area and full kitchen (hotel site). Suiteness: Deluxe 2BR suite about 750 sq ft, king bedroom with a private bath (tub) + second bedroom with two doubles and a second bathroom (shower), 2 baths per the hotel's suites page (Suiteness lists 1 bath), sleeps 8 (one ADA 2BR sleeps 6). Deluxe 1BR suite about 550 sq ft, king bed, 1 bath with tub, sleeps 4 (hotel page lists no sofa bed; Suiteness lists a double sofa bed). Hotel pages do not mention an elevator or floors; an elevator is listed among property amenities on Travelocity only. Floors not stated. Two seasonal heated pools, year-round hot tubs, fire pits, game room with pool tables, Al's Saloon, free hot breakfast buffet and a wine-and-cheese reception (hotel site). Parking $20/night per car; Expedia lists a $28.05/night resort fee, but direct rates on the SynXis engine are shown \"including all fees\". Dining-table seats not stated; the 2BR living room likely seats about 6, not 8.",
+      "family_split": {
+        "scott_andrea": "1BR suite",
+        "parents": "1BR suite",
+        "brother_family": "2BR suite (Ryan & Jenna king; Ethan & Aubrey one double each)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own locking door (hotel site: one- and two-bedroom all-suite resort)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 4,
+        "parents": 6,
+        "location": 9,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Heavenly Village restaurants at the door; casinos about 5-10 minutes on foot; breakfast included.",
+      "price": {
+        "nightly_total_usd_low": 1320,
+        "nightly_total_usd_high": 1613,
+        "label": "verified",
+        "basis": "Re-checked 2026-11-15, all rates unchanged. SynXis engine (chain 21123, hotel 38401, the BOOK NOW link on forestsuites.com), Sun Jul 4 - Sat Jul 10, 2027, prices shown 'Per Night, Including all fees' as a stay average (no per-night breakdown shown before selecting a rate). 1BR for Scott & Andrea (2 adults): 'DELUXE ONE BEDROOM SUITE', Non Refundable Rate $406/night (struck from $449); Best Available Rate $449/night. 1BR for Sam & Karen (2 adults): the same suite and rates, $406 / $449. 2BR for Ryan's family (2 adults + 2 children 15 and 13; prices identical with 2 adults + 0 children): 'DELUXE TWO BEDROOM SUITE', Stay More, Save More NonRefundable (5+ nights) $508/night; Non Refundable Rate $646/night; Best Available Rate $715/night. Sum: $406 + $406 + $508 = $1,320/night low (non-refundable plans); $449 + $449 + $715 = $1,613/night high (Best Available). The 'Sit, Stay, Play' pet package ($443 1BR, $670 2BR) is not used. No 'only N left' message shown. Poolside 1BR suites price at $451 / $499.",
+        "source_url": "https://be.synxis.com/?Chain=21123&Hotel=38401&arrive=2027-07-04&depart=2027-07-10&adult=2&child=2&rooms=1&currency=USD",
+        "fees_notes": "Engine prices are labelled 'Including all fees'; the engine footer states a 'Resort Amenities Fee of $25 per night plus tax', which the 'including all fees' label appears to cover; parking $20 per car per night listed separately in the engine; tax not shown before checkout.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "DELUXE ONE BEDROOM SUITE, 2 adults (Scott & Andrea): Non Refundable $406/night; Best Available $449/night",
+          "DELUXE ONE BEDROOM SUITE, 2 adults (Sam & Karen): Non Refundable $406/night; Best Available $449/night",
+          "DELUXE TWO BEDROOM SUITE, 2 adults + 2 children (Ryan's family): Stay More, Save More NonRefundable $508/night; Best Available $715/night"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1320,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "At the gondola and village restaurants",
+        "Each household behind its own door",
+        "Breakfast buffet and evening reception included",
+        "Full kitchens; pools, hot tubs, fire pits"
+      ],
+      "compromises": [
+        "Gathering room is a 750 sq ft suite",
+        "Elevator only on an aggregator listing"
+      ],
+      "best_for": "Choose this if being at the gondola with breakfast included beats a large shared living room.",
+      "links": [
+        "https://be.synxis.com/?chain=21123&hotel=38401",
+        "https://www.forestsuites.com/",
+        "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/forest-suites-resort-at-heavenly-village/deluxe-suite-2-bedrooms-poolside"
+      ],
+      "images": [
+        {
+          "url": "https://i.travelapi.com/lodging/1000000/10000/5800/5744/3e0e7058_z.jpg",
+          "page_url": "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/forest-suites-resort-at-heavenly-village/deluxe-suite-2-bedrooms-poolside",
+          "credit": "Suiteness",
+          "alt": "Forest Suites Resort",
+          "src": "img/8668bfa4b791dbfd.jpg"
+        },
+        {
+          "url": "https://i.travelapi.com/lodging/1000000/10000/5800/5744/4ebcdf6a_z.jpg",
+          "page_url": "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/forest-suites-resort-at-heavenly-village/deluxe-suite-2-bedrooms-poolside",
+          "credit": "Suiteness",
+          "alt": "Forest Suites 2BR suite",
+          "src": "img/be61729545fec919.jpg"
+        },
+        {
+          "url": "https://i.travelapi.com/lodging/1000000/10000/5800/5744/ccb6108c_z.jpg",
+          "page_url": "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/forest-suites-resort-at-heavenly-village/deluxe-suite-2-bedrooms-poolside",
+          "credit": "Suiteness",
+          "alt": "Forest Suites 1BR suite",
+          "src": "img/7c47e2a726e1885b.jpg"
+        }
+      ],
+      "review_notes": "2BR bath count differs by listing: the hotel's own suites page says 2 baths, Suiteness says 1; hotel page used. Confirm with the hotel, 530-541-6655."
+    },
+    {
+      "name": "The Landing Tahoe Resort & Spa: 3BR suite + two king rooms",
+      "kind": "lakefront boutique hotel, 3BR suite + 2 separate rooms",
+      "quick_verdict": "Lakefront hotel a short walk from the village; the 3BR suite is small (890 sq ft) and unpriced for the dates.",
+      "configuration": "4104 Lakeshore Blvd, South Lake Tahoe, on the lakeshore; a guest review calls it 'a short walk to Heavenly Village' (the hotel gives no distance). Every room has a fireplace. 3-Bedroom Suite w/ Kitchen (hotel page): 890 sq ft, sleeps 6, 3 bedrooms with '2 Kings, One Queen' (which bedroom has which bed is not stated), 2 bathrooms, living room with stone gas fireplace and leather seating, full kitchen with range/oven and microwave, large private patio; dining table and its seats not stated; floor, stairs and elevator not stated; no pets. Rooms for the other two households: Premier King (470 sq ft, king, seating area, large private balcony) or Lakeview King (270-290 sq ft, patio or balcony); a One-Bedroom Lakefront Suite (1,065 sq ft, California king, dining area, private bar, large patio) is the upgrade. ADA rooms exist (Premier King ADA Shower, Lakeview ADA Shower), but no elevator or floor is stated on the accommodations page. On-site 'Lakeside Dining' (a review names Jimmy's restaurant downstairs) and a spa. Resort fee $65 per night (hotel booking engine, control dates; an earlier OTA snippet said $72.93, superseded) and self-parking $30/night (OTA snippet, not the hotel page). Summer offer: up to 20% off Best Available for Sunday-Thursday arrivals, 3-night minimum. Gathering room is the 3BR suite's living room in an 890 sq ft unit, so likely about 6 seats, not 8.",
+      "family_split": {
+        "scott_andrea": "Premier King room (own room with balcony)",
+        "parents": "Premier King or Lakeview King room (ADA rooms available)",
+        "brother_family": "3-Bedroom Suite with kitchen (Ryan & Jenna king; Ethan king; Aubrey queen)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel room with its own locking door; the 3BR suite is a separate unit (hotel accommodations page lists rooms and the 3-Bedroom Suite as distinct units)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 4,
+        "parents": 6,
+        "location": 8,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 0,
+      "food_convenience": "On-site lakeside restaurant; Heavenly Village a short walk (distance not stated by the hotel).",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "basis": "Sold out for these dates: the hotel's own engine (thelandingtahoe.com/book/) returns 'No Rooms Available' for Jul 4-10, 2027 with 4 adults and with 2 adults, while a 2-night control Dec 15-17, 2026 (2 adults) lists rooms from $289/night and a control in the trip month, Jul 25-27, 2027 (2 adults), lists rooms from $694/night and the One-Bedroom Lakefront Suite at $1,191/night (3-Bedroom Suite not in that list; for Nov 15-16, 2026 it showed at $924/night). No unit of the split could be quoted. Earlier note: Suiteness lists the suite without a price and with conflicting specs (1 king, 797 sq ft, 1 bath).",
+        "source_url": "https://www.thelandingtahoe.com/book/?startDate=2027-07-04&endDate=2027-07-10&adults=4&children=0&primaryLangId=en&groupCode=&promoCode=&sort=low",
+        "fees_notes": "No quote for these dates. The engine's control-date prices say 'Includes $65 resort fee' per night (the earlier OTA snippet gave $72.93); self-parking $30/night (OTA snippet). Summer 20% offer needs a Sun-Thu arrival and 3 nights; Jul 4 is a Sunday.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "On the lakeshore with on-site dining and spa",
+        "Each household behind its own door",
+        "Fireplace in every room"
+      ],
+      "compromises": [
+        "3BR suite is 890 sq ft; seats about 6",
+        "Elevator and floors not stated",
+        "Sold out for the dates; $65/night resort fee",
+        "Teens get one king and one queen bedroom"
+      ],
+      "best_for": "Choose this if a lakefront hotel with a spa matters more than a big shared living room.",
+      "links": [
+        "https://www.thelandingtahoe.com/book/",
+        "https://www.thelandingtahoe.com/stay/three-bedroom-kitchen/",
+        "https://www.thelandingtahoe.com/accommodations/",
+        "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/the-landing-resort-spa/suite-3-bedrooms-kitchen/amp"
+      ],
+      "images": [],
+      "review_notes": "Hotel pages serve images as lazy-load placeholders, so no photo URL was collected. Confirm the 3BR suite's floor, elevator access and table seats with the hotel."
+    },
+    {
+      "name": "Margaritaville Resort Lake Tahoe (former Lake Tahoe Resort Hotel): three 2-room suites",
+      "kind": "all-suite hotel, 3 separate suites",
+      "quick_verdict": "Cheapest walkable fallback once July 2027 opens; no gathering room beyond a suite sofa.",
+      "configuration": "Former Embassy Suites / Lake Tahoe Resort Hotel at 4130 Lake Tahoe Blvd, now Margaritaville Resort Lake Tahoe, at the base of Heavenly, about a 3-minute walk to the gondola and village shops. About 400 suites, each with a separate bedroom (king or two doubles) and a living area with small kitchenette (microwave, fridge, coffee maker). The old hotel included a breakfast buffet in the atrium and a nightly happy hour; whether Margaritaville keeps them is not stated. Elevator, floors, sofa-bed sizes and connecting suites: not stated. Shared space is one suite's living room (about 4-6 seats) or the atrium.",
+      "family_split": {
+        "scott_andrea": "Suite A",
+        "parents": "Suite B",
+        "brother_family": "Suite C (teens on sofa bed)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own locking door."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 3,
+        "parents": 7,
+        "location": 9,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Heavenly Village restaurants about 3 minutes on foot.",
+      "price": {
+        "nightly_total_usd_low": 900,
+        "nightly_total_usd_high": 1650,
+        "label": "estimate",
+        "basis": "Sold out for these dates (re-checked 2026-11-15): the hotel is now Margaritaville Resort Lake Tahoe (same address, 4130 Lake Tahoe Blvd), and its SynXis engine (Chain 23717, Hotel 42357) again answers 'WE ARE CLOSED ON JULY 9, 2027' for Jul 4-10 (2 adults; on 2026-11-14 also 'closed on July 8' for Jul 4-9), while a control in the trip month, Jul 25-27, 2027 (2 adults), returns rates (One King Bed Suite Advance Purchase Non Refundable $243/night, Two Queen Beds Suite $263/night, One King Bed Premium Suite, Sofa Bed $266/night, 'Including fees before taxes'), and a Dec 14-16, 2026 control returned a One King Bed Suite at $154/night. July 2027 is loaded, so the trip nights are booked, not unreleased (tournament week Jul 7-11). Figures are the old guess, unquoted: Hotel Guru 'from GBP184' with no dates; assumed $300-550 per suite x 3.",
+        "source_url": "https://reservations.margaritavilleresorts.com/?Chain=23717&Hotel=42357&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1&currency=USD",
+        "fees_notes": "No quote for these dates, so no tax or fees read; control-date rates are shown 'Including fees before taxes'; parking fee not checked.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "3-minute walk to the gondola",
+        "Each household behind its own door",
+        "Lowest estimate of the walkable options"
+      ],
+      "compromises": [
+        "No room that seats all 8 for games",
+        "Kitchenette only",
+        "Booking engine not open for July 2027 yet"
+      ],
+      "best_for": "Choose this if the condos are full and budget matters more than a shared room.",
+      "links": [
+        "https://reservations.margaritavilleresorts.com/?Chain=23717&Hotel=42357&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1&currency=USD",
+        "https://www.margaritavilleresorts.com/margaritaville-resort-lake-tahoe",
+        "https://www.thehotelguru.com/hotel/lake-tahoe-resort-hotel-heavenly"
+      ],
+      "images": [],
+      "review_notes": "Hotel phone +1 530 544 5400 (per listing)."
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Hilton Vacation Club Lake Tahoe Resort: 2BR suite + two 1BR suites",
+      "kind": "timeshare resort, 3 separate suites in one complex",
+      "quick_verdict": "Self-contained suites with full kitchens near Ski Run Marina; owner rentals only, about a mile from the casino district.",
+      "configuration": "901 Ski Run Blvd, South Lake Tahoe, 'a short walk away from the lake's shore' (RedWeek) and 'one mile from the casino district' (Hilton Grand Vacations); Heavenly Village is not within an easy walk. Unit types (RedWeek resort info): studio (sleeps 4, one or two queens, kitchenette); one-bedroom suite (sleeps 4, king bed, full bath with tub/shower, queen sleeper sofa, living room, gas or electric fireplace, full kitchen with full-size refrigerator and dishwasher); two-bedroom unit (sleeps 8, adds a second bedroom with two queens; 2 baths per a VRBO listing, 910-1,037 sq ft depending on source). Some units have a patio or balcony. Elevator, floors and dining-table seats: not stated. Resort: indoor/outdoor pool, hot tub, fire pit, sauna, fitness center, restaurant and bar, lounge, marketplace, parking. Minimum check-in age 18; check-in 4 pm, check-out 10 am. Hilton sells it to members only (no public booking link), so the units come from owners on RedWeek or VRBO, and matching three units for a Sunday arrival is not assured.",
+      "family_split": {
+        "scott_andrea": "1BR suite (own unit, full kitchen)",
+        "parents": "1BR suite (own unit, full kitchen)",
+        "brother_family": "2BR suite (Ryan & Jenna king; Ethan and Aubrey a queen each)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate 1BR suite with its own entry and full kitchen (RedWeek resort info lists 1BR and 2BR suites as distinct units); no shared space with the other households."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 5,
+        "location": 6,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Restaurant and bar on site; Ski Run Marina is across Ski Run Blvd (walk not timed); casinos about a mile away.",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "basis": "Not sold online to the public (checked 2026-11-15): the Hilton Grand Vacations resort page has no booking or availability link, only timeshare-ownership material, so units come only from owners or HGV members. The VRBO owner listing in links (vrbo.com/3108665) now redirects to a Round Hill Village (Zephyr Cove) search page for Jul 4-10, 2027, so that listing is gone. No rate for the dates was seen. Ask owners via RedWeek (redweek.com, Hilton Vacation Club Lake Tahoe Resort rentals) or HGV Owner Services.",
+        "source_url": "https://www.hiltongrandvacations.com/en/resorts-and-destinations/california/hilton-vacation-club-lake-tahoe-resort",
+        "fees_notes": "Not read; owner rentals often add cleaning and resort-housekeeping fees.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "not_sold_online",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Each household in its own suite with kitchen",
+        "Indoor/outdoor pool, hot tub and fire pit",
+        "Near Ski Run Marina and the lakeshore"
+      ],
+      "compromises": [
+        "About a mile from the casinos and village",
+        "Owner rentals only; Sunday arrival not assured",
+        "Elevator and floors not stated"
+      ],
+      "best_for": "Choose this if owners can supply a 2BR and two 1BRs for a Sunday Jul 4 arrival.",
+      "links": [
+        "https://www.redweek.com/posting/R710245/resort-info",
+        "https://www.hiltongrandvacations.com/resorts-and-destinations/california/northern/hilton-vacation-club-lake-tahoe-resort",
+        "https://www.vrbo.com/3108665"
+      ],
+      "images": [
+        {
+          "url": "https://ctfassets.apps.onegrandvacation.com/7wysglnggt4p/zZb0iNC7Ixqi6NrwasNcR/142657b494847de1deb634d649b61390/CA-LTR-EXT-2022-019.jpg",
+          "page_url": "https://www.hiltongrandvacations.com/resorts-and-destinations/california/northern/hilton-vacation-club-lake-tahoe-resort",
+          "credit": "Hilton Grand Vacations",
+          "alt": "Hilton Vacation Club Lake Tahoe Resort exterior",
+          "src": "img/8461565c51add2d0.jpg"
+        },
+        {
+          "url": "https://ctfassets.apps.onegrandvacation.com/7wysglnggt4p/4Qv5BkAe6o9qFmNAjACrFk/fff101a890b933f37eaa6934b9a359c0/Contentful-Gallery-Image-04-Desktop-Lake-Tahoe.jpg",
+          "page_url": "https://www.hiltongrandvacations.com/resorts-and-destinations/california/northern/hilton-vacation-club-lake-tahoe-resort",
+          "credit": "Hilton Grand Vacations",
+          "alt": "Hilton Vacation Club Lake Tahoe Resort",
+          "src": "img/53a9ca77606e5b99.jpg"
+        },
+        {
+          "url": "https://cdn1.redweek.com/photos/feature-square/3/6/8/368807.jpg?1",
+          "page_url": "https://www.redweek.com/posting/R710245/resort-info",
+          "credit": "RedWeek",
+          "alt": "Hilton Vacation Club Lake Tahoe Resort",
+          "src": "img/9d7a997c32f5c766.jpg"
+        }
+      ],
+      "review_notes": "Formerly Lake Tahoe Vacation Resort (Diamond Resorts). Unit sizes conflict between listings (910 vs 1,001-1,037 sq ft for the 2BR)."
+    },
+    {
+      "name": "Hyatt Vacation Club at High Sierra Lodge (Incline Village): three 2BR residences",
+      "kind": "timeshare resort, 3 separate 2BR residences",
+      "quick_verdict": "North-shore base near the Incline golf courses; three self-contained 2BRs, but 50 minutes from the South Lake activities.",
+      "configuration": "989 Incline Way, Incline Village, NV (listing address; one listing says to confirm it with the resort). About 60 two-bedroom, two-bath residences 'nestled among the pines' (aggregator listings), about 1,000 sq ft, sleeping up to 8, with full kitchens. RedWeek's resort page lists an elevator and 'Accessible units' among on-site features and says all rooms are identical 2BR/2-bath suites sleeping 8, but one other listing says 'Not Handicap Accessible', so step-free access to the actual units is unconfirmed. Floors, dining-table seats and bed layout: not stated. A lock-off configuration is not stated, so each household takes its own 2BR residence. Rented through Hyatt Vacation Club owners (RedWeek, THIRDHOME) or Hyatt; hyatt.com returned HTTP 403 to a fetch. Incline Village is about 50 minutes from Heavenly Village, so the gondola, stables and Dixie cruise become day trips, while the Incline Championship course is local.",
+      "family_split": {
+        "scott_andrea": "2BR residence A (own unit)",
+        "parents": "2BR residence B (own unit)",
+        "brother_family": "2BR residence C (Ryan & Jenna one bedroom; Ethan and Aubrey the other)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate 2BR residence with its own door and kitchen (aggregator listings describe the resort as 60 two-bedroom, two-bath units)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 4,
+        "location": 4,
+        "value": 4
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Incline Village restaurants and the Hyatt Regency are nearby (walk not timed); South Lake restaurants are 50 minutes away.",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "basis": "Blocked: hyatt.com's Hyatt Vacation Club rooms page returned HTTP 429 with an empty page in the browser on 2026-11-15 (HTTP 403 to the researcher's fetch), so the site was not used further. Owner listings were seen only as search snippets. No rate for Jul 4-10, 2027. Three 2BR residences in July 4 week are likely near or over the cap. Ask Hyatt Vacation Club reservations or owners on RedWeek.",
+        "source_url": "https://www.hyatt.com/hyatt-vacation-club/en-US/tahsh-hyatt-vacation-club-at-high-sierra-lodge/rooms",
+        "fees_notes": "Not read.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "blocked",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Each household in its own 2BR with kitchen",
+        "Minutes from the Incline Championship course",
+        "Quieter north shore away from tournament traffic"
+      ],
+      "compromises": [
+        "50 minutes from Heavenly Village activities",
+        "Step-free access conflicts between listings",
+        "Three 2BRs needed; no price found"
+      ],
+      "best_for": "Choose this if golf at Incline and a quieter base outweigh being near the South Lake activities.",
+      "links": [
+        "https://www.hyatt.com/hyatt-vacation-club/en-US/tahsh-hyatt-vacation-club-at-high-sierra-lodge/rooms",
+        "https://www.redweek.com/resort/P1106-hyatt-high-sierra-lodge",
+        "https://www.travelocity.com/Incline-Village-Hotels-Hyatt-Vacation-Club-At-High-Sierra-Lodge.h892296.Hotel-Reviews",
+        "https://api.thirdhome.com/properties/17974-incline-village-nevada-hyatt-high-sierra-lodge"
+      ],
+      "images": [],
+      "review_notes": "Configuration from aggregator and exchange listings only; confirm elevator access and unit count with Hyatt Vacation Club."
+    },
+    {
+      "name": "Edgewood Tahoe: 3BR Villa Suite + Lodge room",
+      "kind": "lakefront resort, villa suite + separate lodge room",
+      "quick_verdict": "Best layout in town (villa patio with hot tub and fire pit), but no availability July 3-11, the tournament week.",
+      "configuration": "100 Lake Parkway, Stateline NV, on the lakeshore beside the Edgewood golf course, about a mile from Heavenly Village (walk not timed). Villa Suites come in 2, 3, 4 and 5 bedrooms and front the 8th and 9th fairways. 3BR Villa Suite Lakeview (Mr & Mrs Smith, Inspirato): 2,200 sq ft, 3 bedrooms each with an en-suite bath (two kings, one with two queens), 3.5 baths, sleeps 8, a great room with gas fireplace and a private heated patio with jacuzzi, fire pit and outdoor dining. Edgewood's own page lists the 3BR at 2,938 sq ft, 4.5 baths, with a den and foldout sofa, and a full kitchen with a dining table and island, a figure the other sites give for the 4BR. Inspirato lists only a kitchenette. Dining-table seats, levels and elevator are not stated; the accessible 2BR villa is described as 'split-level, ground-floor bedroom', so the villas may have stairs. The lodge has five room types (Tahoe Room 500 sq ft up to the 1,500 sq ft Emerald Suite), a year-round lakefront pool, an 8,500 sq ft spa and three restaurants (The Edge, The Bistro, Brooks' Bar & Deck). Lodge elevator not stated. Villas include valet and the resort fee. Lodge stays carry a $55/night resort fee (site) and $50/night valet. Villas require a 3-night minimum in peak season and a booker aged 21+. Event-venue construction runs through Jan 2027 only.",
+      "family_split": {
+        "scott_andrea": "Lodge room (Tahoe Room or Tahoe Premier, lake view), own building",
+        "parents": "3BR Villa Suite, one king en-suite bedroom",
+        "brother_family": "3BR Villa Suite, king en-suite + two-queen en-suite bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel room in the lodge building with its own locking door; the villa is a separate building (Edgewood room and villa pages)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 8,
+        "parents": 5,
+        "location": 7,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 0,
+      "food_convenience": "Three restaurants on site, including The Edge for the special dinner; Stateline casinos and Heavenly Village about a mile away.",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "basis": "Not bookable, or sold out, for these dates: Edgewood's own engine (newbooking.azds.com 'edgewood-tahoe-resort', the BOOK YOUR VILLA SUITE / BOOK A ROOM widget on edgewoodtahoe.com, 'ALL ROOM TYPES', 2 adults) marks every night Jul 3-11, 2027 'NO AVAILABILITY' in its rate calendar, the tournament week, and Jul 4 cannot be selected as an arrival. Rates show either side as a control: Jul 1 $950, Jul 2 $1,139, Jul 12 $878, Jul 13 $1,490, and November 2026 nights from $599-923 (lowest available room, 2 adults). Neither the 3BR Villa Suite nor a lodge room could be quoted. Undated guide figures from the earlier pass: Tahoe Rooms from $475, lake-view rooms from $725, suites from $1,500; Mr & Mrs Smith Villa Suite 'from' $534-667. Villa Suites line 844.366.6953; reservations 888-760-2915.",
+        "source_url": "https://edgewoodtahoe.com/the-villa-suites/#/booking/step-1?adult=2",
+        "fees_notes": "No quote for these dates, so no tax or fees read. Lodge: $55/night resort fee (Travelocity shows $62.70) and $50/night valet. Villas: resort fee and valet included.",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Villa patio with hot tub and fire pit",
+        "Three en-suite bedrooms in the villa",
+        "Lakefront, spa and The Edge on site",
+        "Separate lodge building for Scott & Andrea"
+      ],
+      "compromises": [
+        "No availability Jul 3-11 (own engine)",
+        "Hosts the celebrity golf tournament Jul 7-11",
+        "Villa levels and elevator not stated",
+        "About a mile from Heavenly Village"
+      ],
+      "best_for": "Choose this only if a cancellation opens up: it shows no availability for the trip week.",
+      "links": [
+        "https://edgewoodtahoe.com/the-villa-suites/",
+        "https://edgewoodtahoe.com/lodge/",
+        "https://www.mrandmrssmith.com/luxury-hotels/edgewood-tahoe-resort/rooms",
+        "https://www.inspirato.com/destinations/lake-tahoe-nevada/residences/edgewood-three-bedroom-villa"
+      ],
+      "images": [
+        {
+          "url": "https://edgewoodtahoe.com/wp-content/uploads/2021/06/edgewood-exterior-front-final@2x-1200x675.jpg",
+          "page_url": "https://edgewoodtahoe.com/the-villa-suites/",
+          "credit": "Edgewood Tahoe",
+          "alt": "Edgewood Tahoe exterior",
+          "src": "img/8d1443662d35d529.jpg"
+        },
+        {
+          "url": "https://edgewoodtahoe.com/wp-content/uploads/2025/07/Greatroom1_v1.jpg",
+          "page_url": "https://edgewoodtahoe.com/lodge/",
+          "credit": "Edgewood Tahoe",
+          "alt": "Edgewood lodge great room",
+          "src": "img/ddc8771150621541.jpg"
+        },
+        {
+          "url": "https://edgewoodtahoe.com/wp-content/uploads/2020/05/tahoe-room-feature-992x665.webp",
+          "page_url": "https://edgewoodtahoe.com/",
+          "credit": "Edgewood Tahoe",
+          "alt": "Edgewood Tahoe Room",
+          "src": "img/4b82537c7816ac6a.webp"
+        }
+      ],
+      "review_notes": "Square footage and bath count for the 3BR differ between Edgewood's own page (2,938 sq ft, 4.5 baths) and Mr & Mrs Smith/Inspirato (2,200 sq ft, 3.5 baths)."
+    },
+    {
+      "name": "Marriott's Timber Lodge: 3BR villa + 1BR villa",
+      "kind": "timeshare resort, 2 separate villas in one building",
+      "quick_verdict": "Sold out for Jul 4-10 on Marriott.com and with owners; listed in case villas are released.",
+      "configuration": "Marriott Vacation Club resort at 4100 Lake Tahoe Blvd, in Heavenly Village beside the gondola. Villa types: guest rooms with kitchenettes, 1BR, 2BR and 3BR villas, each villa with full kitchen, fireplace, master suite with jetted tub and washer/dryer (Visit Lake Tahoe). 3BR villa about 1,635 sq ft, sleeps 10; 1BR villa about 840 sq ft, sleeps 4 (Suiteness). 2BR villa about 1,174-1,185 sq ft, two kings plus a queen sofa bed, sleeps 6, listed with a lock-off that splits it into a 1BR side with full kitchen and a guest-room side with kitchenette. Elevator and wheelchair access listed on an owner listing. Bed layout per bedroom in the 3BR, dining-table seats and floor numbers: not stated. Shared outdoor pool, whirlpool and steam room; FiRE + iCE restaurant on site; no resort fee per Visit Lake Tahoe. Variant if no 3BR is available: one 2BR lock-off villa (Scott & Andrea in the locked-off guest-room side, Sam & Karen in the 1BR side) plus a second 2BR villa for Ryan's family, who then host the evenings. Rented through owners (VRBO, RedWeek) or Marriott (Marriott.com sells 2BR villas here, no 3BR). Treated as unavailable for this trip: sold out on Marriott.com for Jul 4-10, 2027 and the Vrbo owner listing refuses a Jul 4 check-in (2026-11-14).",
+      "family_split": {
+        "scott_andrea": "1BR villa (own unit, same building)",
+        "parents": "3BR villa, one bedroom",
+        "brother_family": "3BR villa, two bedrooms (Ryan & Jenna; Ethan & Aubrey)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate 1BR villa with its own front door in the same building. The 2BR variant rests on listing text: 'Lock-Off option for privacy, enabling you to create separate units; one with full kitchen, living and dining areas, and the other with a kitchenette.'"
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 6,
+        "parents": 8,
+        "location": 10,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "In Heavenly Village: village restaurants at the door; Harrah's and Caesars Republic restaurants about a 10-minute flat walk.",
+      "price": {
+        "nightly_total_usd_low": 1300,
+        "nightly_total_usd_high": 2200,
+        "label": "estimate",
+        "basis": "Not bookable, or sold out, for these dates: Marriott.com (property RNOTL) returned 'Sold Out' / 'no available rooms' for Jul 4-10, 2027, while a 2-night control (Dec 14-16, 2026, 6 guests) returned a 2 Bedroom Villa (2 kings, 2 sofa beds) at $458/night. Marriott.com offered no 3BR villa even in the control. The Vrbo owner 2BR listing 1308396 says 'This property is not available for check-in on this day' for Jul 4. Figures below are the old guess, unquoted: owner 2BR listed 'from $280/night' with no dates; Grand Residence RedWeek owner rentals were $650 (2BR, Mar 2026) and $520 (1BR, Jan 2026); assumed 3BR $900-1,500 + 1BR $400-700.",
+        "source_url": "https://www.marriott.com/reservation/availabilitySearch.mi?propertyCode=RNOTL&isSearch=true&fromDate=07/04/2027&toDate=07/10/2027&numberOfRooms=1&numberOfAdults=2&childrenCount=0",
+        "fees_notes": "No quote, so no tax or fees read. Taxes, possible parking and housekeeping fees not included; no resort fee per Visit Lake Tahoe.",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Gondola, shops and restaurants at the front door",
+        "Elevator building; flat village for the parents",
+        "Separate villa for Scott & Andrea"
+      ],
+      "compromises": [
+        "Sold out for Jul 4-10 (Marriott.com, Vrbo owner)",
+        "Gathering room is a villa living room; table size not stated",
+        "Timeshare inventory; no 3BR sold on Marriott.com"
+      ],
+      "best_for": "Choose this if Marriott or an owner releases a 3BR + 1BR for a Sunday Jul 4 arrival.",
+      "links": [
+        "https://www.marriott.com/reservation/availabilitySearch.mi?propertyCode=RNOTL&isSearch=true&fromDate=07/04/2027&toDate=07/10/2027&numberOfRooms=1&numberOfAdults=2&childrenCount=0",
+        "https://www.vrbo.com/1308396",
+        "https://visitlaketahoe.com/stay/marriotts-timber-lodge/",
+        "https://thebeachestates.com/property/marriott-timber-lodge-2bd-villa/HA-1214768971"
+      ],
+      "images": [
+        {
+          "url": "https://visitlaketahoe.com/wp-content/uploads/2014/12/marriott-timberlodge-lake-tahoe-e1706745498994.jpg",
+          "page_url": "https://visitlaketahoe.com/stay/marriotts-timber-lodge/",
+          "credit": "Visit Lake Tahoe",
+          "alt": "Marriott's Timber Lodge in Heavenly Village",
+          "src": "img/8253bea1e88a1bcc.jpg"
+        },
+        {
+          "url": "https://visitlaketahoe.com/wp-content/uploads/2014/12/marriott-timberlodge-tahoe-pool1120-1024x617.webp",
+          "page_url": "https://visitlaketahoe.com/stay/marriotts-timber-lodge/",
+          "credit": "Visit Lake Tahoe",
+          "alt": "Timber Lodge outdoor pool",
+          "src": "img/c619ef6c1c066d3d.webp"
+        },
+        {
+          "url": "https://imgservice.thebeachestates.com/680x408/marriott-timbe-us-south-lake-tahoe-ha-1214768971-0.jpg",
+          "page_url": "https://thebeachestates.com/property/marriott-timber-lodge-2bd-villa/HA-1214768971",
+          "credit": "Owner listing",
+          "alt": "Timber Lodge 2BR villa",
+          "src": null
+        }
+      ],
+      "review_notes": "Occupancy for the 2BR varies by listing (6 vs 8). Value rating cut to 2 because it is sold out for the dates; the lodging score no longer rests on it."
+    },
+    {
+      "name": "Marriott Grand Residence Club: 3BR residence + 1BR residence",
+      "kind": "timeshare/fractional residences, 2 separate units in one building",
+      "quick_verdict": "The 1BR is bookable; no 3BR is offered for the dates.",
+      "configuration": "1001 Heavenly Village Way, about a 3-minute walk from the gondola and the Shops at Heavenly Village. Residences from 1BR to 3BR plus penthouses: 1BR 635-732 sq ft, sleeps 4; 2BR 965-1,700 sq ft (one 2BR bi-level loft 1,599 sq ft); 3BR penthouse 2,400 sq ft, 3 baths, sleeps 11 (Suiteness); an owner 3BR villa on VRBO sleeps 10. Full kitchen, fireplace, primary suite, sofa beds in some, furnished balconies overlooking Heavenly in most (Marriott). Shared hot tub and gym listed on OTA pages. Elevator, floor numbers, dining-table seats and bed layout: not stated. Avoid the bi-level loft for the parents. The quoted 1BR could also serve as Scott & Andrea's unit next to another building's 3BR.",
+      "family_split": {
+        "scott_andrea": "1BR residence (own unit, same building)",
+        "parents": "3BR residence, one bedroom",
+        "brother_family": "3BR residence, two bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate 1BR residence with its own door in the same building; no shared space with the 3BR."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 6,
+        "parents": 7,
+        "location": 10,
+        "value": 3
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "In Heavenly Village, same as Timber Lodge.",
+      "price": {
+        "nightly_total_usd_low": 1664,
+        "nightly_total_usd_high": 2781,
+        "label": "estimate",
+        "basis": "Scott & Andrea's 1BR quoted; the 3BR is still guessed. 1BR: Marriott.com (RNOGR), '1 Bedroom Residence, 1 Queen, Sofa bed, Bathrooms: 1, Fireplace' (marked ALMOST SOLD OUT), 2 adults, Jul 4-10, 2027: Prepay Non-refundable, non-member $663.50 avg/night ($3,981 stay); Flexible Rate, non-member $780.50 avg/night ($4,683 stay; free cancellation to Jun 20, 2027). Member rates are $646 prepay / $760 flexible. Per-night breakdown not shown, only the average. 3BR not quoted: Marriott.com's main listing says 'This property won't allow that many guests in one room' for 6 guests (4 adults + 2 children 15 and 13), its '1 to 3 bedrooms & Pent' listing shows Sold Out, and the Vrbo owner 3BR 4038777 says 'not available for check-in on this day' for Jul 4. 3BR kept at the old guess of $1,000-2,000 (RedWeek 3BR $1,000/night Dec 2025; Expedia 3BR $4,200 for Jun 7, 2026). Sum: $663.50 + $1,000 = $1,664 low; $780.50 + $2,000 = $2,781 high.",
+        "source_url": "https://www.marriott.com/reservation/availabilitySearch.mi?propertyCode=RNOGR&isSearch=true&fromDate=07/04/2027&toDate=07/10/2027&numberOfRooms=1&numberOfAdults=2&childrenCount=0",
+        "fees_notes": "1BR with 'Taxes and all fees included': $743 avg/night, $4,460 stay at the member prepay rate (about 15% over the $3,876 pre-tax figure). The Vrbo owner listing says valet parking only, $45/day.",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "1 Bedroom Residence, 1 Queen, Sofa bed, Fireplace (Marriott.com), Prepay Non-refundable non-member $663.50 avg/night; Flexible non-member $780.50 avg/night"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 663.5,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Steps from gondola and village restaurants",
+        "1BR bookable for the dates",
+        "Balconies facing Heavenly"
+      ],
+      "compromises": [
+        "No 3BR offered for the dates (Marriott, Vrbo)",
+        "Elevator not stated on pages read",
+        "Owner rentals; matching two units is luck"
+      ],
+      "best_for": "Choose this if an owner turns up a 3BR for a Sunday Jul 4 arrival.",
+      "links": [
+        "https://www.marriott.com/reservation/availabilitySearch.mi?propertyCode=RNOGR&isSearch=true&fromDate=07/04/2027&toDate=07/10/2027&numberOfRooms=1&numberOfAdults=2&childrenCount=0",
+        "https://marriott.com/en-us/hotels/rnogr-marriott-grand-residence-club-lake-tahoe/rooms",
+        "https://www.redweek.com/resort/P4782-marriott-grand-residence-club-lake-tahoe",
+        "https://www.vrbo.com/4038777"
+      ],
+      "images": [],
+      "review_notes": "Front desk +1 530-542-8400 (per search listing). Value rating cut to 3 because the 3BR is unavailable for the dates."
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Camp Richardson Corral trail rides",
+        "what_you_do": "Guided trail rides of 50-55 minutes or just under 2 hours; 5-minute led pony rides for kids 5 and under.",
+        "why_memorable": "Riding through forest near the south Tahoe shore.",
+        "drive_minutes": 15,
+        "price_usd": "Not listed on the operator site; reservations (530) 541-3113",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "interactivity": "hands-on",
+        "booking_difficulty": "Book ahead for holiday week; closed for 2026, reopens May 2027.",
+        "url": "https://www.camprichardsoncorral.com/",
+        "image": {
+          "url": "https://camprichardsoncorral.com/wp-content/uploads/2022/06/74227297_3173380622734624_2732259147750834176_n.jpg",
+          "page_url": "https://www.camprichardsoncorral.com/",
+          "credit": "Camp Richardson Corral",
+          "alt": "Riders on a Camp Richardson trail ride",
+          "src": "img/f69029ac627e0bc0.jpg"
+        }
+      },
+      {
+        "name": "Zephyr Cove Stables trail rides",
+        "what_you_do": "Guided 1- or 2-hour rides on National Forest land; meal rides need 10+ riders.",
+        "why_memorable": "Rides in the forest above the Nevada shore; open daily in summer.",
+        "drive_minutes": 15,
+        "price_usd": "Not listed on the operator site (call 775.588.5664); about $75 from a third-party listing; season Apr 1-Oct 31",
+        "age_min": 7,
+        "operates_during_stay": "yes",
+        "interactivity": "hands-on",
+        "booking_difficulty": "Reservations recommended, 775.588.5664; 225 lb weight limit.",
+        "url": "https://www.zephyrcove.com/things-to-do/horseback-riding"
+      },
+      {
+        "name": "Tahoe Sportfishing lake charter",
+        "what_you_do": "Fish Lake Tahoe from a charter boat for 4 or 5 hours with crew-supplied gear, for lake trout (mackinaw), kokanee, browns and rainbows; the operator page lists a daily limit of 5 lake trout per person but does not say whether the catch is kept.",
+        "why_memorable": "Guests take part rather than watch, leaving from Ski Run Marina near the village; ranked below the rides because catching a fish is handling an animal, not doing an activity with it.",
+        "drive_minutes": 5,
+        "price_usd": "Not listed on the operator site; Fishingbooker lists $180 per person (4-hour shared trip, Apr-May) and $1,260 for a private 4-hour trip for up to 6 (Jun-Sep); a reseller lists $200 per person; CA or NV fishing license required; 15-20% tip customary",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "interactivity": "hands-on",
+        "booking_difficulty": "Book ahead for July 4 week; departs Ski Run Marina (900 Ski Run Blvd) or Zephyr Cove; 'All Ages', trips 'Every Day', fishes year-round.",
+        "url": "https://www.tahoesportfishing.com/",
+        "image": {
+          "url": "https://tahoesportfishing.com/wp-content/uploads/sites/7411/2024/06/Lake-Tahoe.png",
+          "page_url": "https://www.tahoesportfishing.com/",
+          "credit": "Tahoe Sportfishing",
+          "alt": "Lake Tahoe from a Tahoe Sportfishing charter",
+          "src": null
+        }
+      },
+      {
+        "name": "Animal Ark Wildlife Sanctuary Meet and Greet",
+        "what_you_do": "Keeper-led Meet and Greet with some of the sanctuary's rescued wildlife, plus walking paths past the enclosures; whether guests touch or feed any animal is not stated.",
+        "why_memorable": "The only hosted wildlife encounter in reach, but 105 minutes away, outside the 60-minute range.",
+        "drive_minutes": 105,
+        "price_usd": "Not listed on the Meet and Greet or home page; tickets sold through Peek",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "interactivity": "close viewing",
+        "booking_difficulty": "Meet and Greets are weekends only at 10:30 am or 1 pm, by advance reservation with a signed waiver; in the stay that means Sun Jul 4 or Sat Jul 10. Sanctuary open March-November; call (775) 997-2227.",
+        "url": "https://animalark.org/meet-and-greets"
+      },
+      {
+        "name": "Lake Tahoe Wildlife Care",
+        "what_you_do": "Wildlife rehabilitation center with an Outdoor Learning Center that has shown some resident animals to the public.",
+        "why_memorable": "Local wildlife in care (past intakes include bear cubs and bald eagles); education programs.",
+        "drive_minutes": 10,
+        "price_usd": "Not listed",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "interactivity": "viewing",
+        "booking_difficulty": "Public hours not published on the home or facility page; call (530) 577-2273.",
+        "url": "https://www.ltwc.org/",
+        "image": {
+          "url": "https://ltwc.org/wp-content/uploads/2020/08/greyfox.jpg",
+          "page_url": "https://www.ltwc.org/",
+          "credit": "Lake Tahoe Wildlife Care",
+          "alt": "Grey fox in care",
+          "src": "img/f2179fa742b1a80b.jpg"
+        }
+      }
+    ],
+    "golf": [
+      {
+        "name": "Incline Village Championship Course",
+        "what_you_do": "18-hole, par-72 public course; GPS electric carts, range and practice greens.",
+        "why_memorable": "Robert Trent Jones Sr. design with Lake Tahoe views throughout and an 18th green overlooking the lake.",
+        "drive_minutes": 50,
+        "price_usd": "$242 Mon-Thu, $263 Fri-Sun/holidays prime time, 2026 public peak rate (Jun 8-Sep 7); twilight $180-196; 2027 not posted",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Tee times open 14 days ahead free; earlier bookings cost $15/golfer; golf shop 775-832-1146.",
+        "url": "https://www.yourtahoeplace.com/golf/championship-course/",
+        "image": {
+          "url": "https://www.yourtahoeplace.com/wp-content/uploads/2024/01/InclineVillageGolfCourses_Championship_hole7_bear_LTCutout_photo-op-338x338.jpg",
+          "page_url": "https://www.yourtahoeplace.com/golf/championship-course/",
+          "credit": "Incline Village Golf Courses",
+          "alt": "Hole 7 at Incline Village Championship Course",
+          "src": "img/3f0d3ada459e9402.jpg"
+        }
+      },
+      {
+        "name": "Lake Tahoe Golf Course (Meyers)",
+        "what_you_do": "18-hole public course at 2500 Emerald Bay Rd in Meyers.",
+        "why_memorable": "Mountain golf at a fraction of the lakeshore courses' fees.",
+        "drive_minutes": 15,
+        "price_usd": "About $54-108 with cart (GolfNow prepaid deals, Aug 2026)",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Easy via GolfNow or the course.",
+        "url": "https://www.golfnow.com/tee-times/facility/461/tee-time/230738270"
+      },
+      {
+        "name": "Edgewood Tahoe Golf Course",
+        "what_you_do": "18 holes on the lakeshore; fee includes cart, GPS and range balls. Not playable for most of the stay: it hosts the American Century Championship Jul 7-11, 2027.",
+        "why_memorable": "Fazio course on the shore of Lake Tahoe, home of the American Century Championship; watch the tournament instead.",
+        "drive_minutes": 5,
+        "price_usd": "$475 daily, July 2027 (published rate)",
+        "age_min": null,
+        "operates_during_stay": "no",
+        "booking_difficulty": "No public tee times during tournament week (Golf.com); whether Jul 4-6 is open is not stated. Tee times otherwise open 60 days ahead, 775.588.3566.",
+        "url": "https://www.edgewoodtahoe.com/golf/",
+        "image": {
+          "url": "https://edgewoodtahoe.com/wp-content/uploads/2020/06/golf-hero.jpg",
+          "page_url": "https://www.edgewoodtahoe.com/golf/",
+          "credit": "Edgewood Tahoe",
+          "alt": "Edgewood Tahoe course beside the lake",
+          "src": "img/a7c10a6d6c1be195.jpg"
+        }
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "American Century Championship (celebrity golf) at Edgewood",
+      "good_for": [
+        "everyone",
+        "teens",
+        "parents"
+      ],
+      "details": "Jul 7-11, 2027 at Edgewood Tahoe, 5 minutes from the village. Tickets $50/day Wed-Thu, $60/day Fri-Sun, $175 grounds pass; on sale Apr 1, 2027 via Eventbrite and 'will sell out'. Gates Wed-Thu 8 am-4 pm, Fri-Sun 7 am-2 pm. No parking on Lake Parkway; free Lake Link micro-transit. Walking the course is uneven for the parents.",
+      "drive_minutes": 5,
+      "url": "https://visitlaketahoe.com/event/american-century-celebrity-golf-championship/2027-07-08/",
+      "found_via": "Visit Lake Tahoe events calendar",
+      "image": {
+        "url": "https://visitlaketahoe.com/wp-content/uploads/2020/12/Romo-Signs-Autographs-celebrity-golf1899-1-1024x549.jpg",
+        "page_url": "https://visitlaketahoe.com/event/american-century-celebrity-golf-championship/2027-07-08/",
+        "credit": "Visit Lake Tahoe",
+        "alt": "Tony Romo signing autographs at the celebrity golf tournament",
+        "src": "img/31f9986a6f592da8.jpg"
+      }
+    },
+    {
+      "name": "Heavenly Gondola, Observation Deck and mountain-top activities",
+      "good_for": [
+        "everyone",
+        "teens",
+        "parents"
+      ],
+      "details": "About a 12-minute ride from Heavenly Village to a 9,123-ft observation deck; Tamarack Lodge, hiking trails, Ridge Rider mountain coaster, zip line, climbing wall, tubing. Adult $72, child 5-12 $52 (third-party listing, summer 2026); 2027 summer dates not yet published.",
+      "drive_minutes": 0,
+      "url": "https://www.skiheavenly.com/explore-the-resort/about-the-resort/hours-of-operation.aspx",
+      "found_via": "Search and travel-guide listings"
+    },
+    {
+      "name": "M.S. Dixie II paddlewheeler to Emerald Bay",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "2.25-hour daytime cruise from Zephyr Cove to Emerald Bay; adult $109, child 3-11 $60; accessible restroom, no elevator to the upper deck; lunch menu.",
+      "drive_minutes": 15,
+      "url": "https://www.zephyrcove.com/cruise-experience/daytime-scenic-cruises",
+      "found_via": "Operator site"
+    },
+    {
+      "name": "Emerald Bay State Park and Vikingsholm",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "Overlooks from Hwy 89 suit everyone; the walk down to Vikingsholm and back is steep (guides allow 3-4 hours).",
+      "drive_minutes": 25,
+      "url": "https://visitlaketahoe.com/things-to-do/",
+      "found_via": "Visit Lake Tahoe things to do"
+    },
+    {
+      "name": "Escape rooms: Trapped in Tahoe / Puzzle Room Tahoe",
+      "good_for": [
+        "teens",
+        "adults",
+        "rainy day"
+      ],
+      "details": "Trapped in Tahoe (3320 Sandy Way) has four rooms, about an hour, $30/person. Puzzle Room Tahoe in Stateline has four rooms and a board-game lounge, but one listing shows it closed.",
+      "drive_minutes": 5,
+      "url": "https://visitlaketahoe.com/family/trapped-in-tahoe/",
+      "found_via": "Visit Lake Tahoe family listings"
+    },
+    {
+      "name": "Edgewood Spa",
+      "good_for": [
+        "adults",
+        "rainy day"
+      ],
+      "details": "8,500 sq ft spa at Edgewood Tahoe Resort, for Jenna and Andrea; book early in tournament week.",
+      "drive_minutes": 5,
+      "url": "https://edgewoodtahoe.com/spa/",
+      "found_via": "Edgewood Tahoe site"
+    },
+    {
+      "name": "Beaches and paddling: Lakeside, Pope and Kiva beaches",
+      "good_for": [
+        "everyone",
+        "teens"
+      ],
+      "details": "Lakeside Beach is close to downtown; Pope Beach has nearly a mile of shoreline with calm, shallow water; kayaking and paddleboarding on the lake.",
+      "drive_minutes": 5,
+      "url": "https://visitlaketahoe.com/things-to-do/",
+      "found_via": "Visit Lake Tahoe things to do",
+      "image": {
+        "url": "https://visitlaketahoe.com/wp-content/uploads/2026/04/family-at-a-lake-tahoe-beach.webp",
+        "page_url": "https://visitlaketahoe.com/things-to-do/",
+        "credit": "Visit Lake Tahoe",
+        "alt": "Family on a Lake Tahoe beach",
+        "src": "img/c0017707278f8809.webp"
+      }
+    }
+  ],
+  "brochure": {
+    "tagline": "Gondola rides, lake beaches and a celebrity golf tournament",
+    "intro": "A week at Heavenly Village puts the gondola, shops and restaurants a short flat walk away, with Lake Tahoe's beaches and Emerald Bay a few minutes by car. Days can be horseback rides, a paddlewheeler cruise or a round of golf. The week also includes the American Century Championship to watch.",
+    "highlights": [
+      "Gondola ride to a 9,123-foot lookout over the lake",
+      "Watch the American Century celebrity golf, July 7-11",
+      "Beaches, kayaking and paddleboarding on the lake",
+      "Trail rides through the forest by the shore",
+      "Paddlewheeler cruise to Emerald Bay",
+      "Village restaurants and casino dining on foot"
+    ],
+    "pros": [
+      "Flat, walkable village at the foot of the gondola",
+      "Lake beaches only minutes away",
+      "Plenty to do for teens, parents and grandparents",
+      "Scenic lake-view golf within an hour",
+      "Many dinner choices within a short walk"
+    ],
+    "cons": [
+      "July 4 and tournament week mean crowds, traffic and a closed Edgewood course",
+      "July highs near 80 F, warmer than ideal",
+      "About 75 minutes by car from Reno airport",
+      "Animal outings are horseback rides and a fishing charter; no feeding or wildlife encounters nearby"
+    ],
+    "stays": [
+      {
+        "name": "Zalanta Resort at the Village: 3BR residence + 2BR residence",
+        "blurb": "Condo residences in one building across the road from Heavenly Village and the gondola. A courtyard pool and hot tub sit at the centre.",
+        "highlights": [
+          "Elevator in the building",
+          "Gourmet kitchen and balcony with gondola and village views",
+          "Heated pool and hot tub courtyard",
+          "Free parking and a fitness center"
+        ]
+      },
+      {
+        "name": "Forest Suites Resort at Heavenly Village: 2BR suite + two 1BR suites",
+        "blurb": "An all-suite hotel right beside the gondola and Heavenly Village. Every suite has a full kitchen and living area.",
+        "highlights": [
+          "Free hot breakfast and an evening wine-and-cheese reception",
+          "Heated pools, hot tubs and fire pits",
+          "Game room with pool tables",
+          "Steps from village restaurants"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Heavenly Gondola and mountain-top fun",
+        "kind": "outdoors",
+        "blurb": "A 12-minute ride up to an observation deck, with a mountain coaster, zip line and hiking trails at the top.",
+        "url": "https://www.skiheavenly.com/explore-the-resort/about-the-resort/hours-of-operation.aspx",
+        "image": {
+          "url": "https://theshopsatheavenly.com/wp-content/uploads/2024/06/119968790_10157639269493202_4821696049982827808_n.jpg",
+          "page_url": "https://www.theshopsatheavenly.com/",
+          "credit": "The Shops at Heavenly Village",
+          "alt": "Heavenly Village and gondola",
+          "src": null
+        }
+      },
+      {
+        "name": "Lake beaches and paddling",
+        "kind": "outdoors",
+        "blurb": "Lakeside Beach is close to downtown, and Pope Beach has nearly a mile of calm, shallow shore. Rent a kayak or paddleboard.",
+        "url": "https://visitlaketahoe.com/things-to-do/",
+        "image": {
+          "url": "https://visitlaketahoe.com/wp-content/uploads/2026/04/family-at-a-lake-tahoe-beach.webp",
+          "page_url": "https://visitlaketahoe.com/things-to-do/",
+          "credit": "Visit Lake Tahoe",
+          "alt": "Family on a Lake Tahoe beach",
+          "src": "img/c0017707278f8809.webp"
+        }
+      },
+      {
+        "name": "Trail rides at Camp Richardson Corral",
+        "kind": "animals",
+        "blurb": "Guided rides of about an hour or nearly two through forest near the shore; the corral reopens in May 2027. Zephyr Cove Stables offers rides too, for ages 7 and up.",
+        "url": "https://www.camprichardsoncorral.com/",
+        "image": {
+          "url": "https://camprichardsoncorral.com/wp-content/uploads/2022/06/74227297_3173380622734624_2732259147750834176_n.jpg",
+          "page_url": "https://www.camprichardsoncorral.com/",
+          "credit": "Camp Richardson Corral",
+          "alt": "Riders on a Camp Richardson trail ride",
+          "src": "img/f69029ac627e0bc0.jpg"
+        }
+      },
+      {
+        "name": "Fishing charter on the lake",
+        "kind": "animals",
+        "blurb": "A 4- or 5-hour Lake Tahoe charter with crew-supplied gear, leaving from Ski Run Marina near the village. All ages; a fishing license is needed and the July 4 week books up.",
+        "url": "https://www.tahoesportfishing.com/",
+        "image": {
+          "url": "https://tahoesportfishing.com/wp-content/uploads/sites/7411/2024/06/Lake-Tahoe.png",
+          "page_url": "https://www.tahoesportfishing.com/",
+          "credit": "Tahoe Sportfishing",
+          "alt": "Lake Tahoe from a Tahoe Sportfishing charter",
+          "src": null
+        }
+      },
+      {
+        "name": "Golf at Incline Village Championship",
+        "kind": "golf",
+        "blurb": "A par-72 course with Lake Tahoe views throughout and an 18th green overlooking the lake. About 50 minutes away.",
+        "url": "https://www.yourtahoeplace.com/golf/championship-course/",
+        "image": {
+          "url": "https://www.yourtahoeplace.com/wp-content/uploads/2024/01/InclineVillageGolfCourses_Championship_hole7_bear_LTCutout_photo-op-338x338.jpg",
+          "page_url": "https://www.yourtahoeplace.com/golf/championship-course/",
+          "credit": "Incline Village Golf Courses",
+          "alt": "Hole 7 at Incline Village Championship Course",
+          "src": "img/3f0d3ada459e9402.jpg"
+        }
+      },
+      {
+        "name": "American Century Championship",
+        "kind": "golf",
+        "blurb": "Celebrity golf at Edgewood Tahoe, July 7-11, five minutes from the village. Tickets go on sale April 1, 2027.",
+        "url": "https://visitlaketahoe.com/event/american-century-celebrity-golf-championship/2027-07-08/",
+        "image": {
+          "url": "https://visitlaketahoe.com/wp-content/uploads/2020/12/Romo-Signs-Autographs-celebrity-golf1899-1-1024x549.jpg",
+          "page_url": "https://visitlaketahoe.com/event/american-century-celebrity-golf-championship/2027-07-08/",
+          "credit": "Visit Lake Tahoe",
+          "alt": "Tony Romo signing autographs at the celebrity golf tournament",
+          "src": "img/31f9986a6f592da8.jpg"
+        }
+      },
+      {
+        "name": "M.S. Dixie II cruise to Emerald Bay",
+        "kind": "outdoors",
+        "blurb": "A 2.25-hour paddlewheeler cruise from Zephyr Cove to Emerald Bay, with a lunch menu on board.",
+        "url": "https://www.zephyrcove.com/cruise-experience/daytime-scenic-cruises"
+      },
+      {
+        "name": "Heavenly Village shops and dining",
+        "kind": "town",
+        "blurb": "Shops, outdoor tables and live music at Gunbarrel Tavern, all on a flat pedestrian plaza.",
+        "url": "https://www.theshopsatheavenly.com/",
+        "image": {
+          "url": "https://theshopsatheavenly.com/wp-content/uploads/2024/06/130741200_10157818611768202_6307867072203297444_n.jpg",
+          "page_url": "https://theshopsatheavenly.com/food-drink/",
+          "credit": "The Shops at Heavenly Village",
+          "alt": "Outdoor dining in Heavenly Village",
+          "src": null
+        }
+      },
+      {
+        "name": "Escape rooms",
+        "kind": "rainy day",
+        "blurb": "Trapped in Tahoe has four rooms and runs about an hour, a good pick for a rainy afternoon with the teens.",
+        "url": "https://visitlaketahoe.com/family/trapped-in-tahoe/"
+      }
+    ],
+    "dinner_spots": [
+      "Sapori Italian Kitchen (Harrah's) — casual Italian, a 10-minute walk",
+      "Gordon Ramsay Hell's Kitchen (Caesars Republic) — upscale American; book ahead for a big table",
+      "Sage Room Steak House (Caesars Republic) — steakhouse for a special night",
+      "Brew Brothers (Harrah's) — casual American, open late"
+    ]
+  },
+  "shopping_exploring": "The Shops at Heavenly Village (shops, restaurants, live music at Gunbarrel Tavern) are a few minutes' walk from Zalanta and Forest Suites; Stateline casinos are about a 10-minute flat walk.",
+  "restaurants": [
+    {
+      "name": "Brew Brothers (Harrah's)",
+      "category": "casual",
+      "notes": "Casual American, $$; open late.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.caesars.com/harrahs-tahoe/restaurants/brew-brothers",
+      "image": {
+        "url": "https://assets.caesars.com/transform/c20fa733-ebd6-418f-999f-223cf8b192d8/elr-brew-brothers-burger-1920x1080?io=height:240,transform:fit&format=webp&quality=60",
+        "page_url": "https://www.caesars.com/harrahs-tahoe/restaurants",
+        "credit": "Caesars Entertainment",
+        "alt": "Burger at Brew Brothers",
+        "src": null
+      }
+    },
+    {
+      "name": "El Jefe's Cantina Tahoe (Caesars Republic)",
+      "category": "casual",
+      "notes": "Casual Mexican, $$; opens 5 pm.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.caesars.com/caesars-republic-lake-tahoe/restaurants/el-jefes-cantina-tahoe"
+    },
+    {
+      "name": "Sapori Italian Kitchen (Harrah's)",
+      "category": "family dinner",
+      "notes": "Casual Italian, $$$; opens 5 pm.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.caesars.com/harrahs-tahoe/restaurants/sapori-italian-kitchen",
+      "image": {
+        "url": "https://assets.caesars.com/transform/db267a01-c948-4d2c-8e33-382b649fb12b/tah-sapori-pasta-1920x1080?io=height:240,transform:fit&format=webp&quality=60",
+        "page_url": "https://www.caesars.com/harrahs-tahoe/restaurants",
+        "credit": "Caesars Entertainment",
+        "alt": "Pasta at Sapori",
+        "src": "img/3c119de47d7f0dc4.webp"
+      }
+    },
+    {
+      "name": "Gordon Ramsay Hell's Kitchen (Caesars Republic)",
+      "category": "family dinner",
+      "notes": "Upscale American, $$$; opens 5 pm; book ahead for 8, especially in tournament week.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.caesars.com/caesars-republic-lake-tahoe/restaurants/gordon-ramsay-hells-kitchen"
+    },
+    {
+      "name": "Sage Room Steak House (Caesars Republic)",
+      "category": "special dinner",
+      "notes": "Upscale steakhouse, $$$; opens 4 pm; walkable. Lake-view alternative: The Edge at Edgewood (multi-course tasting menus, 5-minute drive, business casual, entree prices not listed). Friday's Station at Harrah's is temporarily closed.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.caesars.com/caesars-republic-lake-tahoe/restaurants/sage-room-steak-house"
+    },
+    {
+      "name": "Cleo's Coffee and Cocktails (Caesars Republic)",
+      "category": "breakfast/coffee",
+      "notes": "Coffee bar, $; Starbucks at Harrah's is the other walkable option.",
+      "walk_minutes_from_lodging": 10,
+      "url": "https://www.caesars.com/caesars-republic-lake-tahoe/restaurants/cleos-coffee-and-cocktails"
+    }
+  ],
+  "weather": {
+    "source_url": "https://en.wikipedia.org/wiki/South_Lake_Tahoe,_California",
+    "july": {
+      "high_f": 80.4,
+      "low_f": 42.5,
+      "rain_days": 2.1,
+      "notes": "Lake Tahoe Airport, 1991-2020 normals; record July high 99 F. Cold mornings (low 40s). Town elevation 6,237 ft. Wildfire smoke is a regional summer risk but the source does not name it."
+    }
+  },
+  "logistics": {
+    "airport": "Reno-Tahoe International (RNO)",
+    "drive_minutes_from_airport": 75,
+    "flights": {
+      "den": "Nonstop DEN-RNO on United, Southwest and Frontier; then about 75 minutes by car.",
+      "bay_area": "United nonstop SFO-RNO; no OAK or SMF nonstops to RNO. Driving from the Bay Area or Sacramento is the other option."
+    },
+    "car_needed": "Yes for golf, the Dixie cruise, stables and Emerald Bay; the village and casino restaurants are on foot. Two cars cover the party.",
+    "notes": "Check-in is Sunday July 4, the peak holiday of the Tahoe summer, and the American Century Championship runs Jul 7-11 at Edgewood (no parking on Lake Parkway): expect heavy US-50 traffic, full restaurants and paid event parking. RNO drive time comes from the earlier pass and was not re-timed."
+  },
+  "caveats": [
+    "July 4 check-in plus the American Century Championship (Jul 7-11, 2027, Edgewood): the most crowded, most expensive week of the Tahoe summer.",
+    "Lodging rests on Zalanta (verified $1,916-2,737/night before tax, Jul 4-10, quoted 2026-11-14), one of two options confirmed bookable (Forest Suites is the other); book early, since the engine showed 3 3BRs and 4 2BRs left at those prices.",
+    "Marriott's Timber Lodge, Grand Residence Club (no 3BR) and Edgewood Tahoe are sold out for Jul 4-10 and now sit in lodging_backups with their quotes, in case inventory returns.",
+    "Edgewood Tahoe: no availability for any room type Jul 3-11, 2027 (tournament week) in its own booking engine, while Jul 1-2 and Jul 12 onward price; not bookable for the dates (checked 2026-11-14).",
+    "Forest Suites: verified $1,320-1,613/night including fees, tax not shown, for one 2BR + two 1BR suites, Jul 4-10, 2027 (quoted 2026-11-14).",
+    "The Landing and the two new backups (Hilton Vacation Club, Hyatt High Sierra Lodge) have no price for the dates; the Hyatt option is in Incline Village, 50 minutes from the South Lake activities.",
+    "Edgewood Tahoe golf course takes no public tee times during tournament week; the scenic alternative, Incline Village, is about 50 minutes away.",
+    "July normal high is 80.4 F, above the 75 F target; mornings near 42 F.",
+    "Animals: a lake fishing charter and two horseback stables; no feeding, encounter or wildlife program within 60 minutes.",
+    "Friday's Station at Harrah's is temporarily closed.",
+    "Town sits at 6,237 ft; Vikingsholm trail is steep.",
+    "Margaritaville (former Lake Tahoe Resort Hotel) is not yet open for July 2027 bookings."
+  ],
+  "open_questions": [
+    "Zalanta: 2BR layout, dining-table seats in the 3BR, and which units are near the elevator; Zalanta reservations 866.331.6944.",
+    "The Landing: rate for the 3-Bedroom Suite + two king rooms for Jul 4-10, 2027, the suite's floor and elevator access, and dining-table seats; ask the hotel or the price-checker.",
+    "Hilton Vacation Club Lake Tahoe Resort: elevator and floors, and whether owners (RedWeek, VRBO) rent a 2BR + two 1BRs with a Sunday Jul 4 arrival and at what rate; ask the resort front desk or owners.",
+    "Hyatt Vacation Club at High Sierra Lodge: elevator and step-free access (listings conflict), and whether three 2BR residences can be rented for Jul 4-10 and at what rate; ask Hyatt Vacation Club.",
+    "Edgewood Tahoe: the engine shows no availability Jul 3-11, 2027; is tournament-week inventory held back and will it be released? Also whether villas are single-level or have stairs, dining-table seats, and the 3BR's size (2,200 vs 2,938 sq ft). Villa Suites line 844.366.6953.",
+    "Edgewood Tahoe golf: are public tee times available Jul 4-6, 2027, before the tournament? Ask the golf shop, 775.588.3566.",
+    "Forest Suites: elevator and floors; 2BR bath count and size (the engine gives no square footage); tax on the 'including all fees' rate. Ask the hotel.",
+    "Timber Lodge: will Marriott release villas for Jul 4-10 later, or will an owner (VRBO/RedWeek) rent a 3BR + 1BR with a Sunday arrival? Ask the resort or owners.",
+    "Grand Residence Club: elevator access, and whether a 3BR for Jul 4-10 can be had; front desk +1 530-542-8400 or RedWeek owners.",
+    "Margaritaville Resort Lake Tahoe: when do July 2027 rates open, and are breakfast and happy hour still included? Hotel +1 530 544 5400.",
+    "Fixed check-in days over July 4: the Vrbo owner listings at Timber Lodge and Grand Residence refuse a Jul 4 check-in. Which arrival day do the owners allow?",
+    "Not checked this pass: houses with a separate ADU or guest house in Tahoe Keys / Al Tahoe (Vacasa, Evolve, Lake Tahoe Accommodations, Tahoe Getaways); one more search found no main house + guest house walkable to the village.",
+    "Tahoe Sportfishing: 2027 July prices for a private 4- or 5-hour charter for the party; the operator site lists none. Ask the operator at Ski Run Marina.",
+    "Camp Richardson Corral: 2027 prices and minimum age for trail rides; ask the corral.",
+    "Animal Ark Meet and Greet: which animals, whether guests touch or feed them, price and age limits; Guest Services (775) 997-2227.",
+    "Lake Tahoe Wildlife Care: are there public visiting hours in July 2027; call (530) 577-2273.",
+    "Heavenly summer 2027 opening date and gondola prices; check skiheavenly.com in spring 2027.",
+    "Puzzle Room Tahoe: still operating? One listing shows closed; ask the venue.",
+    "Heavenly Village restaurant list was not retrieved venue by venue; check theshopsatheavenly.com food & drink directory.",
+    "Incline Village Championship 2027 green fees (2026 rates used); golf shop 775-832-1146.",
+    "RNO to Heavenly Village drive time was not re-timed this pass."
+  ],
+  "verification_notes": [
+    "fact-checker 2026-11-15: animals 8 to 7, total 68 to 67. Re-ranked focus.animals: the two horse rides (Camp Richardson, Zephyr Cove) are 'doing an activity with the animals' (carried by them, like a dog team) and now come first; the fishing charter is catching and handling fish, so it moved to third (the operator page lists a 5-trout daily limit but not that the catch is kept; reworded). Top two are now both farm-animal rides, so the score drops 1.",
+    "fact-checker 2026-11-15: Zalanta compromise text $2,737 changed to $2,733 to match the price block (price block untouched).",
+    "fact-checker 2026-11-15: The Landing 3BR suite page confirms 3BR, 2 baths, 2 kings + 1 queen, 890 sq ft, sleeps 6; floor/elevator/accessibility not stated (only a separate ADA studio is listed). Resort fee text changed from $72.93 (OTA snippet) to $65 per the hotel engine, as the price-checker recorded; the fee is not on the page I fetched. Lock-off yes kept (separate rooms and suite).",
+    "fact-checker 2026-11-15: Hilton Vacation Club Lake Tahoe: RedWeek and HGV pages confirm studio/1BR/2BR types and no elevator or accessibility statement; HGV says 'steps from the shore' and about 1 mile from the casino district; 2BR bath count and sq ft not on those pages. VRBO 3108665 not re-opened (price-checker found it redirects). Lock-off yes kept as separate units; elevator/step-free access could not verify: not stated.",
+    "fact-checker 2026-11-15: Hyatt High Sierra Lodge: RedWeek lists an elevator, 'Accessible units', and identical 2BR/2-bath suites sleeping 8; configuration text updated; conflicting Travelocity 'Not Handicap Accessible' remains, so unit-level step-free access could not verify. hyatt.com not opened (403/429). No lock-off beyond separate 2BR units.",
+    "fact-checker 2026-11-15: Camp Richardson Corral page confirms closed for 2026, reopens May 2027, no minimum age listed (pony rides 'great for 5 and under'), no prices; phone added. Zephyr Cove confirmed 7+, Apr 1-Oct 31, 1 or 2 hours, no prices. Lake Tahoe Wildlife Care: public hours not on its home page, could not verify: operates_during_stay stays unknown. Animal Ark not re-opened (105 min, weekends, outside the 60-minute range, does not count).",
+    "fact-checker 2026-11-15: Zalanta and Forest Suites pages fetched: Zalanta home page confirms 'steps from the gondola' and Vail management, residence details and elevator not on that page (could not verify beyond earlier notes); Forest Suites home page confirms oversized 1- and 2BR suites with living room, dining and kitchen, ADA suites page exists, elevator and floors not stated (could not verify: elevator).",
+    "Session web-search budget ran out mid-research in the first pass; restaurants, weather and logistics were checked by direct page fetches only.",
+    "price-checker 2026-11-14: Marriott's Timber Lodge stays estimate $1,300-2,200 (no quote): sold out on Marriott.com for Jul 4-10, 2027, while a Dec 14-16, 2026 control returned a 2BR villa at $458/night. The Vrbo owner listing refuses a Jul 4 check-in. Marriott.com's 6-guest inventory here is a 2BR villa (2 kings, 2 sofa beds), not the 3BR in the configuration.",
+    "price-checker 2026-11-14: Grand Residence Club estimate $1,500-2,800 becomes estimate $1,664-2,781. The 1BR was quoted on Marriott.com at $663.50-780.50/night; the 3BR is still guessed at $1,000-2,000, since Marriott.com would not seat 6 in one unit and the Vrbo owner 3BR refuses a Jul 4 check-in. Value rating stays 5.",
+    "price-checker 2026-11-14: Zalanta estimate $2,000-3,900 becomes verified $1,916-2,737/night (3BR $1,168.50-1,669.17 + 2BR $747.33-1,067.50, Heavenly/Vail engine, 'including fees', tax not shown). Value rating 4 to 6, now under the $2,800 cap even at the standard rate.",
+    "price-checker 2026-11-14: Lake Tahoe Resort Hotel stays estimate $900-1,650 (no quote). The property is now Margaritaville Resort Lake Tahoe, and its SynXis engine reports 'closed' for July 2027 while a December control prices fine, so it is not bookable yet.",
+    "price-checker 2026-11-14: Tahoe Lakeshore Lodge unknown becomes estimate, with only one unit quoted (Lodge Queen Lake View, $449/night). No second room and no 2BR condo is available for Jul 4-10, 2027.",
+    "price-checker 2026-11-14: Lakeland Village stays unknown (no quote): Vacasa unit 628 is unavailable for Jul 4-10, 2027 ('minimum stay requirement that's not met').",
+    "price-checker 2026-11-14: lodging score stays 17 and total stays 69. Under the rubric re-scoring rule, Timber Lodge remains eligible (listing exists, lock-off yes, $1,300 estimate under the cap), even though it was sold out on Marriott.com.",
+    "rerun 2026-11-14: Timber Lodge treated as unavailable (sold out for the dates); the lodging score now rests on Zalanta (verified, config ratings 9/7/8, the highest config sum of any eligible option) and stays 17. Timber Lodge value 7 to 2 and Grand Residence value 5 to 3 for no availability; their price blocks are unchanged.",
+    "rerun 2026-11-14: dropped Tahoe Lakeshore Lodge (only one queen room left; 2BR condos stairs-only) and Lakeland Village (unit 628 unavailable; townhome stairs; no second unit found). Their price-checker results are recorded in the notes above.",
+    "rerun 2026-11-14: added Edgewood Tahoe 3BR Villa Suite + lodge room (price unknown) and Forest Suites 2BR + two 1BR suites (estimate) for the price-checker.",
+    "rerun 2026-11-14: found the American Century Championship runs Jul 7-11, 2027 at Edgewood, which takes no public tee times that week. Edgewood golf set to operates_during_stay 'no'; Incline Village Championship added; golf 8 to 7; total 69 to 68.",
+    "price-checker 2026-11-14: Edgewood Tahoe stays unknown (no quote): not bookable, or sold out, for these dates. Edgewood's own engine (azds, all room types, 2 adults) marks Jul 3-11, 2027 'NO AVAILABILITY' while Jul 1-2, Jul 12+ and November 2026 nights price. The American Century Championship (Jul 7-11) is the likely cause. Value rating 3 to 2.",
+    "price-checker 2026-11-14: Forest Suites estimate $750-1,500 becomes verified $1,320-1,613/night (two DELUXE ONE BEDROOM SUITEs $406-449 + DELUXE TWO BEDROOM SUITE $508-715, SynXis, 'including all fees', tax not shown). Value rating 7 to 8. The engine's 2BR ('king bed, two double beds, sofa sleeper') matches the configuration; it gives no square footage or bath count.",
+    "price-checker 2026-11-14: lodging score stays 17 and total stays 68. The score rests on Zalanta, which is still eligible (verified, lock-off yes, under the cap).",
+    "fact-checker 2026-11-14: Forest Suites 2BR bath count corrected from 1 to 2 (hotel's own suites page: king bedroom with private tub bath, second bathroom with shower; Suiteness says 1 bath). 1BR sofa bed claim not on hotel page. Removed the 'one bath for four' compromise. Elevator and floors still not stated by the hotel pages; ratings unchanged (bath count is not on a rating guide).",
+    "fact-checker 2026-11-14: Zalanta 3BR (RedAwning) confirmed: 3 bedrooms, 3 baths ('a bathroom for each bedroom', attached or just outside, so the 'en-suite' wording is loosened), elevator listed, dining table with no seat count, living room 'plenty of seating', floor not stated, bed types not stated. Zalanta's own page lists 2/3/4BR residences and no elevator, bedroom floors or dining seats. The VRBO elevator/2nd-floor note could not be re-read (HTTP 429). Lock-off yes (separate 2BR residence) stands; layout ratings and lodging 17 unchanged.",
+    "fact-checker 2026-11-14: American Century Championship dates confirmed on Visit Lake Tahoe: Jul 7-11, 2027, tickets $50 Wed-Thu / $60 Fri-Sun, $175 grounds pass, gates as listed. Golf.com confirms no public tee times in tournament week; Edgewood's golf page gives $475 daily for July 2027, 60-day booking window, course reopens May 2027, and says nothing about Jul 4-6 (could not verify: public tee times Jul 4-6; Edgewood golf stays 'no', which is the conservative reading).",
+    "fact-checker 2026-11-14: Incline Village Championship confirmed public (paid golfers; 2026 rates $242 Mon-Thu / $263 Fri-Sun prime, twilight $180/$196, Jun 8-Sep 7; tee times 14 days free, $15 earlier; 775-832-1146). 2026 season ran May 8-Oct 18; 2027 rates and season not posted (could not verify: 2027 fee and Jul 2027 opening, assumed same pattern).",
+    "fact-checker 2026-11-14: Zephyr Cove Stables operator page: minimum age 7 (Ethan 15 and Aubrey 13 qualify), 225 lb limit, season Apr 1-Oct 31, 1- or 2-hour rides, meal rides need 10+; the operator page lists no price, so the $75 figure stays third-party (price field reworded). Camp Richardson Corral: closed for 2026 and reopens May 2027, rides 50-55 min or nearly 2 hours, pony rides 5 and under; no price and no minimum age on the page (could not verify: ride prices and minimum age; call (530) 541-3113). operates_during_stay stays yes for both on the reopening statements.",
+    "fact-checker 2026-11-14: not re-opened (could not verify): Lake Tahoe Wildlife Care and Taylor Creek hours, Animal Ark, Lake Tahoe Golf Course fees, Edgewood villa levels, Timber Lodge/Grand Residence/Margaritaville configuration pages (all unavailable or marked unavailable for the dates; scores do not rest on them). No score changed.",
+    "rerun 2026-11-15: moved the three options the price-checker found sold out for Jul 4-10 (Edgewood Tahoe, Marriott's Timber Lodge, Marriott Grand Residence Club) from lodging into lodging_backups unchanged, with their quotes and availability. Added The Landing Tahoe (3BR suite + two king rooms, lock-off yes, price unknown) to lodging so it keeps four options, and two new backups with lock-off yes and full splits: Hilton Vacation Club Lake Tahoe Resort (2BR + two 1BR suites, owner rentals) and Hyatt Vacation Club at High Sierra Lodge in Incline Village (three 2BR residences). The lodging score still rests on Zalanta and stays 17.",
+    "rerun 2026-11-15: The Landing's own pages serve images as lazy-load placeholders and its /book/ page did not render rates in a fetch; Hyatt.com returned 403 and VRBO/Expedia returned 429, so the Hilton and Hyatt configurations rest on RedWeek, Hilton Grand Vacations and aggregator snippets. The Hyatt Regency Lake Tahoe lakeside cottages were not used: Hyatt's redevelopment of 11 of 12 cottages has been under way since March 2025 (search snippet of Hyatt's renovation page, which refused the fetch).",
+    "rerun 2026-11-15: animals redone against the current guidance, ranked by what guests do and then by the animal. Added Tahoe Sportfishing (a lake charter, an activity with smaller wild animals; the catch is kept, so the orchestrator may prefer to rank it below the trail rides) as item 1; the two stables (activity with horses, farm tier) follow; Animal Ark is now its keeper-led Meet and Greet (hosted encounter, 105 minutes, does not count); Lake Tahoe Wildlife Care stays as viewing. Dropped Taylor Creek Stream Profile Chamber (viewing, 2027 hours unknown) to keep five items. No llama, farm-feeding or wildlife-encounter program within 60 minutes turned up in one search; wild-horse tours run from Virginia City/Dayton, outside 60 minutes. Animals score stays 8/18 (lower half), total stays 68.",
+    "rerun 2026-11-15: the existing brochure still says 'Animal experiences are horseback rides only'; the fishing charter is not in it. Left for the brochure-writer, since this rerun does not edit the brochure block.",
+    "price-checker 2026-11-15: Zalanta verified $1,916-2,737 re-quoted and stays verified at $1,913-2,733/night (3BR 6 adults NR $1,165.67 / standard $1,665.17; 2BR 2 adults NR $747.50 / standard $1,067.67; Heavenly engine). Value rating stays 6. Its compromise line still quotes the old $2,737 top; left for the researcher, since that field is outside the price-checker's edits.",
+    "price-checker 2026-11-15: Forest Suites stays verified $1,320-1,613/night, every rate unchanged on SynXis for Jul 4-10, 2027. The engine footer mentions a $25/night resort amenities fee plus tax; prices are labelled 'Including all fees'. Value stays 8.",
+    "price-checker 2026-11-15: The Landing Tahoe unknown (no range) stays unknown; availability sold_out. Own engine says 'No Rooms Available' for Jul 4-10, 2027 (4 and 2 adults) while Dec 15-17, 2026 and Jul 25-27, 2027 controls list rooms. Value rating 5 to 2 (sold out, as for the other sold-out options). The engine shows a $65/night resort fee, not the $72.93 OTA figure.",
+    "price-checker 2026-11-15: Margaritaville estimate $900-1,650 stays an estimate; availability not_released to sold_out. Its engine still says 'WE ARE CLOSED ON JULY 9, 2027' for Jul 4-10, but a Jul 25-27, 2027 control now returns rates from $243/night, so July 2027 is loaded and the trip nights are booked. Value rating 7 to 2.",
+    "price-checker 2026-11-15: Hilton Vacation Club Lake Tahoe Resort (backup) unknown stays unknown; availability not_sold_online. HGV page sells ownership only; the VRBO owner listing 3108665 redirects to a Round Hill Village search page (that listing is gone).",
+    "price-checker 2026-11-15: Hyatt Vacation Club at High Sierra Lodge (backup) unknown stays unknown; availability blocked (hyatt.com HTTP 429 in the browser, 403 to the researcher's fetch).",
+    "price-checker 2026-11-15: lodging score stays 17 and total stays 68. The score rests on Zalanta, still available, lock-off yes and verified under the cap, so no backup was promoted. Of the four options in lodging, only Zalanta and Forest Suites are bookable for the dates."
+  ],
+  "sources": [
+    {
+      "title": "Zalanta booking page",
+      "url": "https://www.zalanta.com/book",
+      "section": "lodging"
+    },
+    {
+      "title": "RedAwning: Zalanta 3BR residence",
+      "url": "https://www.redawning.com/rental-property/luxury-three-bedroom-residence-steps-heavenly-village-book-7-nights-10-california",
+      "section": "lodging"
+    },
+    {
+      "title": "VRBO: Zalanta 3BR (elevator note)",
+      "url": "https://www.vrbo.com/en-sg/p3041396vb",
+      "section": "lodging"
+    },
+    {
+      "title": "Edgewood Tahoe: The Villa Suites",
+      "url": "https://edgewoodtahoe.com/the-villa-suites/",
+      "section": "lodging"
+    },
+    {
+      "title": "Edgewood Tahoe: Lodge",
+      "url": "https://edgewoodtahoe.com/lodge/",
+      "section": "lodging"
+    },
+    {
+      "title": "Edgewood Tahoe: Edgewood Suite",
+      "url": "https://edgewoodtahoe.com/room/edgewood-suite/",
+      "section": "lodging"
+    },
+    {
+      "title": "Mr & Mrs Smith: Edgewood Tahoe room types",
+      "url": "https://www.mrandmrssmith.com/luxury-hotels/edgewood-tahoe-resort/rooms",
+      "section": "lodging"
+    },
+    {
+      "title": "Inspirato: Edgewood Three Bedroom Villa",
+      "url": "https://www.inspirato.com/destinations/lake-tahoe-nevada/residences/edgewood-three-bedroom-villa",
+      "section": "lodging"
+    },
+    {
+      "title": "Kayak: Edgewood Tahoe price averages",
+      "url": "https://www.kayak.com/Stateline-Hotels-The-Lodge-At-Edgewood-Tahoe.2708579.ksp",
+      "section": "lodging"
+    },
+    {
+      "title": "Forest Suites Resort",
+      "url": "https://www.forestsuites.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Suiteness: Forest Suites suite types",
+      "url": "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/forest-suites-resort-at-heavenly-village/deluxe-suite-2-bedrooms-poolside",
+      "section": "lodging"
+    },
+    {
+      "title": "Travelocity: Forest Suites (elevator, 2BR beds)",
+      "url": "https://www.travelocity.com/Lake-Tahoe-Hotels-Forest-Suites-Resort-At-Heavenly-Village.h5744.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "HotelsCombined: Forest Suites rates",
+      "url": "https://www.hotelscombined.com/Hotel/Forest_Suites_Resort_at_the_Heavenly_Village.htm",
+      "section": "lodging"
+    },
+    {
+      "title": "Visit Lake Tahoe: Marriott's Timber Lodge",
+      "url": "https://visitlaketahoe.com/stay/marriotts-timber-lodge/",
+      "section": "lodging"
+    },
+    {
+      "title": "Timber Lodge 2BR villa owner listing",
+      "url": "https://thebeachestates.com/property/marriott-timber-lodge-2bd-villa/HA-1214768971",
+      "section": "lodging"
+    },
+    {
+      "title": "Timber Lodge 2BR villa on VRBO (lock-off listing)",
+      "url": "https://www.vrbo.com/1308396",
+      "section": "lodging"
+    },
+    {
+      "title": "Suiteness: South Lake Tahoe suites (unit sizes)",
+      "url": "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/lake-tahoe-resort-hotel/suite-1-king-bed",
+      "section": "lodging"
+    },
+    {
+      "title": "Marriott Grand Residence Club rooms",
+      "url": "https://marriott.com/en-us/hotels/rnogr-marriott-grand-residence-club-lake-tahoe/rooms",
+      "section": "lodging"
+    },
+    {
+      "title": "RedWeek: Marriott Grand Residence Club rentals",
+      "url": "https://www.redweek.com/resort/P4782-marriott-grand-residence-club-lake-tahoe",
+      "section": "lodging"
+    },
+    {
+      "title": "Margaritaville Resort Lake Tahoe",
+      "url": "https://www.margaritavilleresorts.com/margaritaville-resort-lake-tahoe",
+      "section": "lodging"
+    },
+    {
+      "title": "Hotel Guru: Lake Tahoe Resort Hotel",
+      "url": "https://www.thehotelguru.com/hotel/lake-tahoe-resort-hotel-heavenly",
+      "section": "lodging"
+    },
+    {
+      "title": "Family Vacation Critic: Lake Tahoe Resort Hotel",
+      "url": "https://familyvacationcritic.com/?p=18278",
+      "section": "lodging"
+    },
+    {
+      "title": "The Landing Tahoe: accommodations (room and suite types)",
+      "url": "https://www.thelandingtahoe.com/accommodations/",
+      "section": "lodging"
+    },
+    {
+      "title": "The Landing Tahoe: 3-Bedroom Suite with Kitchen",
+      "url": "https://www.thelandingtahoe.com/stay/three-bedroom-kitchen/",
+      "section": "lodging"
+    },
+    {
+      "title": "The Landing Tahoe: Save up to 20% this summer",
+      "url": "https://thelandingtahoe.com/offers/save-20-this-summer",
+      "section": "lodging"
+    },
+    {
+      "title": "Suiteness: The Landing 3BR suite (conflicting specs)",
+      "url": "https://www.suiteness.com/suites/united-states/california/south-lake-tahoe/the-landing-resort-spa/suite-3-bedrooms-kitchen/amp",
+      "section": "lodging"
+    },
+    {
+      "title": "Kayak: The Landing Resort and Spa (room averages, fees)",
+      "url": "https://www.ca.kayak.com/South-Lake-Tahoe-Hotels-The-Landing-Resort-And-Spa.61280.ksp",
+      "section": "lodging"
+    },
+    {
+      "title": "Hilton Grand Vacations: Hilton Vacation Club Lake Tahoe Resort",
+      "url": "https://www.hiltongrandvacations.com/resorts-and-destinations/california/northern/hilton-vacation-club-lake-tahoe-resort",
+      "section": "lodging"
+    },
+    {
+      "title": "RedWeek: Hilton Vacation Club Lake Tahoe Resort info (unit types)",
+      "url": "https://www.redweek.com/posting/R710245/resort-info",
+      "section": "lodging"
+    },
+    {
+      "title": "RedWeek: Hyatt High Sierra Lodge",
+      "url": "https://www.redweek.com/resort/P1106-hyatt-high-sierra-lodge",
+      "section": "lodging"
+    },
+    {
+      "title": "Travelocity: Hyatt Vacation Club at High Sierra Lodge",
+      "url": "https://www.travelocity.com/Incline-Village-Hotels-Hyatt-Vacation-Club-At-High-Sierra-Lodge.h892296.Hotel-Reviews",
+      "section": "lodging"
+    },
+    {
+      "title": "THIRDHOME: Hyatt High Sierra Lodge 2BR residence",
+      "url": "https://api.thirdhome.com/properties/17974-incline-village-nevada-hyatt-high-sierra-lodge",
+      "section": "lodging"
+    },
+    {
+      "title": "Hyatt Regency Lake Tahoe renovation (cottage redevelopment)",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/tvllt-hyatt-regency-lake-tahoe-resort-spa-and-casino/renovation",
+      "section": "lodging"
+    },
+    {
+      "title": "Tahoe Sportfishing",
+      "url": "https://www.tahoesportfishing.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Fishingbooker: Tahoe Sportfishing packages",
+      "url": "https://fishingbooker.com/charters/view/38897",
+      "section": "animals"
+    },
+    {
+      "title": "Spur Experiences: Tahoe Sport Fishing",
+      "url": "https://spurexperiences.com/experiences/tahoe-sport-fishing",
+      "section": "animals"
+    },
+    {
+      "title": "Camp Richardson Corral",
+      "url": "https://www.camprichardsoncorral.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Zephyr Cove horseback riding",
+      "url": "https://www.zephyrcove.com/things-to-do/horseback-riding",
+      "section": "animals"
+    },
+    {
+      "title": "Visit Lake Tahoe: Zephyr Cove Stables",
+      "url": "https://visitlaketahoe.com/thing-to-do/horseback-riding/zephyr-cove-stables/",
+      "section": "animals"
+    },
+    {
+      "title": "Taylor Creek visitor information",
+      "url": "https://taylortallac.org/taylor-creek/visitor-information/",
+      "section": "animals"
+    },
+    {
+      "title": "Lake Tahoe Wildlife Care",
+      "url": "https://www.ltwc.org/",
+      "section": "animals"
+    },
+    {
+      "title": "Lake Tahoe Wildlife Care: our facility",
+      "url": "https://ltwc.org/our-facility/",
+      "section": "animals"
+    },
+    {
+      "title": "Animal Ark",
+      "url": "https://www.animalark.org/",
+      "section": "animals"
+    },
+    {
+      "title": "Animal Ark: Meet and Greets",
+      "url": "https://animalark.org/meet-and-greets",
+      "section": "animals"
+    },
+    {
+      "title": "Visit Reno Tahoe: wild horse tours",
+      "url": "https://visitrenotahoe.com/articles/wild-horse-tours-reno-nevada",
+      "section": "animals"
+    },
+    {
+      "title": "Incline Village Championship Course (rates, season)",
+      "url": "https://www.yourtahoeplace.com/golf/championship-course/",
+      "section": "golf"
+    },
+    {
+      "title": "Edgewood Tahoe golf",
+      "url": "https://www.edgewoodtahoe.com/golf/",
+      "section": "golf"
+    },
+    {
+      "title": "Golf.com: Edgewood Tahoe price (no public tee times in tournament week)",
+      "url": "https://golf.com/travel/edgewood-tahoe-price-american-century-championship/?amp=1",
+      "section": "golf"
+    },
+    {
+      "title": "GolfNow: Lake Tahoe Golf Course",
+      "url": "https://www.golfnow.com/tee-times/facility/461/tee-time/230738270",
+      "section": "golf"
+    },
+    {
+      "title": "Visit Lake Tahoe: American Century Championship 2027",
+      "url": "https://visitlaketahoe.com/event/american-century-celebrity-golf-championship/2027-07-08/",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Lake Tahoe: things to do",
+      "url": "https://visitlaketahoe.com/things-to-do/",
+      "section": "activities"
+    },
+    {
+      "title": "TripAdvisor: things to do in South Lake Tahoe",
+      "url": "https://www.tripadvisor.com/Attractions-g1798615.html",
+      "section": "activities"
+    },
+    {
+      "title": "Heavenly summer hours",
+      "url": "https://www.skiheavenly.com/explore-the-resort/about-the-resort/hours-of-operation.aspx",
+      "section": "activities"
+    },
+    {
+      "title": "Zephyr Cove daytime scenic cruises",
+      "url": "https://www.zephyrcove.com/cruise-experience/daytime-scenic-cruises",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Lake Tahoe: Trapped in Tahoe",
+      "url": "https://visitlaketahoe.com/family/trapped-in-tahoe/",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Lake Tahoe: Puzzle Room Tahoe",
+      "url": "https://visitlaketahoe.com/family/puzzle-room-tahoe/",
+      "section": "activities"
+    },
+    {
+      "title": "Edgewood Tahoe resort (spa, dining)",
+      "url": "https://edgewoodtahoe.com/",
+      "section": "activities"
+    },
+    {
+      "title": "Caesars: Harrah's and Caesars Republic restaurants",
+      "url": "https://www.caesars.com/harrahs-tahoe/restaurants",
+      "section": "restaurants"
+    },
+    {
+      "title": "Friday's Station (temporarily closed)",
+      "url": "https://www.caesars.com/harrahs-tahoe/restaurants/fridays-station",
+      "section": "restaurants"
+    },
+    {
+      "title": "The Edge at Edgewood",
+      "url": "https://edgewoodtahoe.com/the-edge-restaurant-lounge/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Brooks' Bar & Deck",
+      "url": "https://edgewoodtahoe.com/brooks-bar-and-deck/",
+      "section": "restaurants"
+    },
+    {
+      "title": "The Shops at Heavenly Village",
+      "url": "https://www.theshopsatheavenly.com/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Wikipedia: South Lake Tahoe climate (Lake Tahoe Airport 1991-2020)",
+      "url": "https://en.wikipedia.org/wiki/South_Lake_Tahoe,_California",
+      "section": "weather"
+    },
+    {
+      "title": "Reno-Tahoe Airport nonstop destinations",
+      "url": "https://www.renoairport.com/flights/non-stop-destinations/",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 80.4,
+    "low_f": 42.5
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://visitlaketahoe.com/things-to-do/": {
+      "url": "https://visitlaketahoe.com/wp-content/uploads/2025/02/things-to-do-in-lake-tahoe-scaled.jpg",
+      "src": "img/9b4368914605f573.jpg"
+    },
+    "https://www.zephyrcove.com/cruise-experience/daytime-scenic-cruises": {
+      "url": "https://www.zephyrcove.com/cruise-experience/media_186538669b8e3473be2457bce9f4ec472a82033ca.jpg?width=1200&format=pjpg&optimize=medium",
+      "src": "img/9cfb2a0be163874c.jpg"
+    },
+    "https://visitlaketahoe.com/family/trapped-in-tahoe/": {
+      "url": "https://visitlaketahoe.com/wp-content/uploads/2018/09/trapped-in-tahoe700.jpg",
+      "src": "img/e3b9477b1b92a7ea.jpg"
+    },
+    "https://edgewoodtahoe.com/spa/": {
+      "url": "https://edgewoodtahoe.com/wp-content/uploads/2023/03/spa-032_v1.jpg",
+      "src": "img/f34ffe044a9a3a81.jpg"
+    },
+    "https://www.zephyrcove.com/things-to-do/horseback-riding": {
+      "url": "https://www.zephyrcove.com/activities/summer/media_1aea91d20a21bbd752a466cf274a16d21cab29abe.jpg?width=1200&format=pjpg&optimize=medium#width=5550&height=3700",
+      "src": "img/c068ef4e1664c76c.jpg"
+    },
+    "https://www.golfnow.com/tee-times/facility/461/tee-time/230738270": {
+      "url": "https://www.golfnow.com/Content/images/social/facebook.png",
+      "src": "img/141745aee517e0a6.png"
+    },
+    "https://www.thelandingtahoe.com/stay/three-bedroom-kitchen/": {
+      "url": "https://www.thelandingtahoe.com/content/uploads/2021/06/Landing-Tahoe_Three-Bdrm-STE3_Living-Kitchen-1.jpg",
+      "src": "img/8d3e688724c69efe.jpg"
+    }
+  }
+}

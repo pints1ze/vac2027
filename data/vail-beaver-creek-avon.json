@@ -1,0 +1,1422 @@
+{
+  "slug": "vail-beaver-creek-avon",
+  "name": "Vail / Beaver Creek / Avon, CO",
+  "region": "Colorado Rockies",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "Lionshead in Vail fits this party well. Condo lodges such as Antlers at Vail and Lion Square Lodge rent separate condos or true lock-off suites in one building, about 150 yards from the gondola and roughly 18 restaurants. The animal options are all domestic animals: guided trail rides at Vail Stables (8 minutes) and Beaver Creek Stables (20 minutes), a llama-packed hike with Paragon Guides, and goat yoga or goat feeding at Vail Stables. The municipal Vail Golf Club along Gore Creek is 8 minutes from Lionshead. Antlers quotes US$1,167/night for the trip dates (3BR + 1BR, advance purchase), well under the cap; most other lodges sell the needed units by phone only. The gathering room is always a condo living room whose table size is not stated. The town also sleeps at about 8,150 ft, which matters for travelers aged 79 and 82, and July highs average 76.7 F with about 10 rain days.",
+  "images": {
+    "hero": {
+      "url": "https://discovervail.com/app/uploads/2026/06/T2D-Hero-3-1800x1201.jpg",
+      "page_url": "https://www.discovervail.com/things-to-do/",
+      "credit": "Discover Vail",
+      "alt": "Summer in Vail",
+      "src": "img/eedba1f4dbd59dc0.jpg"
+    },
+    "gallery": [
+      {
+        "url": "https://discovervail.com/app/uploads/2020/02/Gondola_2.jpg",
+        "page_url": "https://discovervail.com/things-to-do/scenic-gondola/",
+        "credit": "Discover Vail",
+        "alt": "Vail scenic gondola",
+        "src": "img/ecc2ba350b976c82.jpg"
+      },
+      {
+        "url": "https://discovervail.com/app/uploads/2023/10/Farmers-market-Hero-e1777657057543.jpg",
+        "page_url": "https://discovervail.com/things-to-do/vail-farmers-market/",
+        "credit": "Discover Vail",
+        "alt": "Vail Farmers' Market on East Meadow Drive",
+        "src": "img/36100e2b02c1d383.jpg"
+      },
+      {
+        "url": "https://discovervail.com/app/uploads/2023/10/240825_Mountain-Lore_004-8174x5440-1-1800x1198.jpg",
+        "page_url": "https://discovervail.com/things-to-do/betty-ford-alpine-gardens/",
+        "credit": "Discover Vail",
+        "alt": "Betty Ford Alpine Gardens",
+        "src": "img/e0ee6e51ba24e763.jpg"
+      },
+      {
+        "url": "https://discovervail.com/app/uploads/2024/11/3_ApresAtTheAmp_4.6.24_memorandum_media_200736-scaled-e1738256330484-1800x855.jpg",
+        "page_url": "https://discovervail.com/arts-culture/",
+        "credit": "Discover Vail",
+        "alt": "Gerald R. Ford Amphitheater, Vail",
+        "src": "img/129be40cfa1e405d.jpg"
+      },
+      {
+        "url": "https://discovervail.com/app/uploads/2023/10/20240805_Cohen_VLMD_VailStables_2751-1800x1200.jpg",
+        "page_url": "https://discovervail.com/things-to-do/horseback-riding/",
+        "credit": "Discover Vail",
+        "alt": "Girl with a horse at Vail Stables",
+        "src": "img/5851b3e9dd5275cd.jpg"
+      },
+      {
+        "url": "https://discovervail.com/app/uploads/2025/11/20160908_Boomer_Apres004_Edit-2200x900-1-1800x736.jpg",
+        "page_url": "https://discovervail.com/blog/restaurants-in-lionshead-vail/",
+        "credit": "Discover Vail",
+        "alt": "Outdoor table at Tavern on the Square, Lionshead",
+        "src": "img/c83b6e57e6e2af1b.jpg"
+      }
+    ]
+  },
+  "brochure": {
+    "tagline": "Gondola rides, goat yoga and creekside strolls in a car-free mountain village",
+    "intro": "A week in Vail is easy walks along Gore Creek, gondola rides above the village and dinner on a patio in Lionshead. Mornings can mean a trail ride or a goat visit, afternoons a round of golf or the gardens. Nights are cool, so evenings outside are comfortable.",
+    "highlights": [
+      "Gondola rides from Lionshead and Vail Village",
+      "Feed goats or try goat yoga at Vail Stables",
+      "Trail rides through aspen groves above town",
+      "Betty Ford Alpine Gardens and the Sunday farmers' market",
+      "Golf along Gore Creek, 8 minutes from Lionshead",
+      "Free in-town bus and walkable creekside villages"
+    ],
+    "pros": [
+      "Walkable, car-free villages with short, flat strolls",
+      "Horse rides and goat visits close by",
+      "About 18 restaurants a few minutes' walk from Lionshead",
+      "Cool July nights and mountain views",
+      "Eagle airport is about 40 minutes away"
+    ],
+    "cons": [
+      "Town sits at about 8,150 ft; worth a word with doctors",
+      "July 4 week is busy; book dinners, tee times and rides early",
+      "Bay Area flights likely connect through Denver",
+      "Animal activities are horses, goats and pack llamas; no wildlife encounters"
+    ],
+    "stays": [
+      {
+        "name": "Antlers at Vail: Unit 104 (3BR) + a 1BR condo",
+        "title": "Antlers at Vail",
+        "blurb": "Creekside condos on Gore Creek, about 150 yards from the Lionshead gondola, shops and restaurants. A first-floor 3-bedroom condo with a fireplace and full kitchen sits right beside the creek path.",
+        "highlights": [
+          "Creekside heated pool and two hot tubs",
+          "Balconies with gas grills",
+          "Full kitchens",
+          "Short walk to the gondola and dinner"
+        ]
+      },
+      {
+        "name": "Westin Riverfront, Avon: 2BR lock-off villa + 2BR villa",
+        "title": "Westin Riverfront Resort, Avon",
+        "blurb": "A resort in Avon at the base of the gondola up to Beaver Creek, with villas that have full kitchens. Vail Village is about 15 to 20 minutes by car.",
+        "highlights": [
+          "Elevator in the building",
+          "Heated outdoor pool and whirlpools",
+          "Spa and restaurant on site",
+          "Gondola to Beaver Creek"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Guided trail rides",
+        "kind": "animals",
+        "blurb": "Horseback rides from 1 to 2 hours through aspen groves and meadows at Vail Stables, 8 minutes away (ages 5 and up). Beaver Creek Stables adds a sunset ride to Beano's Cabin for dinner (ages 7 and up).",
+        "url": "https://www.vailstables.com/",
+        "image": {
+          "url": "https://www.beavercreekstables.com/wp-content/uploads/2026/05/D9H8090.jpg",
+          "page_url": "https://www.beavercreekstables.com/",
+          "credit": "Beaver Creek Stables",
+          "alt": "Trail ride at Beaver Creek Stables",
+          "src": "img/c2c069c2cabfcaaa.jpg"
+        }
+      },
+      {
+        "name": "Goat feeding and goat yoga at Vail Stables",
+        "kind": "animals",
+        "blurb": "Feed the friendly goats on drop-in days, or join a morning yoga class where goats climb on your back; Aubrey would love it.",
+        "url": "https://www.vailstables.com/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2023/04/goat-vail-stables-featured.jpg",
+          "page_url": "https://discovervail.com/blog/goat-happy-hour-to-goat-yoga-unique-things-to-do-at-vail-stables-in-summer/",
+          "credit": "Discover Vail",
+          "alt": "Goats at Vail Stables",
+          "src": "img/fdd99ed2a66f7143.jpg"
+        }
+      },
+      {
+        "name": "Llama hike with Paragon Guides",
+        "kind": "animals",
+        "blurb": "A guided, family-paced hike in the wilderness near Vail while pack llamas carry the food and gear (June to early September).",
+        "url": "https://paragonguides.com/llama-hikes/"
+      },
+      {
+        "name": "Vail Golf Club",
+        "kind": "golf",
+        "blurb": "An 18-hole public course along Gore Creek with Gore Range views, 8 minutes from Lionshead; EagleVail is a second choice.",
+        "url": "https://www.vailrec.com/vail-golf-club",
+        "image": {
+          "url": "https://streamline.imgix.net/e4641fc7-6eeb-44f7-81bd-b9257c4ba19b/61f0f424-3614-4532-ac1c-c8f1891152bc/VRD%20Golf%20Course%20Aerials_Summer%202023_Day%202-39.jpg?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&or=0&s=8c22b76a470be93281f08a560735ebfe",
+          "page_url": "https://www.vailrec.com/vail-golf-club",
+          "credit": "Vail Recreation District",
+          "alt": "Aerial of Vail Golf Club in summer",
+          "src": "img/6200575749268641.jpg"
+        }
+      },
+      {
+        "name": "Scenic gondola rides",
+        "kind": "outdoors",
+        "blurb": "Ride up from Vail Village or Lionshead for mountain views; the gondolas are wheelchair and stroller accessible.",
+        "url": "https://discovervail.com/things-to-do/scenic-gondola/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2020/02/Gondola_2.jpg",
+          "page_url": "https://discovervail.com/things-to-do/scenic-gondola/",
+          "credit": "Discover Vail",
+          "alt": "Vail gondola",
+          "src": "img/ecc2ba350b976c82.jpg"
+        }
+      },
+      {
+        "name": "Mountain biking",
+        "kind": "outdoors",
+        "blurb": "A signature summer activity in Vail, good for the teens and anyone who likes to be active.",
+        "url": "https://discovervail.com/things-to-do/mountain-biking/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2026/04/090225_AMP_VLMD_14569_1-600x400.jpg",
+          "page_url": "https://www.discovervail.com/things-to-do/",
+          "credit": "Discover Vail",
+          "alt": "Mountain biking in Vail",
+          "src": "img/1b9f68d6ede733f3.jpg"
+        }
+      },
+      {
+        "name": "Vail Farmers' Market & Art Show",
+        "kind": "town",
+        "blurb": "Sundays on East Meadow Drive with 150+ tents; July 4 is a Sunday, so arrival day could start here.",
+        "url": "https://discovervail.com/things-to-do/vail-farmers-market/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2023/10/Farmers-market-Hero-e1777657057543.jpg",
+          "page_url": "https://discovervail.com/things-to-do/vail-farmers-market/",
+          "credit": "Discover Vail",
+          "alt": "Vail Farmers' Market",
+          "src": "img/36100e2b02c1d383.jpg"
+        }
+      },
+      {
+        "name": "Sweet Basil",
+        "kind": "food",
+        "blurb": "A Michelin Guide recommended dinner in Vail Village for the one fancy meal; reservations open 30 days ahead.",
+        "url": "https://discovervail.com/blog/michelin-recommended-sweet-basil-vail-colorado/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2023/11/SFW_2200x900_Couple-dining-at-Sweet-Basil-1800x736.jpg",
+          "page_url": "https://discovervail.com/blog/michelin-recommended-sweet-basil-vail-colorado/",
+          "credit": "Discover Vail",
+          "alt": "Dining at Sweet Basil",
+          "src": "img/48b5fce128d4c448.jpg"
+        }
+      },
+      {
+        "name": "Spa at The Arrabelle",
+        "kind": "spa",
+        "blurb": "A 10,000 sq ft spa with a steam room and relaxation lounge in Lionshead; Jenna would enjoy it.",
+        "url": "https://discovervail.com/businesses/spa-at-the-arabelle/"
+      },
+      {
+        "name": "Betty Ford Alpine Gardens",
+        "kind": "rainy day",
+        "blurb": "Accessible paths, a waterfall and a Children's Garden, plus an indoor Alpine House if the weather turns.",
+        "url": "https://discovervail.com/things-to-do/betty-ford-alpine-gardens/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2023/10/240825_Mountain-Lore_004-8174x5440-1-1800x1198.jpg",
+          "page_url": "https://discovervail.com/things-to-do/betty-ford-alpine-gardens/",
+          "credit": "Discover Vail",
+          "alt": "Betty Ford Alpine Gardens",
+          "src": "img/e0ee6e51ba24e763.jpg"
+        }
+      }
+    ],
+    "dinner_spots": [
+      "Tavern on the Square: patio dinner on Lionshead's square",
+      "Vail Chophouse: steak and seafood with a big deck",
+      "Blue Moose Pizza: New York-style slices, family favorite",
+      "Sweet Basil: Michelin-recommended special dinner"
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: Eagle County Regional (EGE) is 37 miles from Vail, about 40 minutes by car, with year-round United/United Express service to Denver; DEN itself is about 2 hours by I-70. Seniors: Lionshead and Vail Village are pedestrian villages along Gore Creek with short walks, and the recommended Antlers Unit 104 is on the first floor. Lion Square, Manor Vail and Beaver Creek Lodge do not state elevators or floors. The town sits at about 8,150-8,240 ft; altitude is a health consideration for travelers aged 79 and 82 but not a staircase or walking problem."
+  },
+  "scores": {
+    "lodging": 17,
+    "town_scenery": 16,
+    "animals": 11,
+    "food": 14,
+    "other": 8,
+    "golf": 7,
+    "weather": 4,
+    "total": 77,
+    "rationale": {
+      "lodging": "17/25: rests on Antlers at Vail Unit 104 (3BR/2BA category, first floor on request) plus a separate 1BR + bunk condo, $1,167/night before tax (verified 2026-11-14 and re-read 2026-11-15, Advanced Purchase; $1,351 flexible), well inside the cap; points lost because the gathering room is a 1,400 sq ft condo with table size not stated.",
+      "town_scenery": "16/18: Lionshead and Vail Village are car-free creekside villages under Vail Mountain with flat short walks, joined by a roughly 15-minute path or the free bus; some village streets have gentle grades.",
+      "animals": "11/18: the top two items are guided horseback trail rides (Vail Stables, 8 min, 5+; Beaver Creek Stables, 20 min, 7+), a top-tier activity but with farm animals; below them are goat yoga and goat feeding (touching) and a llama-packed hike (close viewing), with no wild or exotic animal encounter.",
+      "food": "14/15: Discover Vail lists 18 Lionshead restaurants within a few minutes' walk of Antlers, and Michelin-recommended Sweet Basil is about 15 minutes away on foot in Vail Village; reservations are hard in July.",
+      "other": "8/10: gondolas, Betty Ford Alpine Gardens, Sunday farmers' market, 12 spas and mountain biking cover most interests; EGE is 40 min with United DEN service, but the Bay Area pair likely connects or drives from DEN, and no escape room or bingo was confirmed.",
+      "golf": "7/9: public Vail Golf Club (par 71 along Gore Creek with Gore Range views, reopens May 2027) is 8 min away and EagleVail is the alternative; green fees unpublished and Red Sky is a members/resort operation with access not confirmed.",
+      "weather": "4/5: NOAA 1991-2020 July mean high for Vail is 76.7 F (1-2 F over the 75 F target), low 41.6 F, 10 precipitation days."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Antlers at Vail: Unit 104 (3BR) + a 1BR condo",
+      "kind": "condo lodge, 2 separate condos in one building",
+      "quick_verdict": "Two creekside condos in one Lionshead building; first-floor 3BR suits the parents.",
+      "configuration": "Antlers at Vail, 680 Lionshead Place, about 150 yards from the Lionshead lifts, shops and restaurants (property site). 86-87 condos from studios to 4BR/4BA, each with a private balcony and gas grill; creekside heated pool, two stone hot tubs, sauna, fitness room. Unit 104: about 1,400 sq ft, first-floor corner on the east end, originally two 1BR condos combined; 3 bedrooms plus a semi-private bunk-bed nook, 2 bathrooms, fireplace, full kitchen, two 5x10 ft balconies beside Gore Creek and the bike path. Bed sizes, dining-table seats and entry steps not stated. Scott & Andrea take a separate condo: the booking engine sells it as the Platinum 'One Bedroom plus Bunk Beds' (680 sq ft, sleeps 4; the lodging page lists 16 Platinum and 9 Diamond 1BR + bunks plus 8 Platinum plain 1BRs, with bath count and bed types not stated), so one bedroom plus a bunk nook, not a plain 1BR; floor not chosen until booking. The lodging page says every condo has a private exterior entryway. Alternative if 104 is taken: a 3BR/3BA such as Unit 514 (about 1,500 sq ft, king/king/queen, large west balcony), but 514 has two levels inside, so stairs for the parents; or a 4BR/4BA (6 exist). Elevator: a 2022 property post describes the relocated elevator with landings on each floor; it is not in the amenity list. Rates on the SynXis engine; a specific unit (104) is requested by phone, 1-888-268-5377.",
+      "family_split": {
+        "scott_andrea": "Separate 1BR + bunk-bed condo in the same building",
+        "parents": "Unit 104, one bedroom (first floor)",
+        "brother_family": "Unit 104, two bedrooms + bunk nook (Ryan & Jenna; Ethan and Aubrey split bedroom/bunks)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separately booked condo in the same building; the lodging page (antlersvail.com/lodging) states every condo has a private exterior entryway and lists each unit by number and type."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 8,
+        "location": 9,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Lionshead restaurants 2-5 minutes on foot; Vail Village about 15 minutes on the Gore Creek path or the free in-town bus.",
+      "price": {
+        "nightly_total_usd_low": 1166.6,
+        "nightly_total_usd_high": 1351,
+        "label": "verified",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "3 Bedroom 2 Bathroom Condo (Platinum Three Bedroom Two Bathroom), 4 adults + 2 children (15, 13): Advanced Purchase Rate (non-refundable) $722/night shown, $4,327 for 6 nights ($721.05/night in the 2026-11-14 rate details); Flexible Cancellation Rate $835/night, $5,010 for 6 nights; Standard and Mountain Escape Sale $759/night",
+          "1 Bedroom and Bunk Bed Condominium (Platinum One Bedroom plus Bunk Beds, 680 sq ft, sleeps 4), 2 adults: Advanced Purchase Rate (non-refundable) $446/night shown, $2,674 for 6 nights ($445.55/night in the 2026-11-14 rate details); Flexible Cancellation Rate $516/night, $3,096 for 6 nights; Standard and Mountain Escape Sale $469/night"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1166.6,
+        "local_stay_total_with_tax": 7755.54,
+        "source_kind": "property",
+        "basis": "Antlers at Vail SynXis engine (linked from antlersvail.com), Sun Jul 4 - Sat Jul 10, 2027, 6 nights, read 2026-11-14 and re-read 2026-11-15 with the same rates and plans (page totals $4,327 + $2,674 = $7,001 at Advanced Purchase, $5,010 + $3,096 = $8,106 flexible). Unit for Sam & Karen + Ryan's family: 3 Bedroom 2 Bathroom Condo, Platinum, Advanced Purchase $721.05 each night (flat all 6 nights). Unit for Scott & Andrea: 1 Bedroom and Bunk Bed Condominium, Platinum, Advanced Purchase $445.55 each night. Sum $1,166.60/night before tax (cheapest public plan; the Colorado Resident Rate needs a Colorado ID and was not used). At the Flexible Cancellation Rate: $835 + $516 = $1,351/night. The engine sells the 3BR/2BA as a category (Platinum or Diamond), not Unit 104 by number; first-floor Unit 104 has to be requested from the lodge (1-888-268-5377). No 'only N left' on either type; '3 Bedroom 3 Bathroom' had 2 left.",
+        "source_url": "https://be.synxis.com/?Chain=34505&Hotel=96255&arrive=2027-07-04&depart=2027-07-10&adult=4&child=2&rooms=1",
+        "fees_notes": "Engine rate details (read 2026-11-14; not reopened 2026-11-15, rates unchanged): Lodging Tax $467.22 on the 3BR ($4,793.52 total) and $288.72 on the 1BR ($2,962.02 total), about 10.8%, at the Advanced Purchase rate. 'No Resort Fees and Complimentary Parking' on every plan. Advanced Purchase is fully non-refundable at booking; other plans take a one-night deposit, refundable less 3% up to 14 days before arrival.",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate condo for Scott & Andrea, same building",
+        "First-floor 3BR for the parents",
+        "Creekside pool, hot tubs, balcony grills",
+        "Lionshead restaurants and gondola 150 yards away"
+      ],
+      "compromises": [
+        "Gathering room is a 1,400 sq ft condo; table size not stated",
+        "Unit 104 must be requested by phone; online sells the 3BR type, and the 1BR is the 1BR + bunk unit",
+        "Elevator mentioned only in a property blog post"
+      ],
+      "best_for": "Choose this if a flat walk to restaurants and a ground-floor unit for the parents matter most.",
+      "links": [
+        "https://antlersvail.com/lodging",
+        "https://antlersvail.com/lodging/3-bedroom-2-bath/antlers-unit-104",
+        "https://antlersvail.com/lodging/3-bedroom-3-bath/antlers-unit-514",
+        "https://be.synxis.com/?Hotel=96255&Chain=34505"
+      ],
+      "images": [
+        {
+          "url": "https://antlersvail.com/wp-content/uploads/2023/09/hero-photo.jpg",
+          "page_url": "https://antlersvail.com/lodging/3-bedroom-2-bath/antlers-unit-104",
+          "credit": "Antlers at Vail",
+          "alt": "Antlers at Vail on Gore Creek",
+          "src": "img/cae6fa2e75aaa23b.jpg"
+        },
+        {
+          "url": "https://antlersvail.com/wp-content/uploads/resized/2023/10/104_river-view_2017-0x683-c-default.jpg",
+          "page_url": "https://antlersvail.com/lodging/3-bedroom-2-bath/antlers-unit-104",
+          "credit": "Antlers at Vail",
+          "alt": "Gore Creek view from Unit 104",
+          "src": "img/bcad39b3fe5292b0.jpg"
+        },
+        {
+          "url": "https://antlersvail.com/wp-content/uploads/resized/2023/10/620-living-2020-768x420-c-center.jpg",
+          "page_url": "https://antlersvail.com/lodging",
+          "credit": "Antlers at Vail",
+          "alt": "Antlers condo living room",
+          "src": "img/e39b6fb47fe66783.jpg"
+        },
+        {
+          "url": "https://antlersvail.com/wp-content/uploads/resized/2023/10/balcony-view-2-1-0x683-c-default.jpg",
+          "page_url": "https://antlersvail.com/lodging/3-bedroom-3-bath/antlers-unit-514",
+          "credit": "Antlers at Vail",
+          "alt": "Balcony view from an Antlers 3BR",
+          "src": "img/f9427c1590734643.jpg"
+        }
+      ],
+      "review_notes": "Confirm Unit 104 bed sizes, dining seats, step-free entry, and a 1BR on a nearby floor."
+    },
+    {
+      "name": "Lion Square Lodge: South 255, 257 & 261 (three connected condos)",
+      "kind": "one 3-condo lock-off set, sleeps 8",
+      "quick_verdict": "Built-in lock-off suites beside the gondola, but small rooms and no view.",
+      "configuration": "Lion Square Lodge, 660 Lionshead Place, in the ski yard next to the Eagle Bahn Gondola. South 255/257/261 is 3 bedrooms, 4 bathrooms, sleeps 8, second floor, rented as one set: 'three connected condos.' Main condo 255: eat-in kitchen, living room with TV, a bedroom suite with its own bath, and a Murphy bed in the entry hall with a connected bath. 257 (one-bedroom suite) and 261 (studio) each have a kitchenette, TV and full bath; they are reached through the kitchen door of 255, and the lodge also rents 257 & 261 as 'two neighboring lock-off suites' (and each on its own), which implies each has its own door. No balcony and 'doesn't offer a view.' Seating counts, bed sizes and elevator not stated. Heated outdoor pool and hot tubs year-round; Trails End restaurant on site; daily housekeeping, central air, free parking. Booking is by request form, with no rates shown. Bigger alternative in the same lodge: South 750, 4BR/4BA on two levels with river and mountain views, plus a separate unit for Scott & Andrea.",
+      "family_split": {
+        "scott_andrea": "257, the one-bedroom lock-off suite",
+        "parents": "261, the studio (own bath and kitchenette)",
+        "brother_family": "255, bedroom suite (Ryan & Jenna) + Murphy bed and living room (Ethan & Aubrey)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Lion Square's 257 & 261 listing calls them 'two neighboring lock-off suites', and 257 and 261 also have their own standalone listings (each with a full bath and gear cubbies 'by the door'), so each has its own door; the 255/257/261 listing itself says only that they are reached 'through the kitchen door' of 255 and does not say whether that door locks (fact-checker 2026-11-14)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 4,
+        "parents": 6,
+        "location": 10,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Next to the gondola; Lionshead's restaurants are 1-5 minutes away, and Trails End is on site.",
+      "price": {
+        "nightly_total_usd_low": 900,
+        "nightly_total_usd_high": 1700,
+        "label": "estimate",
+        "basis": "Not sold online as a priced quote (re-checked 2026-11-15, as on 2026-11-14): the listing page's Start Date / End Date fields are read-only and its popup calendar did not register the Jul 4 and Jul 10, 2027 clicks within the 15-call budget; the separate availability calendar marks Jul 2027 nights available and shows 'Min stay: 2 nights', but no rate is displayed anywhere, and the URL takes no dates. Range unchanged: the researcher's assumption for a 3BR-equivalent Lionshead set in July 4 week; ask the lodge (booking request form, lionsquarelodge.com/booking-request/) for a quote.",
+        "source_url": "https://lionsquarelodge.com/accommodations/lion-square-lodge-south-255-257-261/?hub_property_id=SXRlbTo0Njc2Mg=&adults=8",
+        "fees_notes": "Taxes and fees not stated.",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "not_sold_online",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "True lock-off suites, all three connected",
+        "Next to Eagle Bahn Gondola",
+        "Pool and hot tubs; daily housekeeping"
+      ],
+      "compromises": [
+        "No view, no balcony",
+        "Teens on a Murphy bed in the entry hall",
+        "Second floor; elevator not stated",
+        "Living room in 255 is the only gathering space"
+      ],
+      "best_for": "Choose this if one booked unit with built-in lock-offs beats views and space.",
+      "links": [
+        "https://lionsquarelodge.com/accommodations/lion-square-lodge-south-255-257-261/?hub_property_id=SXRlbTo0Njc2Mg=&adults=1",
+        "https://lionsquarelodge.com/booking-request/",
+        "https://lionsquarelodge.com/accommodations/lion-square-lodge-south-750/?hub_property_id=SXRlbTo0NjcyOQ=&adults=1"
+      ],
+      "images": [],
+      "review_notes": "No property photos were exposed by the site; ask for the floor plan of 255/257/261 and whether the connecting door locks."
+    },
+    {
+      "name": "Westin Riverfront, Avon: 2BR lock-off villa + 2BR villa",
+      "kind": "resort villas, lock-off villa + second villa",
+      "quick_verdict": "Elevator resort at the Beaver Creek gondola; a drive from Vail Village.",
+      "configuration": "Westin Riverfront Resort & Spa and the adjoining Westin Riverfront Mountain Villas, 126 Riverfront Lane, Avon, at the Riverfront gondola to Beaver Creek. Mountain Villas 2BR lock-off: two separate but adjoining units, a 1BR villa (king, sofa bed, full kitchen) and a studio (king, sofa bed, kitchen), 2 baths total, sleeps 8 (RedWeek). Resort side: 1BR villas with full kitchen, washer/dryer and whirlpool tub; 2BR and 3BR villas sleep up to 7 with a second balcony. Elevator, outdoor heated pool and whirlpools, spa, restaurant (RedWeek). A 3BR with a lock-off third bedroom is mentioned on one Expedia listing but its layout was not seen. Dining seats and floor numbers not stated. Walk to Avon restaurants not stated; one reviewer says 'within minutes.' Vail Village is about 15-20 minutes by car.",
+      "family_split": {
+        "scott_andrea": "Studio side of the 2BR lock-off villa",
+        "parents": "1BR side of the lock-off villa",
+        "brother_family": "Separate 2BR villa (Ryan & Jenna; Ethan & Aubrey)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "RedWeek (re-read 2026-11-14): the 2BR lockoff villa 'consists of two separate, but adjoining units: a one bedroom and a studio', each with a king, sleeper sofa and full kitchen, 2 baths total; separate doors and elevator are not mentioned."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 5,
+        "parents": 8,
+        "location": 6,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "On-site restaurant; Avon restaurants nearby (minutes not stated); Vail and Beaver Creek villages are drives or a gondola ride.",
+      "price": {
+        "nightly_total_usd_low": 1488,
+        "nightly_total_usd_high": 1488,
+        "label": "estimate",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Studio Suite, 1 King, Sofa bed, Standard view, Fireplace (2 adults): Lowest Regular Rate from $323 avg/night incl. $45 resort fee, $1,939 for 6 nights (an unnamed $308 avg/night, $1,852 plan was also listed first on 2026-11-15)",
+          "1 Bedroom Residential Suite, 1 King, Sofa bed, Standard view, Fireplace (2 adults): from $456 avg/night incl. $45 resort fee, $2,736 for 6 nights",
+          "2 Bedroom Residential Suite, Standard view, Balcony, Fireplace (4 adults + 2 children 15, 13): from $709 avg/night incl. $45 resort fee, $4,254 for 6 nights"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1488,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "basis": "Estimate: marriott.com (property EGEAV, The Westin Riverfront Resort & Spa) quoted for Jul 4-10, 2027 on 2026-11-14 and re-read 2026-11-15 with the same suite rates, but it sells the resort's own suites, not the Mountain Villas 2BR lock-off in the split, which is an owner/Marriott Vacation Club rental and still unpriced. Same-resort substitute: Studio Suite for Scott & Andrea $323 + 1 Bedroom Residential Suite for Sam & Karen $456 + 2 Bedroom Residential Suite for Ryan's family $709 = $1,488/night (6-night totals $8,929), at the 'Lowest Regular Rate' view, each including a $45/night resort fee; these are three separately booked suites, not confirmed adjoining. Only the 'Rates from' figure per room type was read, so low = high. Alternative seen: 3 Bedroom Residential Suite (1 King, 2 Queen, 2 Queen, sofa bed) from $1,271/night. The old RedWeek-based range was $600-1,400. The Mountain Villas 2BR lock-off itself is listed on Vrbo (vrbo.com/3959661, 'The Westin Riverfront Mountain Villas | 2BR Villa', manager Live Suite Resorts, parking $55/day, minimum age 21); on 2026-11-15 it answered 'This property is not available for check-in on this day' for Jul 4-10, 2027 and also for a Dec 14-16, 2026 control, so no rate and no availability verdict could be read there.",
+        "source_url": "https://www.marriott.com/reservation/availabilitySearch.mi?propertyCode=EGEAV&fromDate=07/04/2027&toDate=07/10/2027&numberOfRooms=1&numberOfAdults=2",
+        "fees_notes": "Each rate 'Includes 45 USD Resort Fee' per night; tax not shown before checkout. Owner rentals of the Mountain Villas may add cleaning fees.",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Lock-off villa splits into two separate units",
+        "Elevator building with pool, spa, restaurant",
+        "Gondola to Beaver Creek out the door"
+      ],
+      "compromises": [
+        "Avon is not Vail Village; drive for most dinners",
+        "Gathering room is a villa living room",
+        "Owner rentals; specific units not guaranteed"
+      ],
+      "best_for": "Choose this if price and an elevator resort matter more than a walkable village.",
+      "links": [
+        "https://www.redweek.com/resort/P5861-the-westin-riverfront-mountain-villas/rooms",
+        "https://www.redweek.com/resort/P5824-the-westin-riverfront-resort-spa"
+      ],
+      "images": [
+        {
+          "url": "https://cdn1.redweek.com/photos/full-preview/2/4/2/242555.jpg?1",
+          "page_url": "https://www.redweek.com/resort/P5824-the-westin-riverfront-resort-spa",
+          "credit": "RedWeek",
+          "alt": "Westin Riverfront exterior, Avon",
+          "src": "img/4c7534976aba7a2a.jpg"
+        },
+        {
+          "url": "https://cdn1.redweek.com/photos/full-preview/2/4/2/242559.jpg?1",
+          "page_url": "https://www.redweek.com/resort/P5824-the-westin-riverfront-resort-spa",
+          "credit": "RedWeek",
+          "alt": "Westin Riverfront villa living area",
+          "src": "img/91ed31099507d484.jpg"
+        },
+        {
+          "url": "https://cdn1.redweek.com/photos/full-preview/2/4/2/242562.jpg?1",
+          "page_url": "https://www.redweek.com/resort/P5824-the-westin-riverfront-resort-spa",
+          "credit": "RedWeek",
+          "alt": "Westin Riverfront villa bedroom",
+          "src": "img/c29e8a0fb12fe4a0.jpg"
+        }
+      ],
+      "review_notes": "Marriott's own room page returned 404; confirm villa types and lock-off doors with the resort."
+    },
+    {
+      "name": "Beaver Creek Lodge: 3BR condo + Kessler Suite",
+      "kind": "all-suite hotel, condo + separate suite",
+      "quick_verdict": "Hotel condo plus a separate suite in Beaver Creek Village; details sparse.",
+      "configuration": "Beaver Creek Lodge (Kessler Collection), Beaver Creek Village. Room types: queen, valley view, creekside, double queen, Family Suite (separate bedroom, living area, sofa bed, kitchenette, fireplace), Kessler Suite (separate bedroom suite, living area, kitchenette, fireplace), and a 3BR/3BA condo. Heated pool and hot tub. Square footage, sleeps, elevator, floors and dining seats not stated; booking via on-page modal or 970.845.9800. Walk to restaurants: 'local and luxury goods just around the corner,' minutes not stated.",
+      "family_split": {
+        "scott_andrea": "Kessler Suite (own suite)",
+        "parents": "3BR condo, one bedroom",
+        "brother_family": "3BR condo, two bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate hotel suite in the same lodge (Kessler Suite: separate bedroom suite, living area, kitchenette; lodge site). Entrance details not stated; qualifies as a separate hotel suite."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 5,
+        "location": 7,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "In Beaver Creek Village; restaurant walk times not stated.",
+      "price": {
+        "nightly_total_usd_low": 1200,
+        "nightly_total_usd_high": 2400,
+        "label": "estimate",
+        "basis": "Estimate, one of two units quoted (marriott.com, property EGEAK, Beaver Creek Lodge, Autograph Collection; the lodge's own Book form submits there), read 2026-11-14 for Jul 4-10, 2027 and re-read 2026-11-15 (2 adults: Kessler Suite still $688 avg/night, $4,131; still no condo among the 7 suite types listed). Quoted: Kessler, Suite, 1 King, Sofa bed for Scott & Andrea, from $688 avg/night incl. $50 resort fee ($4,131 for 6 nights). Still guessed: the 3BR/3BA condo for Sam & Karen + Ryan's family, which looks not sold online: a 4 adult + 2 child search for the trip dates redirected to an area search ('unsuccessfulSell'), the 2-adult search listed no condo, and a Dec 14-16, 2026 control for 6 guests offered only a 'Large Balcony Family Suite' (1 King, 2 Twin bunk, sofa bed; $745/night). Ask the lodge for the condo: 970.845.9800. Range unchanged: the researcher's assumption for a 3BR condo plus a suite.",
+        "source_url": "https://www.marriott.com/reservation/availabilitySearch.mi?propertyCode=EGEAK&fromDate=07/04/2027&toDate=07/10/2027&numberOfRooms=1&numberOfAdults=2",
+        "fees_notes": "Kessler Suite rate 'Includes 50 USD Resort Fee' per night; tax not shown before checkout.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Kessler, Suite, 1 King, Sofa bed (2 adults): from $688 avg/night incl. $50 resort fee, $4,131 for 6 nights"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "not_sold_online",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate hotel suite for Scott & Andrea",
+        "3BR/3BA condo for the others",
+        "Pool and hot tub; Beaver Creek Village"
+      ],
+      "compromises": [
+        "Only one 3BR condo type; availability uncertain",
+        "Elevator and walk times not stated",
+        "Beaver Creek has fewer restaurants than Vail"
+      ],
+      "best_for": "Choose this if a quieter, upscale Beaver Creek base appeals more than Vail.",
+      "links": [
+        "https://www.kesslercollection.com/beaver-creek-lodge/"
+      ],
+      "images": [
+        {
+          "url": "https://www.kesslercollection.com/beaver-creek-lodge/wp-content/uploads/sites/3/2021/02/bcl-condo-8-1400x806.jpg",
+          "page_url": "https://www.kesslercollection.com/beaver-creek-lodge/",
+          "credit": "Beaver Creek Lodge",
+          "alt": "Beaver Creek Lodge 3BR condo",
+          "src": "img/745b3d07d4b7cfd9.jpg"
+        },
+        {
+          "url": "https://www.kesslercollection.com/beaver-creek-lodge/wp-content/uploads/sites/3/2021/02/bcl-kessler-suite3-1400x806.jpg",
+          "page_url": "https://www.kesslercollection.com/beaver-creek-lodge/",
+          "credit": "Beaver Creek Lodge",
+          "alt": "Kessler Suite living area",
+          "src": "img/3c71d327adf4786f.jpg"
+        },
+        {
+          "url": "https://www.kesslercollection.com/beaver-creek-lodge/wp-content/uploads/sites/3/2021/02/bcl-amenities1-885x528.jpg",
+          "page_url": "https://www.kesslercollection.com/beaver-creek-lodge/",
+          "credit": "Beaver Creek Lodge",
+          "alt": "Beaver Creek Lodge amenities",
+          "src": "img/806d7771b47c4c2d.jpg"
+        }
+      ],
+      "review_notes": "Confirm the condo's beds, elevator access and how many 3BR condos exist."
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Lodge Tower, Vail Village: 3BR condo + Lodge Room",
+      "kind": "condo-hotel, 3BR condo + separate lodge room in one building",
+      "quick_verdict": "Vail Village condo plus a hotel-style room by Gondola One; breakfast included, details thin.",
+      "configuration": "Lodge Tower, Vail Village, about 100 yards (a 2-minute walk) from Gondola One (lodgetower.com). Rents Lodge Rooms (studio-style, king or two queens or two doubles, own bathroom, sleeps 2-4, village or mountain view) and 1-, 2- and 3-bedroom condominiums with fully equipped kitchens; the 3BR condos sleep up to 8. The unit priced for the trip dates is Unit 199 (the only 3BR the booking search returned; featured units 277 and 377 were not available): 3 bedrooms, 3 baths, sleeps 8, beds king / king / two queens (Vrbo and Marriott Homes & Villas listings for 199; the property's accommodations page lists no individual units). Floor, square footage and dining-table seats for 199 are not stated. The property's 377 unit page (read by the price-checker) says 'Elevators in the building' and 'a dining area for six'; that is a building-level elevator statement and a dining count for 377, not 199 (not re-opened by the fact-checker). Home page: year-round heated pool and hot tub, daily breakfast, no resort fee. Vail Village restaurants and shops are on foot, minutes not stated; Bridge Street distance not stated. The online search page did not load results on 2026-11-15; reservations 866.761.3581.",
+      "family_split": {
+        "scott_andrea": "Lodge Room (king, own bathroom) in the same building",
+        "parents": "Unit 199 (3BR/3BA), king bedroom",
+        "brother_family": "Unit 199, king bedroom (Ryan & Jenna) + two-queen bedroom (Ethan & Aubrey)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separately rented Lodge Room (hotel-style room with its own fully equipped bathroom, lodgetower.com/accommodations) in the same building as the 3BR condo: a separate hotel room qualifies under the rubric. Floor and corridor location relative to the condo not stated."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 5,
+        "parents": 6,
+        "location": 10,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "In Vail Village, about 2 minutes from Gondola One; restaurant walk times not stated; daily breakfast included.",
+      "price": {
+        "nightly_total_usd_low": 1516.33,
+        "nightly_total_usd_high": 1516.33,
+        "label": "verified",
+        "basis": "lodgetower.com search (the property's own Reserve link), Jul 4-10, 2027, 6 nights ('04 - 10 Jul 2027 ( 6 nights )'), read 2026-11-15. Sam & Karen + Ryan's family (4 adults + 2 children 15, 13; searched as 6 guests): 'Lodge Tower 199 3BR' (3 Bedrooms, 3 Baths, Sleeps 8), $5,934 per stay + tax = $989.00/night; it was the only 3BR returned for the dates (the featured 277 and 377 did not appear; 377's own page shows 'Not Available'). Scott & Andrea (2 adults): 'Lodge Tower 490 Lodge Room' (1 Bath, Sleeps 4), $3,164 per stay + tax = $527.33/night; Lodge Rooms 382, 590 and 193 show the same price. Sum $9,098 for 6 nights = $1,516.33/night before tax. One price per unit is shown (no rate plans or per-night breakdown before booking), so low = high. Cheaper alternative seen for the couple: 'Lodge Tower 494 1BR' (1 Bedroom, 1 Bath, Sleeps 2) $3,034 per stay ($505.67/night).",
+        "source_url": "https://lodgetower.com/search-lodging/?guests=6&bedrooms=3&search=&start_date=07/04/2027&end_date=07/10/2027&dates_flexibility=",
+        "fees_notes": "Search shows '$ per stay + tax'; unit page states 'NO resort fee' and 'Applicable taxes apply, including a 10.8% Vail lodging tax'; summer: 1 complimentary parking spot per reservation, extra vehicles $40/day. Total with tax not shown before checkout. Non-holiday terms: 50% deposit at booking, balance 35 days before arrival, refundable less 10% before that deadline.",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "quoted_on": "2026-11-15",
+        "units_quoted": [
+          "Lodge Tower 199 3BR (3 Bedrooms, 3 Baths, Sleeps 8), 6 guests (4 adults + 2 children 15, 13): $5,934 per stay + tax, $989.00/night",
+          "Lodge Tower 490 Lodge Room (1 Bath, Sleeps 4), 2 adults: $3,164 per stay + tax, $527.33/night"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1516.33,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate hotel room for Scott & Andrea, same building",
+        "Two minutes to Gondola One in Vail Village",
+        "Daily breakfast, pool and hot tub, no resort fee"
+      ],
+      "compromises": [
+        "Unit 199 floor and dining seats not stated; elevator stated only at building level",
+        "Gathering room is the 3BR condo living room",
+        "Search shows one price per unit; booking by phone or after search"
+      ],
+      "best_for": "Choose this if a Vail Village base with breakfast beats Lionshead's creekside setting.",
+      "links": [
+        "https://lodgetower.com/search-lodging/",
+        "https://lodgetower.com/accommodations/",
+        "https://www.lodgetower.com/"
+      ],
+      "images": [
+        {
+          "url": "https://s44401.pcdn.co/wp-content/uploads/2024/09/Lodge-Tower-677-8577-scaled.jpg",
+          "page_url": "https://lodgetower.com/accommodations/",
+          "credit": "Lodge Tower",
+          "alt": "Lodge Tower three-bedroom condominium",
+          "src": "img/4a41f4bad3dea474.jpg"
+        },
+        {
+          "url": "https://s44401.pcdn.co/wp-content/uploads/2024/09/lodgetower-278-1622_53758823235_o-scaled.jpg",
+          "page_url": "https://www.lodgetower.com/",
+          "credit": "Lodge Tower",
+          "alt": "Lodge Tower condominium living area",
+          "src": "img/3cae4afac7c3356c.jpg"
+        },
+        {
+          "url": "https://s44401.pcdn.co/wp-content/uploads/2024/09/lodge-tower-383-8458_51537337826_o-scaled.jpg",
+          "page_url": "https://lodgetower.com/accommodations/",
+          "credit": "Lodge Tower",
+          "alt": "Lodge Tower lodge room",
+          "src": "img/a7388c220438e9fe.jpg"
+        }
+      ],
+      "review_notes": "Confirm Unit 199's floor, elevator access and dining seats, and a lodge room on the same floor."
+    },
+    {
+      "name": "The Landmark, Lionshead: Unit 208 (3BR) + Unit 117 (1BR)",
+      "kind": "condo lodge, 2 separate condos in one building",
+      "quick_verdict": "Two numbered Lionshead condos 3 minutes from the gondola; elevator and floors not stated.",
+      "configuration": "The Landmark, 610 W Lionshead Circle, Lionshead Village, one- to four-bedroom condominiums managed by Coraltree Residence Collection (landmarkatvail.com; booking site lists 54 rentable units). Unit 208, Three Bedroom Platinum: 1,450 sq ft, 3 bedrooms, 3 bathrooms, king (primary), queen, captain's bunks and a bunk bed, mountain view, private balcony with gas grill, washer/dryer, air conditioning. Alternative Unit 217, Three Bedroom Diamond: 1,330 sq ft, 3BA, sleeps 8, king (primary, fireplace), 2 twins, twin-over-full bunk, sofa bed, second fireplace in the living room, balcony over the village; avoid Unit 213 (3BR/2BA), which a guest review describes as two storeys. Scott & Andrea: Unit 117, One Bedroom Platinum, 620 sq ft, 1BA, sleeps 4 (or 111/119, 1BR + flex with 2BA, about 800 sq ft). Floors are not stated (unit numbers suggest 208 and 217 on the second floor and 117 on the first). Elevator, entrance layout and dining-table seats not stated. Heated outdoor pool, hot tubs, fitness center, fire pits; one parking space included. Unit pages list the gondola as a 3-minute walk; restaurants 'within walking distance'.",
+      "family_split": {
+        "scott_andrea": "Unit 117, separate 1BR condo in the same building",
+        "parents": "Unit 208, king primary bedroom",
+        "brother_family": "Unit 208, queen bedroom (Ryan & Jenna) + bunk room (Ethan & Aubrey)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separately booked, numbered condo (Landmark 117, 1BR/1BA, 620 sq ft) on the Coraltree booking site; a separate condo qualifies under the rubric. Its entrance (interior corridor or exterior) is not stated."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 5,
+        "parents": 5,
+        "location": 9,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 4,
+      "food_convenience": "Lionshead core; gondola listed as a 3-minute walk and Lionshead restaurants a few minutes beyond; Vail Village by the free bus.",
+      "price": {
+        "nightly_total_usd_low": 1000,
+        "nightly_total_usd_high": 1900,
+        "label": "estimate",
+        "basis": "Not released (checked 2026-11-15 on the Coraltree engine, unit pages with checkin/checkout in the URL): Landmark 208 (6 guests), the alternative 217 (6 guests) and 117 (2 guests) each answer 'Provided unit or unit type is not available for the dates provided.' for Jul 4-10, 2027. A Dec 14-16, 2026 control for 208 returns prices ($1,423.46 and $1,384.86 shown), but a Jul 25-27, 2027 control for 208 is also 'not available', so summer 2027 looks not loaded yet rather than booked; check back. Range is an assumption from Antlers next door for the same dates (3BR/2BA $721-835 plus 1BR + bunk $446-516 per night, verified 2026-11-14), widened for the 3BA unit and the 6.5% resort fee.",
+        "source_url": "https://bookings.coraltreeresidencecollection.com/rentals/landmark-208?checkin=2027-07-04&checkout=2027-07-10&guests=6",
+        "fees_notes": "Unit pages: tax 10.8%, resort fee 6.5% (taxable), Residence Protection Plan $69 per reservation, 10% deposit at booking with the balance 30 days before arrival; extra parking at the Town of Vail structure rate.",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "availability": "not_released",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate condo for Scott & Andrea, same building",
+        "3BR/3BA, 1,450 sq ft, balcony grill",
+        "Gondola 3 minutes on foot; pool and hot tubs"
+      ],
+      "compromises": [
+        "Elevator and floors not stated",
+        "6.5% resort fee on top of tax",
+        "Dining-table seats not stated"
+      ],
+      "best_for": "Choose this if Antlers is full and Lionshead is still the preferred base.",
+      "links": [
+        "https://bookings.coraltreeresidencecollection.com/resort/landmark-at-vail",
+        "https://bookings.coraltreeresidencecollection.com/rentals/landmark-208",
+        "https://bookings.coraltreeresidencecollection.com/rentals/landmark-217",
+        "https://www.landmarkatvail.com/"
+      ],
+      "images": [
+        {
+          "url": "https://www.landmarkatvail.com/site/assets/files/14875/20231110_vl_dunn_-24.jpg",
+          "page_url": "https://www.landmarkatvail.com/",
+          "credit": "The Landmark",
+          "alt": "The Landmark, Lionshead Village",
+          "src": "img/90bc33e17cee9a45.jpg"
+        },
+        {
+          "url": "https://www.landmarkatvail.com/site/assets/files/14885/land_208_living_room.600x337.jpg?88kgd1",
+          "page_url": "https://www.landmarkatvail.com/",
+          "credit": "The Landmark",
+          "alt": "Landmark Unit 208 living room",
+          "src": "img/2e1acde48c38ec19.jpg"
+        },
+        {
+          "url": "https://img.trackhs.com/1440x920/https://track-pm.s3.amazonaws.com/vailcollection/image/b9a8b892-c3f1-462d-ac7c-052b627229b9",
+          "page_url": "https://bookings.coraltreeresidencecollection.com/rentals/landmark-217",
+          "credit": "Coraltree Residence Collection",
+          "alt": "Landmark Unit 217",
+          "src": "img/96694d9992e09dd2.jpg"
+        }
+      ],
+      "review_notes": "Confirm 208's floor and the elevator, 117 on a nearby floor, and dining seats."
+    },
+    {
+      "name": "Manor Vail Lodge: 3BR condo + studio",
+      "kind": "condo lodge, 2 separate condos",
+      "quick_verdict": "Golden Peak condos with breakfast included; layout and elevator details are thin.",
+      "configuration": "Manor Vail Lodge, 595 Vail Valley Drive at Golden Peak, 'easy walking distance' to Vail Village, Betty Ford Alpine Gardens and the Ford Amphitheater (no minutes given). 90 residences; every unit has a full kitchen, gas fireplace and private balcony, plus a daily hot breakfast buffet. 2 heated outdoor pools, 4 hot tubs, fitness center; BioMed Spa on site. 3BR: about 1,400 sq ft, large living room with fireplace, dining area, balcony over Golden Peak. Studio: from 700 sq ft with separate living area. Beds, baths, floors, elevator and dining seats not stated by the lodge; contact 800.950.8245.",
+      "family_split": {
+        "scott_andrea": "Studio condo (own unit)",
+        "parents": "3BR condo, one bedroom",
+        "brother_family": "3BR condo, two bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separately booked studio condo; the accommodations page calls every residence a full condominium with its own kitchen and balcony. It does not state entrances or floor plans (fact-checker 2026-11-14: 'own door' not stated; separate-unit basis only)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 5,
+        "location": 8,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Walking distance to Vail Village restaurants per the lodge (minutes not stated); breakfast included daily.",
+      "price": {
+        "nightly_total_usd_low": 1100,
+        "nightly_total_usd_high": 2000,
+        "label": "estimate",
+        "basis": "Not bookable online, or sold out, for these dates (checked 2026-11-14 in Manor Vail's SynXis engine): for Jul 4-10, 2027 the engine offered no Three Bedroom Condo for 4 adults + 2 children (15, 13) and no Studio Condo for 2 adults. The only types offered were Diamond Two Bedroom (2BR/3BA, 1,400 sq ft, 'only 1 room left', Advance Purchase $4,739 for 6 nights, about $789/night) and Diamond One Bedroom (700 sq ft, Advance Purchase $2,555, about $425/night); neither is in this split. Control stay Dec 14-16, 2026 returned Platinum Three Bedroom Condo (2 left, $1,694 for 2 nights) and Platinum Studio Condominium (1 left, $646 for 2 nights), so both types are sold in the engine. Re-checked 2026-11-15 for 4 adults + 2 children: still no Three Bedroom Condo; the only type offered was Diamond Two Bedroom Advance Purchase ($789/night, $4,739 for 6 nights). Range unchanged: the researcher's assumption for a 3BR plus a studio; ask the lodge (800.950.8245).",
+        "source_url": "https://be.synxis.com/?Chain=33230&Hotel=25993&arrive=2027-07-04&depart=2027-07-10&adult=4&child=2&childages=15%7C13&rooms=1",
+        "fees_notes": "Engine shows rates 'Excluding taxes and fees'; tax not read.",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Daily hot breakfast for all 8",
+        "Two pools, four hot tubs",
+        "Near Betty Ford Gardens and the amphitheater"
+      ],
+      "compromises": [
+        "Elevator, floors and bath counts not stated",
+        "Farther from Lionshead dining",
+        "3BR and studio not offered online for the trip dates"
+      ],
+      "best_for": "Choose this if breakfast included and quick access to Vail Village and the gardens appeal.",
+      "links": [
+        "https://www.manorvail.com/",
+        "https://www.manorvail.com/accommodations",
+        "https://be.synxis.com/?hotel=25993&chain=33230"
+      ],
+      "images": [
+        {
+          "url": "https://d36hfs0zvnhbkv.cloudfront.net/assets/files/12468/manor_vail_lodge_exterior_summer_bike_path.jpg",
+          "page_url": "https://www.manorvail.com/",
+          "credit": "Manor Vail Lodge",
+          "alt": "Manor Vail exterior and bike path in summer",
+          "src": "img/32260341aba3d13f.jpg"
+        },
+        {
+          "url": "https://d36hfs0zvnhbkv.cloudfront.net/assets/files/11954/download_46.448x336.jpg",
+          "page_url": "https://www.manorvail.com/accommodations",
+          "credit": "Manor Vail Lodge",
+          "alt": "Manor Vail condo living room",
+          "src": "img/a8cba5668f72f93b.jpg"
+        },
+        {
+          "url": "https://d36hfs0zvnhbkv.cloudfront.net/assets/files/12468/manorvail_pool2.jpg",
+          "page_url": "https://www.manorvail.com/",
+          "credit": "Manor Vail Lodge",
+          "alt": "Manor Vail outdoor pool",
+          "src": "img/a4250ae4b2cf769b.jpg"
+        }
+      ],
+      "review_notes": "Moved from lodging to backups 2026-11-15: sold out or not offered online for the dates. Ask for an elevator-served or ground-floor 3BR and the walk time to Bridge Street."
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Vail Stables: guided trail rides",
+        "what_you_do": "Guided horseback rides on White River National Forest trails: Rocky Point 1 hr ($130), Bear Hollow 1.5 hr ($165, family), Dark Timber 2 hr ($220).",
+        "why_memorable": "Aspen groves and meadows above Vail, 8 minutes from Lionshead.",
+        "drive_minutes": 8,
+        "price_usd": "$130-220 per rider",
+        "age_min": 5,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Online, 48 hours ahead; groups of 10-20 need 14 days. 225 lb limit (240-260 for tall riders)",
+        "interactivity": "hands-on",
+        "url": "https://www.vailstables.com/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2023/10/20240805_Cohen_VLMD_VailStables_2751-1800x1200.jpg",
+          "page_url": "https://discovervail.com/things-to-do/horseback-riding/",
+          "credit": "Discover Vail",
+          "alt": "Rider and horse at Vail Stables",
+          "src": "img/5851b3e9dd5275cd.jpg"
+        }
+      },
+      {
+        "name": "Beaver Creek Stables",
+        "what_you_do": "1- and 2-hour trail rides, a 3-hour picnic ride, Beaver Lake ride and a sunset ride to Beano's Cabin with dinner.",
+        "why_memorable": "The Beano's Cabin dinner ride pairs a ride with a mountain dinner.",
+        "drive_minutes": 20,
+        "price_usd": "Not listed",
+        "age_min": 7,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Phone (970) 845-7770; summer schedule only, dates not stated",
+        "interactivity": "hands-on",
+        "url": "https://www.beavercreekstables.com/",
+        "image": {
+          "url": "https://www.beavercreekstables.com/wp-content/uploads/2026/05/D9H8090.jpg",
+          "page_url": "https://www.beavercreekstables.com/",
+          "credit": "Beaver Creek Stables",
+          "alt": "Trail ride at Beaver Creek Stables",
+          "src": "img/c2c069c2cabfcaaa.jpg"
+        }
+      },
+      {
+        "name": "Vail Stables: GOGA! Goat Yoga",
+        "what_you_do": "One-hour yoga class while trained goats climb on backs, nudge and nap on participants; guests can hold a baby goat.",
+        "why_memorable": "Genuinely hands-on goat contact; suits Aubrey, Andrea and Jenna.",
+        "drive_minutes": 8,
+        "price_usd": "$30 per person",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Online (FareHarbor), at least 48 hours ahead; Mon, Tue, Thu, Fri and some Sat at 9am",
+        "interactivity": "hands-on",
+        "url": "https://www.vailstables.com/"
+      },
+      {
+        "name": "Vail Stables: Happy G.O.A.T. Hours",
+        "what_you_do": "Drop-in goat yard with a beer garden and play area; guests feed the goats treats. Parent-led pony rides ($20) for kids under 60 lb.",
+        "why_memorable": "Pushy, friendly goats a mile from Vail Village; easy for the parents to sit and watch.",
+        "drive_minutes": 8,
+        "price_usd": "$10 admission",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Drop-in on select days, 11am-4pm; days not listed",
+        "interactivity": "hands-on",
+        "url": "https://www.vailstables.com/",
+        "image": {
+          "url": "https://discovervail.com/app/uploads/2023/04/goat-vail-stables-featured.jpg",
+          "page_url": "https://discovervail.com/blog/goat-happy-hour-to-goat-yoga-unique-things-to-do-at-vail-stables-in-summer/",
+          "credit": "Discover Vail",
+          "alt": "Goats at Vail Stables",
+          "src": "img/fdd99ed2a66f7143.jpg"
+        }
+      },
+      {
+        "name": "Paragon Guides: llama hike",
+        "what_you_do": "A guided family-paced hike in the Holy Cross or Eagle's Nest wilderness with pack llamas carrying the food and gear; llamas are not ridden, and whether guests lead or touch them is not stated on the operator page (June to early September).",
+        "why_memorable": "Hiking beside a llama string in the backcountry; a lunch version (Backcountry Llama Lunch) is offered.",
+        "drive_minutes": 15,
+        "price_usd": "$795 for the first 2 people + $95 each additional (12 and under $75); about $1,365 for 8, plus $100 transport",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Request form; $100 non-refundable deposit, 72-hour cancellation; 970.376.7868. Office in Edwards; meeting point not stated",
+        "interactivity": "close viewing",
+        "url": "https://paragonguides.com/llama-hikes/"
+      }
+    ],
+    "golf": [
+      {
+        "name": "Vail Golf Club",
+        "what_you_do": "18 holes, par 71, 6,739 yards along Gore Creek; municipal and open to the public.",
+        "why_memorable": "Gore Range and White River National Forest views, with beaver ponds in play, 8 minutes from Lionshead.",
+        "drive_minutes": 8,
+        "price_usd": "Green fee not published on the club page (2027 rates page linked); rental clubs $69 for 18",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Online tee times; July is peak season",
+        "url": "https://www.vailrec.com/vail-golf-club",
+        "image": {
+          "url": "https://streamline.imgix.net/e4641fc7-6eeb-44f7-81bd-b9257c4ba19b/61f0f424-3614-4532-ac1c-c8f1891152bc/VRD%20Golf%20Course%20Aerials_Summer%202023_Day%202-39.jpg?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&or=0&s=8c22b76a470be93281f08a560735ebfe",
+          "page_url": "https://www.vailrec.com/vail-golf-club",
+          "credit": "Vail Recreation District",
+          "alt": "Aerial of Vail Golf Club in summer",
+          "src": "img/6200575749268641.jpg"
+        }
+      },
+      {
+        "name": "EagleVail Golf Club",
+        "what_you_do": "18 holes, par 71, Devlin/Von Hagge design at 7,650 ft; Stone Creek and the Eagle River come into play on 12 holes.",
+        "why_memorable": "Creek and river in play on 12 holes with Rockies views; a lower-key alternative.",
+        "drive_minutes": 12,
+        "price_usd": "Not published on the home page",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Online tee times (Club Caddie); public access not stated",
+        "url": "https://www.eaglevailgolfclub.com/"
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Gondola One and Eagle Bahn scenic gondola rides",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Both gondolas run in summer from Vail Village and Lionshead (2025: daily June 13-Sept 1, 9:30am-4pm); wheelchair and stroller accessible. 2027 dates and prices not published; Vail.com could not be loaded.",
+      "drive_minutes": 0,
+      "url": "https://discovervail.com/things-to-do/scenic-gondola/",
+      "found_via": "Discover Vail",
+      "image": {
+        "url": "https://discovervail.com/app/uploads/2020/02/Gondola_2.jpg",
+        "page_url": "https://discovervail.com/things-to-do/scenic-gondola/",
+        "credit": "Discover Vail",
+        "alt": "Vail gondola",
+        "src": "img/ecc2ba350b976c82.jpg"
+      }
+    },
+    {
+      "name": "Betty Ford Alpine Gardens",
+      "good_for": [
+        "parents",
+        "everyone"
+      ],
+      "details": "Gardens near Vail Village with accessible paths, a 100-ft waterfall, an indoor Alpine House and a Children's Garden; season May-September; admission not listed.",
+      "drive_minutes": 5,
+      "url": "https://discovervail.com/things-to-do/betty-ford-alpine-gardens/",
+      "found_via": "Discover Vail",
+      "image": {
+        "url": "https://discovervail.com/app/uploads/2023/10/240825_Mountain-Lore_004-8174x5440-1-1800x1198.jpg",
+        "page_url": "https://discovervail.com/things-to-do/betty-ford-alpine-gardens/",
+        "credit": "Discover Vail",
+        "alt": "Betty Ford Alpine Gardens",
+        "src": "img/e0ee6e51ba24e763.jpg"
+      }
+    },
+    {
+      "name": "Vail Farmers' Market & Art Show",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Sundays 9:30am-3pm on East Meadow Drive, mid-June to early October, 150+ tents; check-in day, July 4, 2027, is a Sunday. Smaller Meadow Market Thursdays 4-7pm. 2027 dates not yet posted.",
+      "drive_minutes": 0,
+      "url": "https://discovervail.com/things-to-do/vail-farmers-market/",
+      "found_via": "Discover Vail",
+      "image": {
+        "url": "https://discovervail.com/app/uploads/2023/10/Farmers-market-Hero-e1777657057543.jpg",
+        "page_url": "https://discovervail.com/things-to-do/vail-farmers-market/",
+        "credit": "Discover Vail",
+        "alt": "Vail Farmers' Market",
+        "src": "img/36100e2b02c1d383.jpg"
+      }
+    },
+    {
+      "name": "Spa day: RockResorts Spa at The Arrabelle",
+      "good_for": [
+        "adults",
+        "rainy day"
+      ],
+      "details": "10,000 sq ft spa with relaxation lounge and steam room at 675 Lionshead Place, next door to Antlers; Discover Vail lists 11 other spas in Vail.",
+      "drive_minutes": 0,
+      "url": "https://discovervail.com/businesses/spa-at-the-arabelle/",
+      "found_via": "Discover Vail spa guide"
+    },
+    {
+      "name": "Bravo! Vail and Vail Dance Festival at the Ford Amphitheater",
+      "good_for": [
+        "parents",
+        "adults"
+      ],
+      "details": "Summer orchestral and dance seasons at the Gerald R. Ford Amphitheater near Golden Peak; 2027 dates not on the tourism page.",
+      "drive_minutes": 5,
+      "url": "https://discovervail.com/things-to-do/bravo-vail/",
+      "found_via": "Discover Vail arts page",
+      "image": {
+        "url": "https://discovervail.com/app/uploads/2024/11/3_ApresAtTheAmp_4.6.24_memorandum_media_200736-scaled-e1738256330484-1800x855.jpg",
+        "page_url": "https://discovervail.com/arts-culture/",
+        "credit": "Discover Vail",
+        "alt": "Ford Amphitheater",
+        "src": "img/129be40cfa1e405d.jpg"
+      }
+    },
+    {
+      "name": "Mountain biking",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "Mountain biking is listed by Discover Vail as a signature summer activity; trail and rental details not checked.",
+      "drive_minutes": 0,
+      "url": "https://discovervail.com/things-to-do/mountain-biking/",
+      "found_via": "Discover Vail",
+      "image": {
+        "url": "https://discovervail.com/app/uploads/2026/04/090225_AMP_VLMD_14569_1-600x400.jpg",
+        "page_url": "https://www.discovervail.com/things-to-do/",
+        "credit": "Discover Vail",
+        "alt": "Mountain biking in Vail",
+        "src": "img/1b9f68d6ede733f3.jpg"
+      }
+    }
+  ],
+  "shopping_exploring": "Lionshead and Vail Village are pedestrian shopping streets along Gore Creek; the Sunday farmers' market adds 150+ tents. Beaver Creek Village is a smaller plaza 20 minutes west.",
+  "restaurants": [
+    {
+      "name": "Blue Moose Pizza",
+      "category": "casual",
+      "notes": "New York-style pizza, dine-in or takeout, $5 lunch slice-and-soda special; family-oriented.",
+      "walk_minutes_from_lodging": 3,
+      "url": "https://discovervail.com/businesses/vail-blue-moose-pizza/"
+    },
+    {
+      "name": "Bart & Yeti's",
+      "category": "casual",
+      "notes": "Pub fare, families and groups welcome, patio.",
+      "walk_minutes_from_lodging": 3,
+      "url": "https://discovervail.com/businesses/bart-yetis/"
+    },
+    {
+      "name": "Tavern on the Square",
+      "category": "family dinner",
+      "notes": "Contemporary American, lunch and dinner, outdoor patio on Lionshead's square.",
+      "walk_minutes_from_lodging": 3,
+      "url": "https://discovervail.com/businesses/tavern-on-the-square/",
+      "image": {
+        "url": "https://discovervail.com/app/uploads/2025/11/20160908_Boomer_Apres004_Edit-2200x900-1-1800x736.jpg",
+        "page_url": "https://discovervail.com/blog/restaurants-in-lionshead-vail/",
+        "credit": "Discover Vail",
+        "alt": "Patio at Tavern on the Square",
+        "src": "img/c83b6e57e6e2af1b.jpg"
+      }
+    },
+    {
+      "name": "Vail Chophouse",
+      "category": "family dinner",
+      "notes": "Steak and seafood, dinner, large deck in Lionshead.",
+      "walk_minutes_from_lodging": 3,
+      "url": "https://discovervail.com/businesses/vail-chophouse/"
+    },
+    {
+      "name": "Sweet Basil",
+      "category": "special dinner",
+      "notes": "Michelin Guide recommended (Sept 2025); seasonal local cooking, about 130 seats; reservations open 30 days ahead and fill fast in season. Price range not stated.",
+      "walk_minutes_from_lodging": 15,
+      "url": "https://discovervail.com/blog/michelin-recommended-sweet-basil-vail-colorado/",
+      "image": {
+        "url": "https://discovervail.com/app/uploads/2023/11/SFW_2200x900_Couple-dining-at-Sweet-Basil-1800x736.jpg",
+        "page_url": "https://discovervail.com/blog/michelin-recommended-sweet-basil-vail-colorado/",
+        "credit": "Discover Vail",
+        "alt": "Dining at Sweet Basil",
+        "src": "img/48b5fce128d4c448.jpg"
+      }
+    },
+    {
+      "name": "The Little Diner",
+      "category": "breakfast/coffee",
+      "notes": "Retro diner, breakfast all day and lunch; expect waits at busy times.",
+      "walk_minutes_from_lodging": 3,
+      "url": "https://discovervail.com/businesses/the-little-diner/"
+    }
+  ],
+  "weather": {
+    "source_url": "https://en.wikipedia.org/wiki/Vail,_Colorado",
+    "july": {
+      "high_f": 76.7,
+      "low_f": 41.6,
+      "rain_days": 10,
+      "notes": "NOAA 1991-2020 normals for the Vail station (8,239 ft), via Wikipedia's climate table. Cool nights; days with 0.01 in or more of rain are about 10 of 31."
+    }
+  },
+  "logistics": {
+    "airport": "Eagle County Regional (EGE); Denver International (DEN) as a drive-in alternative",
+    "drive_minutes_from_airport": 40,
+    "flights": {
+      "den": "The Denver six can drive I-70 to Vail, about 2 hours plus traffic, or fly United/United Express DEN-EGE (year-round).",
+      "bay_area": "United Express lists EGE-SFO as seasonal (season not stated; may be winter only); otherwise connect via DEN to EGE, or fly to DEN and ride with the Denver group."
+    },
+    "car_needed": "Not inside Vail, where villages are walkable and the in-town bus is free; yes for the stables, golf and the airport. One or two cars are enough.",
+    "notes": "EGE is 37 miles from Vail (Wikipedia). Avon and Beaver Creek are 15-20 minutes west of Lionshead."
+  },
+  "caveats": [
+    "Lodging prices (2026-11-14, Jul 4-10, 2027): only Antlers is verified ($1,167/night before tax, advance purchase non-refundable; $1,351 flexible). Westin Riverfront is an estimate from substitute hotel suites ($1,488/night incl. resort fees); Beaver Creek Lodge's 3BR condo is not sold online; Lion Square was not quoted. Manor Vail's 3BR and studio were not offered for the dates, so it moved to the backups.",
+    "Every gathering room is a condo or villa living room; no table for 8 was confirmed.",
+    "Town elevation about 8,150-8,240 ft; check with the parents' doctors about altitude.",
+    "July 4 week is peak: Sweet Basil, tee times and stables book up.",
+    "Animal options are domestic animals only (horses, llamas, goats); no wildlife or exotic-animal encounter found, and the Vail Nature Center was closed for summer 2026.",
+    "Red Sky Golf Club access for non-member guests not confirmed.",
+    "TripAdvisor blocked fetches and the web-search budget was exhausted, so the cross-check relied on Discover Vail."
+  ],
+  "open_questions": [
+    "Antlers: will the lodge assign Unit 104 on a 3BR/2BA category booking (the engine does not sell it by number); dining-table seats and step-free entry in 104; elevator confirmation (1-888-268-5377).",
+    "Lion Square: rates for South 255/257/261 for Jul 4-10 (the online date picker did not take dates); does the connecting kitchen door lock; elevator to the second floor (booking request form).",
+    "Manor Vail (backup): can a 3BR and a studio be had for Jul 4-10 (none offered online on 2026-11-14); elevator or ground-floor 3BR, bed and bath counts, walk time to Vail Village (800.950.8245).",
+    "Westin Riverfront: confirm lock-off villa doors, 3BR villa layout and July owner-rental prices for the Mountain Villas (resort or RedWeek owners); marriott.com prices only the hotel suites.",
+    "Beaver Creek Lodge: 3BR condo rate for Jul 4-10 (not sold on marriott.com), beds, elevator, walk to restaurants (970.845.9800).",
+    "Lodge Tower (backup): Unit 199's floor, elevator access and dining seats (reservations 866.761.3581).",
+    "The Landmark (backup): rates for Units 208 and 117 for Jul 4-10, floors, elevator and dining seats (Coraltree Residence Collection booking site).",
+    "Vail Golf Club and EagleVail 2027 green fees (club tee-time pages).",
+    "Red Sky Golf Club: which lodging guests may book the resort course in July 2027 ((970) 754-8400).",
+    "Vail Stables: which days Happy G.O.A.T. Hours run in July 2027 ((855) 743-3824).",
+    "Paragon Guides llama hike: duration, minimum age, meeting point and whether guests lead the llamas (970.376.7868).",
+    "4 Eagle Ranch: 2027 summer dates and prices for rides and wagon dinners (970-926-3372).",
+    "Beaver Creek Stables: prices (970) 845-7770.",
+    "Escape room, bowling or bingo in the Vail Valley: not found this session; ask Discover Vail.",
+    "Gondola summer 2027 dates and ticket prices (Vail.com, which was not reachable)."
+  ],
+  "verification_notes": [
+    "Web search budget was exhausted early; research used direct fetches of property, operator and Discover Vail pages.",
+    "Vail.com and Arrabelle sites were unreachable (waiting room / certificate errors); Marriott's Westin page returned 404.",
+    "price-checker 2026-11-14: Antlers at Vail: estimate $1,100-2,000 to verified $1,167-1,351/night (SynXis, 3 Bedroom 2 Bathroom Condo + 1 Bedroom and Bunk Bed Condominium, Platinum; Advanced Purchase low, Flexible Cancellation high); value 7 to 9. The engine's 1BR for the dates is the 680 sq ft 'One Bedroom plus Bunk Beds' (sleeps 4), not a plain Platinum 1BR, and the 3BR/2BA is sold as a category, not Unit 104 by number.",
+    "price-checker 2026-11-14: Lion Square Lodge South 255/257/261: estimate $900-1,700 kept, not quoted; the listing's date picker fields are read-only and did not accept dates within the browser budget (its calendar shows Jul 4-9, 2027 as available). The listing states 'guests must be 21 or older to rent.'",
+    "price-checker 2026-11-14: Manor Vail: estimate $1,100-2,000 kept; not bookable online or sold out for these dates: SynXis offered no Three Bedroom Condo or Studio for Jul 4-10 (only Diamond 2BR, 1 left, about $789/night, and Diamond 1BR, about $425/night), while a Dec 14-16, 2026 control returned both types.",
+    "price-checker 2026-11-14: Westin Riverfront: estimate $600-1,400 to estimate $1,488/night (marriott.com EGEAV Studio Suite $323 + 1 Bedroom Residential Suite $456 + 2 Bedroom Residential Suite $709, each incl. $45 resort fee). These are hotel suites substituting for the Mountain Villas 2BR lock-off + 2BR villa in the configuration, which marriott.com does not sell; value stays 8.",
+    "price-checker 2026-11-14: Beaver Creek Lodge: estimate $1,200-2,400 kept as estimate; Kessler Suite quoted at $688/night incl. $50 resort fee (marriott.com EGEAK); the 3BR condo is not sold online (6-guest search for the trip dates redirected to an area search; Dec 14-16 control offered only a Large Balcony Family Suite). Value stays 6.",
+    "fact-checker 2026-11-14: Antlers configuration corrected: Scott & Andrea's unit is the engine's 'One Bedroom plus Bunk Beds' (680 sq ft), not a plain Platinum 1BR; family_split updated. lodging page confirms Unit 104 (Platinum 3BR/2BA, first floor, ~1,400 sq ft, 3BR + bunk nook, 2BA, two 5x10 ft balconies; bed sizes, dining seats not stated) and states every condo has a private exterior entryway, so lockoff stays yes with a firmer basis. Elevator not on the lodging page (not verified here).",
+    "fact-checker 2026-11-14: lock-off verdicts: Lion Square 'yes' kept but basis reworded: 257 & 261 are called 'neighboring lock-off suites' and are listed standalone, but the 255/257/261 page only says they are reached 'through the kitchen door' and does not say it locks (floor 2, elevator not stated). Manor Vail 'yes' rests on separate-condo status only; 'own door' is not stated on the accommodations page, and bed/bath/floor/elevator counts are not stated. Westin: RedWeek confirms 'two separate, but adjoining units' (each king + sleeper sofa + full kitchen, 2 baths, sleeps 8), doors not stated, yes kept. Beaver Creek Lodge: Kessler Suite is a separate hotel suite (yes under the rubric); entrance, elevator and 3BR/3BA bed counts not stated. No configuration claim failed, so no layout rating or lodging score changed.",
+    "fact-checker 2026-11-14: focus items re-read: Vail Stables (season May to Oct 4 for 2026; 2027 dates not posted; Happy G.O.A.T. $10 select days 11am-4pm; goat yoga $30, Mon/Tue/Thu/Fri and some Sat 9am; trail rides $130/$165/$220, 5+, 225 lb limit; no closures), Beaver Creek Stables (trails age 7+, prices and 2027 season dates not published), Vail Golf Club (public, par 71, 6,739 yds, closed for 2026 season, reopens May 2027, green fee not published) all match the JSON. Not checked: EagleVail, 4 Eagle Ranch (operates_during_stay stays unknown), Bearcat. All animals and golf items stand; no animals or golf score changed.",
+    "price-checker 2026-11-14: lodging score stays 17 and total 81: the score rests on Antlers, now verified at $1,167/night, inside the $2,800 cap; the rationale named the unconfirmed price as one of two reasons for lost points, so the add-back for a price-only loss does not apply.",
+    "researcher rerun 2026-11-15: Manor Vail (availability sold_out) moved from lodging to lodging_backups with its quote unchanged; Lodge Tower (Vail Village) and The Landmark (Lionshead) added as backups, both separate-unit lock-offs, priced as estimates from Antlers comparables because neither site showed rates. Lodging score unchanged (rests on Antlers).",
+    "researcher rerun 2026-11-15: animals focus re-ranked under the current guidance (activity with animals > feeding/touching > hosted > viewing; then exotic > wild > birds > farm): trail rides first, Paragon Guides llama hike added (pack llamas, June to early September, $795 + $95 per extra person; interactivity recorded as close viewing because leading is not stated), goat yoga and goat feeding after. 4 Eagle Ranch dropped from the list (operation in July 2027 unknown). Walking Mountains lists no live-animal program and says the Vail Nature Center was closed for summer 2026. scores.animals 15 to 11 (top two are horseback rides, farm animals), total 81 to 77.",
+    "researcher rerun 2026-11-15: Lodge at Vail (lodgeatvail.com) failed with a certificate error and a Marriott Homes & Villas Lodge Tower listing returned 403.",
+    "price-checker 2026-11-15: Antlers at Vail: verified $1,167-1,351/night kept (verified $1,166.60-1,351 on 2026-11-14); SynXis re-read for Jul 4-10, 2027 shows the same 3 Bedroom 2 Bathroom Condo ($722 AP / $835 flexible) and 1 Bedroom and Bunk Bed Condominium ($446 / $516) rates; availability available; value stays 9.",
+    "price-checker 2026-11-15: Lion Square Lodge South 255/257/261: estimate $900-1,700 kept, no quote; the listing's date fields are read-only and its popup calendar did not register date clicks within 15 calls; no rate is shown anywhere on the page; availability not_sold_online (booking request form). Value stays 7.",
+    "price-checker 2026-11-15: Westin Riverfront: estimate $1,488/night kept (marriott.com EGEAV suite rates unchanged). The Mountain Villas 2BR lock-off is listed on Vrbo 3959661 (Live Suite Resorts), which rejected both Jul 4 and a Dec 14 control as check-in days, so the lock-off villa in the split is still unpriced. Value stays 8.",
+    "price-checker 2026-11-15: Beaver Creek Lodge: estimate $1,200-2,400 kept; Kessler Suite still $688/night incl. $50 resort fee on marriott.com EGEAK; the 3BR condo is still not sold online; availability not_sold_online. Value stays 6.",
+    "price-checker 2026-11-15: Lodge Tower (backup): estimate $1,300-2,300 to verified $1,516.33/night (lodgetower.com: Lodge Tower 199 3BR $5,934 + Lodge Tower 490 Lodge Room $3,164 for 6 nights, + tax, no resort fee); availability available; value stays 7. The engine's only 3BR for the dates is Unit 199, not the 277 or 377 named in configuration; 377's unit page lists 3 bedrooms each with an attached bath (two king, one two queens), 'a dining area for six', and 'Elevators in the building'. Not promoted: Antlers, which the score rests on, is still eligible.",
+    "price-checker 2026-11-15: The Landmark (backup): estimate $1,000-1,900 kept; Coraltree shows 208, 217 and 117 'not available' for Jul 4-10, 2027 and for a Jul 25-27, 2027 control, while a Dec 14-16, 2026 control prices 208, so availability not_released (check back). Value stays 8.",
+    "price-checker 2026-11-15: Manor Vail (backup): estimate $1,100-2,000 kept; SynXis re-check still offers no Three Bedroom Condo for Jul 4-10 (only Diamond Two Bedroom, $789/night); availability stays sold_out.",
+    "fact-checker 2026-11-15: Lodge Tower (backup) configuration reconciled to the priced Unit 199: 3BR/3BA, king/king/two queens, sleeps 8 (Vrbo 3101722; Marriott Homes & Villas page returned 403); family_split now names Unit 199 and its beds; 277/377 references removed. The property's accommodations page lists no individual units; the 377 'Elevators in the building' and 'dining area for six' lines are the price-checker's reading and were not re-opened (could not verify: elevator and dining seats for 199; floor). Lock-off yes kept (separate Lodge Room). No layout rating changed (backup, not a score basis).",
+    "fact-checker 2026-11-15: The Landmark (backup): Unit 208 page matches (1,450 sq ft, 3BR/3BA, king/queen/captain's bunks + bunk bed, balcony grill, washer/dryer, A/C); the page does not mention an elevator, floors or Unit 117 (could not verify: 117 details, elevator). No change.",
+    "fact-checker 2026-11-15: animals re-read. Vail Stables: Rocky Point $130, Bear Hollow $165, Dark Timber $220, 5+ for all-ages rides (the Dark Timber listing is cut off at 'ages 7', confirm), goat yoga $30, Happy G.O.A.T. $10 11am-4pm select days, pony rides $20 under 60 lb; season May to Oct 4 shown under a 2026 graphic, 2027 dates not posted. Beaver Creek Stables: trail rides age 7+, summer schedule without dates, prices not on the page. Paragon llama hike: June to early September, $795 + $95 each additional, $75 for 12 and under, children 3 and under free, $100 transport; the page says llamas carry supplies and are not ridden and never says guests lead, walk, touch or feed them, so 'close viewing' stands; no minimum age, duration or meeting point stated. Re-ordered by the trip.yaml ranking: llama hike (close viewing) moved below goat yoga and goat feeding (touching/feeding). Top two items are unchanged (horseback rides), so animals stays 11 and the total stays 77. Not re-checked: Paragon drive time (15 min).",
+    "price-checker 2026-11-15: lodging score stays 17 and total 77: the score rests on Antlers, re-verified at $1,167/night, inside the $2,800 cap; no option is over the cap or gone, so no backup was promoted."
+  ],
+  "sources": [
+    {
+      "title": "Antlers at Vail: lodging",
+      "url": "https://antlersvail.com/lodging",
+      "section": "lodging"
+    },
+    {
+      "title": "Antlers Unit 104",
+      "url": "https://antlersvail.com/lodging/3-bedroom-2-bath/antlers-unit-104",
+      "section": "lodging"
+    },
+    {
+      "title": "Antlers Unit 514",
+      "url": "https://antlersvail.com/lodging/3-bedroom-3-bath/antlers-unit-514",
+      "section": "lodging"
+    },
+    {
+      "title": "Antlers: the story of the elevator",
+      "url": "https://antlersvail.com/the-story-of-the-elevator/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lion Square Lodge: accommodations",
+      "url": "https://lionsquarelodge.com/accommodations/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lion Square Lodge South 255, 257 & 261",
+      "url": "https://lionsquarelodge.com/accommodations/lion-square-lodge-south-255-257-261/?hub_property_id=SXRlbTo0Njc2Mg=&adults=1",
+      "section": "lodging"
+    },
+    {
+      "title": "Manor Vail Lodge",
+      "url": "https://www.manorvail.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Manor Vail accommodations",
+      "url": "https://www.manorvail.com/accommodations",
+      "section": "lodging"
+    },
+    {
+      "title": "RedWeek: Westin Riverfront Mountain Villas rooms",
+      "url": "https://www.redweek.com/resort/P5861-the-westin-riverfront-mountain-villas/rooms",
+      "section": "lodging"
+    },
+    {
+      "title": "RedWeek: Westin Riverfront Resort & Spa",
+      "url": "https://www.redweek.com/resort/P5824-the-westin-riverfront-resort-spa",
+      "section": "lodging"
+    },
+    {
+      "title": "Beaver Creek Lodge (Kessler Collection)",
+      "url": "https://www.kesslercollection.com/beaver-creek-lodge/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge Tower",
+      "url": "https://www.lodgetower.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge Tower: accommodations",
+      "url": "https://lodgetower.com/accommodations/",
+      "section": "lodging"
+    },
+    {
+      "title": "The Landmark at Vail",
+      "url": "https://www.landmarkatvail.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Coraltree: Landmark at Vail units",
+      "url": "https://bookings.coraltreeresidencecollection.com/resort/landmark-at-vail",
+      "section": "lodging"
+    },
+    {
+      "title": "Coraltree: Landmark 217",
+      "url": "https://bookings.coraltreeresidencecollection.com/rentals/landmark-217",
+      "section": "lodging"
+    },
+    {
+      "title": "Coraltree: Landmark 213",
+      "url": "https://bookings.coraltreeresidencecollection.com/rentals/landmark-213",
+      "section": "lodging"
+    },
+    {
+      "title": "Vail Stables",
+      "url": "https://www.vailstables.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Discover Vail: goat happy hour and goat yoga",
+      "url": "https://discovervail.com/blog/goat-happy-hour-to-goat-yoga-unique-things-to-do-at-vail-stables-in-summer/",
+      "section": "animals"
+    },
+    {
+      "title": "Discover Vail: horseback riding",
+      "url": "https://discovervail.com/things-to-do/horseback-riding/",
+      "section": "animals"
+    },
+    {
+      "title": "Beaver Creek Stables",
+      "url": "https://www.beavercreekstables.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Paragon Guides: llama hikes",
+      "url": "https://paragonguides.com/llama-hikes/",
+      "section": "animals"
+    },
+    {
+      "title": "Paragon Guides",
+      "url": "https://www.paragonguides.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Walking Mountains Science Center",
+      "url": "https://www.walkingmountains.org/",
+      "section": "animals"
+    },
+    {
+      "title": "Bearcat Stables",
+      "url": "https://www.bearcatstables.com/",
+      "section": "animals"
+    },
+    {
+      "title": "4 Eagle Ranch",
+      "url": "https://www.4eagleranch.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Vail Golf Club (Vail Recreation District)",
+      "url": "https://www.vailrec.com/vail-golf-club",
+      "section": "golf"
+    },
+    {
+      "title": "EagleVail Golf Club",
+      "url": "https://www.eaglevailgolfclub.com/",
+      "section": "golf"
+    },
+    {
+      "title": "Red Sky Golf Club",
+      "url": "https://www.redskygolfclub.com/",
+      "section": "golf"
+    },
+    {
+      "title": "Discover Vail: things to do",
+      "url": "https://www.discovervail.com/things-to-do/",
+      "section": "activities"
+    },
+    {
+      "title": "Discover Vail: scenic gondola",
+      "url": "https://discovervail.com/things-to-do/scenic-gondola/",
+      "section": "activities"
+    },
+    {
+      "title": "Discover Vail: arts and culture",
+      "url": "https://discovervail.com/arts-culture/",
+      "section": "activities"
+    },
+    {
+      "title": "Discover Vail: farmers' market",
+      "url": "https://discovervail.com/things-to-do/vail-farmers-market/",
+      "section": "activities"
+    },
+    {
+      "title": "Discover Vail: Betty Ford Alpine Gardens",
+      "url": "https://discovervail.com/things-to-do/betty-ford-alpine-gardens/",
+      "section": "activities"
+    },
+    {
+      "title": "Discover Vail: spas",
+      "url": "https://discovervail.com/blog/the-best-way-to-recharge-is-to-unplug/",
+      "section": "activities"
+    },
+    {
+      "title": "Discover Vail: dining",
+      "url": "https://discovervail.com/dining/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Discover Vail: restaurants in Lionshead",
+      "url": "https://discovervail.com/blog/restaurants-in-lionshead-vail/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Discover Vail: Sweet Basil",
+      "url": "https://discovervail.com/blog/michelin-recommended-sweet-basil-vail-colorado/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Wikipedia: Vail, Colorado (NOAA 1991-2020 climate table)",
+      "url": "https://en.wikipedia.org/wiki/Vail,_Colorado",
+      "section": "weather"
+    },
+    {
+      "title": "Wikipedia: Eagle County Regional Airport",
+      "url": "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 76.7,
+    "low_f": 41.6
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://paragonguides.com/llama-hikes/": {
+      "url": "https://paragonguides.com/wp-content/uploads/2025/04/9FD9294D-6324-405C-B54F-47B2B34833BA_1_105_c.jpeg",
+      "src": "img/22048b7d07009bfb.jpg"
+    },
+    "https://lionsquarelodge.com/booking-request/": {
+      "url": "https://dh05pn5chodev.cloudfront.net/uploads/lslatg/2026/05/11160115/Lion-Square-Lodge_CMYK.png",
+      "src": "img/7d005c20977a68aa.png"
+    },
+    "https://discovervail.com/businesses/vail-chophouse/": {
+      "url": "https://discovervail.com/app/uploads/2020/02/chophouse-apres.jpeg",
+      "src": "img/30ca210d51e67fc9.jpg"
+    }
+  }
+}

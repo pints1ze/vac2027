@@ -1,0 +1,1634 @@
+{
+  "slug": "whitefish",
+  "name": "Whitefish, MT",
+  "region": "US mountain",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "Solid pick with a workable lodging answer: Stay Montana manages three condos (3BR + 2BR + 2BR) in the O'Brien building downtown, with an elevator, a shared rooftop fire pit and Central Avenue a couple of blocks away, at a quoted US$2,304/night before tax; Stay Montana's Whitefish Nest 3BR + Modern Loft 1BR is the low-cost alternative at a quoted US$1,118/night, and a second downtown trio (two penthouses with private hot tubs plus a 2BR with a table for 8) is estimated at US$1,704-1,854/night because the Downtown Penthouse has no July 2027 dates open yet. Animals are domestic only: guided horseback rides in Glacier (Swan Mountain), llama treks and Clydesdale rides, and hand-feeding goats at Goats of Glacier; there is no wildlife or exotic-animal program within 60 min. Whitefish Lake Golf Club is in town, FCA is 20 min away with a daily United DEN nonstop and a seasonal SFO one. The single biggest caveat is heat: the July normal high is 81 F (NOAA 1991-2020), 6 F over the target.",
+  "images": {
+    "hero": {
+      "url": "https://cdn.elebase.io/7dd4f748-a5bf-4d04-b851-d367f4d396e5/8be3c02c-a6ea-486a-a073-f85c64b2b8a1-whitefish-autumn0dji_0261---schott-2-crop.jpg",
+      "page_url": "https://explorewhitefish.com/",
+      "credit": "Explore Whitefish",
+      "alt": "Aerial view of Whitefish, the lake and Big Mountain (autumn)",
+      "src": "img/e8b391aa76545a12.jpg"
+    },
+    "gallery": [
+      {
+        "url": "https://skiwhitefish.com/wp-content/uploads/2025/06/S25_ScenicLift-1024x512.jpg",
+        "page_url": "https://skiwhitefish.com/summer-activities/",
+        "credit": "Whitefish Mountain Resort",
+        "alt": "Scenic chairlift ride at Whitefish Mountain Resort in summer",
+        "src": "img/413c41633dcd9873.jpg"
+      },
+      {
+        "url": "https://skiwhitefish.com/wp-content/uploads/2025/06/S25_Zip-1024x512.jpg",
+        "page_url": "https://skiwhitefish.com/summer-activities/",
+        "credit": "Whitefish Mountain Resort",
+        "alt": "Zip line tour above the trees on Big Mountain",
+        "src": "img/7087835ca214a482.jpg"
+      },
+      {
+        "url": "https://golfwhitefish.com/wp-content/uploads/2024/12/north-slideshow-1024x455.jpg",
+        "page_url": "https://www.golfwhitefish.com/",
+        "credit": "Whitefish Lake Golf Club",
+        "alt": "North Course, Whitefish Lake Golf Club",
+        "src": "img/34656b52b793da4b.jpg"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/6ab5ed_c50e0a9349c841d4ac653312f05c0c92~mv2.jpeg",
+        "page_url": "https://www.gnllamaco.com/booknow",
+        "credit": "Great Northern Llama Co.",
+        "alt": "Llamas at Great Northern Llama Co. ranch",
+        "src": "img/8ec3c8e446840993.jpg"
+      },
+      {
+        "url": "https://www.swanmountainglacier.com/media/IMG_20180804_191258_449-900x430.jpg",
+        "page_url": "https://www.swanmountainglacier.com/",
+        "credit": "Swan Mountain Outfitters",
+        "alt": "Horseback ride in West Glacier",
+        "src": "img/2a5a4439851a9d70.jpg"
+      },
+      {
+        "url": "https://cdn.elebase.io/7dd4f748-a5bf-4d04-b851-d367f4d396e5/7e7ff009-6ecd-4304-801a-1dc031f69d49-20221019-cmm-5367-3.jpg",
+        "page_url": "https://explorewhitefish.com/",
+        "credit": "Explore Whitefish",
+        "alt": "Whitefish area scenery",
+        "src": "img/d4ff96abdcd0fe54.jpg"
+      }
+    ]
+  },
+  "brochure": {
+    "tagline": "Llama walks, Glacier drives and ice cream on Central Avenue",
+    "intro": "A week in Whitefish pairs a flat, walkable downtown with farm animals, horse rides and Glacier National Park close by. Mornings can be zip lines or a lake beach; evenings are dinner on Central Avenue and a walk for ice cream.",
+    "highlights": [
+      "Hand-feed goats and alpacas on a Glacier-side farm",
+      "Lead a llama on a ranch walk",
+      "Horseback rides inside Glacier National Park",
+      "Zip lines, alpine slide and chairlift on Big Mountain",
+      "36 holes of golf a few minutes from downtown",
+      "Daily nonstop flight from Denver, 20 minutes to town"
+    ],
+    "pros": [
+      "Flat downtown with shops, restaurants and ice cream",
+      "Several hands-on animal visits within 35 minutes",
+      "Glacier National Park about 35 minutes away",
+      "Easy trip from the airport, 20 minutes to town",
+      "Something for teens: zip lines, alpine slide, aerial park"
+    ],
+    "cons": [
+      "July afternoons can reach the low 80s",
+      "A car or two is needed for Glacier, farms and golf",
+      "Glacier entry rules for 2027 are not announced yet",
+      "Some animal visits have not posted 2027 schedules"
+    ],
+    "stays": [
+      {
+        "name": "Stay Montana: O'Brien Penthouse West 3BR + O'Brien View 2BR + O'Brien Loft 2BR",
+        "title": "O'Brien condos, downtown Whitefish",
+        "blurb": "Three condos in one downtown building with an elevator, a couple of blocks from Central Avenue. The rooftop has an outdoor kitchen, grill and gas fire pit with Big Mountain views.",
+        "highlights": [
+          "Elevator to all floors",
+          "Rooftop fire pit and grill",
+          "Gas fireplaces and full kitchens",
+          "A couple of blocks to Central Avenue"
+        ]
+      },
+      {
+        "name": "Stay Montana: Whitefish Downtown Luxury Escape 3BR + Firebrand Hotel king room",
+        "title": "Downtown Luxury Escape and The Firebrand",
+        "blurb": "A three-bedroom downtown condo with a patio and a balcony, plus a room at The Firebrand Hotel on East 3rd Street. The hotel has a restaurant, bar and coffee bar.",
+        "highlights": [
+          "Steps from restaurants and shops",
+          "Living room opening to a patio",
+          "Dining table for six",
+          "Hotel restaurant, bar and coffee bar"
+        ]
+      },
+      {
+        "name": "Stay Montana: The Whitefish Nest 3BR + Whitefish Modern Loft 1BR",
+        "title": "The Whitefish Nest and Modern Loft",
+        "blurb": "A three-bedroom condo with mountain-view decks about a 6-minute walk from downtown, plus a loft condo on 2nd Street about a block from restaurants.",
+        "highlights": [
+          "All bedrooms on the main level at the Nest",
+          "Mountain-view decks",
+          "Kitchen island and table seating 10",
+          "A block from restaurants (Modern Loft)"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Goats of Glacier farm tour",
+        "kind": "animals",
+        "blurb": "A guided tour to hand-feed goats, alpacas, chickens and mini highland cows; open Monday to Saturday, closed Sundays.",
+        "url": "https://goatsofglacier.com/",
+        "image": {
+          "url": "https://goatsofglacier.com/photos/hero-goats-1600.jpeg",
+          "page_url": "https://goatsofglacier.com/",
+          "credit": "Goats of Glacier",
+          "alt": "A goat at Goats of Glacier with Montana mountains behind",
+          "src": "img/30ec2cdeba49ffc8.jpg"
+        }
+      },
+      {
+        "name": "Great Northern Llama Co. tour",
+        "kind": "animals",
+        "blurb": "Feed llamas and take turns leading one on a short walk at a family ranch, or lead a pack llama on a longer trek; book ahead by email.",
+        "url": "https://www.gnllamaco.com/booknow",
+        "image": {
+          "url": "https://static.wixstatic.com/media/6ab5ed_8a0405f3d81f470e9d01135d7f908917~mv2.jpg",
+          "page_url": "https://www.gnllamaco.com/booknow",
+          "credit": "Great Northern Llama Co.",
+          "alt": "Guests on a llama tour",
+          "src": "img/1e4c01052422bbd2.jpg"
+        }
+      },
+      {
+        "name": "Horseback ride in Glacier National Park",
+        "kind": "animals",
+        "blurb": "Guided rides of one to three hours through cedar forest and meadows near Apgar and Lake McDonald.",
+        "url": "https://www.swanmountainglacier.com/rates-and-trips-at-a-glance/",
+        "image": {
+          "url": "https://www.swanmountainglacier.com/media/Morgan-R-11-900x430.jpg",
+          "page_url": "https://www.swanmountainglacier.com/",
+          "credit": "Swan Mountain Outfitters",
+          "alt": "Horseback riding in Glacier",
+          "src": "img/96d15ccfbac0f357.jpg"
+        }
+      },
+      {
+        "name": "Clydesdale Outpost horseback ride",
+        "kind": "animals",
+        "blurb": "A guided 45-minute ride on a Clydesdale draft horse around a ranch in Whitefish; book online.",
+        "url": "https://www.clydesdaleoutpost.com/service-page/clydesdale-horseback-riding"
+      },
+      {
+        "name": "Whitefish Lake Golf Club",
+        "kind": "golf",
+        "blurb": "Two public 18-hole courses with tree-lined fairways and lake and mountain views, a few minutes from downtown.",
+        "url": "https://golfwhitefish.com/rates/",
+        "image": {
+          "url": "https://golfwhitefish.com/wp-content/uploads/2024/12/south-slideshow-1024x455.jpg",
+          "page_url": "https://www.golfwhitefish.com/",
+          "credit": "Whitefish Lake Golf Club",
+          "alt": "South Course, Whitefish Lake Golf Club",
+          "src": "img/d772da7b0d854ab9.jpg"
+        }
+      },
+      {
+        "name": "Whitefish Mountain Resort summer fun",
+        "kind": "outdoors",
+        "blurb": "Scenic chairlift, alpine slide, zip lines and an aerial adventure park, 20 minutes from town.",
+        "url": "https://skiwhitefish.com/summer-activities/",
+        "image": {
+          "url": "https://skiwhitefish.com/wp-content/uploads/2025/06/S25_AlpineSlide-1024x512.jpg",
+          "page_url": "https://skiwhitefish.com/summer-activities/",
+          "credit": "Whitefish Mountain Resort",
+          "alt": "Alpine slide at Whitefish Mountain Resort",
+          "src": "img/929131521a65de47.jpg"
+        }
+      },
+      {
+        "name": "Glacier National Park and Lake McDonald",
+        "kind": "outdoors",
+        "blurb": "A scenic drive on Going-to-the-Sun Road from the west entrance, about 35 minutes away.",
+        "url": "https://dailymontanan.com/2026/02/18/glacier-confirms-its-dropping-ticketed-entry/"
+      },
+      {
+        "name": "Whitefish Lake City Beach",
+        "kind": "outdoors",
+        "blurb": "A swimming beach and lakefront park, a short drive from downtown.",
+        "url": "https://planetware.com/montana/top-rated-attractions-and-things-to-do-in-whitefish-mt-us-mt-44.htm"
+      },
+      {
+        "name": "Central Avenue shops, galleries and the Depot",
+        "kind": "town",
+        "blurb": "A flat few-block stroll of shops and galleries, the historic depot and Whitefish Theatre Company shows; good for a rainy afternoon.",
+        "url": "https://planetware.com/montana/top-rated-attractions-and-things-to-do-in-whitefish-mt-us-mt-44.htm"
+      },
+      {
+        "name": "Sweet Peaks ice cream and Loula's Cafe",
+        "kind": "food",
+        "blurb": "Pancakes and French toast for breakfast at Loula's, then an evening line for ice cream at Sweet Peaks.",
+        "url": "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/"
+      }
+    ],
+    "dinner_spots": [
+      "Tupelo Grille — Southern and New Orleans dishes on Central Avenue",
+      "Abruzzo Italian Kitchen — wood-fired pizza and Italian",
+      "Cafe Kandahar — fine dining up at the mountain resort",
+      "Loula's Cafe — pancakes and French toast for breakfast"
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: Glacier Park International (FCA) is about 20 min from downtown Whitefish (map estimate), inside the 90-min check. FCA has a daily United DEN nonstop, a seasonal United SFO nonstop and a seasonal Allegiant OAK nonstop (airport route list); SMF connects. Seniors: downtown Whitefish (Central Ave, 2nd-3rd St) is a flat grid; the O'Brien building has an elevator to all three floors and all three condos are single-level per the manager. In the second downtown trio the parents' Whitefish Downtown Loft is a second-floor condo with elevator access and all rooms on one level; The Whitefish Nest lists all bedrooms and baths on the main level (a 'main level stairway' photo caption is unexplained). The Lodge at Whitefish Lake homes (#7, #15, now backups, sold out) are one level. Stairs are an issue only in the Grouse Mountain Loft Suite, the Downtown Luxury Escape upper level and the Bear Tracks Flat (one flight from the building door, backup), which are flagged where the parents are assigned."
+  },
+  "scores": {
+    "lodging": 18,
+    "town_scenery": 15,
+    "animals": 9,
+    "food": 13,
+    "other": 9,
+    "golf": 8,
+    "weather": 2,
+    "total": 74,
+    "rationale": {
+      "lodging": "18/25: rests on the Stay Montana O'Brien trio (Penthouse West 3BR + View 2BR + Loft 2BR) at US$2,304/night before tax (verified 2026-11-15 for 2027-07-04/10, inside the US$2,800 cap); each household has its own single-level condo in an elevator building, but the indoor table seats 6 plus bar stools and the rooftop fire pit is shared with the building.",
+      "town_scenery": "15/18: downtown Whitefish is a flat, walkable grid with Big Mountain views and the lake about 20 min on foot from the O'Brien condos; the town core is small and views from the condos are partial (Big Mountain balcony on the Loft).",
+      "animals": "9/18: the top two are activities with domestic animals, guided horseback rides in Glacier (Swan Mountain, operating in July) and a llama pack trek (Great Northern Llama Co., 2027 schedule unpublished), backed by goat and alpaca hand-feeding at Goats of Glacier; with no wild or exotic animal program within 60 min the category stays in the lower half.",
+      "food": "13/15: well over 10 restaurants on and around Central Avenue within a short walk (Tupelo Grille, Abruzzo, Latitude 48, Buffalo Cafe, Loula's), though the standout special dinner, Cafe Kandahar, is a 20-min drive up the mountain.",
+      "other": "9/10: zip lines, alpine slide and aerial park on Big Mountain for the teens, Glacier National Park scenery for the parents, an escape room in Kalispell, daily DEN nonstop and a seasonal SFO nonstop with a 20-min transfer.",
+      "golf": "8/9: Whitefish Lake Golf Club, 36 public holes in town (US$100-112 peak in 2026), plus Eagle Bend in Bigfork about 45 min away; scenic but not a destination course on the level of a Banff Springs.",
+      "weather": "2/5: Whitefish July normal high is 81 F (NOAA 1991-2020 via Current Results), 6 F over the 75 F target, so 40% of the weight; rain is light (about 1.2 in for the month)."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Stay Montana: O'Brien Penthouse West 3BR + O'Brien View 2BR + O'Brien Loft 2BR",
+      "kind": "3 condos in one downtown building with elevator and shared rooftop",
+      "quick_verdict": "Three self-contained condos in one elevator building, a couple of blocks from downtown.",
+      "configuration": "Three Stay Montana condos in the O'Brien St. condo building, downtown Whitefish (street address not stated on the manager pages; 'downtown shops and restaurants are a couple of blocks away'; City Beach about a 20-min walk). The building has 3 floors and an elevator serving all floors; each unit's floor is not stated. Penthouse West: 3BR/3BA, sleeps 8, about 1,835 sq ft; bedroom 1 king primary suite opening to the north patio; the other two bedrooms are a queen and a twin-over-full bunk room (the listing contradicts itself on which is bedroom 2 vs 3); all bedrooms and baths listed as 'main level' (single-level unit); dining seats 6 plus 3 bar stools; two patios through accordion glass doors. O'Brien View: 2BR/2BA, sleeps 4, king primary with steam-shower ensuite and walk-out patio, queen guest room, dining for 4 plus 3 bar stools, gas fireplace, balcony. O'Brien Loft: 2BR/2BA, sleeps 5, about 804 sq ft, king primary with steam-shower ensuite, guest room with two XL twins (king on request), sleeper sofa, dining for 4, gas fireplace, Big Mountain-view balcony, covered parking space and ski locker. Shared rooftop for the building: outdoor kitchen, bar, grill, seating, games and gas fire pit, with river and Big Mountain views. Gathering room: Penthouse West living/dining (table 6 + 3 bar seats, so 8 at once is tight indoors); the rooftop fire pit is the better evening space but is shared with other owners/guests. No private hot tub stated. A separate 'Luxurious Downtown Penthouse w/ Hot Tub' (sleeps 9) on Vrbo is also listed in the O'Brien St. Condos complex and could replace Penthouse West. Minimum stay not stated.",
+      "family_split": {
+        "scott_andrea": "O'Brien View 2BR condo (own door, king suite with steam shower)",
+        "parents": "O'Brien Loft 2BR condo (own door, king suite, elevator)",
+        "brother_family": "O'Brien Penthouse West 3BR (king, queen, bunk room); hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "O'Brien View is a separate condo with its own entry, king bedroom and two bathrooms (Stay Montana unit page); it shares only the building elevator, corridor and rooftop with the other two units."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 6,
+        "parents": 8,
+        "location": 9,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Central Avenue restaurants 'a couple of blocks away' per the manager (about 5 min, map estimate); building address not stated, so confirm.",
+      "price": {
+        "nightly_total_usd_low": 2304,
+        "nightly_total_usd_high": 2304,
+        "label": "verified",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "O'Brien Penthouse West (brother_family, 2 adults + 2 children), single rate, US$6,726 rent for 6 nights (US$1,304/1,068/1,066/1,047/1,148/1,093)",
+          "O'Brien View (scott_andrea, 2 adults), single rate, US$3,550 rent for 6 nights (US$758/566/552/536/571/567)",
+          "O'Brien Loft (parents, 2 adults), single rate, US$3,550 rent for 6 nights (US$763/570/551/536/566/564)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 2304.33,
+        "local_stay_total_with_tax": 17574.14,
+        "source_kind": "manager",
+        "basis": "Stay Montana's own booking widget on each unit page, dates shown as 07/04/2027 to 07/10/2027, one rate per unit (no rate-plan choice). O'Brien Penthouse West: US$6,726 for 6 nights (US$1,121/night avg; Sun Jul 4 US$1,304, lowest Wed Jul 7 US$1,047). O'Brien View: US$3,550 (US$591.67/night avg). O'Brien Loft: US$3,550 (US$591.67/night avg). Sum US$13,826 rent / 6 nights = US$2,304.33/night before tax and fees. All three units returned a price for the dates (no unavailable message); minimum stay not shown.",
+        "source_url": "https://www.staymontana.com/vacation-rentals/obrien-penthouse-west/?sd=07/04/2027&ed=07/10/2027&oc=2&ch=2",
+        "fees_notes": "Per engine. Penthouse West: cleaning US$350, damage protection US$99, booking fee US$403.56, Montana lodging tax US$606.28, Whitefish city tax US$227.36; total US$8,412.20. View: cleaning US$250, damage waiver US$129, booking fee US$213, Montana lodging tax US$331.36, Whitefish city tax US$124.26; total US$4,597.62. Loft: cleaning US$250, damage protection US$99, booking fee US$213, Montana lodging tax US$328.96, Whitefish city tax US$123.36; total US$4,564.32. All three: US$17,574.14 for the stay. Same URL pattern for /obrien-view/ and /obrien-loft/ with oc=2&ch=0.",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Each household behind its own door",
+        "Elevator to all three floors",
+        "Rooftop fire pit and outdoor kitchen",
+        "Couple of blocks to Central Avenue"
+      ],
+      "compromises": [
+        "Rooftop is shared with the building",
+        "Indoor table seats 6 plus bar stools",
+        "Minimum stay not published",
+        "Three units must all be free together"
+      ],
+      "best_for": "Choose this if you want everyone in one elevator building a short flat walk from dinner.",
+      "links": [
+        "https://www.staymontana.com/vacation-rentals/obrien-penthouse-west/",
+        "https://www.staymontana.com/vacation-rentals/obrien-view/",
+        "https://www.staymontana.com/vacation-rentals/obrien-loft/",
+        "https://www.findrentals.com/stay-montana/p182316"
+      ],
+      "images": [
+        {
+          "url": "https://media01.findrentals.com/rentals/15218/182316/whitefish-condo-accordion-doors-patios-main-living-space-expands-great-outdoors-exterior-0ce5fe1c-medium.jpeg",
+          "page_url": "https://www.findrentals.com/stay-montana/p182316",
+          "credit": "Stay Montana via FindRentals",
+          "alt": "O'Brien Penthouse West living space opening to patios",
+          "src": "img/5ea5c2833e993a9b.jpg"
+        },
+        {
+          "url": "https://gallery.streamlinevrs.com/units-gallery/00/0E/A7/image_168578483.jpeg",
+          "page_url": "https://www.staymontana.com/vacation-rentals/obrien-penthouse-west/",
+          "credit": "Stay Montana",
+          "alt": "O'Brien Penthouse West, downtown Whitefish",
+          "src": "img/e13dab1224a701a0.jpg"
+        },
+        {
+          "url": "https://gallery.streamlinevrs.com/units-gallery/00/0E/A7/image_168578654.jpeg",
+          "page_url": "https://www.staymontana.com/vacation-rentals/obrien-view/",
+          "credit": "Stay Montana",
+          "alt": "O'Brien View 2BR condo",
+          "src": "img/06185de16343edd0.jpg"
+        },
+        {
+          "url": "https://gallery.streamlinevrs.com/units-gallery/00/0E/A7/image_168578748.jpeg",
+          "page_url": "https://www.staymontana.com/vacation-rentals/obrien-loft/",
+          "credit": "Stay Montana",
+          "alt": "O'Brien Loft 2BR condo",
+          "src": "img/78731c6ba24d797d.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Stay Montana: Whitefish Downtown Luxury Escape 3BR + Firebrand Hotel king room",
+      "kind": "downtown 3BR townhome-condo + downtown hotel room",
+      "quick_verdict": "Downtown 3BR with a main-level king for the parents, plus a hotel room nearby.",
+      "configuration": "Whitefish Downtown Luxury Escape (Stay Montana): 3BR/3BA, sleeps 8, 1,923 sq ft, described as both condo and townhome; building/street not stated. Main level: primary king bedroom with jack-and-jill bath, living room with leather sectional and chairs, dining table for 6 (bench plus four chairs), bar seating for 4, accordion doors to a private patio. Upper level (stairs; the building has an elevator, but whether it reaches the upper unit level is not stated): king suite with en-suite and a bunk room with two bunk beds (the Stay Montana spec list says twin-over-full, the description says twin-over-twin; the price-checker's booking engine also says twin-over-full) and hall bath. Stay Montana lists a building elevator and communal garage for the unit (designated parking spot #203). Balcony with views. No hot tub listed. Scott & Andrea in a Deluxe King room at The Firebrand Hotel, 650 E 3rd St (81 deluxe rooms plus Skyline rooms; on-site restaurant, bar and coffee bar). Distance between the two not stated because the condo address is not published.",
+      "family_split": {
+        "scott_andrea": "Firebrand Hotel Deluxe King room",
+        "parents": "Main-level king primary in the Downtown Luxury Escape",
+        "brother_family": "Upper-level king suite and bunk room in the Downtown Luxury Escape"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate hotel room at The Firebrand (hotel accommodations page lists 47 king rooms)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 6,
+        "parents": 8,
+        "location": 9,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Manager says 'steps from restaurants, shops, and parks'; Firebrand is on E 3rd St in the downtown grid.",
+      "price": {
+        "nightly_total_usd_low": 1448,
+        "nightly_total_usd_high": 1537,
+        "label": "verified",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Whitefish Downtown Luxury Escape (parents + brother_family, 4 adults + 2 children), Stay Montana single rate, US$5,090 rent for 6 nights (US$991/808/805/790/873/823)",
+          "Deluxe King Room, The Firebrand Hotel (scott_andrea, 2 adults): Advance Booking Advantage US$600/night avg, Best Available Rate US$689/night avg"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1448.33,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "basis": "Whitefish Downtown Luxury Escape on Stay Montana's own booking widget, dates shown as 07/04/2027 to 07/10/2027: US$5,090 for 6 nights = US$848.33/night avg (Sun Jul 4 US$991). The Firebrand Hotel SynXis engine (Chain 19898, Hotel 71047), Sun Jul 4 to Sat Jul 10, 2027, 2 adults: Deluxe King Room US$600/night avg (Advance Booking Advantage) or US$689/night avg (Best Available Rate); Stash member US$573, AARP US$621 and Bed & Breakfast Package US$709 ignored; per-night split not shown. Sum: US$848.33+600 = US$1,448.33 low, US$848.33+689 = US$1,537.33 high, before tax.",
+        "source_url": "https://www.staymontana.com/vacation-rentals/whitefish-downtown-luxury-escape/?sd=07/04/2027&ed=07/10/2027&oc=4&ch=2",
+        "fees_notes": "Condo per engine: cleaning US$300, damage protection US$99, booking fee US$305.40, Montana lodging tax US$463.55, Whitefish city tax US$173.83; condo total US$6,431.78. Firebrand: rates 'Excluding taxes and fees', tax not shown before checkout (https://be.synxis.com/?Chain=19898&Hotel=71047&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1); parking fee not shown.",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Parents on the main level of the condo",
+        "Lowest estimated cost",
+        "Downtown, walk to everything",
+        "Hotel restaurant and bar on site"
+      ],
+      "compromises": [
+        "Parents and brother's family share one condo",
+        "Scott & Andrea in a hotel room only",
+        "Condo address not published"
+      ],
+      "best_for": "Choose this if budget matters most and a hotel room suits Scott & Andrea.",
+      "links": [
+        "https://www.findrentals.com/stay-montana/p182344",
+        "https://firebrandhotel.com/accommodations",
+        "https://be.synxis.com/?Hotel=71047&Chain=19898"
+      ],
+      "images": [
+        {
+          "url": "https://media01.findrentals.com/rentals/15218/182344/whitefish-condo-aerial-view-property-exterior-1137c616-medium.jpeg",
+          "page_url": "https://www.findrentals.com/stay-montana/p182344",
+          "credit": "Stay Montana via FindRentals",
+          "alt": "Aerial view of the Downtown Luxury Escape building",
+          "src": "img/5a94d84f1b1bc43c.jpg"
+        },
+        {
+          "url": "https://media01.findrentals.com/rentals/15218/182344/whitefish-condo-spacious-living-room-main-level-ce05592f-medium.jpeg",
+          "page_url": "https://www.findrentals.com/stay-montana/p182344",
+          "credit": "Stay Montana via FindRentals",
+          "alt": "Main-level living room",
+          "src": "img/6a5ef3d645973272.jpg"
+        },
+        {
+          "url": "https://media01.findrentals.com/rentals/15218/182344/whitefish-condo-open-concept-living-area-main-level-599d0945-medium.jpeg",
+          "page_url": "https://www.findrentals.com/stay-montana/p182344",
+          "credit": "Stay Montana via FindRentals",
+          "alt": "Open-plan living and dining area",
+          "src": "img/b0605103c015b3db.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Stay Montana: The Whitefish Penthouse 2BR + Whitefish Downtown Loft 2BR + Downtown Penthouse 2BR",
+      "kind": "3 separate downtown condos from one manager (buildings not stated)",
+      "quick_verdict": "Three downtown condos, two with private hot tubs and one with a table for 8.",
+      "configuration": "Three Stay Montana condos, all described as downtown Whitefish; street addresses are not published, so whether they share a building and how far apart they are is not stated. The Whitefish Penthouse: 2BR/2BA, sleeps 4 (plus two cots); bedroom 1 king with en-suite (single vanity, stand-up shower) and a private balcony; bedroom 2 king with Whitefish Range view; second bath with tub-shower; all rooms on the main level; elevator listed as an amenity; 'Private Entrance' listed; private hot tub reached from the primary-bedroom balcony; private patio off the living room; living room with gas fireplace; dining for 6 plus 3 bar stools. Whitefish Downtown Loft: described as a 'bright second floor corner condo' with elevator access and heated underground garage parking; 2BR/2BA, sleeps 7; bedroom 1 king primary; bedroom 2 twin-over-queen bunk; queen sleeper sofa in the living room; all rooms listed on one level; dining for 8 plus 3 bar stools (the only table for the whole party in this set); wraparound deck with gas grill; electric fireplace; 'a short walk' to restaurants, shops and galleries. Downtown Penthouse: 2BR/2BA, sleeps 8; bedroom 1 king with en-suite (double vanity, stand-up shower); bedroom 2 one queen plus a twin bunk; queen sleeper sofa; all rooms on the main level; private hot tub on a large rooftop balcony; gas fireplace; dining for 6 plus 3 bar; building, floor and elevator not stated. It may be the 'Luxurious Downtown Penthouse w/ Hot Tub' that Vrbo places in the O'Brien St. Condos complex (not confirmed). Gathering room: the Downtown Loft living/dining (table 8) and its wraparound deck. No minimum stay stated on any of the three pages.",
+      "family_split": {
+        "scott_andrea": "The Whitefish Penthouse 2BR (king en-suite, private entrance, private hot tub)",
+        "parents": "Whitefish Downtown Loft 2BR (king primary, elevator, one level); hosts the group at the table for 8",
+        "brother_family": "Downtown Penthouse 2BR (king en-suite; queen + twin bunk room; rooftop hot tub)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "The Whitefish Penthouse is a separate rentable condo with its own en-suite king bedroom and a 'Private Entrance' amenity (Stay Montana unit page); no other household shares it."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 8,
+        "location": 9,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "All three pages say downtown and 'a short walk' to restaurants; exact walking minutes depend on unpublished addresses (about 5 min assumed).",
+      "price": {
+        "nightly_total_usd_low": 1704,
+        "nightly_total_usd_high": 1854,
+        "label": "estimate",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "The Whitefish Penthouse (scott_andrea, 2 adults), Stay Montana single rate, US$3,512 rent for 6 nights (US$755/564/545/530/561/557)",
+          "Whitefish Downtown Loft (parents, 2 adults), Stay Montana single rate, US$3,414 rent for 6 nights (US$737/543/529/511/551/543)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1154.33,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "basis": "Not released for one unit: Downtown Penthouse (brother_family) shows 'We have no inventory available for the selected dates' for 2027-07-04/10 and also for a 2027-07-25/27 control, while a 2026-12-14/16 control quotes US$356 rent; its calendar shows rates only through Dec 27, 2026 and every later date closed, so its 2027 dates look not loaded yet (or owner-blocked; ask Stay Montana). Quoted on Stay Montana's own widget, dates shown as 07/04/2027 to 07/10/2027: The Whitefish Penthouse US$3,512 for 6 nights (US$585.33/night avg); Whitefish Downtown Loft US$3,414 (US$569/night avg). Still guessed: Downtown Penthouse, kept at the earlier US$550-700/night assumption. Sum: US$1,154.33 + 550 = US$1,704 low, US$1,154.33 + 700 = US$1,854 high, before tax and fees.",
+        "source_url": "https://www.staymontana.com/vacation-rentals/the-whitefish-penthouse/?sd=07/04/2027&ed=07/10/2027&oc=2&ch=0",
+        "fees_notes": "Per engine. The Whitefish Penthouse: cleaning US$265, damage protection US$99, hot tub fee US$135, booking fee US$210.72, Montana lodging tax US$337.74, Whitefish city tax US$126.65; total US$4,686.11. Whitefish Downtown Loft: cleaning US$270, damage protection US$99, booking fee US$204.84, Montana lodging tax US$319.03, Whitefish city tax US$119.64; total US$4,426.51. Downtown Penthouse: not quoted for the dates. Downtown Loft URL: https://www.staymontana.com/vacation-rentals/whitefish-downtown-loft/?sd=07/04/2027&ed=07/10/2027&oc=2&ch=0.",
+        "availability": "not_released",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Three separate condos, one manager",
+        "Two private hot tubs",
+        "Table for 8 in the parents' condo",
+        "Elevator to the parents' second-floor unit"
+      ],
+      "compromises": [
+        "Addresses and distances between units not published",
+        "Downtown Penthouse elevator not stated",
+        "Price not yet quoted for the dates",
+        "Three units must all be free together"
+      ],
+      "best_for": "Choose this if hot tubs and a table for 8 matter more than one shared building.",
+      "links": [
+        "https://www.staymontana.com/vacation-rentals/the-whitefish-penthouse/",
+        "https://www.staymontana.com/vacation-rentals/whitefish-downtown-loft/",
+        "https://www.staymontana.com/vacation-rentals/downtown-penthouse/"
+      ],
+      "images": [
+        {
+          "url": "https://gallery.streamlinevrs.com/units-gallery/00/0E/2D/image_168456793.jpeg",
+          "page_url": "https://www.staymontana.com/vacation-rentals/the-whitefish-penthouse/",
+          "credit": "Stay Montana",
+          "alt": "The Whitefish Penthouse, downtown Whitefish",
+          "src": "img/05f4051ccce9d79e.jpg"
+        },
+        {
+          "url": "https://gallery.streamlinevrs.com/units-gallery/00/0E/7C/image_175318471.jpeg",
+          "page_url": "https://www.staymontana.com/vacation-rentals/whitefish-downtown-loft/",
+          "credit": "Stay Montana",
+          "alt": "Whitefish Downtown Loft 2BR condo",
+          "src": "img/c115ce8adeff4f85.jpg"
+        },
+        {
+          "url": "https://gallery.streamlinevrs.com/units-gallery/00/07/BC/image_168450608.jpeg",
+          "page_url": "https://www.staymontana.com/vacation-rentals/downtown-penthouse/",
+          "credit": "Stay Montana",
+          "alt": "Downtown Penthouse 2BR with rooftop hot tub",
+          "src": "img/b604add4af46fcf2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Stay Montana: The Whitefish Nest 3BR + Whitefish Modern Loft 1BR",
+      "kind": "single-level 3BR condo + separate 1BR loft condo on 2nd Street",
+      "quick_verdict": "One-level 3BR for the parents and brother's family, plus a small loft condo downtown.",
+      "configuration": "The Whitefish Nest (Stay Montana; FindRentals lists it as 6 O'Brien Ave, Unit #6): 3BR/2BA, sleeps 8 per the header ('sleeping 6 guests' in the description); bedroom 1 king primary with en-suite; bedroom 2 queen; bedroom 3 two twins; all bedrooms and baths on the main level; one photo caption mentions a 'main level stairway' that the listing does not explain; elevator not mentioned; 'Private Entrance' amenity; private decks with mountain views; dining for 6 plus 4 at the island (10 seats); '6 minute walk to downtown', though the page also calls it 'outside of downtown'. Whether 6 O'Brien Ave is the same complex as the O'Brien View/Loft/Penthouse West is not stated. Whitefish Modern Loft (Stay Montana): second-floor condo on 2nd Street downtown, reached by stairs or the building elevator through a shared building entrance, then its own front door; 1 loft-style bedroom with a full bed, 1 full bath (tub-shower), queen sleeper sofa in the living room, kitchen island seating 4, private patio; about one block to restaurants. Gathering room: the Nest's living/dining with 10 seats. No hot tub in either. Minimum stay not stated.",
+      "family_split": {
+        "scott_andrea": "Whitefish Modern Loft 1BR (own condo; loft bedroom, full bed)",
+        "parents": "The Whitefish Nest king primary with en-suite (main level)",
+        "brother_family": "The Whitefish Nest queen room and twin room (shared hall bath)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Whitefish Modern Loft is a separate condo with its own front door and its own bathroom (Stay Montana unit page: 'its own front door, but access is through the shared building entrance'); no other household shares it."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 6,
+        "parents": 7,
+        "location": 8,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 6,
+      "food_convenience": "Nest: '6 minute walk to downtown' per the listing; Modern Loft about one block from restaurants.",
+      "price": {
+        "nightly_total_usd_low": 1118,
+        "nightly_total_usd_high": 1118,
+        "label": "verified",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "The Whitefish Nest (parents + brother_family, 4 adults + 2 children), Stay Montana single rate, US$4,828 rent for 6 nights (US$936/766/765/751/824/786)",
+          "Whitefish Modern Loft (scott_andrea, 2 adults), Stay Montana single rate, US$1,877 rent for 6 nights (US$375/290/291/294/327/300)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1117.5,
+        "local_stay_total_with_tax": 8769.33,
+        "source_kind": "manager",
+        "basis": "Stay Montana's own booking widget on each unit page, dates shown as 07/04/2027 to 07/10/2027, one rate per unit (no rate-plan choice). The Whitefish Nest: US$4,828 for 6 nights (US$804.67/night avg; Sun Jul 4 US$936). Whitefish Modern Loft: US$1,877 (US$312.83/night avg; Sun Jul 4 US$375). Sum US$6,705 rent / 6 nights = US$1,117.50/night before tax and fees. Both units returned a price (no unavailable message); minimum stay not shown.",
+        "source_url": "https://www.staymontana.com/vacation-rentals/the-whitefish-nest/?sd=07/04/2027&ed=07/10/2027&oc=4&ch=2",
+        "fees_notes": "Per engine. The Whitefish Nest: cleaning US$385, damage protection US$99, booking fee US$289.68, Montana lodging tax US$448.13, Whitefish city tax US$168.05; total US$6,217.86. Whitefish Modern Loft: cleaning US$210, damage protection US$99, booking fee US$112.62, Montana lodging tax US$183.89, Whitefish city tax US$68.96; total US$2,551.47. Both: US$8,769.33 for the stay. Modern Loft URL: https://www.staymontana.com/vacation-rentals/whitefish-modern-loft/?sd=07/04/2027&ed=07/10/2027&oc=2&ch=0.",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Nest is single-level with a king en-suite",
+        "Ten seats at the Nest's table and island",
+        "Likely one of the lower-cost setups",
+        "Modern Loft is a block from restaurants"
+      ],
+      "compromises": [
+        "Scott & Andrea get a full bed in a loft",
+        "Nest's 'main level stairway' unexplained",
+        "Distance between the two condos not stated",
+        "Price not yet quoted for the dates"
+      ],
+      "best_for": "Choose this if a single-level home base for the parents and a lower bill outweigh a roomy suite for Scott & Andrea.",
+      "links": [
+        "https://www.staymontana.com/vacation-rentals/the-whitefish-nest/",
+        "https://www.staymontana.com/vacation-rentals/whitefish-modern-loft/",
+        "https://www.findrentals.com/stay-montana/p187052"
+      ],
+      "images": [
+        {
+          "url": "https://media01.findrentals.com/rentals/15218/187052/whitefish-condo-exterior-home-9429730c-full.jpeg",
+          "page_url": "https://www.findrentals.com/stay-montana/p187052",
+          "credit": "Stay Montana via FindRentals",
+          "alt": "Exterior of The Whitefish Nest",
+          "src": "img/27b0ccbc469ee9b8.jpg"
+        },
+        {
+          "url": "https://media01.findrentals.com/rentals/15218/187052/whitefish-condo-large-kitchen-open-bright-main-level-63b9477c-full.jpeg",
+          "page_url": "https://www.findrentals.com/stay-montana/p187052",
+          "credit": "Stay Montana via FindRentals",
+          "alt": "Main-level kitchen, The Whitefish Nest",
+          "src": "img/63facab9afa10ca0.jpg"
+        },
+        {
+          "url": "https://gallery.streamlinevrs.com/units-gallery/00/0E/7C/image_168469131.jpeg",
+          "page_url": "https://www.staymontana.com/vacation-rentals/whitefish-modern-loft/",
+          "credit": "Stay Montana",
+          "alt": "Whitefish Modern Loft, 2nd Street",
+          "src": "img/86731a17a7998ef2.jpg"
+        }
+      ]
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Glacier Getaways: The Bear Tracks Flat 3BR + Whitefish Riverfront Hotel king room",
+      "kind": "downtown 3BR flat + hotel room about half a mile away",
+      "quick_verdict": "Downtown 3BR flat two blocks from Central, plus a river-view hotel room.",
+      "configuration": "The Bear Tracks Flat (Glacier Getaways), 221 E. First Street, 'two blocks from downtown Whitefish': 3BR/2BA, sleeps 7. Entry through the main building door, then one flight of stairs to the unit (no elevator stated). Main living level: open great room and kitchen, primary king bedroom with en-suite bath, bunk room with a twin and a full; upstairs loft with a queen bed (stairs inside the unit; the listing is inconsistent about which level is 'top'). Walk-out deck with a Big Mountain view. Dining seats not stated. Minimum stay 2 nights (3 nights Jul 15-18, 2027). Scott & Andrea in a River View room with balcony or patio at the Whitefish Riverfront Hotel (formerly The Pine Lodge), 920 Spokane Ave, 'steps from downtown'; rooms have a king, microwave and mini fridge; new outdoor hot tub; ADA rooms available; elevator not stated. Distance between the two about half a mile (map estimate).",
+      "family_split": {
+        "scott_andrea": "Whitefish Riverfront Hotel River View King room",
+        "parents": "Bear Tracks Flat main-level king with en-suite (one flight up from the building door)",
+        "brother_family": "Bear Tracks Flat upstairs queen loft and bunk room (twin + full)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate hotel room with its own bath at the Whitefish Riverfront Hotel (hotel accommodations page lists King River View rooms)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 5,
+        "parents": 5,
+        "location": 8,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Flat is two blocks from downtown per the listing; the hotel is about a 10-min walk from Central Avenue (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 1102,
+        "nightly_total_usd_high": 1102,
+        "label": "estimate",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Riverview King Room with Balcony or Patio, Whitefish Riverfront Hotel (scott_andrea, 2 adults), Best Available Rate US$553/night avg, US$3,318 for 6 nights"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1102,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "basis": "Sold out for the flat: on Glacier Getaways' own booking widget (property 34) a 2027-07-04/10 search for 4 adults + 2 children moves arrival to 2027-07-06 and quotes Jul 6-10 only (US$549 x 4 nights = US$2,196), and a 2027-07-04/06 search does the same, so the nights of Jul 4 and 5 are booked; a 2026-12-14/16 control quotes US$135/night. The split cannot be booked as written. Whitefish Riverfront Hotel SynXis (Chain 8911, Hotel 48366), Sun Jul 4 to Sat Jul 10, 2027, 2 adults: Riverview King Room with Balcony or Patio US$553/night avg (Best Available Rate, the only plan shown). Still guessed: the flat's Jul 4-5 nights, taken at the US$549 rate it shows for Jul 6-10. Sum US$549 + 553 = US$1,102/night before tax.",
+        "source_url": "https://glacier-getaways.com/property/34-the-bear-tracks-flat/?checkin=2027-07-04&checkout=2027-07-10&adults=4&children=2",
+        "fees_notes": "Flat (Jul 6-10 quote): service fees US$294.75, tax US$241.56, total US$2,732.31 for 4 nights; non-refundable 3% credit-card fee; US$750 damage deposit pre-authorized. Hotel: 'Excluding taxes and fees', tax not shown before checkout (https://be.synxis.com/?Chain=8911&Hotel=48366&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1).",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Flat is two blocks from downtown",
+        "Main-level king en-suite in the flat",
+        "Hotel has an outdoor hot tub",
+        "Rent published for the trip dates"
+      ],
+      "compromises": [
+        "One flight of stairs to the flat",
+        "Dining seat count not stated",
+        "Scott & Andrea in a hotel room only",
+        "Hotel rate not yet quoted"
+      ],
+      "best_for": "Choose this if the downtown condos are booked and the parents can manage one flight of stairs.",
+      "links": [
+        "https://www.findrentals.com/glacier-getaways/p193032",
+        "https://whitefishriverfronthotel.com/accommodations",
+        "https://be.synxis.com/?Hotel=48366&Chain=8911&theme=Theme2"
+      ],
+      "images": [
+        {
+          "url": "https://media01.findrentals.com/rentals/15502/193032/whitefish-condo-bear-tracks-flat-985d33e3-full.jpg",
+          "page_url": "https://www.findrentals.com/glacier-getaways/p193032",
+          "credit": "Glacier Getaways via FindRentals",
+          "alt": "The Bear Tracks Flat, downtown Whitefish",
+          "src": "img/fdc391908152f8eb.jpg"
+        },
+        {
+          "url": "https://media01.findrentals.com/rentals/15502/193032/whitefish-condo-bear-tracks-flat-562f0b4e-full.jpg",
+          "page_url": "https://www.findrentals.com/glacier-getaways/p193032",
+          "credit": "Glacier Getaways via FindRentals",
+          "alt": "The Bear Tracks Flat interior",
+          "src": "img/5a2177a454bd6633.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lodge at Whitefish Lake: Luxury Home #7 + Luxury Home #15",
+      "kind": "two one-level resort homes at a lakefront resort",
+      "quick_verdict": "Two one-story resort homes with patio fireplaces; about a mile from downtown.",
+      "configuration": "Resort-managed homes at The Lodge at Whitefish Lake (1380 Wisconsin Ave), which also has lakefront restaurants and resort amenities. Luxury Home #7: one-story, 2,800 sq ft, sleeps 13; two king bedrooms (one with en-suite) plus a bunk room with three twin-over-queen bunks; 2 baths; open living room with fireplace; dining room (seat count not stated); kitchen; laundry; patio with wood-burning fireplace (gas start), gas grill and heat lamp; no garage. Luxury Home #15: one level, 1,500 sq ft, 2 bedrooms (king, queen), one four-piece bath with jetted tub and walk-in shower, stone fireplace, professional kitchen with espresso machine, laundry, covered patio with two gas fire pits and grill; Whitefish rental license #4584. Where each home sits on the property and the distance between them are not stated. No hot tub stated for either. Downtown Central Ave is about 1 mile (roughly 20-25 min walk, map estimate); the resort's Boat Club restaurant and bar are on site.",
+      "family_split": {
+        "scott_andrea": "Luxury Home #15 (whole one-level 2BR home)",
+        "parents": "Luxury Home #7 en-suite king bedroom (same level as living room)",
+        "brother_family": "Luxury Home #7 second king bedroom and bunk room"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Luxury Home #15 is a separate rentable home with its own bedroom, bath and kitchen (resort page for Luxury Home #15); the page does not say 'detached'."
+      },
+      "ratings": {
+        "privacy": 10,
+        "shared_space": 8,
+        "parents": 8,
+        "location": 6,
+        "value": 4
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "On-site Boat Club dining room and bar (home locations not stated); downtown Central Avenue about 1 mile, a 5-min drive.",
+      "price": {
+        "nightly_total_usd_low": 2000,
+        "nightly_total_usd_high": 3200,
+        "label": "estimate",
+        "basis": "Not bookable yet, or sold out, for these dates: on 2026-11-14 the resort's SynXis engine (Chain 8911, Hotel 22336) returned no luxury homes for 2027-07-04/2027-07-10 (only Studio Suites, Viking Lodge rooms and Lakefront 2BR condos; 4 adults + 2 children got 'no rooms are available to accommodate 6 guests'), while a 2-night control stay 2026-12-14/16 listed '3 Bedroom Luxury Home 07' at US$1,189 and '2 Bedroom Luxury Home 15' at US$937 (BAR). The nightly figures are the earlier guess: resort hotel rooms about US$250-525/night in summer per Kayak and Hotels.com for other dates; assumed Home #7 US$1,300-2,000 and Home #15 US$700-1,200 for early July. The high end exceeds the US$2,800 cap.",
+        "source_url": "https://be.synxis.com/?Chain=8911&Hotel=22336&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1",
+        "fees_notes": "Not quoted; resort fee, cleaning fee and lodging taxes not stated. SynXis rates show 'Excluding taxes and fees'.",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Both homes are one level",
+        "Private patios with fireplaces and fire pits",
+        "Lakefront resort restaurants on site",
+        "Scott & Andrea get a whole home"
+      ],
+      "compromises": [
+        "About a mile from downtown dinners",
+        "Price likely near or over the cap",
+        "Distance between the two homes not stated",
+        "Parents share #7 with the teens' family"
+      ],
+      "best_for": "Choose this if a lake resort with one-level homes matters more than walking to Central Avenue.",
+      "links": [
+        "https://lodgeatwhitefishlake.com/luxury-homes",
+        "https://lodgeatwhitefishlake.com/content/luxury-home-7/c2c91462-d396-410a-9995-c1dce34aaf5d",
+        "https://lodgeatwhitefishlake.com/content/luxury-home-15/f86efbc1-6f9c-4344-aa19-6e5228e09951",
+        "https://lodgeatwhitefishlake.com/offers"
+      ],
+      "images": [
+        {
+          "url": "https://cdn.elebase.io/eb014a58-e738-4954-9e5d-2b83e6c4a6f0/b7149c47-c4fa-4c95-bbac-cef56fbfaa57-wfll_cabin_15_lowres-1.jpg",
+          "page_url": "https://lodgeatwhitefishlake.com/content/luxury-home-15/f86efbc1-6f9c-4344-aa19-6e5228e09951",
+          "credit": "The Lodge at Whitefish Lake",
+          "alt": "Luxury Home #15",
+          "src": "img/2991776c136f5742.jpg"
+        },
+        {
+          "url": "https://cdn.elebase.io/eb014a58-e738-4954-9e5d-2b83e6c4a6f0/1fac7f45-1716-4e3a-a28c-176810dff9f9-2firelowres-1.jpg",
+          "page_url": "https://lodgeatwhitefishlake.com/content/luxury-home-15/f86efbc1-6f9c-4344-aa19-6e5228e09951",
+          "credit": "The Lodge at Whitefish Lake",
+          "alt": "Patio fire pit, Luxury Home #15",
+          "src": "img/571a0bbb1d527338.jpg"
+        },
+        {
+          "url": "https://cdn.elebase.io/eb014a58-e738-4954-9e5d-2b83e6c4a6f0/0c645e1c-76e0-4482-aaeb-e9addd018abc-wfll_cabin_7_lowres-2.jpg",
+          "page_url": "https://lodgeatwhitefishlake.com/content/luxury-home-7/c2c91462-d396-410a-9995-c1dce34aaf5d",
+          "credit": "The Lodge at Whitefish Lake",
+          "alt": "Kitchen, Luxury Home #7",
+          "src": "img/edb7d3d8e2524996.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lodge at Whitefish Lake: Lakefront 3BR condo + Lakefront 2BR condo + Main Lodge room",
+      "kind": "resort 3BR condo + 2BR condo + hotel room",
+      "quick_verdict": "Lakefront condos plus a hotel room at one resort; elevators and floors unstated.",
+      "configuration": "Lakefront Three-Bedroom Condominium: 3BR/3BA, three king beds, about 1,900 sq ft, sleeps 6 (Suiteness listing); full kitchen, living and dining room, patio or balcony with grill (resort condo page). Units are individually owned and furnished, so layout varies; resale listings for 3BR units show 1,752-2,168 sq ft, some with a loft or two levels. Lakefront Two-Bedroom Condominium: two king bedrooms, two baths, full kitchen and living room. King Viking Room in the main lodge for Scott & Andrea. Elevators, unit floors and dining-table seat counts not stated on resort pages. Alternative: the Averill Suite 3BR (2,400 sq ft, two levels, king suite upstairs, bonus living room) as the group unit, but with stairs.",
+      "family_split": {
+        "scott_andrea": "Main Lodge hotel room (king)",
+        "parents": "Lakefront 2BR condo (king bedroom; second bedroom spare)",
+        "brother_family": "Lakefront 3BR condo (three kings); hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate hotel room in the Main Lodge, with its own locked door and bath (resort accommodations pages)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 6,
+        "parents": 6,
+        "location": 6,
+        "value": 3
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Resort restaurants in the Main Lodge; downtown Central Avenue about 1 mile (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 3161,
+        "nightly_total_usd_high": 3848,
+        "label": "estimate",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Lakefront 2 Bedroom Condo K/Q (parents, 2 adults): Advance Booking Advantage (non-refundable) US$1,507/night avg, Best Available Rate US$1,699/night avg",
+          "King Viking Room (scott_andrea, 2 adults; stand-in for the 'Main Lodge room', which the engine does not list): Advance Booking Advantage US$754/night avg, Best Available Rate US$849/night avg"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 2261,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "basis": "Resort SynXis engine (Chain 8911, Hotel 22336), 2027-07-04/2027-07-10, 2 adults. Quoted: Lakefront 2 Bedroom Condo K/Q US$1,507 (Advance Booking Advantage, non-refundable) to US$1,699 (BAR) per night; King Viking Room US$754 to US$849 per night (the engine has no 'Main Lodge' room category; Studio Suites were US$1,282-1,443). Member (Stash) and AAA/AARP rates ignored. Still guessed: the Lakefront 3BR condo for brother_family is not offered for these dates (not bookable yet or sold out; it is listed at US$592/night BAR for a 2026-12-14/16 control stay), so the old US$900-1,300 guess is kept for it. Sum: US$754+1,507+900 = US$3,161 low, US$849+1,699+1,300 = US$3,848 high. The two quoted units alone (US$2,261-2,548) are near the US$2,800 cap.",
+        "source_url": "https://be.synxis.com/?Chain=8911&Hotel=22336&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1",
+        "fees_notes": "Rates shown 'Excluding taxes and fees'; tax not shown before checkout. Resort fee and cleaning not shown.",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": true
+      },
+      "pros": [
+        "Lakefront resort setting",
+        "Three king beds in the group condo",
+        "On-site restaurants"
+      ],
+      "compromises": [
+        "Elevators and floors not stated",
+        "Condo layouts vary by owner",
+        "About a mile from Central Avenue"
+      ],
+      "best_for": "Choose this if you want a full-service lake resort and can confirm a step-free condo for the parents.",
+      "links": [
+        "https://lodgeatwhitefishlake.com/whitefish-lake-condos",
+        "https://www.suiteness.com/suites/united-states/montana/whitefish/lodge-at-whitefish-lake/lakefront-three-bedroom-condo",
+        "https://lodgeatwhitefishlake.com/content/averill-suite/eca03e2f-4610-440d-acde-53d91cf6c406"
+      ],
+      "images": [
+        {
+          "url": "https://cdn.elebase.io/eb014a58-e738-4954-9e5d-2b83e6c4a6f0/69940409-0ba7-4107-93d3-214cfac42987-wfll_322_great-6_crop.jpg",
+          "page_url": "https://lodgeatwhitefishlake.com/content/averill-suite/eca03e2f-4610-440d-acde-53d91cf6c406",
+          "credit": "The Lodge at Whitefish Lake",
+          "alt": "Great room in a Lodge at Whitefish Lake condo (Averill Suite)",
+          "src": "img/137464181762a6a0.jpg"
+        },
+        {
+          "url": "https://www.suiteness.com/booking_dot_com_images/max1280x900/660668543.jpg",
+          "page_url": "https://www.suiteness.com/suites/united-states/montana/whitefish/lodge-at-whitefish-lake/lakefront-three-bedroom-condo",
+          "credit": "Suiteness",
+          "alt": "Lakefront three-bedroom condo",
+          "src": "img/32c6a07bc4eb03d2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Grouse Mountain Lodge: Loft Suite + Corner Suite + Nordic View King",
+      "kind": "three hotel rooms/suites beside the golf course",
+      "quick_verdict": "Three hotel rooms next to Whitefish Lake Golf Club; no gathering room.",
+      "configuration": "Grouse Mountain Lodge (Glacier Park Collection), next to Whitefish Lake Golf Club; renovated rooms available from June 2026. Loft Suite: the rooms page places the king and two twins together in an upper loft (stairs not mentioned on the page but implied by 'upper loft'), with a large sitting room, mini fridge and microwave, up to 4 adults. Corner Suite: king or two queens, sitting area, wet bar, mini fridge and microwave. Nordic View King: golf-course view. No kitchens. ADA two-queen rooms on the first floor with grab bars. Elevator not stated. Logan's Bar & Grill on site. No private room for all 8; the Loft Suite living room is the only group space.",
+      "family_split": {
+        "scott_andrea": "Nordic View King room",
+        "parents": "Corner Suite (king), or ADA two-queen room on the first floor",
+        "brother_family": "Loft Suite (king and twins in the upper loft)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel room (Glacier Park Collection rooms page)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 3,
+        "parents": 7,
+        "location": 6,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Logan's Bar & Grill on site; downtown Central Avenue about 1 mile (map estimate).",
+      "price": {
+        "nightly_total_usd_low": 1987,
+        "nightly_total_usd_high": 1987,
+        "label": "estimate",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Renovated Two-Story Loft Suite (brother_family; searched as 2 adults), standard rate, US$4,791 for 6 nights = US$798.50/night avg, 'Only 1 left'",
+          "Renovated ADA Standard Two Queen (parents, 2 adults; the split's first-floor ADA alternative), standard rate, US$3,534 for 6 nights = US$589/night avg, 'Only 1 left'"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1387.5,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "basis": "Glacier Park Collection's own rates-availability widget for Grouse Mountain Lodge, 2027-07-04/2027-07-10, 2 adults. Quoted: Renovated Two-Story Loft Suite US$798.50/night avg and Renovated ADA Standard Two Queen US$589/night avg (the 'Book Direct and Save 10%' plan is unavailable on Jul 4-5, so one plan). Still guessed: Scott & Andrea's Renovated Nordic King is Sold Out (listed US$599/night avg), as are the Corner Suites (US$685.33), Standard One King (US$489) and Renovated Standard One King (US$589), so no third room is bookable online for these dates; the sold-out Nordic King rate is used as the placeholder. Sum: US$798.50+589+599 = US$1,986.50/night before tax. The lodge becomes 'Hotel Whitefish' from 2027-05-01; bookings are still taken through Grouse Mountain Lodge.",
+        "source_url": "https://www.glacierparkcollection.com/lodging/grouse-mountain-lodge/rates-availability/",
+        "fees_notes": "Widget says 'Prices exclude taxes and fees'; tax not shown before checkout. Dates entered in the on-page calendar (no date parameters in the URL).",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Next to the 36-hole golf club",
+        "First-floor ADA rooms available",
+        "On-site bar and grill"
+      ],
+      "compromises": [
+        "No kitchens or group room",
+        "Loft Suite has stairs",
+        "About a mile from Central Avenue"
+      ],
+      "best_for": "Choose this if golf is the priority and evenings can be spent at restaurants.",
+      "links": [
+        "https://glacierparkcollection.com/lodging/grouse-mountain-lodge/rooms",
+        "https://www.suiteness.com/suites/united-states/montana/whitefish/grouse-mountain-lodge/family-loft"
+      ],
+      "images": [
+        {
+          "url": "https://glacierparkcollection.com/GlacierParkInc/media/Images/Lodging/Grouse-Mountain-Lodge/MBN-GrousseMountainLodge-Room.jpg?ext=.jpg",
+          "page_url": "https://glacierparkcollection.com/lodging/grouse-mountain-lodge/rooms",
+          "credit": "Glacier Park Collection",
+          "alt": "Grouse Mountain Lodge guest room",
+          "src": "img/e97ad34f3fe524aa.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Home Again Luxury Haven 3BR (Vrbo 4102175) + connected unit (not named)",
+      "kind": "downtown 3BR home said to connect to two other rentals",
+      "quick_verdict": "Downtown 3BR with hot tub and fenced yard; the lock-off unit is unconfirmed.",
+      "configuration": "New! Home Again Luxury Haven - Sleeps 8 (Vrbo 4102175; also on Marriott Homes & Villas), downtown Whitefish, Whitefish Depot about an 8-min walk. 3BR: bedroom 1 king; bedroom 2 listed as two queens plus a twin bunk in the text I fetched, but 'One Queen Bunk Bed and One Twin Bunk Bed' on Vrbo's rendered page per the price-checker (conflict, unresolved); bedroom 3 king; 2 full baths and 1 half bath (bath 1 shower only, bath 2 tub/shower). Photo captions name a main level (living room, dining, kitchen, fenced yard with grill and fire pit) and an upper level (hot tub and balcony); the fetched text labels only the hot tub and balcony 'Upper Level', but the price-checker's browser read puts bedroom 1 (king), bedroom 2 (bunk room) and the primary en-suite on the Upper Level (so the parents' king is upstairs; no elevator stated). The page also calls the property a condo while photo captions say 'two-story house'. Hot tub on site, deck, fire pit. Dining seats, square footage, street address and minimum stay not stated on the fetched page. A search-result snippet of the Vrbo listing says the home 'is connected to two other properties, allowing it to be locked off for complete privacy or opened'; the fetched page (truncated) did not show that sentence or name the connected units, so the unit for Scott & Andrea is not identified.",
+      "family_split": {
+        "scott_andrea": "One of the connected rentals the listing snippet mentions (not named; layout not stated)",
+        "parents": "Home Again bedroom 1 (king; floor not stated)",
+        "brother_family": "Home Again bedroom 3 (king) and bedroom 2 (two queens + twin bunk)"
+      },
+      "lockoff": {
+        "scott_andrea": "not stated",
+        "basis": "Only a search snippet says the home connects to two other properties and can be locked off; the connected units, their entrances and bathrooms are not named or shown on the fetched Vrbo page."
+      },
+      "ratings": {
+        "privacy": 5,
+        "shared_space": 6,
+        "parents": 4,
+        "location": 8,
+        "value": 4
+      },
+      "walk_minutes_to_restaurants": 8,
+      "food_convenience": "Listing says 'steps from the best attractions, dining, and entertainment'; Whitefish Depot an 8-min walk.",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "ota",
+        "basis": "Not released: on Vrbo (the only engine found; not listed on staymontana.com) 2027-07-04/10 for 4 adults + 2 children shows 'This property is not available for check-in on this day', and so does a 2027-07-25/27 control, while a 2026-12-14/16 control quotes US$1,967 for 2 nights, all fees included; July 2027 looks not open yet. The connected unit for Scott & Andrea is not named and unpriced. Ask the host through Vrbo.",
+        "source_url": "https://www.vrbo.com/4102175?startDate=2027-07-04&endDate=2027-07-10&adults=4&children=2",
+        "fees_notes": "Not quoted for the dates. Vrbo shows prices with all fees included.",
+        "availability": "not_released",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Hot tub, fire pit and fenced yard",
+        "Downtown location",
+        "Possible connected lock-off units"
+      ],
+      "compromises": [
+        "Lock-off unit not named or confirmed",
+        "Bedroom floors not stated; likely stairs",
+        "No rate for the dates"
+      ],
+      "best_for": "Choose this if the host confirms a connected private unit for Scott & Andrea and a main-floor bedroom for the parents.",
+      "links": [
+        "https://www.vrbo.com/4102175",
+        "https://homes-and-villas.marriott.com/en/properties/40376231-whitefish-new-home-again-luxury-haven-sleeps-8"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/107000000/106990000/106982900/106982872/7e327e53.jpg?impolicy=resizecrop&rw=598&ra=fit",
+          "page_url": "https://www.vrbo.com/4102175",
+          "credit": "Vrbo",
+          "alt": "Main-level living room, Home Again Luxury Haven",
+          "src": "img/8a55da1635185959.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/107000000/106990000/106982900/106982872/645fbafb.jpg?impolicy=resizecrop&rw=297&ra=fit",
+          "page_url": "https://www.vrbo.com/4102175",
+          "credit": "Vrbo",
+          "alt": "Fenced yard with grill and fire pit",
+          "src": "img/e331e9ea74138072.jpg"
+        }
+      ]
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Swan Mountain Outfitters horseback rides, Apgar and Lake McDonald corrals (Glacier NP)",
+        "what_you_do": "Ride a horse on a guided trail ride inside Glacier National Park, from 1 hour (Apgar Meadows, Cedar Forest) to 3 hours (Camas Loop, Upper McDonald Creek).",
+        "why_memorable": "An activity with the animals rather than a visit: riding through cedar forest and meadows in Glacier, with several daily departures.",
+        "interactivity": "hands-on",
+        "drive_minutes": 35,
+        "price_usd": "1 hr US$110, 2 hr US$150, 3 hr US$185 per rider (2026 rates)",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Reservations recommended; 2026 season Apgar May 30-Aug 30, Lake McDonald May 23-Sep 20 (home page); 2027 dates, minimum age and weight limit not posted; park entrance pass needed. NPS lists Swan Mountain as the park's horseback concessioner.",
+        "url": "https://www.swanmountainglacier.com/rates-and-trips-at-a-glance/",
+        "image": {
+          "url": "https://www.swanmountainglacier.com/media/Morgan-R-11-900x430.jpg",
+          "page_url": "https://www.swanmountainglacier.com/",
+          "credit": "Swan Mountain Outfitters",
+          "alt": "Horseback riding in Glacier",
+          "src": "img/96d15ccfbac0f357.jpg"
+        }
+      },
+      {
+        "name": "Great Northern Llama Co. ranch trek (or shorter llama tour)",
+        "what_you_do": "Ranch trek (2-2.5 hr): learn to saddle and load a pack llama, then lead it 2-3 miles on ranch trails. The shorter tour (75-90 min) is hand-feeding and taking turns leading a llama on a short walk.",
+        "why_memorable": "Each person leads their own pack llama on a hike, run by a family ranch near Columbia Falls; Ethan and Aubrey meet the trek's age limit.",
+        "interactivity": "hands-on",
+        "drive_minutes": 25,
+        "price_usd": "Trek US$125 (12+), US$95 (6-11); tour US$50 (10+), US$35 (3-9); private group minimum US$400 trek / US$300 tour",
+        "age_min": 6,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Pre-arranged groups only ('open to the public ONLY during a pre-arranged group event'); email hello@gnllamaco.com; page still says 'working on our summer 2026 schedule', no 2027 dates. Trek requires walking 2-3 miles on uneven ground, so the parents would sit it out or take the tour.",
+        "url": "https://www.gnllamaco.com/booknow",
+        "image": {
+          "url": "https://static.wixstatic.com/media/6ab5ed_8a0405f3d81f470e9d01135d7f908917~mv2.jpg",
+          "page_url": "https://www.gnllamaco.com/booknow",
+          "credit": "Great Northern Llama Co.",
+          "alt": "Guests on a llama tour",
+          "src": "img/1e4c01052422bbd2.jpg"
+        }
+      },
+      {
+        "name": "Clydesdale Outpost Clydesdale horseback ride",
+        "what_you_do": "Ride a Clydesdale draft horse on a guided 45-minute loop around the ranch.",
+        "why_memorable": "Riding a draft horse is unusual, and the ranch is in Whitefish itself.",
+        "interactivity": "hands-on",
+        "drive_minutes": 15,
+        "price_usd": "US$125 per ride (45 min)",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Book online; season, days, minimum age and weight limit not stated on the booking page (a minimum age of 12 from an older page could not be verified; that page now returns 404).",
+        "url": "https://www.clydesdaleoutpost.com/service-page/clydesdale-horseback-riding"
+      },
+      {
+        "name": "Bar W Guest Ranch trail rides",
+        "what_you_do": "Trail rides from one hour to all day on a guest ranch just west of Whitefish.",
+        "why_memorable": "Working-ranch setting close to town.",
+        "interactivity": "hands-on",
+        "drive_minutes": 15,
+        "price_usd": "US$130 per rider for a 2-hour ride, plus US$13 permit fee (2026 rates)",
+        "age_min": 10,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Public rides are sold online (thebarw.com/public-rides/2-hour-trail-rides): Tue-Sat 9, 10, 1 and 2, closed Sun and Mon; 2026 season May 13-Nov 12, 2027 dates not posted; ages 10-15 need a participating parent; 225 lb limit; full payment at booking. Ethan (15) and Aubrey (13) meet the age minimum.",
+        "url": "https://discoverkalispell.com/activities/bar-w-guest-ranch/"
+      },
+      {
+        "name": "Goats of Glacier VIP farm tour",
+        "what_you_do": "A guide takes you beyond the fences to hand-feed goats, alpacas, chickens and mini highland cows from a feed cup; general admission is a self-guided farmyard visit.",
+        "why_memorable": "Close contact with friendly farm animals with mountain views, about 10 min from Glacier's west entrance; feeding farm animals ranks below riding under the trip's guidance.",
+        "interactivity": "hands-on",
+        "drive_minutes": 30,
+        "price_usd": "Not stated on the site ('see current pricing at checkout')",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Online tickets; open Mon-Sat 10-4 in season, closed Sundays (Jul 4, 2027 is a Sunday); reopens Memorial Day weekend 2027.",
+        "url": "https://goatsofglacier.com/",
+        "image": {
+          "url": "https://goatsofglacier.com/photos/hero-goats-1600.jpeg",
+          "page_url": "https://goatsofglacier.com/",
+          "credit": "Goats of Glacier",
+          "alt": "A goat at Goats of Glacier with Montana mountains behind",
+          "src": "img/30ec2cdeba49ffc8.jpg"
+        }
+      }
+    ],
+    "golf": [
+      {
+        "name": "Whitefish Lake Golf Club (North and South courses)",
+        "what_you_do": "18 holes on either of two public courses at the edge of town, 36 holes in all.",
+        "why_memorable": "Montana's only 36-hole facility, with tree-lined fairways and lake and mountain views, a few minutes from downtown.",
+        "drive_minutes": 5,
+        "price_usd": "Peak (May 11-Sep 27, 2026): US$112 booked in advance, US$100 within two days; cart US$48; South twilight US$70",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "foreUP online tee times or 406-862-4000; book ahead for July.",
+        "url": "https://golfwhitefish.com/rates/",
+        "image": {
+          "url": "https://golfwhitefish.com/wp-content/uploads/2024/12/south-slideshow-1024x455.jpg",
+          "page_url": "https://www.golfwhitefish.com/",
+          "credit": "Whitefish Lake Golf Club",
+          "alt": "South Course, Whitefish Lake Golf Club",
+          "src": "img/d772da7b0d854ab9.jpg"
+        }
+      },
+      {
+        "name": "Eagle Bend Golf Club, Bigfork",
+        "what_you_do": "27-hole club (Eagle, Osprey and Nicklaus nines) on the north shore of Flathead Lake; listed as semi-private with visitors welcome by advance booking (Where2Golf, GolfShake), but the club's own site calls it private, so public access is unconfirmed.",
+        "why_memorable": "27 holes with lake and mountain views per the club's own site; tree-lined and open parkland per Where2Golf.",
+        "drive_minutes": 45,
+        "price_usd": "Not published by the club; aggregator listings show about US$111 for 18 (year not stated)",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book ahead; tee times 406-837-7310.",
+        "url": "https://www.where2golf.com/usa-rockies/eagle-bend-golf-club"
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Whitefish Mountain Resort summer activities",
+      "good_for": [
+        "teens",
+        "everyone"
+      ],
+      "details": "Scenic chairlift to the summit with views toward Glacier (adult US$34), alpine slide (US$14/ride), 6-zip tour (US$92), aerial adventure park with 60+ obstacles (US$62), lift-served biking and hiking. Age/height limits and 2027 dates not stated on the summer page.",
+      "drive_minutes": 20,
+      "url": "https://skiwhitefish.com/summer-activities/",
+      "found_via": "Tourism and travel-guide lists (Wanderlog, PlanetWare); confirmed on the resort site",
+      "image": {
+        "url": "https://skiwhitefish.com/wp-content/uploads/2025/06/S25_AlpineSlide-1024x512.jpg",
+        "page_url": "https://skiwhitefish.com/summer-activities/",
+        "credit": "Whitefish Mountain Resort",
+        "alt": "Alpine slide at Whitefish Mountain Resort",
+        "src": "img/929131521a65de47.jpg"
+      }
+    },
+    {
+      "name": "Glacier National Park: Going-to-the-Sun Road and Lake McDonald",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Scenic drive or Logan Pass shuttle from the west entrance. For 2026 the park dropped its vehicle-reservation system; a park pass (about US$35/vehicle, 7 days) is still required and the shuttle needed a Recreation.gov ticket (July 1-Sep 7, 2026). 2027 rules not yet announced.",
+      "drive_minutes": 35,
+      "url": "https://dailymontanan.com/2026/02/18/glacier-confirms-its-dropping-ticketed-entry/",
+      "found_via": "Travel-guide lists; 2026 entry rules from Daily Montanan reporting"
+    },
+    {
+      "name": "Hidden Key Escape Games, Kalispell",
+      "good_for": [
+        "teens",
+        "adults",
+        "rainy day"
+      ],
+      "details": "60-minute escape rooms for teams of 2-10 at 896 N Meridian Rd, Kalispell. Current operation shown as open on a directory listing only; confirm before planning.",
+      "drive_minutes": 20,
+      "url": "https://www.mapquest.com/us/montana/hidden-key-escape-games-377671276",
+      "found_via": "Search; operator site not checked"
+    },
+    {
+      "name": "Whitefish Lake City Beach and Whitefish Lake State Park",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Swimming beach and lakefront park about a 20-min walk from the O'Brien condos (Stay Montana listing); the state park is on the lake's south shore. Paddle rentals not checked.",
+      "drive_minutes": 5,
+      "url": "https://planetware.com/montana/top-rated-attractions-and-things-to-do-in-whitefish-mt-us-mt-44.htm",
+      "found_via": "PlanetWare and Wanderlog top-attraction lists (TripAdvisor page not returned)"
+    },
+    {
+      "name": "Downtown Whitefish: Central Avenue shops, the Depot and Sweet Peaks Ice Cream",
+      "good_for": [
+        "everyone",
+        "parents",
+        "rainy day"
+      ],
+      "details": "Flat few-block walk of shops and galleries, the historic Whitefish Depot, Whitefish Theatre Company shows and Sweet Peaks ice cream (evening lines).",
+      "drive_minutes": 0,
+      "url": "https://planetware.com/montana/top-rated-attractions-and-things-to-do-in-whitefish-mt-us-mt-44.htm",
+      "found_via": "Travel-guide lists (PlanetWare, Travel With A Plan)"
+    }
+  ],
+  "shopping_exploring": "Central Avenue and the cross streets (1st-3rd St) hold the shops, galleries and cafes; flat sidewalks over about four blocks. Kalispell, 20 min south, has larger stores.",
+  "restaurants": [
+    {
+      "name": "Buffalo Cafe",
+      "category": "casual",
+      "notes": "Breakfast, lunch and dinner, American comfort food on a downtown side street; no reservations, often a wait.",
+      "walk_minutes_from_lodging": 6,
+      "url": "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/"
+    },
+    {
+      "name": "Second Street Pizza",
+      "category": "casual",
+      "notes": "New York-style pizza by the slice (from US$3.50), counter service, takeout available.",
+      "walk_minutes_from_lodging": 5,
+      "url": "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/"
+    },
+    {
+      "name": "Tupelo Grille",
+      "category": "family dinner",
+      "notes": "17 Central Ave; Southern/New Orleans menu (shrimp and grits, gumbo, elk meatloaf), full bar; book ahead for 8.",
+      "walk_minutes_from_lodging": 7,
+      "url": "https://startpage.mapquest.com/us/montana/tupelo-grille-7455256"
+    },
+    {
+      "name": "Abruzzo Italian Kitchen",
+      "category": "family dinner",
+      "notes": "Central Avenue; wood-fired pizza and Italian, with a cocktail lounge.",
+      "walk_minutes_from_lodging": 6,
+      "url": "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/"
+    },
+    {
+      "name": "Cafe Kandahar",
+      "category": "special dinner",
+      "notes": "Fine dining with an extensive wine list at Whitefish Mountain Resort, about 20 min by car; walkable alternative is Latitude 48 (147 Central Ave, dinner only, international wine list).",
+      "walk_minutes_from_lodging": null,
+      "url": "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/"
+    },
+    {
+      "name": "Loula's Cafe",
+      "category": "breakfast/coffee",
+      "notes": "Downtown breakfast and lunch (pancakes, French toast); arrive 7-8 am to avoid a wait. Montana Coffee Traders downtown for coffee.",
+      "walk_minutes_from_lodging": 6,
+      "url": "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/"
+    }
+  ],
+  "weather": {
+    "july": {
+      "high_f": 81,
+      "low_f": 50,
+      "rain_days": null,
+      "notes": "NOAA NCEI 1991-2020 normals for Whitefish via Current Results; Kalispell 82/48. July precipitation about 1.2 in (CoCoRaHS/NOAA, weather2travel); rain-day count not found. Late-summer wildfire smoke is a known regional risk but is not named by the climate source."
+    },
+    "source_url": "https://www.currentresults.com/Weather/Montana/temperature-july.php"
+  },
+  "logistics": {
+    "airport": "Glacier Park International (FCA), Kalispell",
+    "drive_minutes_from_airport": 20,
+    "flights": {
+      "den": "United nonstop DEN-FCA, daily year-round (airport route list).",
+      "bay_area": "United seasonal SFO-FCA nonstop and Allegiant seasonal OAK-FCA nonstop (airport route list); no SMF nonstop, so SMF connects via SEA, DEN or SLC."
+    },
+    "car_needed": "Yes: one or two cars for Glacier, the farms, golf and the mountain; downtown itself is walkable.",
+    "notes": "FCA to downtown Whitefish about 11 miles (map estimate). Glacier's west entrance is about 35 min. July 4 week is peak season; book cars early."
+  },
+  "caveats": [
+    "July normal high is 81 F, 6 F over the 75 F target; hot spells and late-summer smoke are possible.",
+    "Prices for 2027-07-04/2027-07-10 were read in booking engines on 2026-11-14: O'Brien trio US$2,330/night and Downtown Luxury Escape + Firebrand US$1,454-1,543/night (both verified, before tax); the Lodge at Whitefish Lake luxury homes and 3BR condo are not offered online for the dates, and Grouse Mountain Lodge's king rooms are sold out, so those three options moved to backups.",
+    "The two new downtown combinations (Whitefish Penthouse + Downtown Loft + Downtown Penthouse; Whitefish Nest + Modern Loft) are priced from comparables only; addresses and distances between units are not published.",
+    "Lodge at Whitefish Lake 3BR condo + 2BR condo + room: estimated US$3,161-3,848/night (2BR condo and Viking King quoted, 3BR condo not offered), over the US$2,800 cap (2026-11-14).",
+    "The O'Brien trio needs three units free at once from one manager; minimum stay not stated.",
+    "The O'Brien rooftop fire pit is shared with the building; the indoor table seats 6 plus bar stools.",
+    "Animals are domestic only (horses, llamas, goats); no wildlife or exotic-animal program was found within 60 min. Great Northern Llama Co. 2027 schedule and Clydesdale Outpost season are not published.",
+    "Glacier National Park entry rules for 2027 are not yet announced (2026 had no vehicle reservations).",
+    "Prices re-read on 2026-11-15 for 2027-07-04/2027-07-10 (before tax): O'Brien trio US$2,304/night, Downtown Luxury Escape + Firebrand US$1,448-1,537, Whitefish Nest + Modern Loft US$1,118 (all verified); Whitefish Penthouse + Downtown Loft + Downtown Penthouse estimated US$1,704-1,854 because the Downtown Penthouse has no July 2027 dates open (check back). Backups: Bear Tracks Flat booked for Jul 4-5 (sold out; Riverfront Hotel king US$553 quoted); Home Again Luxury Haven has no July 2027 dates open on Vrbo."
+  ],
+  "open_questions": [
+    "O'Brien Penthouse West, View and Loft: minimum stay, unit floors and building address (Stay Montana, 110 E Second St, Whitefish); July 2027 rates were quoted online on 2026-11-14.",
+    "Can Stay Montana hold all three O'Brien units for the same week, or substitute the 'Downtown Penthouse w/ Hot Tub' in the same complex? (Stay Montana)",
+    "The Whitefish Penthouse, Whitefish Downtown Loft and Downtown Penthouse: building addresses, walking distance between them, and whether the Downtown Penthouse has an elevator or is in the O'Brien complex (Stay Montana, (888) 871-7856).",
+    "The Whitefish Nest: is 6 O'Brien Ave the same complex as the O'Brien condos, and what is the 'main level stairway' in its photos (steps to the entrance?) (Stay Montana).",
+    "Whitefish Modern Loft: confirm the loft bedroom has a door and the July 2027 rate (Stay Montana).",
+    "Bear Tracks Flat: dining seat count and whether the main-level king is reachable without the interior stair (Glacier Getaways); Whitefish Riverfront Hotel July 2027 king rate and elevator (hotel reservations).",
+    "Home Again Luxury Haven: which two properties connect to it, whether one is a self-contained unit with its own bath and entrance, and which floor each bedroom is on (host via Vrbo).",
+    "Lodge at Whitefish Lake: are Luxury Home #7 and #15 and the Lakefront 3BR condos sold out for 2027-07-04/10 or not yet released (they do not appear in the online engine for those dates), and how far apart the two homes sit (resort reservations, reservations@averillhospitality.com).",
+    "Lodge at Whitefish Lake condos: elevator access and which 3BR/2BR units are single-level (resort reservations).",
+    "Whitefish Downtown Luxury Escape: street address and whether the elevator reaches the upper level (Stay Montana).",
+    "Grouse Mountain Lodge: can a king room for Scott & Andrea be found for 2027-07-04/10 (all king and Corner Suite types showed Sold Out online on 2026-11-14), and does the Loft Suite rate change for 4 guests (1-844-868-7474).",
+    "Goats of Glacier VIP tour price (online ticketing at checkout).",
+    "Great Northern Llama Co. 2027 trek and tour days and times (hello@gnllamaco.com).",
+    "Clydesdale Outpost ride season, days and minimum age (406-407-8983).",
+    "Swan Mountain Outfitters minimum rider age, weight limit and 2027 corral dates (406-387-4405).",
+    "Bar W Guest Ranch: whether trail rides are sold to non-guests (406-863-9099).",
+    "Glacier National Park 2027 entry and shuttle rules (NPS, announced in spring).",
+    "Hidden Key Escape Games current operating status (operator)."
+  ],
+  "verification_notes": [
+    "Lodging configurations read on Stay Montana, Lodge at Whitefish Lake, Firebrand and Glacier Park Collection pages on 2026-11-14.",
+    "Stay Montana pages conflict on which O'Brien Penthouse West bedroom is the queen vs bunk room.",
+    "TripAdvisor's Whitefish 'Things to Do' page was not returned by search; Wanderlog/PlanetWare lists used instead.",
+    "price-checker 2026-11-14: Stay Montana O'Brien trio: estimate US$1,400-2,100 to verified US$2,330/night (Penthouse West US$6,836 + View US$3,558 + Loft US$3,585 rent for 6 nights; US$17,754.15 with fees and tax), on Stay Montana's unit-page booking widget; value 6 to 5.",
+    "price-checker 2026-11-14: Lodge at Whitefish Lake Homes #7 + #15: estimate US$2,000-3,200 unchanged, no quote; neither home appears in the resort SynXis engine for 2027-07-04/10 while both appear for a 2026-12-14/16 control stay (#07 US$1,189, #15 US$937), so not bookable yet or sold out for these dates.",
+    "price-checker 2026-11-14: Lodge at Whitefish Lake 3BR + 2BR condo + room: estimate US$1,700-2,600 to estimate US$3,161-3,848/night (Lakefront 2BR K/Q US$1,507-1,699 and King Viking Room US$754-849 quoted; Lakefront 3BR not offered for the dates, old guess kept), over the cap; value 5 to 3. The engine has no 'Main Lodge' room category; the King Viking Room (Viking Lodge building) was quoted for Scott & Andrea instead, which differs from the configuration's 'Main Lodge room'.",
+    "price-checker 2026-11-14: Downtown Luxury Escape + Firebrand: estimate US$1,000-1,600 to verified US$1,454-1,543/night (condo US$5,125 for 6 nights on Stay Montana's widget; Firebrand Deluxe King US$600 Advance Booking Advantage to US$689 BAR on SynXis); value 8 to 7.",
+    "price-checker 2026-11-14: Grouse Mountain Lodge Loft + Corner + Nordic King: unknown to estimate US$1,987/night (Renovated Two-Story Loft Suite US$798.50 and Renovated ADA Standard Two Queen US$589 quoted, each 'Only 1 left'; Renovated Nordic King and both Corner Suites Sold Out, Nordic King's listed US$599 used as placeholder). The engine's rooms are 'Renovated' types and the lodge becomes Hotel Whitefish from 2027-05-01 (bookings still via Grouse Mountain Lodge); the Corner Suite for the parents is sold out, so the ADA two-queen alternative was quoted. Value stays 5.",
+    "fact-checker 2026-11-14: O'Brien View (2BR/2BA, king + queen, private entrance, elevator building, rooftop), Loft (2BR/2BA, king + 2 XL twins + sleeper, elevator) and Penthouse West (3BR/3BA, 1,835 sq ft, dining 6 + 3 bar, bed-type conflict) confirmed on Stay Montana pages. Loft's own entrance is not stated on its page and Loft sq ft (804) is not on the page (not verified); O'Brien View's private entrance supports the scott_andrea lock-off 'yes'. Downtown Luxury Escape levels/stairs/elevator/1,923 sq ft confirmed on FindRentals.",
+    "fact-checker 2026-11-14: Grouse Mountain Lodge Loft Suite corrected: the rooms page puts the king AND two twins in the upper loft, not king on the main level; configuration and family_split fixed. Lock-off (separate hotel room) and ratings unchanged; lodging score rests on the O'Brien trio.",
+    "fact-checker 2026-11-14: Luxury Home #15 and #7 (2BR king+queen, 1,500 sq ft, one level, jetted tub; #7 2,800 sq ft, one story, two kings + bunk room) confirmed; 'detached' is not stated on either page, so the #15 lock-off basis now says separate rentable home. Verdict stays yes (separate unit).",
+    "fact-checker 2026-11-14: Eagle Bend corrected: 27 holes (three nines) confirmed on Where2Golf and the club site; club site calls it private and gives no fees, Where2Golf/GolfShake say semi-private/public with advance booking; public access could not be settled, price stays aggregator-only (US$111, undated), and 'Swan Range' and 'well-regarded' removed (club site says lake and mountain views). Golf score left at 8/9 because the second course's public status is unresolved rather than disproved.",
+    "fact-checker 2026-11-14: image check: Goats of Glacier hero (https://goatsofglacier.com/photos/hero-goats-1600.jpeg) returns a JPEG; Grouse Mountain Lodge room image (glacierparkcollection.com/GlacierParkInc/media/...MBN-GrousseMountainLodge-Room.jpg) returns a JPEG and appears on the rooms page with alt 'a bed in a hotel room' (it is a generic room photo, not a specific suite). Both kept.",
+    "fact-checker 2026-11-14: animals confirmed: Goats of Glacier VIP hand-feeding with a feed cup, open Mon-Sat 10-4, closed Sundays, reopens Memorial Day weekend 2027, price at checkout only, no age limit stated (yes). Great Northern Llama: tour US$50/35, trek US$125/95, tour all ages, trek 6+, hand-feeding on the tour; the page still says 'working on our summer 2026 schedule', so 2027 stays unknown. Swan Mountain: prices US$110/150/185 confirmed; the rates page gives no season dates or minimum age (2026 season dates came from the home page, 2027 not posted). Clydesdale Outpost: US$125, 45 min confirmed; its page lists no minimum age or season, and the cited horse-activities page returned 404, so age_min 12 could not be verified.",
+    "could not verify: Whitefish Lake Golf Club's '36 holes' and public access (the rates page lists North and South courses and sells non-resident daily fees but does not state 36 holes); O'Brien Loft 804 sq ft; Bar W non-guest rides; Hidden Key Escape Games status; Eagle Bend public access.",
+    "price-checker 2026-11-14: lodging score unchanged at 18/25 and total at 79; the O'Brien trio the score rests on is now verified at US$2,330/night, inside the cap, and its rationale never attributed lost points to the unconfirmed price.",
+    "researcher rerun 2026-11-15: the three options the price-checker found sold out (Lodge at Whitefish Lake homes, Lodge at Whitefish Lake condos + room, Grouse Mountain Lodge) moved from lodging to lodging_backups with their quotes and availability. Added two lodging options (Stay Montana Whitefish Penthouse + Downtown Loft + Downtown Penthouse; Whitefish Nest + Modern Loft) and two new backups (Bear Tracks Flat + Whitefish Riverfront Hotel; Home Again Luxury Haven, lock-off not stated). New options carry no availability; the price-checker sets it. Stay Montana's widget shows no prices to a non-browser fetch, so new prices are comparables-based estimates.",
+    "researcher rerun 2026-11-15: animals re-ranked by the trip's current guidance (activity with animals > feeding/touching > hosted encounter > viewing; exotic > large wild > small wild/birds > farm). Horseback and llama trekking are activities with domestic animals and now lead; Goats of Glacier feeding moved to last. Clydesdale age_min changed from 12 to null because the only source for 12 is a 404 page. Animals 14 to 9, total 79 to 74.",
+    "researcher rerun 2026-11-15: Triple D Game Farm (190 Drake Dr, Kalispell; photography sessions with captive wildlife) was considered and left out: its own site failed to load (certificate error), no 2026-2027 public program was found, it serves photographers, and USDA inspection records list welfare citations (Roadside Zoo News, breeder-check listing). Wild Spirit Wolf Sanctuary appeared in search but is in New Mexico. Explore Whitefish's Explore page lists no animal operators. Lakeshore Main House (Stay Montana) was rejected: it is near Polson, about an hour away, and minimum guest age is 18. Whitefish Classic Marketside rejected: 30-night minimum.",
+    "researcher rerun 2026-11-15: 5 WebSearch calls used; TripAdvisor not reopened (it failed on the earlier pass).",
+    "fact-checker 2026-11-15: lodging confirmed on Stay Montana pages: Whitefish Downtown Loft (king; twin-over-queen bunk; queen sleeper; all rooms main level of a second-floor unit; elevator and heated underground garage; table for 8 + 3 bar), Downtown Penthouse (king + queen/twin bunk, sleeper, main level, private entrance, private rooftop hot tub, table 6 + 3 bar; elevator, building and address not stated), Whitefish Penthouse (two kings, private entrance, elevator amenity, private hot tub, table 6 + 3), Whitefish Nest (king, queen, two twins; 2 baths; table 6 + 4 island; private entrance; 'main level stairway' not mentioned in the text, left unexplained), Modern Loft (loft bedroom with full bed reached by an interior stair, bath on main level, own front door via shared building entrance, stairs or elevator to floor 2). Lock-off verdicts unchanged (yes).",
+    "fact-checker 2026-11-15: Downtown Luxury Escape: Stay Montana page confirms 3BR/3BA, main-level king with Jack-and-Jill bath, upper-level king en-suite and bunk room, building elevator plus garage, table 6 + 4 bar; bunk room is twin-over-full per its spec list (description says twin-over-twin), configuration corrected. Whether the elevator reaches the upper level is still not stated. Ratings unchanged (the parents are on the main level either way).",
+    "fact-checker 2026-11-15: Home Again Luxury Haven (backup): fetched Vrbo text lists bedroom 2 as '2 Queen Beds and 1 Twin Bunk Bed' and labels only the hot tub and balcony 'Upper Level'; the price-checker's rendered-page read says one queen bunk + one twin bunk and bedrooms 1, 2 and primary bath upper level. I could not reconcile the two (Marriott page returned 403); configuration records both; ratings left (parents 4 already assumes stairs). Lock-off remains not stated; no score effect (backup).",
+    "fact-checker 2026-11-15: animals: Swan Mountain prices confirmed (1 hr US$110, 2 hr US$150, 3 hr US$185) with no age, weight (other than Trout Lake) or 2027 dates posted; Llama Co. tour/trek prices and ages confirmed, schedule still 'summer 2026', public visits only at ticketed or pre-arranged events; Clydesdale Outpost cited booking page loads (US$125, 45 min, no age, season or 2027 dates; only the older horse-activities page 404s); Goats of Glacier confirmed (VIP feed cup, Mon-Sat 10-4, reopens Memorial Day weekend 2027, price at checkout, no age limit). Bar W corrected from 'not published, age 7' to US$130 per 2-hour public ride plus US$13 permit fee, minimum age 10, Tue-Sat (thebarw.com public rides page; the ranch's own site, not the discoverkalispell page); July 4, 2027 is a Sunday. Order stands under the guidance (activities with domestic animals first, goat feeding last). No item is closed or age-excluded, so animals stays 9/18.",
+    "could not verify: operation in July 2027 for Swan Mountain, Great Northern Llama Co., Clydesdale Outpost and Bar W (only 2026 schedules posted); Home Again bedroom levels; Nest 'main level stairway'.",
+    "price-checker 2026-11-15: Stay Montana O'Brien trio: verified US$2,330 (2026-11-14) to verified US$2,304/night (Penthouse West US$6,726 + View US$3,550 + Loft US$3,550 rent for 6 nights; US$17,574.14 with fees and tax), available on Stay Montana's unit-page widget; value stays 5.",
+    "price-checker 2026-11-15: Downtown Luxury Escape + Firebrand: verified US$1,454-1,543 (2026-11-14) to verified US$1,448-1,537/night (condo US$5,090 for 6 nights; Firebrand Deluxe King US$600 Advance Booking Advantage to US$689 BAR, unchanged), available; value stays 7. The engine lists the Escape's bunk room as 'Two Twin-over-Full Bunkbeds' where the configuration says twin-over-twin.",
+    "price-checker 2026-11-15: Whitefish Penthouse + Downtown Loft + Downtown Penthouse: estimate US$1,650-2,100 to estimate US$1,704-1,854/night, availability not_released. Whitefish Penthouse US$3,512 and Downtown Loft US$3,414 rent for 6 nights quoted on Stay Montana's widget (it does render prices in a browser); Downtown Penthouse 'no inventory available' for the trip dates and for a 2027-07-25/27 control, while a 2026-12-14/16 control quotes, and its calendar has no rates after 2026-12-27 (dates not loaded, or an owner block). Value stays 6.",
+    "price-checker 2026-11-15: Whitefish Nest + Modern Loft: estimate US$1,100-1,550 to verified US$1,118/night (Nest US$4,828 + Modern Loft US$1,877 rent for 6 nights; US$8,769.33 with fees and tax), available; value 7 to 8. Modern Loft page calls its one bath a 'full shared bathroom with a tub/shower combo'; it is the unit's only bath (the unit itself is not shared), so the lock-off verdict is unaffected.",
+    "price-checker 2026-11-15: backup Bear Tracks Flat + Whitefish Riverfront Hotel: estimate US$1,149-1,238 to estimate US$1,102/night, availability sold_out. Glacier Getaways' own widget (glacier-getaways.com, property 34) will not start a stay on Jul 4 or Jul 5, 2027 (moves arrival to Jul 6; Jul 6-10 at US$549/night) while a 2026-12-14/16 control quotes; Riverview King Room with Balcony or Patio quoted US$553/night BAR on SynXis. Value stays 7.",
+    "price-checker 2026-11-15: backup Home Again Luxury Haven (Vrbo 4102175): unknown, no quote; availability not_released (trip dates and a 2027-07-25/27 control both 'not available for check-in', a 2026-12-14/16 control quotes US$1,967 for 2 nights). Vrbo now lists bedroom 1 (king) and bedroom 2 ('One Queen Bunk Bed and One Twin Bunk Bed') and the primary en-suite on the Upper Level, and calls it a condo; the configuration says bedroom floors are not stated and bedroom 2 has two queens plus a twin bunk. Minimum age to rent 18. Lock-off still not stated, so it stays ineligible.",
+    "price-checker 2026-11-15: lodging score unchanged at 18/25 and total at 74; the O'Brien trio the score rests on is verified at US$2,304/night, available and inside the cap, so no backup was promoted."
+  ],
+  "sources": [
+    {
+      "title": "Stay Montana: O'Brien Penthouse West",
+      "url": "https://www.staymontana.com/vacation-rentals/obrien-penthouse-west/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: O'Brien View",
+      "url": "https://www.staymontana.com/vacation-rentals/obrien-view/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: O'Brien Loft",
+      "url": "https://www.staymontana.com/vacation-rentals/obrien-loft/",
+      "section": "lodging"
+    },
+    {
+      "title": "FindRentals: O'Brien Penthouse West (Stay Montana)",
+      "url": "https://www.findrentals.com/stay-montana/p182316",
+      "section": "lodging"
+    },
+    {
+      "title": "FindRentals: Whitefish Downtown Luxury Escape (Stay Montana)",
+      "url": "https://www.findrentals.com/stay-montana/p182344",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: The Whitefish Penthouse",
+      "url": "https://www.staymontana.com/vacation-rentals/the-whitefish-penthouse/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: Whitefish Downtown Loft",
+      "url": "https://www.staymontana.com/vacation-rentals/whitefish-downtown-loft/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: Downtown Penthouse",
+      "url": "https://www.staymontana.com/vacation-rentals/downtown-penthouse/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: The Whitefish Nest",
+      "url": "https://www.staymontana.com/vacation-rentals/the-whitefish-nest/",
+      "section": "lodging"
+    },
+    {
+      "title": "FindRentals: The Whitefish Nest, 6 O'Brien Ave #6 (Stay Montana)",
+      "url": "https://www.findrentals.com/stay-montana/p187052",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: Whitefish Modern Loft",
+      "url": "https://www.staymontana.com/vacation-rentals/whitefish-modern-loft/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: Whitefish Classic Marketside (30-night minimum, rejected)",
+      "url": "https://www.staymontana.com/vacation-rentals/whitefish-classic-marketside/",
+      "section": "lodging"
+    },
+    {
+      "title": "Stay Montana: Lakeshore Main House (Polson, rejected)",
+      "url": "https://www.staymontana.com/vacation-rentals/lakeshore-main-house/",
+      "section": "lodging"
+    },
+    {
+      "title": "FindRentals: Bear Tracks Flat (Glacier Getaways), 221 E First St, rates",
+      "url": "https://www.findrentals.com/glacier-getaways/p193032",
+      "section": "lodging"
+    },
+    {
+      "title": "Whitefish Riverfront Hotel (formerly The Pine Lodge)",
+      "url": "https://whitefishriverfronthotel.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Whitefish Riverfront Hotel accommodations",
+      "url": "https://whitefishriverfronthotel.com/accommodations",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo: Home Again Luxury Haven (4102175)",
+      "url": "https://www.vrbo.com/4102175",
+      "section": "lodging"
+    },
+    {
+      "title": "Marriott Homes & Villas: Home Again Luxury Haven",
+      "url": "https://homes-and-villas.marriott.com/en/properties/40376231-whitefish-new-home-again-luxury-haven-sleeps-8",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge at Whitefish Lake: Lakefront Condominiums",
+      "url": "https://lodgeatwhitefishlake.com/whitefish-lake-condos",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge at Whitefish Lake: Luxury Homes",
+      "url": "https://lodgeatwhitefishlake.com/luxury-homes",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge at Whitefish Lake: Luxury Home #7",
+      "url": "https://lodgeatwhitefishlake.com/content/luxury-home-7/c2c91462-d396-410a-9995-c1dce34aaf5d",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge at Whitefish Lake: Luxury Home #15",
+      "url": "https://lodgeatwhitefishlake.com/content/luxury-home-15/f86efbc1-6f9c-4344-aa19-6e5228e09951",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge at Whitefish Lake: Averill Suite",
+      "url": "https://lodgeatwhitefishlake.com/content/averill-suite/eca03e2f-4610-440d-acde-53d91cf6c406",
+      "section": "lodging"
+    },
+    {
+      "title": "Suiteness: Lodge at Whitefish Lake lakefront 3BR condo",
+      "url": "https://www.suiteness.com/suites/united-states/montana/whitefish/lodge-at-whitefish-lake/lakefront-three-bedroom-condo",
+      "section": "lodging"
+    },
+    {
+      "title": "Kayak: Lodge at Whitefish Lake rates",
+      "url": "https://www.kayak.com/Whitefish-Hotels-Lodge-at-Whitefish-Lake.163251.ksp",
+      "section": "lodging"
+    },
+    {
+      "title": "Lodge at Whitefish Lake offers",
+      "url": "https://lodgeatwhitefishlake.com/offers",
+      "section": "lodging"
+    },
+    {
+      "title": "Firebrand Hotel accommodations",
+      "url": "https://firebrandhotel.com/accommodations",
+      "section": "lodging"
+    },
+    {
+      "title": "Grouse Mountain Lodge rooms (Glacier Park Collection)",
+      "url": "https://glacierparkcollection.com/lodging/grouse-mountain-lodge/rooms",
+      "section": "lodging"
+    },
+    {
+      "title": "Goats of Glacier",
+      "url": "https://goatsofglacier.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Discover Kalispell: Goats of Glacier",
+      "url": "https://discoverkalispell.com/activities/goats-of-glacier/",
+      "section": "animals"
+    },
+    {
+      "title": "Great Northern Llama Co.: book now",
+      "url": "https://www.gnllamaco.com/booknow",
+      "section": "animals"
+    },
+    {
+      "title": "KPAX: Great Northern Llama Company starts summer experiences",
+      "url": "https://www.kpax.com/news/local-news/flathead-county/great-northern-llama-company-starts-summer-experiences",
+      "section": "animals"
+    },
+    {
+      "title": "Swan Mountain Outfitters Glacier: home and 2026 season",
+      "url": "https://www.swanmountainglacier.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Swan Mountain Outfitters Glacier: rates",
+      "url": "https://www.swanmountainglacier.com/rates-and-trips-at-a-glance/",
+      "section": "animals"
+    },
+    {
+      "title": "NPS Glacier: horseback rides",
+      "url": "https://www.nps.gov/glac/planyourvisit/horseback-rides.htm",
+      "section": "animals"
+    },
+    {
+      "title": "Clydesdale Outpost: Clydesdale horseback riding",
+      "url": "https://www.clydesdaleoutpost.com/service-page/clydesdale-horseback-riding",
+      "section": "animals"
+    },
+    {
+      "title": "Clydesdale Outpost: horse activities (minimum age; returned 404)",
+      "url": "https://clydesdaleoutpost.com/horse-activities",
+      "section": "animals"
+    },
+    {
+      "title": "Discover Kalispell: Bar W Guest Ranch",
+      "url": "https://discoverkalispell.com/activities/bar-w-guest-ranch/",
+      "section": "animals"
+    },
+    {
+      "title": "Roadside Zoo News: Triple D Game Farm USDA citations",
+      "url": "https://roadsidezoonews.org/post/photography-game-farm-triple-d-wildlife-cited-6-times-for-keeping-animals-in-squalor",
+      "section": "animals"
+    },
+    {
+      "title": "BreederCheck: Triple D Game Farm inspection record",
+      "url": "https://breedercheck.com/breeder/triple-d-game-farm-inc-kalispell-mt",
+      "section": "animals"
+    },
+    {
+      "title": "Whitefish Lake Golf Club",
+      "url": "https://www.golfwhitefish.com/",
+      "section": "golf"
+    },
+    {
+      "title": "Whitefish Lake Golf Club rates",
+      "url": "https://golfwhitefish.com/rates/",
+      "section": "golf"
+    },
+    {
+      "title": "Where2Golf: Eagle Bend Golf Club",
+      "url": "https://www.where2golf.com/usa-rockies/eagle-bend-golf-club",
+      "section": "golf"
+    },
+    {
+      "title": "1golf.eu: Eagle Bend Golf Course fees",
+      "url": "https://www.1golf.eu/en/club/eagle-bend-golf-course",
+      "section": "golf"
+    },
+    {
+      "title": "Explore Whitefish (tourism site)",
+      "url": "https://explorewhitefish.com/",
+      "section": "general"
+    },
+    {
+      "title": "Explore Whitefish: Explore (activity listings)",
+      "url": "https://explorewhitefish.com/explore",
+      "section": "activities"
+    },
+    {
+      "title": "Whitefish Mountain Resort summer activities",
+      "url": "https://skiwhitefish.com/summer-activities/",
+      "section": "activities"
+    },
+    {
+      "title": "Daily Montanan: Glacier drops ticketed entry (2026)",
+      "url": "https://dailymontanan.com/2026/02/18/glacier-confirms-its-dropping-ticketed-entry/",
+      "section": "activities"
+    },
+    {
+      "title": "MapQuest: Hidden Key Escape Games",
+      "url": "https://www.mapquest.com/us/montana/hidden-key-escape-games-377671276",
+      "section": "activities"
+    },
+    {
+      "title": "PlanetWare: top attractions in Whitefish",
+      "url": "https://planetware.com/montana/top-rated-attractions-and-things-to-do-in-whitefish-mt-us-mt-44.htm",
+      "section": "activities"
+    },
+    {
+      "title": "Wanderlog: top things to do in Whitefish",
+      "url": "https://wanderlog.com/list/geoCategory/1591848/top-things-to-do-and-attractions-in-whitefish",
+      "section": "activities"
+    },
+    {
+      "title": "Explore Whitefish: Dine",
+      "url": "https://explorewhitefish.com/dine",
+      "section": "restaurants"
+    },
+    {
+      "title": "Travel With A Plan: best restaurants in Whitefish",
+      "url": "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/",
+      "section": "restaurants"
+    },
+    {
+      "title": "MapQuest: Tupelo Grille",
+      "url": "https://startpage.mapquest.com/us/montana/tupelo-grille-7455256",
+      "section": "restaurants"
+    },
+    {
+      "title": "Current Results: Montana July temperatures (NOAA 1991-2020)",
+      "url": "https://www.currentresults.com/Weather/Montana/temperature-july.php",
+      "section": "weather"
+    },
+    {
+      "title": "CoCoRaHS Whitefish 4.9 W climatology",
+      "url": "https://dex.cocorahs.org/stations/MT-FH-40/climatology",
+      "section": "weather"
+    },
+    {
+      "title": "Glacier Park International Airport: direct flights",
+      "url": "https://iflyglacier.com/",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 81,
+    "low_f": 50
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://www.clydesdaleoutpost.com/service-page/clydesdale-horseback-riding": {
+      "url": "https://static.wixstatic.com/media/11062b_41aa879f3ae641d191b57a806984af7a~mv2.png/v1/fit/w_2500,h_1330,al_c/11062b_41aa879f3ae641d191b57a806984af7a~mv2.png",
+      "src": "img/f10acf3390642013.jpg"
+    },
+    "https://dailymontanan.com/2026/02/18/glacier-confirms-its-dropping-ticketed-entry/": {
+      "url": "https://dailymontanan.com/wp-content/uploads/2024/12/27812931390_9e7f9f596a_k-1.jpg",
+      "src": "img/45cc026e4f96e85d.jpg"
+    },
+    "https://travelwithaplan.com/best-restaurants-in-whitefish-montana/": {
+      "url": "https://travelwithaplan.com/wp-content/uploads/2021/07/pizza-1150031_1920-e1627576351955.jpg",
+      "src": "img/b632145053e16705.jpg"
+    },
+    "https://www.mapquest.com/us/montana/hidden-key-escape-games-377671276": {
+      "url": "https://img.p.mapq.st/?url=https%3A%2F%2Fs3-media0.fl.yelpcdn.com%2Fbphoto%2FAtAsqJosASNlWTRsHzrDrA%2Fl.jpg&w=1200&q=75",
+      "src": "img/624359b059943b06.jpg"
+    },
+    "https://discoverkalispell.com/activities/bar-w-guest-ranch/": {
+      "url": "https://discoverkalispell.com/wp-content/uploads/2022/08/trailridesMTBEST-scaled.jpg",
+      "src": "img/9218a79cad9bbea8.jpg"
+    },
+    "https://startpage.mapquest.com/us/montana/tupelo-grille-7455256": {
+      "url": "https://img.p.mapq.st/?url=https%3A%2F%2Fs3-media0.fl.yelpcdn.com%2Fbphoto%2FjelyN17LVGbuifKzE_FE3Q%2Fl.jpg&w=1200&q=75",
+      "src": "img/7ba74b0b969c93ca.jpg"
+    }
+  }
+}

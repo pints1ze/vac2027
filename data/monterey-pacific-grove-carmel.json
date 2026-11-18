@@ -1,0 +1,1372 @@
+{
+  "slug": "monterey-pacific-grove-carmel",
+  "name": "Monterey / Pacific Grove / Carmel, CA",
+  "region": "California coast",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "Strong all-round fit: MRY is about 10 minutes away with a year-round United DEN nonstop, July highs are about 66 F, and Pacific Grove Golf Links plus Pebble Beach cover golf. Lodging works through cottage clusters and inns, not whole houses: Mission Ranch in Carmel (separate cottage plus a 2BR cottage and ground-floor barn rooms, an estimated $1,140-1,500/night, phone booking only) carries the score, Carmel Country Inn (three ground-floor-capable units) is verified at $1,534/night, and Andril's Rancho Reposo shows no availability Jul 4-11 so it now sits in backups beside Yellow House (main house booked for the trip dates). Animals: the best options are kayaking among wild sea otters in Elkhorn Slough and a horseback ride on the Monterey Dunes beach; the Monterey Zoo's tiger/lion feeding tours are the only exotic hands-on option and are unpublished for 2027. Biggest caveat: no option has a confirmed room where all 8 sit at one table.",
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pacific_Grove%2C_California_-_2022_19.jpg",
+      "page_url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+      "credit": "Wikimedia Commons",
+      "alt": "Lovers Point Beach, Pacific Grove",
+      "src": "img/4d7a1a2f8d3ae61c.jpg"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Point_Pinos_Light_during_reconstruction_%282013%29.jpg",
+        "page_url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+        "credit": "Wikimedia Commons",
+        "alt": "Point Pinos Lighthouse, Pacific Grove",
+        "src": "img/6788d890fdc6462c.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pacific_Grove_Shops%2C_Monterey%2C_CA%2C_jjron_24.03.2012_%28cropped%29.jpg",
+        "page_url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+        "credit": "Wikimedia Commons",
+        "alt": "Shops on Lighthouse Avenue, downtown Pacific Grove",
+        "src": "img/e80d908976b3d208.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pacific_Grove%2C_California_-_2022_5.jpg",
+        "page_url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+        "credit": "Wikimedia Commons",
+        "alt": "Perkins Park and Asilomar coastline",
+        "src": "img/f96d924420b739ca.jpg"
+      },
+      {
+        "url": "https://imgc.ssmedia.com/imgc296_84795/q:75/missionranchcarmel/webart/slideshows/49.jpg",
+        "page_url": "https://www.missionranchcarmel.com/",
+        "credit": "Mission Ranch",
+        "alt": "Mission Ranch grounds, Carmel",
+        "src": "img/0a4d2f9564098358.jpg"
+      },
+      {
+        "url": "https://assets.montereybayaquarium.org/general/images/animals/fish-whales/TR26-Seahorse-Big-belly-0388-cropped.jpg",
+        "page_url": "https://www.montereybayaquarium.org/visit",
+        "credit": "Monterey Bay Aquarium",
+        "alt": "Big-belly seahorse at Monterey Bay Aquarium",
+        "src": "img/28569454307f3559.jpg"
+      }
+    ]
+  },
+  "brochure": {
+    "tagline": "Otters, a world-class aquarium, ocean-view golf and Carmel's village streets",
+    "intro": "A week on the Monterey Peninsula is cool, breezy and easy. Mornings can be foggy and July highs sit around 66 F. Spend days on the shoreline path, out on the bay and wandering Carmel, with the airport only about 10 minutes away.",
+    "highlights": [
+      "Monterey Bay Aquarium on Cannery Row, with otters in the bay",
+      "Paddle a kayak among wild sea otters at Elkhorn Slough",
+      "Humpback whale season on Monterey Bay",
+      "Golf at Pacific Grove Links beside Point Pinos Lighthouse",
+      "Flat shoreline path from Lovers Point toward Cannery Row",
+      "Nonstop United flights from Denver"
+    ],
+    "pros": [
+      "Airport is about 10 minutes from town",
+      "Cool July weather, no heat",
+      "Level, walkable shoreline and downtown Pacific Grove",
+      "Pebble Beach and a seaside public course both nearby",
+      "Plenty of seafood dinners, many within a short walk"
+    ],
+    "cons": [
+      "Fog is common on summer mornings",
+      "Animals are mostly watched, not touched; kayak and horse rides are 10+",
+      "Carmel's main street slopes toward the beach",
+      "July 4 weekend means busier roads and higher rates"
+    ],
+    "stays": [
+      {
+        "name": "Carmel Country Inn: Deluxe One Bedroom King Suite + King Studio + Two Bedroom One Bath Suite",
+        "title": "Carmel Country Inn, Carmel",
+        "blurb": "A small Carmel inn about four blocks from Ocean Avenue, with suites and studios that each have a gas fireplace. Breakfast is included, and Carmel's shops and restaurants are a short walk away.",
+        "highlights": [
+          "Walk to Carmel shops and restaurants",
+          "Breakfast included",
+          "Gas fireplace in every room",
+          "Ground-floor suites and studios"
+        ]
+      },
+      {
+        "name": "Lighthouse Lodge & Cottages: Honeymoon Cottage + 2 Residence suites",
+        "title": "Lighthouse Lodge & Cottages, Pacific Grove",
+        "blurb": "A lodge and cottage complex in Pacific Grove, close to the golf links and Asilomar. Fire pits sit on the cottage side and breakfast rooms are on site.",
+        "highlights": [
+          "Outdoor fire pits",
+          "Residence with a full kitchen",
+          "Seasonal pool",
+          "Breakfast on site"
+        ]
+      },
+      {
+        "name": "Mission Ranch: Honeymoon Cottage + Bunkhouse Cottage + Main Barn rooms",
+        "title": "Mission Ranch, Carmel",
+        "blurb": "A ranch inn near the Carmel Mission with cottages, patios and ground-floor barn rooms. Reservations are by phone.",
+        "highlights": [
+          "Cottages with gas fireplaces",
+          "Ground-floor rooms and an accessible cottage",
+          "Patios and yards",
+          "On-site restaurant"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Monterey Bay Aquarium",
+        "kind": "animals",
+        "blurb": "Kelp forest, sea otters and penguins on Cannery Row; buy timed tickets ahead for the holiday week.",
+        "url": "https://www.montereybayaquarium.org/visit",
+        "image": {
+          "url": "https://d1v5k86lqgwnzg.cloudfront.net/assets/images/visitors/family-adventures-tr24_0110.jpg",
+          "page_url": "https://www.montereybayaquarium.org/visit",
+          "credit": "Monterey Bay Aquarium",
+          "alt": "Families on a guided animal-care tour at the aquarium",
+          "src": "img/6e9d5292d0a6becb.jpg"
+        }
+      },
+      {
+        "name": "Kayak with the otters at Elkhorn Slough",
+        "kind": "animals",
+        "blurb": "A guided 2.5-hour paddle among wild sea otters and harbor seals, about 30 minutes away. Ages 11 and up; the guides keep boats back from the animals.",
+        "url": "https://www.montereybaykayaks.com/elkhorn-slough.html",
+        "image": {
+          "url": "https://www.montereybaykayaks.com/uploads/7/4/6/8/74681279/color-adj-montereybaykayaks-elkhornslough1_orig.jpg",
+          "page_url": "https://www.montereybaykayaks.com/elkhorn-slough.html",
+          "credit": "Monterey Bay Kayaks",
+          "alt": "Kayaking on Elkhorn Slough",
+          "src": "img/115cfc7d97acec53.jpg"
+        }
+      },
+      {
+        "name": "Horseback ride on the beach",
+        "kind": "animals",
+        "blurb": "A guided 75-minute ride through the Monterey Dunes and along the beach, for riders 10 and up. Call to confirm July ride times.",
+        "url": "https://montereybayequestrian.com/beach-rides/",
+        "image": {
+          "url": "https://montereybayequestrian.com/wp-content/uploads/2019/07/1557339_10152248359051320_198659116_o-1024x768.jpg",
+          "page_url": "https://montereybayequestrian.com/",
+          "credit": "Monterey Bay Equestrian Center",
+          "alt": "Monterey Bay Equestrian Center ride",
+          "src": null
+        }
+      },
+      {
+        "name": "Monterey Bay whale watching",
+        "kind": "animals",
+        "blurb": "A three-hour boat trip from Fisherman's Wharf; humpbacks feed in the bay through summer. Check July departures when booking.",
+        "url": "https://montereybaywhalewatch.com/"
+      },
+      {
+        "name": "Pacific Grove Golf Links",
+        "kind": "golf",
+        "blurb": "Municipal 18 with a dunes back nine beside Point Pinos Lighthouse and the ocean.",
+        "url": "https://www.playpacificgrove.com/",
+        "image": {
+          "url": "https://www.playpacificgrove.com/images/banners/banner_10.jpg",
+          "page_url": "https://www.playpacificgrove.com/",
+          "credit": "Pacific Grove Golf Links",
+          "alt": "Pacific Grove Golf Links course",
+          "src": "img/197cba1694194e72.jpg"
+        }
+      },
+      {
+        "name": "Pebble Beach Golf Links",
+        "kind": "golf",
+        "blurb": "The famous cliffside course above Carmel Bay; non-guests can book only a day ahead.",
+        "url": "https://www.top100golfcourses.com/golf-course/pebble-beach/reviews/48475"
+      },
+      {
+        "name": "Shoreline path and Lovers Point",
+        "kind": "outdoors",
+        "blurb": "A level paved trail along Ocean View Boulevard with tide pools, benches and otters.",
+        "url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pacific_Grove%2C_California_-_2022_5.jpg",
+          "page_url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+          "credit": "Wikimedia Commons",
+          "alt": "Perkins Park and Asilomar coastline",
+          "src": "img/f96d924420b739ca.jpg"
+        }
+      },
+      {
+        "name": "17-Mile Drive",
+        "kind": "outdoors",
+        "blurb": "A scenic drive from Pacific Grove to Carmel past the Lone Cypress, mostly viewpoints from the car.",
+        "url": "https://www.frommers.com/destinations/pacific-grove/things-to-do/"
+      },
+      {
+        "name": "Cannery Row, the lighthouse and Carmel shops",
+        "kind": "town",
+        "blurb": "Cannery Row shops, Point Pinos Lighthouse (1855) and the galleries and boutiques around Ocean Avenue in Carmel.",
+        "url": "https://www.frommers.com/destinations/pacific-grove/things-to-do/",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Point_Pinos_Light_during_reconstruction_%282013%29.jpg",
+          "page_url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+          "credit": "Wikimedia Commons",
+          "alt": "Point Pinos Lighthouse, Pacific Grove",
+          "src": "img/6788d890fdc6462c.jpg"
+        }
+      },
+      {
+        "name": "Escape Room 831",
+        "kind": "rainy day",
+        "blurb": "Puzzle rooms on Cannery Row, a good indoor pick for teens and adults.",
+        "url": "https://www.seemonterey.com/directory/escape-room-831/"
+      }
+    ],
+    "dinner_spots": [
+      "Passionfish - sustainable seafood for a special night",
+      "The Beach House at Lovers Point - casual dinner over the beach",
+      "Rudolfo's Cafe - Italian in downtown Pacific Grove",
+      "Red House Cafe - popular brunch and coffee spot"
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: Monterey Regional (MRY) is about 10 minutes from Pacific Grove and Monterey and about 15 from Carmel; United flies DEN-MRY year-round (Boeing 737-800s from May 2026); the Bay Area pair can drive (OAK/SFO about 1.75-2 hr) or connect via SFO. Seniors: downtown Pacific Grove (Lighthouse Ave), Cannery Row and the Ocean View Blvd shoreline path are short, mostly level walks. Carmel's Ocean Ave slopes noticeably toward the beach. Mission Ranch has all-ground-floor Main Barn rooms and an ADA cottage. Stairs are not stated for the Pacific Grove houses."
+  },
+  "scores": {
+    "lodging": 17,
+    "town_scenery": 16,
+    "animals": 11,
+    "food": 10,
+    "other": 9,
+    "golf": 9,
+    "weather": 5,
+    "total": 77,
+    "rationale": {
+      "lodging": "17/25: rests on Mission Ranch (Honeymoon Cottage + Bunkhouse Cottage + Main Barn 2-room unit, $1,140-1,500/night estimate from the ranch's published pre-2027 room rates; the ranch quotes only by phone, re-checked 2026-11-15): true separate cottage and ground-floor rooms for the parents, but the only gathering room is the 550 sq ft Bunkhouse, too small for 8 at one table; Carmel Country Inn is verified at $1,534/night but has no kitchens or group room, and Andril's Rancho Reposo (better living room) shows no availability for the trip dates and is now a backup.",
+      "town_scenery": "16/18: Pacific Grove's Lighthouse Ave and the level Ocean View Blvd shoreline path give a flat, walkable village with real coast views; Carmel is walkable but sloped.",
+      "animals": "11/18: rests on the top two by the ranking, a guided kayak among wild sea otters and harbor seals in Elkhorn Slough ($70, 2.5 hr, over-10s, daily) and a 75-min horseback ride through the Monterey Dunes and beach ($175, ages 10+, July schedule not published); the only exotic hands-on option, Monterey Zoo's full-contact tours (feeding a lion or tiger, putting a rhino to bed), has no published price, ages or 2027 schedule, and nothing involves touching or swimming with wild animals.",
+      "food": "10/15: downtown Pacific Grove has 10+ restaurants on foot from the High Tide duplex, including Passionfish for the special dinner, but the two lodging options with the best layout (Mission Ranch, Andril) are a 20-30 min walk or short drive from town.",
+      "other": "9/10: Escape Room 831 on Cannery Row, kayaks and bikes, aquarium, Carmel shopping, plus a year-round United DEN-MRY nonstop and a 10-minute transfer.",
+      "golf": "9/9: Pebble Beach Golf Links ($755 non-guest) 15-20 min away, with Pacific Grove Golf Links ($66-89, dunes holes by Point Pinos Lighthouse) in town as the alternative.",
+      "weather": "5/5: Monterey July normal high 65.8 F, low 54.4 F, 1.1 rain days (NOAA 1991-2020); fog is common but not a scoring factor."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Mission Ranch: Honeymoon Cottage + Bunkhouse Cottage + Main Barn rooms",
+      "kind": "ranch inn: 1BR cottage + 2BR cottage + ground-floor 2-room unit",
+      "quick_verdict": "Clean three-way split with ground-floor rooms; small shared room.",
+      "configuration": "Mission Ranch (Carmel, near the Carmel Mission) has 31 rooms in ten buildings. Honeymoon Cottage: 500 sq ft, king bed, living room with gas fireplace and dinette, one bath with large walk-in shower, private patio and yard; published rate $420. Bunkhouse Cottage: 550 sq ft, two bedrooms (king; full), one bath with walk-in shower, living room with gas fireplace and dinette, wraparound patio, reserved parking, listed as ADA accessible; $445. Main Barn: six rooms, all on the first floor; one is a 475 sq ft King + 2 Twins pair of rooms sharing one bath ($275); ADA room #28 (queen, roll-in shower, $200). Every room has an outside entrance and private bath. No kitchens: the amenities list says refrigerators in all rooms except the Farmhouse; a kitchen is not listed for either cottage. Gathering room: the Bunkhouse living room and dinette, seating for 8 not stated (550 sq ft cottage, unlikely to seat 8 at a table). Floor/stairs for the cottages not stated. Downtown Carmel (Ocean Ave) is about 1 mile, roughly 20-25 min on foot with a hill, or 4 min by car. Rates on the page carry an asterisk footnote that was not captured; season and minimum stay not stated.",
+      "family_split": {
+        "scott_andrea": "Honeymoon Cottage (own building, king, living room, own bath)",
+        "parents": "Bunkhouse Cottage, king bedroom (ADA, the evening gathering spot)",
+        "brother_family": "Main Barn King + 2 Twins two-room unit (ground floor, shared bath)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Mission Ranch accommodations page: Honeymoon Cottage is a standalone cottage with its own bath, living room and private patio and yard; every room has an outside entrance."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 9,
+        "location": 6,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": 20,
+      "food_convenience": "On-site restaurant (not checked this pass); downtown Carmel's restaurants about 20-25 min on foot or 4 min by car.",
+      "price": {
+        "nightly_total_usd_low": 1140,
+        "nightly_total_usd_high": 1500,
+        "label": "estimate",
+        "basis": "Not sold online (re-checked 2026-11-15: the page still has no booking engine, only a Reservation Request Form, and the posted rates are unchanged; the linked 2027-Mission-Ranch-Rate-Update.pdf again rendered no readable text). Not sold online (checked 2026-11-14): the accommodations page says 'we do not make or change reservations online or through email... we also do not offer quotes or availability online'; only a reservation request form. Ask (831) 624-6436 / (800) 538-8221. Estimate unchanged: sum of rates on the accommodations page (Honeymoon Cottage $420 + Bunkhouse Cottage $445 + Main Barn King & 2 Twins $275 = $1,140), season not stated; the page links a '2027 room rates changes' PDF (missionranchcarmel.com/download/2027-Mission-Ranch-Rate-Update.pdf) whose text could not be read, so 2027 rates may differ. High end allows for July or holiday-week pricing.",
+        "source_url": "https://www.missionranchcarmel.com/accommodations.htm",
+        "fees_notes": "Carmel transient occupancy tax extra; rate footnote not captured.",
+        "source_kind": "property",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "availability": "not_sold_online",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Own cottage for one household",
+        "Ground-floor and ADA rooms for the parents"
+      ],
+      "compromises": [
+        "No room seats 8 at a table",
+        "No kitchens listed",
+        "20-25 min uphill walk to Carmel"
+      ],
+      "best_for": "Choose this if a clear three-way split and step-free rooms for the parents matter most.",
+      "links": [
+        "https://www.missionranchcarmel.com/accommodations.htm",
+        "https://www.missionranchcarmel.com/"
+      ],
+      "images": [
+        {
+          "url": "https://imgc.ssmedia.com/imgc296_84795/q:75/missionranchcarmel/webart/slideshows/52.jpg",
+          "page_url": "https://www.missionranchcarmel.com/",
+          "credit": "Mission Ranch",
+          "alt": "Mission Ranch property",
+          "src": "img/a855224fd939d929.jpg"
+        },
+        {
+          "url": "https://imgc.ssmedia.com/imgc296_84795/q:75/missionranchcarmel/webart/roomtypes/7.jpg",
+          "page_url": "https://www.missionranchcarmel.com/accommodations.htm",
+          "credit": "Mission Ranch",
+          "alt": "Honeymoon Cottage",
+          "src": "img/682b70893ce60746.jpg"
+        },
+        {
+          "url": "https://imgc.ssmedia.com/imgc296_84795/q:75/missionranchcarmel/webart/roomtypes/8.jpg",
+          "page_url": "https://www.missionranchcarmel.com/accommodations.htm",
+          "credit": "Mission Ranch",
+          "alt": "Bunkhouse Cottage",
+          "src": "img/1b1eba4d40d586cf.jpg"
+        },
+        {
+          "url": "https://imgc.ssmedia.com/imgc296_84795/q:75/missionranchcarmel/webart/roomtypes/2.jpg",
+          "page_url": "https://www.missionranchcarmel.com/accommodations.htm",
+          "credit": "Mission Ranch",
+          "alt": "Main Barn rooms",
+          "src": "img/feb0653713ff63ec.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sanctuary Vacation Rentals: 3962 High Tide + other half of the duplex",
+      "kind": "both sides of a duplex, downtown Pacific Grove",
+      "quick_verdict": "Walk-everywhere duplex split; stairs and seating unconfirmed.",
+      "configuration": "3962 High Tide (Sanctuary Vacation Rentals): one half of a Cape Cod shingled duplex in central Pacific Grove; the listing says the other half is also a vacation rental and suggests groups book both. High Tide: 3 bedrooms (king; double; two twins), 2 baths, sleeps 6, living room, dining area, deck/patio and balcony; 1,766 sq ft over two levels: the king bedroom (with the upstairs hall bath and ocean-view deck) is upstairs; the double and twin day-bed rooms are on the main floor sharing a Jack and Jill bath (Sanctuary page). No hot tub or fire pit listed. Cannery Row about 8 min and the aquarium about 10 min on foot; Lighthouse Ave restaurants a few blocks. The other half is probably 3963 Low Tide (same manager, consecutive number; 2 bedrooms, sleeps 4, garage), but the pairing is an inference. Minimum stay is 30 nights within one calendar month (price-checker, 2026-11-14); Pacific Grove allows short-term rentals only in coastal and commercial zones with a city license.",
+      "family_split": {
+        "scott_andrea": "The other duplex half (likely 3963 Low Tide, 2BR)",
+        "parents": "High Tide, king bedroom (upstairs; stairs required)",
+        "brother_family": "High Tide, double bedroom and twin room"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "High Tide listing text (via Marriott Homes & Villas and OTA copies): 'one half of a classic Cape Cod shingled duplex... the other unit is also a vacation rental.' Separate duplex side = own unit. Which listing is the other half needs confirming with Sanctuary."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 3,
+        "location": 9,
+        "value": 2
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Lighthouse Ave restaurants (Passionfish, Fishwife, Red House Cafe) within a few blocks; Cannery Row 8 min.",
+      "price": {
+        "nightly_total_usd_low": 3584,
+        "nightly_total_usd_high": 3584,
+        "label": "estimate",
+        "basis": "Not sold online for a 6-night stay (re-checked 2026-11-15: both pages still say 'Monthly Rental', July 2027 base rates unchanged at $11,658 and $9,847). No 6-night stay is sold: Sanctuary Vacation Rentals' own pages (read 2026-11-14) list both 3962 High Tide and 3963 Low Tide as 'Monthly Rental', bookable for 30 nights or more with all nights in one calendar month ('some exceptions may be possible' with owner approval). Published 30-night base rates for Jul 1-31, 2027: 3962 High Tide (parents + brother family) $11,658; 3963 Low Tide (Scott & Andrea) $9,847; sum $21,505. Holding both for the trip means paying the July month: $21,505 / 6 trip nights = $3,584 per night of the stay ($717 per night across all 30). If the owners approved a short stay, the price is unknown.",
+        "source_url": "https://www.sanctuaryvacationrentals.com/vacation-rentals/3962-high-tide",
+        "fees_notes": "Base rates only; taxes and fees not shown on the rate table.",
+        "source_kind": "manager",
+        "units_quoted": [
+          "3962 High Tide, monthly base rate Jul 1-31 2027, $11,658 (30 nights)",
+          "3963 Low Tide, monthly base rate Jul 1-31 2027, $9,847 (30 nights)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "availability": "not_sold_online",
+        "stale": false,
+        "over_cap": true
+      },
+      "pros": [
+        "Walk to downtown, aquarium, shoreline path",
+        "Each side is its own home"
+      ],
+      "compromises": [
+        "Monthly rentals only (30-night minimum); far over the cap",
+        "Parents' king bedroom is upstairs",
+        "Living room seating for 8 not stated",
+        "Other half's identity unconfirmed"
+      ],
+      "best_for": "Choose this if walking to dinner and the bay matters most and the parents can manage some stairs.",
+      "links": [
+        "https://www.vrbo.com/20093425ha",
+        "https://homes-and-villas.marriott.com/en/properties/40531395-pacific-grove-3962-high-tide",
+        "https://www.orbitz.com/Pacific-Grove-Hotels-3963-Low-Tide-Walk-To-Aquarium.h111839027.Hotel-Information"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/112000000/111840000/111839100/111839014/a28befce.jpg?impolicy=resizecrop&rw=598&ra=fit",
+          "page_url": "https://www.vrbo.com/20093425ha",
+          "credit": "Vrbo / Sanctuary Vacation Rentals",
+          "alt": "3962 High Tide duplex, Pacific Grove",
+          "src": "img/ec1ce496c928ddd3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lighthouse Lodge & Cottages: Honeymoon Cottage + 2 Residence suites",
+      "kind": "lodge and cottage complex: 1BR cottage + two 1BR residences",
+      "quick_verdict": "Three self-contained units; modest shared space, a walk from downtown.",
+      "configuration": "1150 Lighthouse Ave, Pacific Grove. Honeymoon Cottage: king bed, dining area, large living room with skylights, gas fireplace open to bedroom and living room. Residence with Kitchen: 1-bedroom suite, large L-shaped kitchen with dining table and booth seating, living area with sofa sleeper, full bath, private backyard, up to 4 per the property page (the booking engine says 2 guests). Residence with Fireplace: 1-bedroom suite, back-to-back fireplaces, sofa sleeper, walk-in shower, private backyard, up to 4 per the property page (the booking engine says 2 guests). Also a Cottage Studio King Accessible (roll-in shower). Shared: outdoor fire pits on the cottage side, seasonal pool on the lodge side, breakfast rooms. Floors for the residences not stated. Downtown Pacific Grove is about 0.8 mi (15-20 min walk); Pacific Grove Golf Links and Asilomar are nearby.",
+      "family_split": {
+        "scott_andrea": "Honeymoon Cottage",
+        "parents": "Residence with Fireplace (or Cottage Studio King Accessible)",
+        "brother_family": "Residence with Kitchen (bedroom + sofa sleeper for the teens); its dining table and booth are the gathering spot"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Lighthouse Lodge rooms page: the Honeymoon Cottage is a separate cottage unit with its own bedroom and living room; each unit is a separate hotel unit."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 6,
+        "location": 5,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 18,
+      "food_convenience": "Downtown Pacific Grove 15-20 min on foot or 3 min by car; continental/buffet breakfast rooms on site.",
+      "price": {
+        "nightly_total_usd_low": 1391,
+        "nightly_total_usd_high": 1739,
+        "label": "estimate",
+        "basis": "Re-read 2026-11-15 in SynXis for Jul 4-10 2027: Honeymoon Cottage $353 and Residence with Fireplace $519 (Stay More & Save More, 2 adults) unchanged; a 2 adults + 2 children search again returns no Residence (only lodge rooms and the Cottage Junior at $321), so the brother family's Residence with Kitchen is still guessed at the 2-guest rate. SynXis (the lodge's Book Now engine), Jul 4-10 2027, read 2026-11-14; average nightly rates as displayed, excluding taxes and fees. Honeymoon Cottage (Scott & Andrea, 2 adults): Stay More & Save More $353, Best Available Rate $441. Residence with Fireplace (parents, 2 adults): Stay More & Save More $519, Best Available Rate $649. Residence with Kitchen (brother family, 2 adults + 2 children) is still guessed: the engine lists it as 'Accommodates 2 guest' and does not offer it (or the Residence with Fireplace) for 2 adults + 2 children; its 2-guest rate ($519 / $649) is used here. Sum $353 + $519 + $519 = $1,391 low; $441 + $649 + $649 = $1,739 at the flexible rate. Book Direct and Plan Ahead plans were $375 (cottage) and $551 (residences).",
+        "source_url": "https://be.synxis.com/?Chain=31168&Hotel=42254&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1",
+        "fees_notes": "Rates shown 'Excluding taxes and fees'; tax not shown before checkout.",
+        "source_kind": "property",
+        "units_quoted": [
+          "Honeymoon Cottage, Stay More & Save More $353/night avg (Best Available Rate $441), 2 adults",
+          "Residence with Fireplace, Stay More & Save More $519/night avg (Best Available Rate $649), 2 adults"
+        ],
+        "local_currency": "USD",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "local_nightly_total": 872,
+        "local_stay_total_with_tax": null,
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Three self-contained units",
+        "Kitchen residence with booth seating",
+        "Fire pits; near golf links"
+      ],
+      "compromises": [
+        "Booth table unlikely to seat 8",
+        "15-20 min walk to downtown",
+        "Booking engine lists the Residences for 2 guests"
+      ],
+      "best_for": "Choose this if three tidy suites with breakfast beat a shared house.",
+      "links": [
+        "https://www.lighthouselodgecottages.com/rooms"
+      ],
+      "images": [
+        {
+          "url": "https://www.lighthouselodgecottages.com/resourcefiles/room-types/lighthouselodgecottages-rooms-honeymoon-cottage.jpg",
+          "page_url": "https://www.lighthouselodgecottages.com/rooms",
+          "credit": "Lighthouse Lodge & Cottages",
+          "alt": "Honeymoon Cottage",
+          "src": "img/aedda58465aaee3f.jpg"
+        },
+        {
+          "url": "https://www.lighthouselodgecottages.com/resourcefiles/room-types/residence-with-kitchen-king.jpg",
+          "page_url": "https://www.lighthouselodgecottages.com/rooms",
+          "credit": "Lighthouse Lodge & Cottages",
+          "alt": "Residence with Kitchen",
+          "src": "img/910778b9d8f1addb.jpg"
+        },
+        {
+          "url": "https://www.lighthouselodgecottages.com/resourcefiles/hero-image/monterey-lighthouse-room-105-living-room.jpg?version=11142026080125",
+          "page_url": "https://www.lighthouselodgecottages.com/rooms",
+          "credit": "Lighthouse Lodge & Cottages",
+          "alt": "Suite living room",
+          "src": "img/72552a2d975a42ef.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Carmel Country Inn: Deluxe One Bedroom King Suite + King Studio + Two Bedroom One Bath Suite",
+      "kind": "Carmel B&B: 1BR suite + ground-floor studio + ground-floor 2BR suite",
+      "quick_verdict": "Three inn units with ground-floor options a few blocks from Ocean Ave; no kitchens or group room.",
+      "configuration": "306 Dolores St, Carmel-by-the-Sea (Dolores at 3rd Ave), about 4 blocks north of Ocean Ave by the street grid (walk time not stated by the inn). Inn comparison chart: Two Bedroom One Bath Suite: king + queen, sitting room with sleeper sofa, gas fireplace, oversized whirlpool tub/shower, ground floor end unit, max 5. Two Bedroom Two Bath Suites: king + queen, 2 baths, sitting room with sleeper sofa, second story, no elevator, max 5. Deluxe One Bedroom Suites: king, sitting room with sleeper sofa, whirlpool tub and separate shower, deck, ground floor or second story, max 3. King Studio: king, sleeper sofa, ground floor in the main building, max 3. Luxury King Studios: second story, covered balcony. Every room has a gas fireplace, mini fridge, coffee maker and kettle; no room lists a kitchen or kitchenette (a shared lobby kitchen is next to the Queen Studio). Breakfast included. No elevator on the property. Pets $25/day. Gathering room: only the 2BR suite's sitting room with a sleeper sofa; seats for 8 not stated.",
+      "family_split": {
+        "scott_andrea": "Deluxe One Bedroom King Suite (own suite with sitting room and deck)",
+        "parents": "King Studio (ground floor, main building)",
+        "brother_family": "Two Bedroom One Bath Suite (ground floor end unit; king + queen + sleeper sofa)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Carmel Country Inn comparison chart: each suite and studio is a separate inn unit with its own bath; a separate hotel suite qualifies under rubric.md."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 4,
+        "parents": 6,
+        "location": 8,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 6,
+      "food_convenience": "Carmel's Dolores St and Ocean Ave restaurants about 4 blocks on foot (sloped streets); breakfast included at the inn.",
+      "price": {
+        "nightly_total_usd_low": 1533.67,
+        "nightly_total_usd_high": 1533.67,
+        "label": "verified",
+        "basis": "Carmel Country Inn's own ThinkReservations engine, Jul 4-10 2027 (page confirms 'Sunday, July 4 - Saturday, July 10, 2027'), read 2026-11-15; one public rate per unit, shown as an average per night before tax (nightly breakdown not shown). Deluxe One Bedroom King Suite (Scott & Andrea, 2 adults): $509/night. King Studio (parents, 2 adults): $445.67/night. Two Bedroom One Bath Suite (brother family, searched at 2 adults + 2 children, '4 guests'): $579/night, the same as at 2 adults, so no extra-guest charge shows. Sum $509 + $445.67 + $579 = $1,533.67/night ($9,202 for 6 nights before tax). One plan, so low = high. At 4 guests the Deluxe One Bedroom King Suite shows 'not available' (its max is 3), which does not affect the split. Other rates at 2 adults: Two Bedroom Two Bath Suite $692.33, Luxury King Studio $509, Suite with Two Beds $499, Queen Studio $359. 4-guest search: https://secure.thinkreservations.com/carmelcountryinn/reservations/availability?startDate=2027-07-04&endDate=2027-07-10&numberOfAdults=2&numberOfChildren=2",
+        "source_url": "https://secure.thinkreservations.com/carmelcountryinn/reservations/availability?startDate=2027-07-04&endDate=2027-07-10&numberOfAdults=2&numberOfChildren=0",
+        "fees_notes": "Tax not shown before checkout (the inn lists Carmel TOT 10% plus assessments); $25/pet/day fee extra.",
+        "source_kind": "property",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Deluxe One Bedroom King Suite, public rate, $509/night avg, 2 adults",
+          "King Studio, public rate, $445.67/night avg, 2 adults",
+          "Two Bedroom One Bath Suite, public rate, $579/night avg, 2 adults + 2 children"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1533.67,
+        "local_stay_total_with_tax": null,
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Ground-floor 2BR suite and studio",
+        "Rates posted for the dates",
+        "Few blocks to Carmel restaurants"
+      ],
+      "compromises": [
+        "No kitchens; no room seats 8",
+        "Carmel streets slope toward Ocean Ave",
+        "2BR suite priced for 2 guests only"
+      ],
+      "best_for": "Choose this if a walkable Carmel base with step-free rooms for the parents beats a shared living room.",
+      "links": [
+        "https://secure.thinkreservations.com/carmelcountryinn/reservations",
+        "https://www.carmelcountryinn.com/carmel-lodging-comparison",
+        "https://www.carmelcountryinn.com/"
+      ],
+      "images": [
+        {
+          "url": "https://www.carmelcountryinn.com/wp-content/uploads/2025/05/carmel-bed-and-breakfast-exterior-large-01-2920x1600.jpg",
+          "page_url": "https://www.carmelcountryinn.com/",
+          "credit": "Carmel Country Inn",
+          "alt": "Carmel Country Inn exterior",
+          "src": null
+        },
+        {
+          "url": "https://www.carmelcountryinn.com/wp-content/uploads/2025/05/2-bed-1-bath-suite-large-01-1080x545.jpg",
+          "page_url": "https://www.carmelcountryinn.com/carmel-lodging-comparison",
+          "credit": "Carmel Country Inn",
+          "alt": "Two Bedroom One Bath Suite",
+          "src": null
+        },
+        {
+          "url": "https://www.carmelcountryinn.com/wp-content/uploads/2025/06/deluxe-one-bedroom-suite-with-fireplace-small-1080x545.jpg",
+          "page_url": "https://www.carmelcountryinn.com/carmel-lodging-comparison",
+          "credit": "Carmel Country Inn",
+          "alt": "Deluxe One Bedroom Suite with fireplace",
+          "src": null
+        }
+      ]
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Sanctuary Vacation Rentals: 3118 Yellow House Main + 3119 Yellow House Guest",
+      "kind": "4BR main house + 1BR guest suite above the garage, same lot",
+      "quick_verdict": "Real house with ocean-view living room plus a separate-entrance suite; all bedrooms upstairs.",
+      "configuration": "Pacific Grove, near Lovers Point, across the street from the Green Gables Inn, 'a few blocks from downtown' (Sanctuary page); aquarium 5-10 min on foot along the recreation trail. 3118 Yellow House Main: 4 bedrooms, all on the second floor (split king; queen; two twins; queen), 2 full baths upstairs (shared) plus a half bath on the lower level by the living areas; sleeps 8; 2,437 sq ft (aggregator copy). Living room with ocean views and gas fireplace; eat-in kitchen; dining area beside the kitchen (description says 'seats 12', a photo caption says 'Dining for 6-8'); back deck with charcoal grill. No hot tub or fire pit listed. Minimum 4 nights year-round 'excluding certain holidays and events' (July 4 may carry a longer minimum; not stated). 3119 Yellow House Guest: 1 bedroom (king), 1 full bath (shower over tub, reached through the living space), living room with a couch for 1-2 children, kitchenette (convection/microwave combo, no dishwasher), upper level above the garage, 'its own separate entrance and private side and back yards'; property flagged 'Many Stairs on Property'. The suite is a Monthly Rental: 30-night minimum within one calendar month (exceptions possible with owner approval). Washer/dryer in the garage is shared between the two units.",
+      "family_split": {
+        "scott_andrea": "3119 Yellow House Guest suite (own entrance, king, own bath, kitchenette)",
+        "parents": "3118 Main house, split-king bedroom (upstairs; stairs required)",
+        "brother_family": "3118 Main house, queen bedroom plus the twin room (upstairs)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Sanctuary page for 3119 Yellow House Guest: a separate rental unit on the upper level above the garage that 'has its own separate entrance and private side and back yards', with its own bath and kitchenette; the main house is rented separately. Only the garage laundry is shared."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 2,
+        "location": 9,
+        "value": 4
+      },
+      "walk_minutes_to_restaurants": 8,
+      "food_convenience": "Lovers Point's Beach House about 2-3 blocks; Lighthouse Ave restaurants a few blocks; Cannery Row and the aquarium 5-10 min on foot.",
+      "price": {
+        "nightly_total_usd_low": 2265,
+        "nightly_total_usd_high": 2276,
+        "label": "estimate",
+        "basis": "Sold out (checked 2026-11-15): the booking calendar on Sanctuary's own 3118 Yellow House Main page shows an existing booking from Jul 3 (arrival) to Jul 11 (departure) 2027, so every trip night Jul 4-9 is booked, while Jul 12-31, August 2027, December 2026 and late 2027 show open days (the house is a 'Nightly Rental', 4-night minimum). 3119 Yellow House Guest shows all of July 2027 open but is still a 'Monthly Rental' (30-night minimum). The split cannot be booked as written; no rate was quoted, so the estimate below is kept. Guest suite: Sanctuary's own page (read 2026-11-15) posts a monthly base rate of $8,199 for Jul 1-31, 2027 (30 nights; Jun 1-Jul 1 is $11,831); holding it for the trip means paying the month, $8,199 / 6 trip nights = $1,367 per trip night. Main house: Sanctuary's page shows no rate without a quote request; listing aggregators (search snippets, dates not stated) show 'from' $898 and $909 per night. Sum about $898-909 + $1,367 = $2,265-2,276 per night; July 4 week rates for the main house are likely higher than the 'from' figure, so treat the high end as a floor.",
+        "source_url": "https://www.sanctuaryvacationrentals.com/vacation-rentals/3118-yellow-house-main",
+        "fees_notes": "Base rates only; taxes, cleaning and booking fees not shown.",
+        "source_kind": "manager",
+        "units_quoted": [
+          "3119 Yellow House Guest, monthly base rate Jul 1-31 2027, $8,199 (30 nights)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Ocean-view living room with fireplace",
+        "Guest suite with its own entrance and yard",
+        "Few blocks to Lovers Point and downtown"
+      ],
+      "compromises": [
+        "All main-house bedrooms upstairs; many stairs",
+        "Guest suite is monthly-only (30 nights)",
+        "Main-house July rate not published"
+      ],
+      "best_for": "Choose this if one real house with a living room for 8 matters most and the parents can manage stairs.",
+      "links": [
+        "https://www.sanctuaryvacationrentals.com/vacation-rentals/3118-yellow-house-main",
+        "https://www.sanctuaryvacationrentals.com/vacation-rentals/3119-yellow-house-guest",
+        "https://www.vrbo.com/276375ha"
+      ],
+      "images": [
+        {
+          "url": "https://media.scurto.net/2024/media/1633-b.jpg",
+          "page_url": "https://www.sanctuaryvacationrentals.com/vacation-rentals/3118-yellow-house-main",
+          "credit": "Sanctuary Vacation Rentals",
+          "alt": "3118 Yellow House Main, Pacific Grove",
+          "src": "img/2ec397f228934274.jpg"
+        },
+        {
+          "url": "https://media.scurto.net/2024/media/1634-b.jpg",
+          "page_url": "https://www.sanctuaryvacationrentals.com/vacation-rentals/3118-yellow-house-main",
+          "credit": "Sanctuary Vacation Rentals",
+          "alt": "Yellow House Main interior",
+          "src": "img/58cdd48f37780987.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Andril Fireplace Cottages: Rancho Reposo + Single Room Cottage",
+      "kind": "cottage cluster: 5BR cottage + separate 1-room cottage",
+      "quick_verdict": "Best gathering room and a true separate cottage; Rancho Reposo shows unavailable for the dates, restaurants a drive.",
+      "configuration": "Rancho Reposo: about 1,800 sq ft, Andril's largest cottage, gated, on the Andril property at 569 Asilomar Blvd, Pacific Grove. Five bedrooms: two twins; one queen; one king; one king with a private half bath; master with a king and a double. Two full and one half baths. 400 sq ft living room with wood-burning fireplace and large TV; full kitchen with dining area opening onto a deck; washer/dryer, private ping pong table, two charcoal barbecues, enclosed front and back yards. Dining-table seating and single-level layout are not stated (the page shows a floor plan image). Wotif lists it as sleeping 12. Single Room Cottage - King: its own cottage with a king bed, separate fully equipped kitchen with dining area, wood-burning fireplace and private enclosed deck. Property: a centrally located spa (hot tub), lawn, morning coffee and evening firewood; an ADA two-bedroom, two-bath cottage with ramp access is also available. Pet-friendly property. Across from Asilomar State Park; Asilomar State Beach about 0.4 mi (10 min) on foot; Pacific Grove Golf Links is on the same road (77 Asilomar Blvd). Downtown Pacific Grove is about 1.5 mi (5 min by car).",
+      "family_split": {
+        "scott_andrea": "Single Room Cottage - King (own cottage, kitchen, deck)",
+        "parents": "Rancho Reposo, king bedroom with private half bath (or the ADA 2BR cottage if Rancho Reposo has steps)",
+        "brother_family": "Rancho Reposo, king or queen bedroom plus the twin room for the teens"
+      },
+      "lockoff": {
+        "scott_andrea": "not stated",
+        "basis": "Andril pages (fact-checker 2026-11-14): the Single Room Cottage - King has its own kitchen, dining area and enclosed deck, but the pages do not say it is a detached building, give its bath or entrance (the site also lists an 'Upstairs Single Room Cottage', a second-story unit, so some units share buildings). Rancho Reposo is described as gated. Not supported as a true lock-off; confirm with Andril (831-375-0994)."
+      },
+      "ratings": {
+        "privacy": 6,
+        "shared_space": 8,
+        "parents": 6,
+        "location": 4,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 30,
+      "food_convenience": "Little on foot near Asilomar; downtown Pacific Grove 5 min and Carmel 15 min by car.",
+      "price": {
+        "nightly_total_usd_low": 1684,
+        "nightly_total_usd_high": 1684,
+        "label": "estimate",
+        "basis": "Not bookable yet, or sold out, for these dates: Andril's innRoad search for Jul 4-10, 2027 (2 adults) returns 'Sorry, no rooms available', while a Dec 14-16, 2026 control stay prices four room types (read 2026-11-14). Estimate from Andril's own availability grid, which posts July 2027 nightly rates (4-night minimum): Single Room Cottage - King (Scott & Andrea) $405 Jul 4-8 and $460 Jul 9 = $2,485, $414/night; Rancho Reposo - 5bdrm/2.5bth (parents + brother family) shows no availability (X) Jul 4-11 and $1,270/night on Jul 12-13, used here as its July rate. Sum about $414 + $1,270 = $1,684/night. One rate per night is posted, so low = high.",
+        "source_url": "https://andrilfireplacecottages.client.innroad.com/#search={%22propertyId%22:4403,%22checkIn%22:%222027-07-04%22,%22checkOut%22:%222027-07-10%22,%22guests%22:[{%22adults%22:2,%22children%22:0}],%22multi%22:false,%22step%22:0,%22refSource%22:0}",
+        "fees_notes": "Trip-date taxes not shown (no rooms returned). On the Dec 2026 control stay the engine showed $640 of room rate as 'Total: $725.80, Including Taxes & Fees' (about 13.4%). Pet fee $20/pet/night per Hotels.com.",
+        "source_kind": "property",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "400 sq ft living room, deck, ping pong",
+        "Own cottage for one household",
+        "Hot tub on site; golf links down the road"
+      ],
+      "compromises": [
+        "Restaurants a 5-min drive",
+        "Stairs and dining seats not stated",
+        "Rancho Reposo unavailable Jul 4-11 on its grid"
+      ],
+      "best_for": "Choose this if a real shared house for game nights matters more than walking to dinner.",
+      "links": [
+        "https://www.andrilcottages.com/accommodations/rancho-reposo/",
+        "https://www.andrilcottages.com/",
+        "https://www.andrilcottages.com/accommodations/single-room-cottage-king/"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-s10.ssmedia.com/ck_20200508085056/andrilcottages/webart/rooms/8.jpg",
+          "page_url": "https://www.andrilcottages.com/",
+          "credit": "Andril Fireplace Cottages",
+          "alt": "Rancho Reposo cottage",
+          "src": "img/49416d499a0600f5.jpg"
+        },
+        {
+          "url": "https://cdn-s10.ssmedia.com/ck_20200427101404/andrilcottages/webart/slideshows/3.jpg",
+          "page_url": "https://www.andrilcottages.com/",
+          "credit": "Andril Fireplace Cottages",
+          "alt": "Andril cottages among the pines",
+          "src": "img/00666c89a12438c7.jpg"
+        },
+        {
+          "url": "https://cdn-s10.ssmedia.com/ck_20200508082353/andrilcottages/webart/rooms/2.jpg",
+          "page_url": "https://www.andrilcottages.com/",
+          "credit": "Andril Fireplace Cottages",
+          "alt": "Single Room Cottage - King",
+          "src": "img/9ba545969237f092.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pacific Grove Beach House With Cottage And Views",
+      "kind": "4BR main house + 1BR cottage",
+      "quick_verdict": "Promising house-plus-cottage near the bay; listing now gone.",
+      "configuration": "OTA listing (Expedia/Vrbo family): four-bedroom main house plus a one-bedroom cottage, 5 bedrooms and 4 baths total, sleeps 12, about two blocks from the bay and the shoreline trail. Gourmet kitchen and an upstairs deck with bay views mentioned. Check-in 4 pm, check-out 11 am, no pets. Bedroom floors, the cottage's bath and kitchen, gathering-room seating, address and manager are not stated in what could be read (the Expedia page returned HTTP 429).",
+      "family_split": {
+        "scott_andrea": "The 1BR cottage",
+        "parents": "Main house bedroom (floor not stated)",
+        "brother_family": "Main house, two bedrooms"
+      },
+      "lockoff": {
+        "scott_andrea": "not stated",
+        "basis": "Listing summary says 'four bedroom main house and one bedroom cottage' but whether the cottage has its own bath and entrance could not be read; scored as no until confirmed."
+      },
+      "ratings": {
+        "privacy": 6,
+        "shared_space": 7,
+        "parents": 3,
+        "location": 7,
+        "value": 1
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "Two blocks from the bay; distance to Lighthouse Ave not stated.",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "basis": "Listing gone (checked 2026-11-14): the Expedia listing h76254306 with Jul 4-10 2027 dates redirects to the 'Beach Tract, Pacific Grove' hotel search page, while another Expedia listing (3962 High Tide, h111839014) loads normally. No Vrbo or manager copy found by search. No rate seen.",
+        "source_url": "https://www.expedia.com/es/Pacific-Grove-Hoteles-Pacific-Grove-Beach-House-With-Cottage-And-Views.h76254306.Informacion-Hotel",
+        "source_kind": "ota",
+        "availability": "gone",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "One booking, house plus cottage",
+        "Upstairs bay-view deck",
+        "Two blocks to the shoreline path"
+      ],
+      "compromises": [
+        "Listing gone (redirects to a search)",
+        "Cottage bath and entrance unconfirmed",
+        "Upstairs living likely; hard for parents"
+      ],
+      "best_for": "Choose this if the listing reappears and the cottage checks out.",
+      "links": [
+        "https://www.expedia.com/es/Pacific-Grove-Hoteles-Pacific-Grove-Beach-House-With-Cottage-And-Views.h76254306.Informacion-Hotel"
+      ]
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Elkhorn Slough guided kayak tour (Monterey Bay Kayaks, Moss Landing)",
+        "what_you_do": "Paddle a kayak for 2.5 hours with a guide through the Elkhorn Slough estuary among wild sea otters, harbor seals and sea lions; boats must stay 5 boat lengths away, no touching or feeding.",
+        "why_memorable": "The slough holds one of the densest sea otter groups on the coast, seen from water level at close range.",
+        "interactivity": "close viewing",
+        "drive_minutes": 30,
+        "price_usd": "$70 per person, 2.5-Hour Tour (gear included); $60 1.5-hr Harbor Tour for younger kids (operator page)",
+        "age_min": 11,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Daily at 10:00 and 2:00; full prepayment, 48-hr cancellation; book ahead for the holiday week. Parents can take the seated Elkhorn Slough Safari pontoon boat instead.",
+        "url": "https://www.montereybaykayaks.com/elkhorn-slough.html",
+        "image": {
+          "url": "https://www.montereybaykayaks.com/uploads/7/4/6/8/74681279/color-adj-montereybaykayaks-elkhornslough1_orig.jpg",
+          "page_url": "https://www.montereybaykayaks.com/elkhorn-slough.html",
+          "credit": "Monterey Bay Kayaks",
+          "alt": "Kayaking on Elkhorn Slough",
+          "src": "img/115cfc7d97acec53.jpg"
+        }
+      },
+      {
+        "name": "Monterey Bay Equestrian Center beach ride",
+        "what_you_do": "Ride a horse for 1 hour 15 minutes through the Monterey Dunes and along the beach on Monterey Bay with a guide.",
+        "why_memorable": "A horseback ride on an open beach with views from Santa Cruz to Monterey; the teens and adults ride, the parents can skip it.",
+        "interactivity": "hands-on",
+        "drive_minutes": 30,
+        "price_usd": "$175 per person, 1 hr 15 min ride (operator page)",
+        "age_min": 10,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Reservation by phone, (831) 663-5712; set ride times, minimum 2 riders; riders at least 10 and 54 inches tall; 24-hr cancellation. July days not published.",
+        "url": "https://montereybayequestrian.com/beach-rides/",
+        "image": {
+          "url": "https://montereybayequestrian.com/wp-content/uploads/2019/07/1557339_10152248359051320_198659116_o-1024x768.jpg",
+          "page_url": "https://montereybayequestrian.com/",
+          "credit": "Monterey Bay Equestrian Center",
+          "alt": "Monterey Bay Equestrian Center ride",
+          "src": null
+        }
+      },
+      {
+        "name": "Monterey Zoo full-contact tours (Vision Quest Ranch, Salinas)",
+        "what_you_do": "Keeper-led private tours that meet several of the zoo's animals up close; the ranch site says guests can 'help put a rhino to bed or fed a lion or tiger their dinner'.",
+        "why_memorable": "The only exotic-animal hands-on option in the area; the zoo no longer keeps elephants (since early 2021).",
+        "interactivity": "hands-on",
+        "drive_minutes": 30,
+        "price_usd": "Tour price not published; zoo admission $37.75 (15+), $27.50 (2-14) per an April 2026 listing; VIAP tour sold for up to 2 people (Groupon)",
+        "age_min": 4,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "By reservation; zoo open 10am-3pm daily. Which animals, price and group size for 8 are not published; call (831) 455-1901.",
+        "url": "https://www.visionquestranch.com/tours-events",
+        "image": {
+          "url": "https://static.wixstatic.com/media/83fdfb_cce9f414e32d409aba727ef0305ac9d2~mv2.jpg/v1/fill/w_945,h_539,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DJI_0001.jpg",
+          "page_url": "https://www.visionquestranch.com/tours-events",
+          "credit": "Vision Quest Ranch / Monterey Zoo",
+          "alt": "Aerial view of Vision Quest Ranch and Monterey Zoo",
+          "src": "img/84b3d00fc379dd17.jpg"
+        }
+      },
+      {
+        "name": "Monterey Bay Aquarium",
+        "what_you_do": "Walk the galleries (kelp forest, sea otters, open sea, penguins); optional guided tours including the 'All About Animal Care' behind-the-scenes tour and a family animal-care tour.",
+        "why_memorable": "One of the best aquariums in the country, on Cannery Row with otters often visible in the bay from the decks.",
+        "interactivity": "close viewing",
+        "drive_minutes": 5,
+        "price_usd": "Adult $65 (18-69), youth/senior $50; tour prices not stated",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Timed tickets; buy ahead for a July holiday week. Tour availability and ages not stated.",
+        "url": "https://www.montereybayaquarium.org/visit",
+        "image": {
+          "url": "https://assets.montereybayaquarium.org/general/images/animals/fish-whales/TR26-Seahorse-Big-belly-0388-cropped.jpg",
+          "page_url": "https://www.montereybayaquarium.org/visit",
+          "credit": "Monterey Bay Aquarium",
+          "alt": "Big-belly seahorse",
+          "src": "img/28569454307f3559.jpg"
+        }
+      },
+      {
+        "name": "Monterey Bay whale watching (Fisherman's Wharf)",
+        "what_you_do": "Three-hour boat trip on Monterey Bay looking for humpback whales, dolphins and sea lions; humpbacks feed in the bay through summer and fall.",
+        "why_memorable": "July is humpback season in the bay, often close to shore.",
+        "interactivity": "viewing",
+        "drive_minutes": 8,
+        "price_usd": "Daily tour from $76.32, sunset 3-hour tour from $81.62 (operator page, all ages)",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Easy; daily departures in summer. Seas can be rough for the parents.",
+        "url": "https://montereybaywhalewatch.com/whale-watching/killer-whale-tour/"
+      }
+    ],
+    "golf": [
+      {
+        "name": "Pebble Beach Golf Links",
+        "what_you_do": "Play 18 on the cliffside course above Carmel Bay; caddie or cart.",
+        "why_memorable": "The 7th and 8th on the cliffs and the 18th along the bay; a once-in-a-lifetime round for Sam, Ryan and Ethan.",
+        "drive_minutes": 18,
+        "price_usd": "$695 green fee for resort and non-resort guests alike, plus $60 cart for non-resort = $755 (Apr 2026-Mar 2027; 2027-28 rate not yet seen)",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Hard: non-guests can book only one day ahead, subject to availability; guaranteed times need a 2-3 night Pebble Beach Resorts stay.",
+        "url": "https://www.top100golfcourses.com/golf-course/pebble-beach/reviews/48475"
+      },
+      {
+        "name": "Pacific Grove Golf Links",
+        "what_you_do": "Municipal 18 holes: a tree-lined front nine and a back nine through the dunes beside Point Pinos Lighthouse and the ocean.",
+        "why_memorable": "Ocean and lighthouse views at a municipal price, 2 minutes from the Asilomar-area lodging.",
+        "drive_minutes": 5,
+        "price_usd": "About $66 plus cart to $89 (Green Fee Tracker, May 2026); resident/non-resident split not confirmed",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Easy; call 831-648-5775. No closures mentioned on the course site.",
+        "url": "https://www.playpacificgrove.com/"
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Escape Room 831",
+      "good_for": [
+        "teens",
+        "adults",
+        "rainy day"
+      ],
+      "details": "Three locations on Cannery Row (700 Cannery Row), Wave St and Lighthouse Ave; aggregator lists rooms from about $85 per group. Room sizes for 6-8 not confirmed.",
+      "drive_minutes": 5,
+      "url": "https://www.seemonterey.com/directory/escape-room-831/",
+      "found_via": "See Monterey directory (search result)"
+    },
+    {
+      "name": "Pacific Grove shoreline path and Lovers Point",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Level paved recreation trail along Ocean View Blvd from Lovers Point Beach toward Cannery Row; tide pools, otters and benches. Easy short walks for the parents.",
+      "drive_minutes": 0,
+      "url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+      "found_via": "Frommer's Pacific Grove things to do; Wikipedia"
+    },
+    {
+      "name": "Kayak tours and bike rentals (Adventures by the Sea)",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "Two-hour guided kayak tour along the Cannery Row kelp beds watching otters and seals, $65 per adult; private Lovers Point tour from $79.50; single kayak rental $42.80 for 2 hours; bikes for the coastal trail. Closer to the lodging than Elkhorn Slough, with fewer otters.",
+      "drive_minutes": 5,
+      "url": "https://adventuresbythesea.com/cannery-row/kayak-rental/"
+    },
+    {
+      "name": "17-Mile Drive and Pebble Beach",
+      "good_for": [
+        "parents",
+        "everyone"
+      ],
+      "details": "Scenic toll drive from Pacific Grove to Carmel past Lone Cypress and the Pebble Beach links; mostly viewpoints from the car, good for Karen and Sam.",
+      "drive_minutes": 10,
+      "url": "https://www.frommers.com/destinations/pacific-grove/things-to-do/",
+      "found_via": "Trip.com / Frommer's Pacific Grove things to do"
+    },
+    {
+      "name": "Cannery Row, Point Pinos Lighthouse and Carmel shopping",
+      "good_for": [
+        "parents",
+        "rainy day",
+        "adults"
+      ],
+      "details": "Cannery Row shops and tasting rooms; Point Pinos Lighthouse (1855, oldest operating on the West Coast) in Pacific Grove; Carmel-by-the-Sea galleries and boutiques around Ocean Ave for Karen, Jenna and Andrea.",
+      "drive_minutes": 10,
+      "url": "https://canneryrow.com/business/escape-room-831-at-765-wave-st",
+      "found_via": "Wikipedia Pacific Grove; Cannery Row site"
+    }
+  ],
+  "shopping_exploring": "Downtown Pacific Grove (Lighthouse Ave, Holman's building) is small and level; Cannery Row is a flat strip of shops by the aquarium; Carmel-by-the-Sea has the most boutiques and galleries but is sloped. Monarch butterflies are a winter sight, not July.",
+  "restaurants": [
+    {
+      "name": "Passionfish",
+      "category": "special dinner",
+      "notes": "701 Lighthouse Ave, Pacific Grove; sustainable seafood, OpenTable about 4.6-4.8; fits Sam's fancy meal. Walk times are from the High Tide duplex; Andril is a 5-min drive.",
+      "walk_minutes_from_lodging": 5,
+      "url": "https://www.opentable.com/features/best-casual-restaurants-pacific-grove-ca"
+    },
+    {
+      "name": "The Beach House at Lovers Point",
+      "category": "family dinner",
+      "notes": "620 Ocean View Blvd; casual California food over the beach, dinner from 4 pm; OpenTable about 4.6.",
+      "walk_minutes_from_lodging": 6,
+      "url": "https://www.opentable.com/features/best-casual-restaurants-pacific-grove-ca"
+    },
+    {
+      "name": "Rudolfo's Cafe",
+      "category": "family dinner",
+      "notes": "Italian in downtown Pacific Grove; rated about 4.6 (pos.do).",
+      "walk_minutes_from_lodging": 5,
+      "url": "https://pos.do/en/city/pacific-grove/93950"
+    },
+    {
+      "name": "Fishwife",
+      "category": "casual",
+      "notes": "Seafood with a Caribbean accent since 1986; one listing gives 545 Lighthouse Ave (address conflicts across sources).",
+      "walk_minutes_from_lodging": 5,
+      "url": "https://cdn.fodors.com/world/north-america/usa/california/the-monterey-bay-area/places/pacific-grove/restaurants"
+    },
+    {
+      "name": "Spotted Duck",
+      "category": "casual",
+      "notes": "Downtown Pacific Grove bistro, OpenTable about 4.8.",
+      "walk_minutes_from_lodging": 5,
+      "url": "https://www.opentable.com/features/best-casual-restaurants-pacific-grove-ca"
+    },
+    {
+      "name": "Red House Cafe",
+      "category": "breakfast/coffee",
+      "notes": "Lighthouse Ave area; popular brunch, salads.",
+      "walk_minutes_from_lodging": 5,
+      "url": "https://cdn.fodors.com/world/north-america/usa/california/the-monterey-bay-area/places/pacific-grove/restaurants"
+    }
+  ],
+  "weather": {
+    "july": {
+      "high_f": 65.8,
+      "low_f": 54.4,
+      "rain_days": 1.1,
+      "notes": "NOAA 1991-2020 normals for Monterey; summers often cool and foggy. Pacific Grove and Carmel are on the same coast and run similar."
+    },
+    "source_url": "https://en.wikipedia.org/wiki/Monterey,_California"
+  },
+  "logistics": {
+    "airport": "Monterey Regional Airport (MRY)",
+    "drive_minutes_from_airport": 12,
+    "flights": {
+      "den": "United flies DEN-MRY nonstop year-round, upsized from Embraer 175 to Boeing 737-800 from May 2026; 2027 summer frequency not yet published.",
+      "bay_area": "Drive: Oakland or San Francisco about 1.75-2 hr, Sacramento about 3 hr to the peninsula. Or United SFO-MRY nonstop (year-round)."
+    },
+    "car_needed": "Yes: 1-2 cars. Pacific Grove, Monterey and Carmel are 5-15 min apart; Mission Ranch needs a car for most dinners; the zoo, Elkhorn Slough and the equestrian center are about 30 min.",
+    "notes": "Arrival is Sunday July 4, 2027, a holiday; expect holiday-weekend traffic and higher rates. MRY's replacement terminal is expected to open in early summer 2027."
+  },
+  "caveats": [
+    "No lodging option confirms a room where all 8 can sit at one table; Andril's 400 sq ft Rancho Reposo living room is the closest, but Andril's grid shows Rancho Reposo unavailable Jul 4-11, 2027 (moved to backups); the Yellow House backup has an 8-person living room but every main-house bedroom is upstairs.",
+    "Animals: the top options are kayaking among wild otters (viewing at 5 boat lengths, no touching) and a farm-horse beach ride; the zoo's exotic feeding tours have no published price, ages or 2027 schedule, and the zoo has kept no elephants since 2021.",
+    "Most layout-friendly options (Mission Ranch, Andril) are a drive or a 20-30 min walk from restaurants; the walkable Sanctuary duplex is monthly-only (see below).",
+    "Pacific Grove short-term rentals need a city license and are limited to coastal/commercial zones, so inns and cottage clusters are the realistic pattern; several Sanctuary units (High Tide, Low Tide, Yellow House Guest) rent only by the month.",
+    "July 4 arrival: holiday demand on rates and traffic.",
+    "Sanctuary duplex (3962 High Tide + 3963 Low Tide): over the nightly cap as offered; both halves are monthly rentals (30-night minimum), so holding them means the July month at $21,505 base, $3,584 per trip night (2026-11-14).",
+    "Pacific Grove Beach House With Cottage And Views: listing gone; the Expedia page redirects to an area search (2026-11-14); kept in backups for the record.",
+    "Mission Ranch, the option the lodging score rests on, takes reservations and quotes only by phone; its $1,140-1,500/night is an estimate from pre-2027 published rates, and a 2027 rate change is announced (2026-11-14).",
+    "Sanctuary duplex (3962 High Tide + 3963 Low Tide): still over the nightly cap, $3,584 per trip night as monthly-only rentals (July 2027 base $11,658 + $9,847), re-checked 2026-11-15.",
+    "Yellow House backup (3118 Main + 3119 Guest): sold out; the main house's own calendar shows Jul 3-11, 2027 already booked (2026-11-15)."
+  ],
+  "open_questions": [
+    "Mission Ranch: Jul 4-10, 2027 rates and availability for the Honeymoon Cottage, Bunkhouse Cottage and Main Barn King & 2 Twins unit (the site's 2027 rate update PDF could not be read), minimum stay, and do the cottages have steps? The ranch quotes only by phone: (831) 624-6436.",
+    "Mission Ranch: is there any room or patio where 8 can sit together, and is the on-site restaurant open in July? Ask the ranch.",
+    "Andril: is Rancho Reposo already booked for Jul 4-10, 2027 (grid shows no availability Jul 4-11) or is July 2027 not yet open online (search returns no rooms for any unit)? Also whether Rancho Reposo is single-level and how many the dining table seats. Ask 831-375-0994 or reservations@andrilcottages.com.",
+    "Andril: does the Single Room Cottage - King have its own full bathroom and entrance? Ask Andril.",
+    "Sanctuary Vacation Rentals: both 3962 High Tide and 3963 Low Tide are monthly rentals (30-night minimum); would the owners approve a 6-night Jul 4-10 stay as an exception, and at what rate? Ask (831) 275-5117.",
+    "Sanctuary Vacation Rentals, Yellow House: the 3118 Main July 4-10 2027 rate and holiday minimum stay, whether the 3119 Guest suite (monthly-only) can be booked for 6 nights alongside the main house, and how many stairs lead to the suite. Ask (831) 275-5117.",
+    "Carmel Country Inn: the rate for 2 adults + 2 teens in the Two Bedroom One Bath Suite, and whether there are steps from parking to the ground-floor units. Ask the inn or check the ThinkReservations engine at 4 guests.",
+    "Lighthouse Lodge & Cottages: can the Residence with Kitchen take 2 adults + 2 teens (the engine allows 2 guests), and which floor each residence is on? Ask the front desk (831-655-2111).",
+    "Monterey Zoo / Vision Quest Ranch: are the full-contact tours (lion or tiger feeding, rhino bedtime) running in July 2027, which animals, price, minimum age, and how many guests per tour? Ask (831) 455-1901.",
+    "Monterey Bay Equestrian Center: beach ride times for Jul 4-10, 2027 and a group of 4-6 riders. Ask (831) 663-5712.",
+    "Monterey Bay Aquarium: price, ages and July schedule for the All About Animal Care hands-on tour. Ask the aquarium.",
+    "United DEN-MRY: summer 2027 frequency and times. Check United's schedule when published.",
+    "Pacific Grove Golf Links: current non-resident green fee. Ask the pro shop."
+  ],
+  "verification_notes": [
+    "Monterey Zoo official homepage returned only its title; VIAP details come from a Groupon listing and an April 2026 camp listing.",
+    "Expedia listing for the Pacific Grove house with cottage returned HTTP 429; Marriott Homes & Villas returned 403; See Monterey things-to-do returned 403. TripAdvisor was not reached; Frommer's and Trip.com lists were used instead.",
+    "Wikimedia image URLs were taken as full-size versions of the page's thumbnails.",
+    "price-checker 2026-11-14: Mission Ranch: estimate $1,140-1,500 unchanged; not sold online (the ranch makes reservations and quotes only by phone, 831-624-6436); a '2027 room rates changes' PDF is linked but its text could not be read.",
+    "price-checker 2026-11-14: Andril: unknown (no price) to estimate $1,684/night; trip-date innRoad search returns no rooms while a Dec 14-16, 2026 control stay prices, so not bookable yet or sold out; figure from Andril's posted July 2027 grid rates (Single Room Cottage - King $405-460; Rancho Reposo unavailable Jul 4-11, $1,270 on Jul 12-13).",
+    "price-checker 2026-11-14: Sanctuary duplex: estimate $800-1,300 to estimate $3,584 per trip night; both halves are monthly-only (30-night minimum, July 2027 base $11,658 + $9,847). Configuration differences on Sanctuary's pages: High Tide's king bedroom (parents) is upstairs, with the double and twin day-bed rooms on the main floor sharing a Jack and Jill bath; Low Tide is 2BR (king, queen) with 2 full + 1 half baths; both pages describe 'one half of a classic Cape Cod shingled duplex' with a shared garage, which supports the pairing.",
+    "price-checker 2026-11-14: Lighthouse Lodge: unknown (no price) to estimate $1,391-1,739; Honeymoon Cottage and Residence with Fireplace quoted in SynXis for 2 adults; Residence with Kitchen is listed as 'Accommodates 2 guest' and is not offered for 2 adults + 2 children, so the brother family's unit is still guessed. The engine's 'up to 2' differs from the configuration's 'up to 4' for both residences.",
+    "price-checker 2026-11-14: Hofsas House: unknown (no price) to verified $595/night (King Cottage + Ocean View King Room + Two Room Family Suites, Jul 4-10 2027). Configuration difference: the engine's 'Deluxe Two Room Suite' is a king room plus a sitting room with day beds or a sofa sleeper (up to 4, wet bar); the 2BR/2BA king + two queens suite the configuration describes is the engine's 'Two Room Family Suites' (same rate). No separate ADA King room type is offered online.",
+    "price-checker 2026-11-14: Pacific Grove Beach House With Cottage And Views: unknown to unknown; listing gone (Expedia h76254306 redirects to an area search while another Expedia listing loads).",
+    "fact-checker 2026-11-14: Lighthouse Lodge: property rooms page still says both Residences sleep up to 4 (sofa sleeper); booking engine says 2 guests. Left as is, flagged as a conflict; call the front desk (open question kept). Floors, stairs and bath count for the cottage not stated on the page.",
+    "fact-checker 2026-11-14: Hofsas House: rooms page confirms Two Room Family Suite = 2 bedrooms (king; two queens), 2 baths, kitchen or wet bar, sleeps 6; Deluxe Two Room Suite = king room + sitting area, sleeps 4. Corrected family_split (it named the Deluxe suite as the 2BR/2BA) and configuration. King Cottage confirmed as separate garden building with own shower bath; floors/elevator not stated. Page does not label suites by name beside the descriptions (matched by order), consistent with the price-checker note.",
+    "fact-checker 2026-11-14: Sanctuary High Tide: Sanctuary page confirms the king bedroom (parents) is upstairs; double and twin rooms on main floor share a Jack and Jill bath; 2 full baths, 1,766 sq ft, sleeps 6; duplex other half (Low Tide) is also a rental. Updated configuration, family_split and compromises. Parents rating 3 and lodging score unchanged (Sanctuary is not the option the score rests on).",
+    "fact-checker 2026-11-14: Mission Ranch: accommodations page confirms Honeymoon Cottage (500 sq ft, king, 1 bath, living room, private patio), Bunkhouse (550 sq ft, king + full, 1 bath, ADA listed for Room #37), Main Barn all first floor with outside entrances and private baths (Room 1 King + 2 twins, 2 rooms, 1 bath, 475 sq ft; ADA Room #28 queen, roll-in shower). Cottage floors, kitchens and footnotes not stated. Lock-off yes stands on the page's 'own bath and private patio' plus outside entrances. Note: the ADA marker on the page is Room #37 for the Bunkhouse, #28 for the Barn.",
+    "fact-checker 2026-11-14: Andril: Rancho Reposo bedrooms/beds/baths and 400 sq ft living room confirmed; floors and dining seats not stated; no maximum occupancy listed (the 'sleeps 12' comes from Wotif, unverified). Single Room Cottage - King: king bed, full kitchen, dining area, enclosed deck confirmed, but pages do not say it is a detached building or give its bath/entrance, and an 'Upstairs Single Room Cottage' exists. Lock-off downgraded yes to not stated; privacy rating 9 to 7 (separate suites in one building range). The lodging score of 17 rests on Mission Ranch, so no score change.",
+    "fact-checker 2026-11-14: focus checks: Monterey Bay Aquarium confirmed open year-round, $65 adult, $50 youth 5-17 and senior 70+, free 4 and under; the All About Animal Care and Family Adventures in Animal Care tours are described as hands-on, no ages listed; item remains close viewing. Whale watching: the cited URL is the April-May orca trip (13+); July humpback tours are the daily tour ($76.32, all ages) and sunset tour ($81.62); July dates not confirmed, operates_during_stay changed yes to unknown and price updated. Pebble Beach: $695 green fee for everyone plus $60 cart for non-resort ($755), non-resort can book one day ahead; price text corrected. Pacific Grove Golf Links: site shows booking and advance tee times for June 2027, no closure notice; rates page not read. Adventures by the Sea kayak: page shows a FareHarbor booking calendar, from $79.50 private tour, ages/season not stated. Elkhorn Slough Safari: See Monterey page returned 403, could not verify operating or price.",
+    "fact-checker 2026-11-14: could not verify: Monterey Zoo VIAP 2027 schedule, price and 'full-contact' hands-on claim. montereyzoo.org returned only its title, /tours 404, Groupon 403; search shows only listing text (3 hours, 4 'Wild Things', reservation only, up to 2 people, ages 4+, animals vary with season and trainer; phone (831) 455-1901). Left interactivity as hands-on and operates_during_stay unknown; the animals score of 9/18 rests on this unverified item, so no re-score.",
+    "price-checker 2026-11-14: lodging score 17 unchanged, total 75 unchanged; Mission Ranch is still eligible (lock-off yes, estimate inside the cap) and its price is still unconfirmed, so no points were added back.",
+    "researcher rerun 2026-11-15: moved Andril (sold_out) and the Pacific Grove Beach House (gone) from lodging to lodging_backups with their quotes; Andril privacy lowered 7 to 6 to match the rubric cap for an option without a lock-off. Added backups Yellow House (Sanctuary 3118 + 3119) and Carmel Country Inn, both lock-off yes. Lodging score unchanged at 17 (rests on Mission Ranch).",
+    "researcher rerun 2026-11-15: animals redone under the new ranking (what you do, then the animal). Vision Quest Ranch FAQ: 'Elephants are no longer housed at Monterey Zoo-Vision Quest Ranch' (since early 2021), so the elephant feeding claim was dropped; its tours page names lion or tiger feeding and rhino bedtime. Added the Elkhorn Slough kayak tour (operator page, daily, over-10s) and the Monterey Bay Equestrian Center beach ride (ages 10+, $175). Adventures by the Sea kayak tour moved to activities (same experience as the Elkhorn item, fewer otters); Elkhorn Slough Safari boat folded into the Elkhorn item's booking note. animals 9 to 11, total 75 to 77.",
+    "researcher rerun 2026-11-15: Yellow House main-house price is from aggregator search snippets ('from' $898 / $909, dates not stated); Sanctuary's own page shows no rate without a quote. Carmel Country Inn rates were read for the exact dates but at 2 adults per unit, so labeled estimate. Monterey Bay Aquarium tours page returned 404; Carmel Valley Lodge site failed on a certificate error.",
+    "price-checker 2026-11-15: Mission Ranch: estimate $1,140-1,500 unchanged; still not sold online (phone/email only, 831-624-6436); posted rates unchanged; the 2027 rate-update PDF rendered no text in the browser.",
+    "price-checker 2026-11-15: Sanctuary duplex: estimate $3,584 unchanged, not_sold_online; both halves still monthly-only, July 2027 base $11,658 + $9,847 unchanged.",
+    "price-checker 2026-11-15: Lighthouse Lodge: estimate $1,391-1,739 unchanged, available; Honeymoon Cottage $353 and Residence with Fireplace $519 re-read for Jul 4-10; at 2 adults + 2 children SynXis again offers no Residence, so the brother family's Residence with Kitchen is still guessed.",
+    "price-checker 2026-11-15: Hofsas House: verified $595 unchanged, available; same nightly rates on the inn's form for Jul 4-10 2027 (form date fields are read-only pickers; dates were set in the search fields and the search submitted).",
+    "price-checker 2026-11-15: Yellow House (backup): estimate $2,265-2,276 unchanged, availability set to sold_out; 3118 Main calendar booked Jul 3-11 2027 while other July/August nights and Dec 2026 are open; 3119 Guest open in July but monthly-only.",
+    "price-checker 2026-11-15: Carmel Country Inn (backup): estimate $1,534 to verified $1,533.67/night, available; Two Bedroom One Bath Suite re-quoted at 2 adults + 2 children at the same $579 as for 2 adults. Not promoted: Mission Ranch, the option the score rests on, is still eligible.",
+    "price-checker 2026-11-15: lodging score 17 unchanged, total 77 unchanged; Mission Ranch keeps lock-off yes and an estimate inside the cap, and its price is still unconfirmed, so nothing is added back.",
+    "fact-checker 2026-11-15: lodging confirmed on the property pages, no corrections: Mission Ranch (Honeymoon 500 sq ft/1 bath, Bunkhouse 550 sq ft/2BR/1 bath/ADA #37, Main Barn first floor with outside entrances, King + 2 Twins 2 rooms/1 bath, ADA #28, no kitchens; cottage floors and entrance not stated); Yellow House Main 3118 (4 bedrooms all on the second floor, 2 baths upstairs plus a lower half bath, sleeps 8, dining 'seats 12' vs photo caption 6-8, 4-night minimum excluding holidays); Yellow House Guest 3119 (1BR king, own separate entrance, upper level above garage, shared garage laundry, 30-night monthly rental; the amenity list says both 'Many Stairs on Property' and 'All One Level Inside', stairs to the suite not stated); Carmel Country Inn chart (2BR/1BA suite king + queen, ground-floor end unit, max 5; King Studio ground floor in main building, max 3; Deluxe 1BR king, ground or second floor, max 3; no elevator; kitchen, steps and entrance not stated). Lock-off verdicts stand (Yellow House yes on the separate-entrance wording; Carmel Country Inn yes as a separate inn suite; Mission Ranch yes). Layout ratings unchanged.",
+    "fact-checker 2026-11-15: animals: Elkhorn Slough 2.5-hr tour confirmed on the operator page ($70, daily 10:00 and 2:00, 'adults and kids over 10', no seasonal limit listed, 5 boat lengths from otters/seals, no touching); age_min 11 matches 'over 10', so Aubrey (13) and Ethan (15) qualify. Equestrian beach ride confirmed ($175, 1 hr 15 min, age 10+, 54 in minimum height, 2-rider minimum, reservations (831) 663-5712); the page lists no days or times, so operates_during_stay stays unknown. Monterey Zoo tours page confirms 'full-contact' tours including helping 'put a rhino to bed' and feeding a lion or tiger, but states no price, age, group size or closure; montereyzoo.org/tours returned 404; interactivity, age_min 4 and price remain as recorded, operates unknown. Aquarium: $65 adult, $50 youth 5-17 and senior 70+, free 4 and under, tickets on sale only through Dec 31 2026 so July 2027 tickets are not yet on sale; All About Animal Care and Family Adventures in Animal Care tours are listed as hands-on, with no price or age. Whale watching: the cited page details only the April-May killer whale trip (13+); the daily tour (from $76.32, all ages) and sunset 3-hr tour (from $81.62) are listed without season, so July operation is unconfirmed (unknown stands). Ranking order (kayak among otters, horse beach ride, zoo, aquarium, whale watching) fits the guidance; no item is closed, suspended, or age-barred for the youngest traveler (13). Animals 11/18 unchanged.",
+    "fact-checker 2026-11-15: could not verify: Monterey Zoo tour price, minimum age and 2027 schedule; Equestrian Center July ride days; whale-watch daily tour July dates; Carmel Country Inn steps from parking to ground-floor units; Mission Ranch cottage floors. No score changed (lodging 17, animals 11, total 77).",
+    "2026-11-16: Hofsas House removed as an option at the family's request (not moved to backups); Carmel Country Inn promoted from lodging_backups to lodging to keep 4 options, and it replaces Hofsas House as a brochure stay. Lodging score unchanged (rests on Mission Ranch)."
+  ],
+  "sources": [
+    {
+      "title": "Mission Ranch accommodations",
+      "url": "https://www.missionranchcarmel.com/accommodations.htm",
+      "section": "lodging"
+    },
+    {
+      "title": "Mission Ranch home",
+      "url": "https://www.missionranchcarmel.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Andril Fireplace Cottages",
+      "url": "https://www.andrilcottages.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Andril - Rancho Reposo",
+      "url": "https://www.andrilcottages.com/accommodations/rancho-reposo/",
+      "section": "lodging"
+    },
+    {
+      "title": "Andril - Two Bedroom Cottage Two Baths",
+      "url": "https://www.andrilcottages.com/accommodations/two-bedroom-cottage-two-baths/",
+      "section": "lodging"
+    },
+    {
+      "title": "Andril on Wotif (sleeps 12)",
+      "url": "https://wotif.com/Monterey-Hotels-Andril-Fireplace-Cottages.h10225563.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "3962 High Tide (Vrbo)",
+      "url": "https://www.vrbo.com/20093425ha",
+      "section": "lodging"
+    },
+    {
+      "title": "3962 High Tide (Marriott Homes & Villas)",
+      "url": "https://homes-and-villas.marriott.com/en/properties/40531395-pacific-grove-3962-high-tide",
+      "section": "lodging"
+    },
+    {
+      "title": "3963 Low Tide (Orbitz)",
+      "url": "https://www.orbitz.com/Pacific-Grove-Hotels-3963-Low-Tide-Walk-To-Aquarium.h111839027.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "Lighthouse Lodge & Cottages rooms",
+      "url": "https://www.lighthouselodgecottages.com/rooms",
+      "section": "lodging"
+    },
+    {
+      "title": "Pacific Grove Beach House With Cottage And Views (Expedia)",
+      "url": "https://www.expedia.com/es/Pacific-Grove-Hoteles-Pacific-Grove-Beach-House-With-Cottage-And-Views.h76254306.Informacion-Hotel",
+      "section": "lodging"
+    },
+    {
+      "title": "Pacific Grove Short-Term Rental Program",
+      "url": "https://www.cityofpacificgrove.org/living/short-term-rental-program",
+      "section": "lodging"
+    },
+    {
+      "title": "Sanctuary Vacation Rentals - 3118 Yellow House Main",
+      "url": "https://www.sanctuaryvacationrentals.com/vacation-rentals/3118-yellow-house-main",
+      "section": "lodging"
+    },
+    {
+      "title": "Sanctuary Vacation Rentals - 3119 Yellow House Guest",
+      "url": "https://www.sanctuaryvacationrentals.com/vacation-rentals/3119-yellow-house-guest",
+      "section": "lodging"
+    },
+    {
+      "title": "3118 Yellow House Main aggregator listing ('from' $898)",
+      "url": "https://cartagenacaribbeantours.com/property/3118-yellow-house-main-walk-to-the-aquarium/HA-121276375",
+      "section": "lodging"
+    },
+    {
+      "title": "3118 Yellow House Main aggregator listing ('from' $909)",
+      "url": "https://playabeachrentals.com/property/3118-nightly-rental-almost-oceanfront-walk-to-aquarium-cannery-row/HA-276375",
+      "section": "lodging"
+    },
+    {
+      "title": "Carmel Country Inn",
+      "url": "https://www.carmelcountryinn.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Carmel Country Inn room comparison chart",
+      "url": "https://www.carmelcountryinn.com/carmel-lodging-comparison",
+      "section": "lodging"
+    },
+    {
+      "title": "Carmel Country Inn availability, Jul 4-10 2027 (ThinkReservations)",
+      "url": "https://secure.thinkreservations.com/carmelcountryinn/reservations/availability?start_date=2027-07-04&end_date=2027-07-10&number_of_adults=2",
+      "section": "lodging"
+    },
+    {
+      "title": "Monterey Bay Kayaks - Elkhorn Slough tours",
+      "url": "https://www.montereybaykayaks.com/elkhorn-slough.html",
+      "section": "animals"
+    },
+    {
+      "title": "Monterey Bay Equestrian Center - beach rides",
+      "url": "https://montereybayequestrian.com/beach-rides/",
+      "section": "animals"
+    },
+    {
+      "title": "Vision Quest Ranch FAQ (no elephants since 2021; rhino program)",
+      "url": "https://www.visionquestranch.com/faqs-policies",
+      "section": "animals"
+    },
+    {
+      "title": "Vision Quest Ranch - Monterey Zoo tours",
+      "url": "https://www.visionquestranch.com/tours-events",
+      "section": "animals"
+    },
+    {
+      "title": "Monterey Zoo",
+      "url": "https://www.montereyzoo.org/",
+      "section": "animals"
+    },
+    {
+      "title": "Monterey Zoo VIAP and Combo tours (Groupon)",
+      "url": "https://www.groupon.com/deals/gl-monterey-zoo",
+      "section": "animals"
+    },
+    {
+      "title": "Monterey Zoo admission (camp listing, Apr 2026)",
+      "url": "https://enrichment.kids/ca/salinas/safari-camp-1",
+      "section": "animals"
+    },
+    {
+      "title": "Monterey Bay Aquarium visit page",
+      "url": "https://www.montereybayaquarium.org/visit",
+      "section": "animals"
+    },
+    {
+      "title": "Elkhorn Slough Safari (See Monterey)",
+      "url": "https://www.seemonterey.com/directory/elkhorn-slough-safari/",
+      "section": "animals"
+    },
+    {
+      "title": "Elkhorn Slough Safari - Sunset",
+      "url": "https://sunset.com/travel/outdoor-adventure/slough-safari",
+      "section": "animals"
+    },
+    {
+      "title": "Adventures by the Sea private kayak tour",
+      "url": "https://adventuresbythesea.com/lovers-point/private-kayak-tour/",
+      "section": "activities"
+    },
+    {
+      "title": "Monterey Bay Whale Watch",
+      "url": "https://montereybaywhalewatch.com/whale-watching/killer-whale-tour/",
+      "section": "animals"
+    },
+    {
+      "title": "Carmel Valley Ranch family programs (goats, beekeeping) - Afar",
+      "url": "https://www.afar.com/magazine/carmel-valley-ranchs-expanded-family-programming-will-keep-kids-occupied-for",
+      "section": "animals"
+    },
+    {
+      "title": "Pebble Beach green fee 2026 - Top 100 Golf Courses",
+      "url": "https://www.top100golfcourses.com/golf-course/pebble-beach/reviews/48475",
+      "section": "golf"
+    },
+    {
+      "title": "Pebble Beach 2026 cost - Golf News Net",
+      "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/02/14/how-much-does-it-cost-to-play-pebble-beach-golf-links-in-2026-140570/",
+      "section": "golf"
+    },
+    {
+      "title": "Pacific Grove Golf Links",
+      "url": "https://www.playpacificgrove.com/",
+      "section": "golf"
+    },
+    {
+      "title": "Monterey green fees 2026 - Green Fee Tracker",
+      "url": "https://greenfeetracker.com/blog/golf-green-fees-monterey-2026",
+      "section": "golf"
+    },
+    {
+      "title": "Escape Room 831 (See Monterey)",
+      "url": "https://www.seemonterey.com/directory/escape-room-831/",
+      "section": "activities"
+    },
+    {
+      "title": "Escape Room 831 at 765 Wave St (Cannery Row)",
+      "url": "https://canneryrow.com/business/escape-room-831-at-765-wave-st",
+      "section": "activities"
+    },
+    {
+      "title": "Adventures by the Sea kayak rental",
+      "url": "https://adventuresbythesea.com/cannery-row/kayak-rental/",
+      "section": "activities"
+    },
+    {
+      "title": "Frommer's - Things to do in Pacific Grove",
+      "url": "https://www.frommers.com/destinations/pacific-grove/things-to-do/",
+      "section": "activities"
+    },
+    {
+      "title": "Trip.com - Pacific Grove things to do",
+      "url": "https://in.trip.com/things-to-do/pacificgrove-18194/",
+      "section": "activities"
+    },
+    {
+      "title": "Wikipedia - Pacific Grove",
+      "url": "https://en.wikipedia.org/wiki/Pacific_Grove,_California",
+      "section": "general"
+    },
+    {
+      "title": "OpenTable - best casual restaurants Pacific Grove",
+      "url": "https://www.opentable.com/features/best-casual-restaurants-pacific-grove-ca",
+      "section": "restaurants"
+    },
+    {
+      "title": "Fodor's - Pacific Grove restaurants",
+      "url": "https://cdn.fodors.com/world/north-america/usa/california/the-monterey-bay-area/places/pacific-grove/restaurants",
+      "section": "restaurants"
+    },
+    {
+      "title": "pos.do - Pacific Grove restaurants",
+      "url": "https://pos.do/en/city/pacific-grove/93950",
+      "section": "restaurants"
+    },
+    {
+      "title": "Wikipedia - Monterey climate (NOAA 1991-2020)",
+      "url": "https://en.wikipedia.org/wiki/Monterey,_California",
+      "section": "weather"
+    },
+    {
+      "title": "MRY: United Chicago service and route list",
+      "url": "https://www.montereyairport.com/press-release/united-airlines-announces-seasonal-nonstop-service-between-monterey-and-chicago",
+      "section": "logistics"
+    },
+    {
+      "title": "MRY passenger record, DEN upsizing, new terminal",
+      "url": "https://www.aviationpros.com/airport-business/news/55359959/monterey-regional-sets-passenger-record-secures-a-a-2-rating-for-terminal-financing",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 65.8,
+    "low_f": 54.4
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://montereybaywhalewatch.com/": {
+      "url": "https://montereybaywhalewatch.com/wp-content/uploads/sites/6833/2024/10/1T0A4152-Enhanced-NR-3.jpg?w=700&h=700&zoom=2",
+      "src": "img/c1df2747e7f9b92a.jpg"
+    },
+    "https://www.top100golfcourses.com/golf-course/pebble-beach/reviews/48475": {
+      "url": "https://cdn.sanity.io/images/03mhssoh/production/3e82045a342df771dcd2ed8a52c6679965d1455d-600x345.jpg?w=1200&h=627&fit=crop&auto=format&q=70",
+      "src": "img/1c9740508d9f7604.jpg"
+    },
+    "https://en.wikipedia.org/wiki/Pacific_Grove,_California": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Pacific_Grove%2C_California_-_2022_5.jpg/1280px-Pacific_Grove%2C_California_-_2022_5.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "src": "img/cbde8eb8fb59d29e.jpg"
+    },
+    "https://www.seemonterey.com/directory/escape-room-831/": {
+      "url": "https://www.seemonterey.com/wp-content/uploads/output-onlinepngtools-768x217-1.png",
+      "src": "img/f8e53f23b2fb8cea.png"
+    },
+    "https://adventuresbythesea.com/cannery-row/kayak-rental/": {
+      "url": "https://adventuresbythesea.com/wp-content/uploads/sites/1900/2018/10/Kayak-ABTS.jpg?w=700&h=700&zoom=2",
+      "src": "img/668d0599ebc497e9.jpg"
+    },
+    "https://canneryrow.com/business/escape-room-831-at-765-wave-st": {
+      "url": "https://canneryrow.com/wp-content/uploads/2021/02/Escape831-1.png",
+      "src": "img/5de54463dbf0950b.png"
+    },
+    "https://montereybaywhalewatch.com/whale-watching/killer-whale-tour/": {
+      "url": "https://montereybaywhalewatch.com/wp-content/uploads/sites/6833/2023/08/1T0A6927-Enhanced-NR.jpg?w=700&h=700&zoom=2",
+      "src": "img/b8bc24d1dd4b5d30.jpg"
+    },
+    "https://pos.do/en/city/pacific-grove/93950": {
+      "url": "https://pos.do/images/og-default.jpg",
+      "src": "img/64c7d11aa201e1a2.jpg"
+    }
+  }
+}

@@ -1,0 +1,1598 @@
+{
+  "slug": "vancouver-bc",
+  "name": "Vancouver, BC",
+  "region": "Canada",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "Vancouver is a strong all-rounder: a flat, walkable downtown and West End by False Creek, Stanley Park and English Bay, dozens of restaurants on foot, two public courses within 40 minutes, typical July highs around 73 F, and nonstop flights from Denver and SFO. Provincial and city short-term rental rules leave no legal whole house with a guest suite in the city, so the workable setup is three separate suites in one apartment hotel. The best bookable one is Level Yaletown-Seymour, verified at US$1,401-1,796/night for Jul 4-10 with a pool and hot tub; Carmana Hotel & Suites downtown is verified at US$1,413/night and gives the teens twin beds; La Grande Residence is verified at US$1,755. Each household gets its own door, but no room seats all 8 at one table. The biggest caveat is animals: the two hands-on options are farm animals about 55 minutes away (a horseback trail ride in Langley, Tue-Sun, and alpaca feeding and walks, Fri-Sun), with a Deep Cove kayak paddle among harbour seals as the best wildlife outing; the Aquarium seal encounter is 14+ and the sea otter encounter is sold out indefinitely. Passports are required.",
+  "images": {
+    "hero": {
+      "url": "https://images.spaicelabs.com/images/flus6j8v/production/1db385380089ca5ec87ca17fe7c1ad878c9b8762-2432x1248.png?rect=318%2C0%2C1797%2C1248&w=3840&fm=webp&q=75&fit=max",
+      "page_url": "https://www.destinationvancouver.com/things-to-do/",
+      "credit": "Destination Vancouver",
+      "alt": "Beach park with trees and downtown high-rises",
+      "src": "img/aa57d15b100f9d7c.webp"
+    },
+    "gallery": [
+      {
+        "url": "https://images.spaicelabs.com/images/flus6j8v/production/3b186afdb8044176a29ceca0c5fd5a6d1ae8ae54-2048x1365.jpg?w=3840&fm=webp&q=75&fit=max",
+        "page_url": "https://www.destinationvancouver.com/things-to-do/",
+        "credit": "Destination Vancouver",
+        "alt": "False Creek waterfront with the Science World dome",
+        "src": "img/719482716578cdeb.webp"
+      },
+      {
+        "url": "https://irp.cdn-website.com/5f26998a/dms3rep/multi/opt/Stanley+Park+cycling+and+walking+-1920w.jpg",
+        "page_url": "https://www.timessquaresuites.com/",
+        "credit": "Times Square Suites",
+        "alt": "Cycling and walking on the Stanley Park seawall",
+        "src": "img/28acfd37123da78b.jpg"
+      },
+      {
+        "url": "https://irp.cdn-website.com/5f26998a/dms3rep/multi/opt/English+Bay+late+day+sun-1920w.jpg",
+        "page_url": "https://www.timessquaresuites.com/",
+        "credit": "Times Square Suites",
+        "alt": "English Bay in late-day sun",
+        "src": "img/95eec539007556be.jpg"
+      },
+      {
+        "url": "https://vanmag.com/wp-content/uploads/2022/10/DenmanStreet_Feature.jpg",
+        "page_url": "https://vanmag.com/?p=5722",
+        "credit": "Vancouver Magazine",
+        "alt": "Denman Street restaurants in the West End",
+        "src": "img/fa6945c00c2960e1.jpg"
+      },
+      {
+        "url": "https://kensingtonprairie.ca/cdn/shop/files/Dulce_3.jpg?v=1792197130&width=1400",
+        "page_url": "https://kensingtonprairie.ca/",
+        "credit": "Kensington Prairie Farm",
+        "alt": "Alpaca at Kensington Prairie Farm",
+        "src": "img/3c45aeadc6957546.jpg"
+      },
+      {
+        "url": "https://images.spaicelabs.com/images/flus6j8v/production/9555824ab3759a76c2cb21e3c8e325ab578b8df8-8256x5504.jpg",
+        "page_url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown",
+        "credit": "Destination Vancouver",
+        "alt": "Outdoor seating in Yaletown",
+        "src": "img/f6f71c5994fc4602.jpg"
+      },
+      {
+        "url": "https://www.grousemountain.com/media/W1siZiIsIjIwMTcvMDEvMzAvMjAvMDcvNDAvMjY1NWIzZTEtMzJmMi00NjMyLTk5ZjgtMWFkOGE2YzI4OTViL21haW4taW1hZ2UtYmVhcnMuanBnIl0sWyJwIiwidGh1bWIiLCI5NjB4NDcwIyJdXQ?sha=743db12b49de22e3",
+        "page_url": "https://grousemountain.com/wildlife-refuge",
+        "credit": "Grouse Mountain",
+        "alt": "Grizzly bears at the Grouse Mountain wildlife refuge",
+        "src": "img/5be4a314b0f61147.jpg"
+      }
+    ]
+  },
+  "brochure": {
+    "tagline": "Seawall bike rides, mountain views and Yaletown patio dinners",
+    "intro": "Vancouver is a flat, walkable city on the water, with Stanley Park, English Bay and False Creek close at hand. Days mix seawall strolls, a canyon bridge and Granville Island snacking. Evenings are easy, with dozens of restaurants a short walk from downtown suites.",
+    "highlights": [
+      "Cycle or stroll the flat Stanley Park seawall",
+      "Cross the Capilano Suspension Bridge in the forest",
+      "Feed and walk alpacas at a farm in Langley",
+      "Browse the market and studios on Granville Island",
+      "Dinner on Yaletown patios, a short flat walk away",
+      "July highs around 73 F"
+    ],
+    "pros": [
+      "Flat, walkable downtown with water and mountain views",
+      "Dozens of restaurants within a short walk of the suites",
+      "Nonstop flights from Denver and San Francisco; 30 minutes to town",
+      "Two public golf courses within 40 minutes",
+      "Cool July weather, highs around 73 F"
+    ],
+    "cons": [
+      "Passports needed for everyone",
+      "A big city rather than a small village",
+      "Horse and alpaca outings are about 55 minutes away; alpacas Fri to Sun only",
+      "No single dining table seats all eight"
+    ],
+    "stays": [
+      {
+        "name": "Level Vancouver Yaletown-Seymour: 2BR suite + two 1BR suites",
+        "title": "Level Yaletown-Seymour",
+        "blurb": "Newer suites in one high-rise on Seymour St, at the edge of Yaletown. Full kitchens, plus a heated outdoor pool and hot tub for the end of the day.",
+        "highlights": [
+          "Heated outdoor pool and hot tub",
+          "Sauna, steam room and fitness centre",
+          "Full kitchens and in-suite laundry",
+          "Flat walk to Granville St and Yaletown"
+        ]
+      },
+      {
+        "name": "Carmana Hotel & Suites: Executive Two Bedroom + two King Suites",
+        "title": "Carmana Hotel & Suites",
+        "blurb": "All-suite hotel on Alberni St, a block above Robson St, with floor-to-ceiling windows and full kitchens. The two-bedroom corner suites have a balcony and two baths.",
+        "highlights": [
+          "Full kitchens with living and dining areas",
+          "Robson St restaurants 2-3 minutes away",
+          "Corner two-bedroom with balcony",
+          "Coal Harbour about 8 minutes on foot"
+        ]
+      },
+      {
+        "name": "La Grande Residence at The Sutton Place Hotel: 2BR + two 1BR suites",
+        "title": "La Grande Residence",
+        "blurb": "Apartment suites with full kitchens and balconies, connected to The Sutton Place Hotel on Burrard St. Robson St shops and restaurants are two minutes away.",
+        "highlights": [
+          "Full kitchens and balconies",
+          "Vida Spa and hotel restaurants next door",
+          "Robson St 2 minutes on foot",
+          "Flexible 24-hour cancellation"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Alpaca walks at Kensington Prairie Farm",
+        "kind": "animals",
+        "blurb": "Feed and lead an alpaca on a 30-minute walk, a good one for Aubrey; open Friday to Sunday, so Fri Jul 9 is the day.",
+        "url": "https://kensingtonprairie.ca/",
+        "image": {
+          "url": "https://kensingtonprairie.ca/cdn/shop/files/copy_2_d0825462-3eea-4c06-8183-2b37ff45fdff.jpg?v=1777930056&width=1400",
+          "page_url": "https://kensingtonprairie.ca/",
+          "credit": "Kensington Prairie Farm",
+          "alt": "Alpacas at Kensington Prairie Farm, Langley",
+          "src": "img/8712b566068b3513.jpg"
+        }
+      },
+      {
+        "name": "Trail ride at Glen Valley Stables",
+        "kind": "animals",
+        "blurb": "A guided horseback ride through Campbell Valley Park in Langley, open to first-time riders ages 6 and up; open Tuesday to Sunday, about 55 minutes away.",
+        "url": "https://glenvalleystables.com/rates/"
+      },
+      {
+        "name": "Kayak among harbour seals at Deep Cove",
+        "kind": "animals",
+        "blurb": "A guided 3-hour paddle on Indian Arm, 25 minutes from downtown, for ages 12 and up. Seals are common but sightings are not guaranteed; the dock has a doughnut shop.",
+        "url": "https://deepcovekayak.com/tour/deep-cove-explorer/"
+      },
+      {
+        "name": "Furry Creek Golf & Country Club",
+        "kind": "golf",
+        "blurb": "Public 18 holes on the Sea to Sky Highway, about 40 minutes away, with fjord and mountain views.",
+        "url": "https://www.chronogolf.com/club/furry-creek-golf-country-club"
+      },
+      {
+        "name": "Stanley Park and False Creek seawalls",
+        "kind": "outdoors",
+        "blurb": "Flat waterfront paths on foot or by bike; teens can ride the full 10 km Stanley Park loop.",
+        "url": "https://www.destinationvancouver.com/things-to-do/",
+        "image": {
+          "url": "https://irp.cdn-website.com/5f26998a/dms3rep/multi/opt/Stanley+Park+cycling+and+walking+-1920w.jpg",
+          "page_url": "https://www.timessquaresuites.com/",
+          "credit": "Times Square Suites",
+          "alt": "Cycling and walking on the Stanley Park seawall",
+          "src": "img/28acfd37123da78b.jpg"
+        }
+      },
+      {
+        "name": "Capilano Suspension Bridge Park",
+        "kind": "outdoors",
+        "blurb": "A swaying bridge over the canyon, treetop walks and a cliffside walkway; a free shuttle runs from downtown.",
+        "url": "https://www.capbridge.com/",
+        "image": {
+          "url": "https://www.capbridge.com/wp-content/uploads/2022/08/Media-Hero-Desktop-01-428x241.jpg",
+          "page_url": "https://www.capbridge.com/",
+          "credit": "Capilano Suspension Bridge Park",
+          "alt": "Capilano Suspension Bridge",
+          "src": "img/12206c5439850062.jpg"
+        }
+      },
+      {
+        "name": "Granville Island Public Market",
+        "kind": "town",
+        "blurb": "Food stalls, artisan studios and shops, reached by a small ferry from Yaletown or the West End.",
+        "url": "https://granvilleisland.com/"
+      },
+      {
+        "name": "Vida Spa at The Sutton Place Hotel",
+        "kind": "spa",
+        "blurb": "A hotel spa on Burrard St for a treatment day (spa fees extra).",
+        "url": "https://www.suttonplace.com/vancouver/la-grande-residence",
+        "image": {
+          "url": "https://image-tc.galaxy.tf/wijpeg-eiq5jo6k8qbutwa36uguxlf4x/sutton-place-vancouver-vida-spa-03.jpg?width=560",
+          "page_url": "https://www.suttonplace.com/vancouver",
+          "credit": "The Sutton Place Hotel",
+          "alt": "Vida Spa at The Sutton Place Hotel",
+          "src": "img/2cd1e589a8d5282e.jpg"
+        }
+      },
+      {
+        "name": "Yaletown restaurant patios",
+        "kind": "food",
+        "blurb": "Destination Vancouver lists 20 restaurants in Yaletown, from burritos and pizza to a seafood raw bar.",
+        "url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown",
+        "image": {
+          "url": "https://images.spaicelabs.com/images/flus6j8v/production/9555824ab3759a76c2cb21e3c8e325ab578b8df8-8256x5504.jpg",
+          "page_url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown",
+          "credit": "Destination Vancouver",
+          "alt": "Outdoor seating in Yaletown",
+          "src": "img/f6f71c5994fc4602.jpg"
+        }
+      },
+      {
+        "name": "Science World",
+        "kind": "rainy day",
+        "blurb": "Hands-on science exhibits under the geodesic dome on False Creek, a good wet-day plan.",
+        "url": "https://www.destinationvancouver.com/things-to-do/",
+        "image": {
+          "url": "https://images.spaicelabs.com/images/flus6j8v/production/3b186afdb8044176a29ceca0c5fd5a6d1ae8ae54-2048x1365.jpg?w=3840&fm=webp&q=75&fit=max",
+          "page_url": "https://www.destinationvancouver.com/things-to-do/",
+          "credit": "Destination Vancouver",
+          "alt": "False Creek waterfront with the Science World dome",
+          "src": "img/719482716578cdeb.webp"
+        }
+      }
+    ],
+    "dinner_spots": [
+      "Blue Water Cafe, Yaletown: seafood and raw bar for a special night",
+      "Yaletown Brewing Co.: brewpub classics, easy for a big group",
+      "Ignite Pizzeria Yaletown: wood-fired pizza",
+      "Cactus Club Cafe English Bay: patio steps from the beach"
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: YVR is about 30 min by car from downtown (Canada Line train also runs to Yaletown-Roundhouse and Waterfront); nonstops from DEN (United, Air Canada) and SFO, so it passes. Seniors: the recommended Level Yaletown-Seymour is a high-rise at 1022 Seymour St (elevator not stated in the listings read, but suites above ground level are reached by lift in a tower this size; confirm); Granville St restaurants are 1-3 min and Yaletown's Hamilton/Mainland streets 5-8 min on flat sidewalks, the False Creek seawall about 10 min. The West End options (Lord Stanley Suites; backup Times Square Suites) are flatter still to English Bay and Stanley Park. Capilano and Grouse involve stairs and trails, but those are optional for the parents. Passes."
+  },
+  "scores": {
+    "lodging": 15,
+    "town_scenery": 15,
+    "animals": 8,
+    "food": 15,
+    "other": 9,
+    "golf": 7,
+    "weather": 5,
+    "total": 74,
+    "rationale": {
+      "lodging": "15/25: rests on Level Yaletown-Seymour (two 1BR suites + a Deluxe 2BR/2BA, US$1,401-1,796/night, verified for Jul 4-10, re-quoted 2026-11-15): each household has its own suite and kitchen and the building has a pool and hot tub, but no private room seats all 8 at a table and the 2BR's two queens leave the teens sharing a bed or the sofa bed.",
+      "town_scenery": "15/18: downtown, Yaletown and the West End are flat and walkable to the False Creek and Stanley Park seawalls with water and mountain views, but it is a big city, not a village.",
+      "animals": "8/18: ranked by what guests do, the top items are a Deep Cove kayak paddle among harbour seals (25 min, 12+, sightings not guaranteed, not for the parents) and a guided horseback trail ride at Glen Valley Stables (about 55 min, 6+, Tue-Sun), then alpaca feeding and walks at Kensington Prairie Farm (55 min, Fri-Sun); the only hands-on options are farm animals, which keeps the category in the lower half; whale watching (2027 dates unconfirmed) and the Grouse grizzly add viewing, and the Aquarium seal encounter (14+, excludes Aubrey) and the sold-out sea otter encounter do not count.",
+      "food": "15/15: more than 10 restaurants within an 8-minute flat walk of Level Seymour on Granville St and in Yaletown (Destination Vancouver lists 20 in Yaletown), with Blue Water Cafe about 6 minutes away for the special dinner.",
+      "other": "9/10: Capilano bridges, seawall bikes, an outdoor escape game, Granville Island shopping and Science World cover teens, parents and rain; DEN and SFO nonstops and a 30-min transfer, with passports needed.",
+      "golf": "7/9: Furry Creek on Howe Sound (about 40 min) is the scenic pick, University Golf Club (20 min) the alternative; July green fees are unconfirmed and University GC is mid-renovation.",
+      "weather": "5/5: July normal high about 73 F (at or under the 75 F target) with about 7 rain days."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Level Vancouver Yaletown-Seymour: 2BR suite + two 1BR suites",
+      "kind": "furnished-suite hotel, 3 separate suites",
+      "quick_verdict": "Best bookable option: newer suites in one high-rise with a heated pool and hot tub, verified for the dates.",
+      "configuration": "1022 Seymour St (Downtown South, edge of Yaletown). Level's booking engine (price-checker 2026-11-14) lists the One Bedroom Suite with 1 queen, sleeps 4, 600 sq ft, and the Deluxe Two Bedroom Suite with 2 queen beds, sleeps 6, 900 sq ft. Operator descriptions: 1BR has 1 bath, a sofa bed and a bedroom that closes off from the living area; 2BR has 2 baths, a sofa bed and is on one level. Level's Airbnb listing for a 2BR says queen + king; the engine's 2 queens is what the quote is for, so Ethan (15) and Aubrey (13) would share a queen or one would take the living-room sofa bed. Full kitchens, in-suite laundry, balcony (Airbnb listing). Building: outdoor heated pool, shared hot tub, sauna, steam room, fitness centre. Townhome 2BR/2.5BA (about 1,200 sq ft, two levels with stairs) is not suitable for the parents. Gathering room: the 2BR living/dining area; seating and table size not stated (likely 6, not 8). Elevator not stated in listings read (high-rise). Same-floor or adjacent suites not guaranteed; ask reservations (778.328.4600). A 3BR penthouse exists but is unpriced. Level's own site returned 403 to automated fetches.",
+      "family_split": {
+        "scott_andrea": "One Bedroom Suite (own unit, 1 queen)",
+        "parents": "One Bedroom Suite (own unit, 1 queen)",
+        "brother_family": "Deluxe Two Bedroom Suite (2 queens + sofa bed, 2 baths; hosts evenings)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own corridor door and bathroom (Level suite types via search of stayinglevel.com; Level booking engine lists One Bedroom Suite as its own unit). A separate hotel suite qualifies under rubric.md."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 8,
+        "location": 9,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Granville St 1-3 min; Yaletown (Hamilton/Mainland) restaurants 5-8 min, including Blue Water Cafe; all flat. False Creek seawall about 10 min; Denman St and English Bay about 25 min on foot.",
+      "price": {
+        "nightly_total_usd_low": 1401,
+        "nightly_total_usd_high": 1796,
+        "label": "verified",
+        "basis": "Re-quoted 2026-11-15 on Level's own SynXis engine (book-seymour.stayinglevel.com, hotel 9641, linked from stayinglevel.com Book Now); page shows Sun, Jul 4, 2027 to Sat, Jul 10, 2027; average per-night rate excluding taxes and fees, no per-night breakdown. ONE BEDROOM SUITE (king or queen, sofa bed), 2 adults, x2 (Scott & Andrea; Sam & Karen): Advanced Purchase (prepaid) C$525/night, Book Direct C$673/night. DELUXE TWO BEDROOM SUITE (two queen beds, two bathrooms), 2 adults + 2 children: Advanced Purchase C$950/night, Book Direct C$1,218/night. Resident Rate (C$572 1BR, C$1,036 2BR; residents only) not used. Sum: C$525 x 2 + C$950 = C$2,000/night; Book Direct C$673 x 2 + C$1,218 = C$2,564/night; at 0.7005 USD per CAD (Wise mid-market, read 2026-11-15) US$1,401-1,796. Unchanged in CAD from the 2026-11-14 quote.",
+        "source_url": "https://book-seymour.stayinglevel.com/?adult=2&arrive=2027-07-04&chain=18855&child=0&currency=CAD&depart=2027-07-10&hotel=9641&level=hotel&locale=en-US&productcurrency=CAD&rooms=1",
+        "fees_notes": "Rates shown 'Excluding taxes and fees'; tax not shown before checkout. Advanced Purchase is prepaid. Parking extra (complimentary only on the residents' rate).",
+        "local_currency": "CAD",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "ONE BEDROOM SUITE, Advanced Purchase, C$525/night (Book Direct C$673); 2 adults",
+          "ONE BEDROOM SUITE, Advanced Purchase, C$525/night (Book Direct C$673); 2 adults",
+          "DELUXE TWO BEDROOM SUITE, Advanced Purchase, C$950/night (Book Direct C$1,218); 2 adults + 2 children"
+        ],
+        "local_nightly_total": 2000,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "All three suites quoted for the exact dates",
+        "Heated pool, hot tub, sauna and steam room",
+        "Each household gets its own kitchen suite",
+        "Flat walk to Granville St and Yaletown dinners"
+      ],
+      "compromises": [
+        "2BR has two queens: the teens share a bed or use the sofa bed",
+        "2BR living room likely seats 6, not 8",
+        "Adjacent suites not guaranteed",
+        "About 25 min on foot to Stanley Park"
+      ],
+      "best_for": "Choose this if a confirmed booking, a pool and hot tub, and Yaletown dinners matter more than being next to Stanley Park.",
+      "links": [
+        "https://stayinglevel.com/vancouver/?p=1188",
+        "https://book-seymour.stayinglevel.com/?adult=2&arrive=2027-07-04&chain=18855&child=0&currency=CAD&depart=2027-07-10&hotel=9641&level=hotel&locale=en-US&productcurrency=CAD&rooms=1",
+        "https://www.airbnb.com/rooms/782611575046081777"
+      ],
+      "images": [
+        {
+          "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42812975/original/77901558-6540-482d-9574-db275fc79534.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.com/rooms/782611575046081777",
+          "credit": "Level Vancouver (Airbnb)",
+          "alt": "Level Seymour two-bedroom suite",
+          "src": "img/42b08d7546fe0219.jpg"
+        },
+        {
+          "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42812975/original/3ccc3c55-2b4f-47a4-9cb5-1846bc72929e.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.com/rooms/782611575046081777",
+          "credit": "Level Vancouver (Airbnb)",
+          "alt": "Level Seymour suite interior",
+          "src": "img/dd4d034de2f047ef.jpg"
+        },
+        {
+          "url": "https://a0.muscache.com/im/pictures/miso/Hosting-782611575046081777/original/62ba0f8e-3c26-4403-a928-d339ddec3133.jpeg?im_w=720",
+          "page_url": "https://www.airbnb.com/rooms/782611575046081777",
+          "credit": "Level Vancouver (Airbnb)",
+          "alt": "Level Seymour two-bedroom suite room",
+          "src": "img/778de0af9de7f521.jpg"
+        }
+      ],
+      "review_notes": "Level's Airbnb host profile: 1,596 reviews, 4.8 average."
+    },
+    {
+      "name": "La Grande Residence at The Sutton Place Hotel: 2BR + two 1BR suites",
+      "kind": "residence suites attached to a full-service hotel",
+      "quick_verdict": "Apartment suites with full kitchens and balconies, connected to a hotel with Vida Spa; verified for the dates.",
+      "configuration": "855 Burrard St, connected to The Sutton Place Hotel. The residence's own engine (price-checker 2026-11-14) lists the One Bedroom Sutton Suite with 1 king bed and a sofa bed, 700 sq ft, 1 bath, full kitchen, LGR Tower floors 1-9, and the Two Bedroom Sutton Suite with 1 king, 1 queen and a sofa bed; the engine does not show the 2BR's bathroom count. The hotel's own residence page says two-bedroom suites have 1.5 bathrooms (Travelocity: about 796 sq ft, sleeps 6). Full kitchens (Miele appliances in modern suites), dining table, balcony with patio furniture (suttonplace.com). Guests use the hotel's Vida Spa (surcharge), fitness centre, indoor pool (booking sites), concierge and restaurants. Minimum stay not stated; the building also serves monthly guests. Gathering room: the 2BR living/dining, seats not stated. Elevator: tower building, not stated.",
+      "family_split": {
+        "scott_andrea": "One Bedroom Sutton Suite (own unit, king)",
+        "parents": "One Bedroom Sutton Suite (own unit, king)",
+        "brother_family": "Two Bedroom Sutton Suite (king + queen + sofa bed; 1.5 baths per the hotel)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate residence suite with its own door (suttonplace.com La Grande Residence page; engine sells each suite as its own unit)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 8,
+        "location": 9,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Robson St shops and restaurants 2 min; Coal Harbour and Lift about 12 min.",
+      "price": {
+        "nightly_total_usd_low": 1755,
+        "nightly_total_usd_high": 1755,
+        "label": "verified",
+        "basis": "Re-quoted 2026-11-15 on the same engine (page shows Jul 4-10; rates identical to 2026-11-14 for 2 adults and for 2 adults + 2 children; at 0.7005 USD per CAD, Wise mid-market, read 2026-11-15: C$2,505.65/night = US$1,755; Standard Rate sum C$3,132.07 = US$2,194). Earlier quote: Quoted 2026-11-14 on La Grande Residence's own TravelClick engine (reservations.suttonplace.com, hotel 113928, linked from suttonplace.com/la-grande-residence/rooms) for Jul 4-10, 2027; rates shown per night (unlabeled; they cannot be 6-night totals at these levels) and include the Tourism Marketing Fee. One Bedroom Sutton Suite, 1 King Bed, Sofa Bed (700 sq ft, 1 bath, full kitchen, LGR Tower floors 1-9), 2 adults, x2: Best Available Rate C$810.62/night (24-hour cancellation); Standard Rate C$1,013.28; member rate C$770.09 needs sign-in, not used. Two Bedroom Sutton Suite, 1 King, 1 Queen, Sofa Bed, 2 adults + 2 children: Best Available Rate C$884.41/night; Standard Rate C$1,105.51. Sum at Best Available Rate (cheapest public plan, and flexible): C$810.62 x 2 + C$884.41 = C$2,505.65/night; at 0.709 USD/CAD (mid-market, currencyconvert.online, read 2026-11-14) US$1,777. The Standard Rate sum would be C$3,132.07 (US$2,221).",
+        "source_url": "https://reservations.suttonplace.com/113928?datein=07/04/2027&dateout=07/10/2027&adults=2&rooms=1#/accommodation/room",
+        "fees_notes": "Rates include the Tourism Marketing Fee; GST and PST not shown before checkout. Credit card guarantee; cancel 24 hours before check-in or one night's rate, taxes and fees is charged. Spa and parking extra.",
+        "local_currency": "CAD",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "One Bedroom Sutton Suite, 1 King Bed, Sofa Bed, Best Available Rate, C$810.62/night; 2 adults",
+          "One Bedroom Sutton Suite, 1 King Bed, Sofa Bed, Best Available Rate, C$810.62/night; 2 adults",
+          "Two Bedroom Sutton Suite, 1 King, 1 Queen, Sofa Bed, Best Available Rate, C$884.41/night; 2 adults + 2 children"
+        ],
+        "local_nightly_total": 2505.65,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Verified for the dates with 24-hour cancellation",
+        "Full kitchens and balconies",
+        "Spa, pool and restaurants next door",
+        "Central on Burrard near Robson"
+      ],
+      "compromises": [
+        "2BR has 1.5 baths (hotel page), not 2",
+        "No room seats all 8",
+        "Priciest of the verified options"
+      ],
+      "best_for": "Choose this if a hotel spa and concierge matter as much as having kitchens.",
+      "links": [
+        "https://www.suttonplace.com/vancouver/la-grande-residence",
+        "https://reservations.suttonplace.com/113928?datein=07/04/2027&dateout=07/10/2027&adults=2&rooms=1#/accommodation/room",
+        "https://www.travelocity.com/Vancouver-Hotels-La-Grande-Residence-Vancouver-At-The-Sutton-Place-Hotel.h1205026.Hotel-Information"
+      ],
+      "images": [
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-eiq5jo6k8qbutwa36uguxlf4x/sutton-place-vancouver-vida-spa-03.jpg?width=560",
+          "page_url": "https://www.suttonplace.com/vancouver",
+          "credit": "The Sutton Place Hotel",
+          "alt": "Vida Spa at The Sutton Place Hotel",
+          "src": "img/2cd1e589a8d5282e.jpg"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-2dts0mldqf5b5netqdhcjbi9z/sutton-place-vancouver-boulevard-04.jpg?width=560",
+          "page_url": "https://www.suttonplace.com/vancouver",
+          "credit": "The Sutton Place Hotel",
+          "alt": "Boulevard Kitchen & Oyster Bar at The Sutton Place Hotel",
+          "src": "img/642bf687a46790aa.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Carmana Hotel & Suites: Executive Two Bedroom + two King Suites",
+      "kind": "all-suite hotel, 3 separate suites",
+      "quick_verdict": "Downtown suites with full kitchens and a 2BR/2BA corner suite with twins for the teens; quoted at US$1,430/night.",
+      "configuration": "Alberni St, downtown, a block above Robson St (King Suites overlook Robson per the hotel's accommodations page). Hotel says it offers one- and two-bedroom suites, all with full kitchens (Nespresso), separate living rooms and floor-to-ceiling windows. Two-bedroom types (all 820 sq ft, sleep 6, dining table seats 4, corner suites with balcony): Executive Two Bedroom (King + Queen, 2 baths, peekaboo North Shore mountain view), Executive Two Bedroom (King + 2 Twins, 2 baths), Standard Two Bedroom (King + 2 Twins, 2 baths, north-facing balcony), Carmana Two Bedroom (2 Queens, baths not listed, North Shore view). One-bedroom types: Standard King Suite (620 sq ft, sleeps 4, dining area, Robson St view), Executive Queen Suite (620 sq ft, sleeps 3), Carmana Queen Suite, Accessible Queen Suite (queen + double sofa bed, sleeps 4). 24-hour front desk, key-card access, daily housekeeping. Elevator, pool and fitness not stated on the pages read; parking C$41/day (booking engine). Gathering room: the 2BR living room with a 4-seat dining table; nothing seats 8. Same-floor suites not stated. Booking engine: luxuryres.com (hotel 739); dates are picked in its calendar.",
+      "family_split": {
+        "scott_andrea": "Standard King Suite (own unit, 620 sq ft)",
+        "parents": "Standard King Suite or Accessible Queen Suite (own unit)",
+        "brother_family": "Executive Two Bedroom, King + 2 Twins (2 baths; the teens get their own beds)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own corridor door and bathroom (carmanahotel.com/accommodations suite list). A separate hotel suite qualifies under rubric.md."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 4,
+        "parents": 7,
+        "location": 9,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Robson St restaurants 2-3 min; Coal Harbour about 8 min; Denman St about 12 min; Yaletown about 15 min. Flat to gently sloping.",
+      "price": {
+        "nightly_total_usd_low": 1413,
+        "nightly_total_usd_high": 1413,
+        "label": "verified",
+        "basis": "Re-quoted 2026-11-15 on the same engine, dates 07/04/2027-07/10/2027 (6 nights) set in the calendar, 2 adults: STANDARD 1 BEDROOM SUITE (1 KING) C$609, total before tax C$3,654; EXECUTIVE 2 BEDROOM SUITE (1 KING AND 2 TWINS) C$799; one plan (nightly rate). Unchanged in CAD; C$2,017/night at 0.7005 USD per CAD (Wise mid-market, read 2026-11-15) = US$1,413. Also offered: STANDARD 2 BEDROOM SUITE (1 KING AND 2 TWINS) C$749. Earlier quote: Quoted 2026-11-14 on the hotel's own luxuryres.com V16 engine (h=739, linked from carmanahotel.com) for Jul 4-10, 2027, 6 nights; dates entered in the on-page calendar (the engine takes no date parameters). One public plan, BEST AVAILABLE RATE; the engine shows an average nightly rate and 6-night total before tax, and the totals equal 6 x the nightly rate. STANDARD 1 BEDROOM SUITE (1 KING) (Standard Floor, 620 sq ft, full kitchen, living and dining area), 2 adults, x2 (Scott & Andrea; Sam & Karen): C$609/night, total before tax C$3,654. ACCESSIBLE 1 BEDROOM SUITE (1 QUEEN) is also C$609 if the parents take it. EXECUTIVE 2 BEDROOM SUITE (1 KING AND 2 TWINS) (Executive Floor, 820 sq ft, full kitchen, living room, dining area, balcony), 2 adults + 2 children (no child ages asked): C$799/night, total before tax C$4,794. Sum: C$609 x 2 + C$799 = C$2,017/night; at 0.709 USD/CAD (mid-market, currencyconvert.online, read 2026-11-14) US$1,430.",
+        "source_url": "https://www.luxuryres.com/BookingEngines/V16/index.asp?h=739&s=cps",
+        "fees_notes": "Engine lists per stay: Standard 1 Bedroom Suite FEES C$46.02 + TAXES C$709.50 = TOTAL C$4,409.52; Executive 2 Bedroom Suite FEES C$60.36 + TAXES C$930.78 = TOTAL C$5,785.14. Parking C$41 per vehicle per day (6 ft clearance); C$20/day per extra guest above the booked number and for a crib, roll-away or sofa bed. Cancel 48 hours before arrival (4 pm) or 1 night + tax is charged. 5+ suites is a group booking with stricter terms.",
+        "local_currency": "CAD",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "STANDARD 1 BEDROOM SUITE (1 KING), Best Available Rate, C$609/night; 2 adults",
+          "STANDARD 1 BEDROOM SUITE (1 KING), Best Available Rate, C$609/night; 2 adults",
+          "EXECUTIVE 2 BEDROOM SUITE (1 KING AND 2 TWINS), Best Available Rate, C$799/night; 2 adults + 2 children"
+        ],
+        "local_nightly_total": 2017,
+        "local_stay_total_with_tax": 14604.18,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "2BR/2BA with king + twins: teens get their own beds",
+        "Full kitchens in every suite",
+        "One block from Robson St"
+      ],
+      "compromises": [
+        "2BR dining table seats 4",
+        "Pool and elevator not stated; parking C$41/day"
+      ],
+      "best_for": "Choose this if separate beds for the teens and a central Robson St base matter more than a pool.",
+      "links": [
+        "https://www.carmanahotel.com/accommodations/",
+        "https://www.luxuryres.com/BookingEngines/V16/index.asp?h=739&s=cps",
+        "https://www.carmanahotel.com/"
+      ],
+      "images": [
+        {
+          "url": "https://admin.carmanahotel.com/wp-content/uploads/2022/10/2202-017.jpg",
+          "page_url": "https://www.carmanahotel.com/accommodations/",
+          "credit": "Carmana Hotel & Suites",
+          "alt": "Executive Two Bedroom suite",
+          "src": "img/e137466a696fca59.jpg"
+        },
+        {
+          "url": "https://admin.carmanahotel.com/wp-content/uploads/2022/10/708-01-scaled.jpg",
+          "page_url": "https://www.carmanahotel.com/accommodations/",
+          "credit": "Carmana Hotel & Suites",
+          "alt": "Standard King Suite",
+          "src": "img/2cbc18125417f9e5.jpg"
+        },
+        {
+          "url": "https://admin.carmanahotel.com/wp-content/uploads/2022/10/Carmana-Plaza-Hotel-Downtown-Vancouver-Carmana-One-Bedroom-Suite-living-room-office.jpg",
+          "page_url": "https://www.carmanahotel.com/accommodations/",
+          "credit": "Carmana Hotel & Suites",
+          "alt": "One-bedroom suite living room",
+          "src": "img/955563cbaad52b06.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lord Stanley Suites on the Park: Presidential 2BR + two Deluxe 1BR suites",
+      "kind": "55-suite apartment hotel, 3 separate suites",
+      "quick_verdict": "West End apartment suites beside Stanley Park with a top-floor 2BR/2BA; booked by email or phone, not yet priced.",
+      "configuration": "1889 Alberni St, West End, next to Stanley Park and Lost Lagoon (hotel and listing sites). Presidential Suite: top floor, 2 bedrooms (king; two twins), 2 bathrooms, about 1,000 sq ft, full kitchen with counter seating, dining room area, living room with double pullout sofa, three balconies, maximum occupancy 4. Deluxe Suite: 1 bedroom (queen), 1 full bath, about 500 sq ft, full kitchen with dishwasher, double pullout sofa, enclosed solarium or balcony, max 4. Building: secured underground parking, fitness room and saunas, boardroom. Elevator not stated (top-floor suite implies one; confirm). No hot tub, pool or rooftop stated. Gathering room: the Presidential's living and dining rooms; seats not stated. Reviews mention dated decor. Booking is by email (info@lordstanley.com) or phone (604-688-9299); also sold on Kayak, Priceline and HotelPlanner. Whether the Presidential is offered for nightly stays in July is not stated.",
+      "family_split": {
+        "scott_andrea": "Deluxe Suite (own unit, queen)",
+        "parents": "Deluxe Suite (own unit, queen)",
+        "brother_family": "Presidential Suite (king + two twins, 2 baths, top floor; hosts evenings)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate apartment-hotel suite with its own door, bathroom and kitchen (lordstanley.com/suites/deluxe). A separate hotel suite qualifies under rubric.md."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 7,
+        "location": 10,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Denman St restaurants (Kintaro, Espana, Cacao 70) about 3-6 min; Stanley Park seawall and Lost Lagoon 2-3 min; Cactus Club English Bay about 10 min. Flat.",
+      "price": {
+        "nightly_total_usd_low": 1060,
+        "nightly_total_usd_high": 1560,
+        "label": "estimate",
+        "basis": "Not sold online (re-checked 2026-11-15: lordstanley.com still offers only 'For Rental Inquiries' email info@lordstanley.com and phone (604) 688-9299, no Book link or engine). Earlier: lordstanley.com (home and Presidential Suite pages, read 2026-11-14) has no Book link or booking engine, only email info@lordstanley.com and phone (604) 688-9299; a search found no official engine, only third-party resellers. Aggregators show averages of C$161-323/night for unspecified suites and dates (Kayak, HotelPlanner search snippets), too low for July. Estimated from Times Square Suites two blocks away, quoted for Jul 4-10, 2027 at C$489-699 per 1BR: assumed C$450-650 per Deluxe and C$600-900 for the Presidential, C$1,500-2,200/night, about US$1,060-1,560 at 0.709 USD/CAD. For the price-checker; ask info@lordstanley.com.",
+        "source_url": "https://www.lordstanley.com/suites/",
+        "fees_notes": "Taxes not stated. Kayak reviewers say parking is included only when booked on the hotel's own channel.",
+        "local_currency": "CAD",
+        "availability": "not_sold_online",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Two minutes to Stanley Park and Lost Lagoon",
+        "Top-floor 2BR/2BA with three balconies",
+        "Full kitchens; teens get their own twin beds"
+      ],
+      "compromises": [
+        "No online booking; email or phone",
+        "Not priced for the dates yet",
+        "Dated decor per reviews",
+        "No pool or hot tub"
+      ],
+      "best_for": "Choose this if being next to Stanley Park and the Denman St restaurants matters most and an older building is fine.",
+      "links": [
+        "https://www.lordstanley.com/",
+        "https://www.lordstanley.com/suites/presidential/",
+        "https://www.lordstanley.com/suites/deluxe/",
+        "https://www.kayak.com/Vancouver-Hotels-Lord-Stanley-Suites-On-The-Park.19876.ksp"
+      ],
+      "images": [
+        {
+          "url": "https://www.lordstanley.com/wp-content/uploads/2017/07/Newly-Remodeled-Suites2.jpg",
+          "page_url": "https://www.lordstanley.com/",
+          "credit": "Lord Stanley Suites on the Park",
+          "alt": "Remodeled suite at Lord Stanley Suites",
+          "src": "img/f7902ed99355c454.jpg"
+        }
+      ],
+      "review_notes": "Kayak 8.4 from 435 reviews; Priceline 7.5 from 23; recurring complaint is 1980s decor."
+    },
+    {
+      "name": "Rosedale on Robson: Two Bedroom Deluxe Queen Suite + two Superior King suites",
+      "kind": "all-suite hotel, 3 separate suites",
+      "quick_verdict": "Lowest-cost downtown suites with an indoor pool, hot tub and breakfast, but the bookable 2BR is small with a sofa bed.",
+      "configuration": "838 Hamilton St at Robson (by the library and BC Place). For Jul 4-10, 2027 the hotel's engine (price-checker 2026-11-14) offers the Superior King Suite (1 king, 480 sq ft, max 2), the Two Bedroom Deluxe Queen Suite (engine: 1 queen & 1 sofa bed, max 5, 525 sq ft) and the Two Bedroom Superior Queen Suite (max 4, upper floors); the Deluxe King one-bedroom and the Two Bedroom Family Suite (queen + two twins) are not offered for those dates. In the bookable 2BR, Ethan and Aubrey would be on the sofa bed. Note: the hotel's own suite page lists the Two Bedroom Deluxe Queen as a queen in each bedroom, which differs from the engine's 1 queen + sofa bed; the engine is what was quoted, so confirm with the hotel. Every suite has a kitchenette: 3-burner stove, half oven, half fridge, microwave, dishes for 4. Lap pool, hot tub, dry and steam sauna (6:30 am-10 pm); continental breakfast buffet daily 6:30-10:00. Bathroom counts not stated; elevator not stated. Gathering room: the 2BR's living area at 525 sq ft total; nothing seats 8.",
+      "family_split": {
+        "scott_andrea": "Superior King Suite (own unit)",
+        "parents": "Superior King Suite (own unit; Deluxe King not offered for the dates)",
+        "brother_family": "Two Bedroom Deluxe Queen Suite (1 queen + 1 sofa bed, 525 sq ft; Family Suite not offered)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own corridor door (rosedaleonrobson.com suite list)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 3,
+        "parents": 7,
+        "location": 8,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Yaletown restaurants about 5 min, Robson St 2-3 min; seawall about 12 min.",
+      "price": {
+        "nightly_total_usd_low": 1055,
+        "nightly_total_usd_high": 1055,
+        "label": "estimate",
+        "basis": "Re-quoted 2026-11-15 on the same engine for Jul 4-10, 2027, 2 adults: Superior King Suite C$472 avg/night (*Best Available Rate, C$90 taxes and fees per night, only 2 left); Two Bedroom Deluxe Queen Suite C$532 (C$100 taxes and fees); Two Bedroom Superior Queen Suite only 3 left. The Deluxe King suite and the Two Bedroom Family Suite are still not offered, so the stand-ins below still apply. C$1,506/night at 0.7005 USD per CAD (Wise mid-market, read 2026-11-15) = US$1,055. Earlier quote: Quoted 2026-11-14 on the hotel's own Amadeus/TravelClick engine (rosedaleonrobson.com/book, hotel 9882511) for Jul 4-10, 2027; average per-night rates, one public plan (*Best Available Rate). Superior King Suite (1 king, 480 sq ft, max 2), 2 adults: C$472/night, only 2 left (Scott & Andrea's unit). Still guessed: Sam & Karen's Deluxe King suite is not offered for these dates, so priced as a second Superior King Suite at C$472. The Two Bedroom Family Suite is not offered for these dates (2 adults + 2 children or 2 adults), so priced as the Two Bedroom Deluxe Queen Suite (engine lists 1 queen & 1 sofa bed, max 5, 525 sq ft) at C$532 plus C$30/night for a third adult (Ethan, 15; children 14 and under stay free). Two Bedroom Superior Queen Suite (max 4, only 3 left) is C$540. Sum: C$472 x 2 + C$532 + C$30 = C$1,506/night; at 0.709 USD/CAD (mid-market, currencyconvert.online, read 2026-11-14) US$1,068.",
+        "source_url": "https://www.rosedaleonrobson.com/book/accommodations?adults=2&children=2&datein=07/04/2027&dateout=07/10/2027&rooms=1#/accommodation/room",
+        "fees_notes": "Engine lists additional taxes and fees per night: C$90 per Superior King Suite, C$100 for the Two Bedroom Deluxe Queen Suite (about C$10,536 for the stay with tax). The C$30 extra-adult charge is plus tax and charged at the hotel. Underground parking (6'6\" height limit) charged daily.",
+        "local_currency": "CAD",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Superior King Suite, *Best Available Rate, C$472/night; 2 adults; only 2 left (also used in place of the Deluxe King)",
+          "Two Bedroom Deluxe Queen Suite, *Best Available Rate, C$532/night + C$30 extra adult; 2 adults + 2 children (in place of the Two Bedroom Family Suite)"
+        ],
+        "local_nightly_total": 1506,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Indoor pool, hot tub and saunas",
+        "Breakfast buffet included",
+        "Lowest quoted price downtown"
+      ],
+      "compromises": [
+        "Bookable 2BR is 525 sq ft: 1 queen + sofa bed",
+        "Deluxe King and Family Suite not offered for the dates",
+        "Kitchenettes, not full kitchens",
+        "Only 2 Superior King Suites left"
+      ],
+      "best_for": "Choose this if price, breakfast and a pool matter more than room to spread out.",
+      "links": [
+        "https://www.rosedaleonrobson.com/"
+      ],
+      "images": [
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-efvbu31c1d6x8wkjhd3p73jl/exterior-rosedale.jpg?width=860",
+          "page_url": "https://www.rosedaleonrobson.com/",
+          "credit": "Rosedale on Robson",
+          "alt": "Rosedale on Robson exterior",
+          "src": "img/53ae541ee0162818.jpg"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-b9nnwz94qrpvjrg9t8bj0zr60/imgi-3-bedroom-superior-suite_standard.jpg?crop=250%2C0%2C1500%2C1125",
+          "page_url": "https://www.rosedaleonrobson.com/",
+          "credit": "Rosedale on Robson",
+          "alt": "Superior suite",
+          "src": "img/5d2a21b267dc8d59.jpg"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-bell5gfxbk1xfv60ywg8r3o5z/pool.jpg?width=860",
+          "page_url": "https://www.rosedaleonrobson.com/",
+          "credit": "Rosedale on Robson",
+          "alt": "Indoor lap pool",
+          "src": "img/628d1c367a1175c6.jpg"
+        }
+      ]
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Sandman Suites Vancouver on Davie: four 1BR kitchen suites",
+      "kind": "all-suite hotel, 4 separate 1BR suites",
+      "quick_verdict": "West End-edge suites with full kitchens and a pool, estimated at about Carmana's price (US$1,430/night), but no two-bedroom unit, so the brother's family takes two suites.",
+      "configuration": "Davie St, downtown West End edge (1160 Davie St per booking sites; the hotel page read does not print the address). The hotel's own page lists only one-bedroom suites and penthouse studios, all with a kitchen, washer/dryer and balcony: Standard View 1BR (low floor; 1 queen or 2 singles, sofa bed, max 4), City View 1BR (mid floor; 1 queen, 2 singles or 1 king, sofa bed, max 4), Ocean View 1BR (high floor; 1 queen, 2 singles or 1 king, sofa bed, max 4), City View and Ocean View Penthouse Studios (top floor, 1 king or 1 queen, no sofa bed, max 2, jacuzzi tub), and two Ocean View Penthouse suites (Gentry, Cosmo: 1 king, sofa bed, max 4, two balconies, price on request). No two-bedroom suite is listed. Square footage not stated; the hotel page names the one-bedroom suites \"1-Bedroom, 1-Bathroom Apartment-Style Suite\" (1 bath each, fact-checker 2026-11-15). Building: pool, exercise gym, Denny's restaurant on site, on-site parking (cost not stated), 24-hour front desk, wheelchair accessible; one suite type is described as 'Near Elevator' but no general elevator amenity is listed. No hot tub (jacuzzi tubs in penthouse units only). Gathering room: a 1BR living room with sofa bed; seats about 4-5, not stated; nothing seats 8. Same-floor or adjacent suites not stated. Davie Village around the hotel is a busy nightlife strip in the evenings.",
+      "family_split": {
+        "scott_andrea": "City View 1BR Suite, 1 King (own unit)",
+        "parents": "Standard View 1BR Suite, 1 Queen, low floor (own unit)",
+        "brother_family": "Two 1BR suites: City View 1 Queen for Ryan & Jenna, City View 2 Singles for Ethan and Aubrey (adjacent not guaranteed)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own corridor door, kitchen and bedroom (sandmanhotels.com/vancouver-davie-street suite list sells each one-bedroom suite as its own unit). A separate hotel suite qualifies under rubric.md."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 3,
+        "parents": 7,
+        "location": 8,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 1,
+      "food_convenience": "Davie St restaurants on the doorstep; English Bay beach and Cactus Club about 8-10 min; Denman St about 12 min; Granville St about 8 min; Yaletown about 15 min. Flat.",
+      "price": {
+        "nightly_total_usd_low": 1430,
+        "nightly_total_usd_high": 1430,
+        "label": "estimate",
+        "basis": "Quoted 2026-11-15 on the hotel's own TravelClick engine (reservations.sandmanhotels.com/113090, the engine sandmanhotels.com links to) for Jul 4-10, 2027 (page shows Jul 4-10), 2 adults per suite; average per-night rates incl. Tourism Marketing Fee; plans: RSVP Rewards Member Rate (sign-in, not used), Best Available Rate (cheapest public plan), Standard Rate. Three of four split units quoted exactly: StandardView 1BR Suite 1Queen 1SB (low floor), Sam & Karen: BAR C$496.61, Standard C$620.76. CityView 1BR Suite 1Queen 1SB, Ryan & Jenna: BAR C$507.25, Standard C$634.06. CityView 1BR Suite 2Singles 1SB, Ethan (15) and Aubrey (13), quoted as 2 adults: BAR C$500.56, Standard C$625.70. Not offered: the split's City View 1BR 1 King for Scott & Andrea (the engine lists no City View king suite for the dates); priced instead as the equivalent OceanView 1BR Suite 1King 1SB (high floor): BAR C$537.11, Standard C$671.39 (CityView 1BR 1Queen would be C$507.25). Sum at Best Available Rate: C$537.11 + C$496.61 + C$507.25 + C$500.56 = C$2,041.53/night; Standard Rate sum C$2,551.91 (US$1,788). At 0.7005 USD per CAD (Wise mid-market, read 2026-11-15) US$1,430. Estimate because one unit is a stand-in.",
+        "source_url": "https://reservations.sandmanhotels.com/113090?datein=07/04/2027&dateout=07/10/2027&adults=2&rooms=1#/accommodation/room",
+        "fees_notes": "Rates include the Tourism Marketing Fee; GST, PST and MRDT not shown before checkout (tax not shown before checkout). Parking cost not stated. Cancellation terms of the Best Available Rate not read.",
+        "local_currency": "CAD",
+        "availability": "available",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "StandardView 1BR Suite 1Queen 1SB Kitchen W/D Balcony, Best Available Rate, C$496.61/night; 2 adults",
+          "CityView 1BR Suite 1Queen 1SB Kitchen W/D Balcony, Best Available Rate, C$507.25/night; 2 adults",
+          "CityView 1BR Suite 2Singles 1SB Kitchen W/D Balcony, Best Available Rate, C$500.56/night; 2 guests (teens)",
+          "OceanView 1BR Suite 1King 1SB Kitchen W/D Balcony, Best Available Rate, C$537.11/night; 2 adults (in place of City View 1 King)"
+        ],
+        "local_nightly_total": 2041.53,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Full kitchen, washer/dryer and balcony in every suite",
+        "Pool and gym on site",
+        "Flat walk to English Bay and Davie St dinners",
+        "Available for the dates at an estimated US$1,430/night, inside the cap"
+      ],
+      "compromises": [
+        "No two-bedroom suite: four 1BRs needed",
+        "No room seats more than about 5",
+        "Davie Village is busy at night",
+        "Elevator and square footage not stated"
+      ],
+      "best_for": "Choose this if price and a short flat walk to English Bay matter more than one suite big enough to gather in.",
+      "links": [
+        "https://www.sandmanhotels.com/vancouver-davie-street",
+        "https://reservations.travelclick.com/113090?HotelId=113090&languageid=1&rooms=1&adults=2"
+      ],
+      "images": [
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-1tw9jm17wqayk4aiqlvado0ih/vsd-ss1qh-05_standard.jpg?crop=110%2C0%2C1780%2C1335",
+          "page_url": "https://www.sandmanhotels.com/vancouver-davie-street",
+          "credit": "Sandman Suites Vancouver on Davie",
+          "alt": "One-bedroom suite, Sandman Suites on Davie",
+          "src": "img/d15338bda899c0f2.jpg"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-dhuud13hxsmvyl6hkcfuev5x9/dav-qscn-05-edited_standard.jpg?crop=110%2C0%2C1780%2C1335",
+          "page_url": "https://www.sandmanhotels.com/vancouver-davie-street",
+          "credit": "Sandman Suites Vancouver on Davie",
+          "alt": "City-view one-bedroom suite",
+          "src": "img/6e912f24c96ee911.jpg"
+        },
+        {
+          "url": "https://image-tc.galaxy.tf/wijpeg-294r7rtmhmyfzobmmtvv7kheo/vsd-ss1qjt-03_standard.jpg?crop=110%2C0%2C1780%2C1335",
+          "page_url": "https://www.sandmanhotels.com/vancouver-davie-street",
+          "credit": "Sandman Suites Vancouver on Davie",
+          "alt": "Suite kitchen and living area",
+          "src": "img/4a417bb079730eaf.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Times Square Suites: Two Bedroom Two Bathroom + two 1BR suites",
+      "kind": "42-suite apartment hotel, 3 separate suites",
+      "quick_verdict": "Best-located West End suites, but the 2BR/2BA is not offered online for Jul 4-10; book only if the hotel confirms it.",
+      "configuration": "1821 Robson St at Denman. Suite types on the hotel site: One Bedroom (several variants incl. Park, King, Den, Corner), Standard Two Bedroom (sleeps 5), Large Two Bedroom (sleeps 6), Two Bedroom Two Bathroom (about 1,055 sq ft per Hotels.com; Travelated says it has 2 full kitchens and 2 living rooms, each with a stand-up balcony, i.e. two interconnected suites; Audley says some suites interconnect for up to 6). All suites: full kitchen, fireplace, in-suite washer/dryer, small balcony. Rooftop patio with free BBQ grills, shared with other guests. One elevator (guest reviews; accessibility listings say suites are reached by lift). Underground parking (guest reviews). Availability (price-checker 2026-11-14): both 1BR types bookable for Jul 4-10, 2027; the Two Bedroom Two Bathroom shows 'Rooms not available for your desired dates', and the bookable fallback is the Standard 2 Bedroom (queen + double, only 1 left). Gathering room: the 2BR/2BA's living rooms; seating and table size not stated, likely about 6, not 8. Floors of the individual suites not stated; suites may not be adjacent.",
+      "family_split": {
+        "scott_andrea": "One Bedroom suite (own unit)",
+        "parents": "One Bedroom suite (own unit)",
+        "brother_family": "Two Bedroom Two Bathroom suite (not offered online for the dates; fallback Standard 2 Bedroom, queen + double)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own corridor door and bathroom (timessquaresuites.com suite list). A separate hotel suite qualifies under rubric.md."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 8,
+        "location": 10,
+        "value": 6
+      },
+      "walk_minutes_to_restaurants": 1,
+      "food_convenience": "Denman and Robson restaurants on the doorstep (Cacao 70, Kingyo, Kintaro, Espana within 2-5 min); Cactus Club English Bay 8 min; Lift 12 min. All flat.",
+      "price": {
+        "nightly_total_usd_low": 1590,
+        "nightly_total_usd_high": 2268,
+        "label": "estimate",
+        "basis": "Two of three units quoted 2026-11-14 on the hotel's own engine (s005920.officialbookings.com, Roommaster, linked from timessquaresuites.com Book Now) for Jul 4-10, 2027, 6 nights; the engine shows only 6-night totals, no per-night breakdown, and counts ages 12+ as adults. 1 Bedroom Suite (king in separate bedroom), 2 adults: Advance Purchase non-refundable CAD 2,936 (C$489.33/night), 3-6 Nighter CAD 3,356 (C$559.33), Nightly Rate (flexible) CAD 4,196 (C$699.33). 1 Bedroom King, 2 adults: the same three rates, only 1 left. Still guessed: the Two Bedroom ~ Two Bathroom Suite for 4 adults shows 'Rooms not available for your desired dates' (also unavailable on a Dec 14-16, 2026 control; sold on Jan 12-14, 2027 at C$384/night non-refundable and C$548 Nightly Rate, about 2.5x the 1 Bedroom Suite that week). Estimated at that ratio on the July 1BR rate plus the July 4-adult extra-person charge (+C$35/night non-refundable, +C$50 flexible): about C$1,263 low / C$1,800 high. Sum: C$489.33 x 2 + C$1,263 = C$2,242/night low; C$699.33 x 2 + C$1,800 = C$3,199 high; at 0.709 USD/CAD (mid-market, currencyconvert.online, read 2026-11-14) US$1,590-2,268. local_nightly_total covers the two quoted 1BRs only. Bookable fallback for these dates: Standard 2 Bedroom (queen + double, only 1 left), 4 adults, CAD 3,496 non-refundable / 3,996 3-6 Nighter / 4,996 Nightly Rate, which makes the three suites C$1,561-2,231/night (US$1,107-1,582).",
+        "source_url": "https://s005920.officialbookings.com/?CIM=7&CID=4&CIY=2027&COM=7&COD=10&COY=2027&adultsCount=2&childrenCount=0&RMS=1&totalRooms=1&adult_room1=2&child_room1=0&activeBookingEngine=KBE&propertyCode=S005880&skd-checkin=2027-07-04&skd-checkout=2027-07-10&skd-property-code=S005880",
+        "fees_notes": "tax not shown before checkout. Rates are for 2 adults (12+); an extra-person charge applies above that. Advance Purchase: book 30+ days ahead, 2-night minimum, prepaid, non-refundable. 3-6 Nighter and Nightly Rate: free cancellation until Jul 2, 2027. Expected on top: GST 5% + PST 8% + MRDT about 3%; parking extra, price not stated.",
+        "local_currency": "CAD",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "1 Bedroom Suite, Advance Purchase (non-refundable), C$489.33/night; Nightly Rate C$699.33/night; 2 adults",
+          "1 Bedroom King, Advance Purchase (non-refundable), C$489.33/night; Nightly Rate C$699.33/night; 2 adults; only 1 left"
+        ],
+        "local_nightly_total": 978.67,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Flattest walk to Stanley Park and English Bay",
+        "Full kitchen and laundry in every suite",
+        "Rooftop patio with free BBQs"
+      ],
+      "compromises": [
+        "2BR/2BA not offered online for Jul 4-10; ask by phone",
+        "Fallback 2BR has one bath, queen + double",
+        "Older building with one elevator",
+        "No room seats all 8 at a table"
+      ],
+      "best_for": "Choose this if the hotel confirms the 2BR/2BA and a flat stroll to the seawall and beach matters most.",
+      "links": [
+        "https://www.timessquaresuites.com/",
+        "https://www.travelated.com/canada/british-columbia/vancouver/times-square-suites-hotel"
+      ],
+      "images": [
+        {
+          "url": "https://irp.cdn-website.com/5f26998a/dms3rep/multi/opt/English+Bay+late+day+sun-1920w.jpg",
+          "page_url": "https://www.timessquaresuites.com/",
+          "credit": "Times Square Suites",
+          "alt": "English Bay at sunset near the hotel",
+          "src": "img/95eec539007556be.jpg"
+        },
+        {
+          "url": "https://irp.cdn-website.com/5f26998a/dms3rep/multi/opt/1-bedroom-den-Robson-sofa-6e76d754-800h-1920w.webp",
+          "page_url": "https://www.timessquaresuites.com/",
+          "credit": "Times Square Suites",
+          "alt": "One bedroom and den suite living room",
+          "src": null
+        },
+        {
+          "url": "https://irp.cdn-website.com/5f26998a/dms3rep/multi/opt/2+bedroom+2+bathroom-804ba221-640h.jpg",
+          "page_url": "https://www.timessquaresuites.com/",
+          "credit": "Times Square Suites",
+          "alt": "Two bedroom two bathroom suite",
+          "src": "img/b562dab5ea9438a6.jpg"
+        },
+        {
+          "url": "https://irp.cdn-website.com/5f26998a/dms3rep/multi/opt/Bedroom-in-one-bedroom-suite-800h-1920w.webp",
+          "page_url": "https://www.timessquaresuites.com/",
+          "credit": "Times Square Suites",
+          "alt": "Bedroom in a one bedroom suite",
+          "src": null
+        }
+      ],
+      "review_notes": "Guests praise location, staff and space; complaints: dated, one elevator, bulky keys, AC noise. Review counts per suite type are small."
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Deep Cove Kayak Centre: Deep Cove Explorer tour (harbour seals)",
+        "what_you_do": "Paddle a guided 3-hour kayak tour through the south end of Indian Arm, where the operator says harbour seals are abundant, along with eagles and sea stars; sightings are not guaranteed.",
+        "why_memorable": "Kayaking among wild harbour seals in a mountain fjord, 25 minutes from downtown, with Deep Cove's doughnut shop at the dock.",
+        "drive_minutes": 25,
+        "price_usd": "C$95 per person plus GST and a C$1 transaction fee (operator page; 2027 rate not stated)",
+        "age_min": 12,
+        "operates_during_stay": "yes",
+        "interactivity": "viewing",
+        "booking_difficulty": "Book online or call 604.929.2268. Runs daily March-November, rain or shine; July-August departures 9-12, 1-4 and 5-8. Under-16s must share a double kayak with an adult 1:1 (Ethan and Aubrey each with a parent). Not for Sam and Karen.",
+        "url": "https://deepcovekayak.com/tour/deep-cove-explorer/"
+      },
+      {
+        "name": "Glen Valley Stables guided trail rides, Campbell Valley Park",
+        "what_you_do": "Ride a horse with a guide through Campbell Valley Park in Langley on a 1-hour, 1.5-hour or 2-hour trail ride; groups of 6+ get a private ride at the group rate.",
+        "why_memorable": "The fullest hands-on animal activity near Vancouver, open to first-time riders and to everyone 6 and up, so Ethan and Aubrey can ride with the adults.",
+        "drive_minutes": 55,
+        "price_usd": "2025 rates plus 5% GST: group C$95 (1 hr), C$145 (1.5 hr), C$180 (2 hr) per person; private C$130-215 per person (min 2); 2027 rates not published",
+        "age_min": 6,
+        "operates_during_stay": "yes",
+        "interactivity": "hands-on",
+        "booking_difficulty": "Rates page states 6+ only in its Birthday Rides section; confirm it applies to all rides. Book by call or text (778-710-1941). Open Tue-Sun year-round, closed Mondays (open holiday Mondays), weather permitting; rain-cancelled rides rescheduled free. Weight limit not stated. Riding is not suited to the parents.",
+        "url": "https://glenvalleystables.com/rates/"
+      },
+      {
+        "name": "Kensington Prairie Farm alpaca walks and meet + greets",
+        "what_you_do": "Feed and lead an alpaca on a 30-min walk, or feed and visit alpacas in their pen; farm tours also include feeding alpacas and llamas.",
+        "why_memorable": "Feeding and walking alpacas suits Aubrey and Andrea, and the pen visit works for the parents too.",
+        "drive_minutes": 55,
+        "price_usd": "Walk C$105 per alpaca (2 people max); Meet + Greet C$200 per group of 5; farm tour C$25 pp; admission C$7.50",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "interactivity": "hands-on",
+        "booking_difficulty": "Pre-booking required. Farm open Fri 12-5, Sat 10-4, Sun 12-4 only (closed Mon-Thu), so Fri Jul 9 is the realistic day; walk and meet + greet times are not listed separately, and no age minimum or 2027 schedule is stated.",
+        "url": "https://kensingtonprairie.ca/",
+        "image": {
+          "url": "https://kensingtonprairie.ca/cdn/shop/files/copy_2_d0825462-3eea-4c06-8183-2b37ff45fdff.jpg?v=1777930056&width=1400",
+          "page_url": "https://kensingtonprairie.ca/",
+          "credit": "Kensington Prairie Farm",
+          "alt": "Alpacas at Kensington Prairie Farm, Langley",
+          "src": "img/8712b566068b3513.jpg"
+        }
+      },
+      {
+        "name": "Prince of Whales half-day whale watching",
+        "what_you_do": "Boat trip from Granville Island into the Salish Sea to look for orcas, humpbacks and sea lions; a free re-trip if no whales are seen.",
+        "why_memorable": "Orcas and humpbacks in summer, leaving from a 10-min drive away.",
+        "drive_minutes": 10,
+        "price_usd": "C$239 per adult plus taxes (operator's Vancouver page, seasonal pricing applies)",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "interactivity": "viewing",
+        "booking_difficulty": "Operator lists Half-Day Whale Watching Mar-Nov, 3-5 hours, with 'Book now for 2027' on some tours; exact 2027 dates and age minimum not stated. Long day on the water for the parents.",
+        "url": "https://princeofwhales.com/"
+      },
+      {
+        "name": "Grouse Mountain Refuge for Endangered Wildlife",
+        "what_you_do": "Watch grizzlies in the mountaintop habitat (the refuge page confirms Grinder's death but does not say whether Coola is still there) and attend summer Owl Talks and ranger talks, reached by the Skyride.",
+        "why_memorable": "A rescued grizzly with city and harbour views from the top; Grinder died on July 31, 2026.",
+        "drive_minutes": 30,
+        "price_usd": "Included with Mountain Admission (price not found on the refuge page)",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "interactivity": "viewing",
+        "booking_difficulty": "Walk-up with mountain admission; summer talks daily.",
+        "url": "https://grousemountain.com/wildlife-refuge"
+      }
+    ],
+    "golf": [
+      {
+        "name": "Furry Creek Golf & Country Club",
+        "what_you_do": "Public 18 holes on the Sea to Sky Highway, playing down to Howe Sound.",
+        "why_memorable": "Fjord and mountain views; the Howe Sound waterfront holes are the reason to drive out.",
+        "drive_minutes": 40,
+        "price_usd": "C$108 per golfer (GolfNow prepaid deal, Aug 31, 2026); GolfLink estimates C$169; July 2027 rate not published",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Online tee times via Chronogolf/GolfNow; tee times listed through Oct 2026. Public access and 2027 season not stated on the club or Chronogolf pages (club 604-896-2224).",
+        "url": "https://www.chronogolf.com/club/furry-creek-golf-country-club"
+      },
+      {
+        "name": "University Golf Club",
+        "what_you_do": "Public 18-hole parkland course in the UBC endowment lands on the west side of the city.",
+        "why_memorable": "Tree-lined classic 20 minutes from downtown; easy to fit in with a UBC or beach afternoon.",
+        "drive_minutes": 20,
+        "price_usd": "Not found on the club site; rates page not read",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Course renovation under way ('Holes 7 & 8 Now Open' banner); check which holes are open in July 2027.",
+        "url": "https://universitygolf.com/",
+        "image": {
+          "url": "https://universitygolf.com/wp-content/uploads/sites/64/2026/08/banner-new-holes.png",
+          "page_url": "https://universitygolf.com/",
+          "credit": "University Golf Club",
+          "alt": "University Golf Club renovated holes",
+          "src": "img/91ececf4e76c9ac0.jpg"
+        }
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Capilano Suspension Bridge Park",
+      "good_for": [
+        "teens",
+        "adults",
+        "everyone"
+      ],
+      "details": "Suspension bridge over the canyon, Treetops Adventure and Cliffwalk; free shuttle from downtown. Trails and stairs, so the parents may stay to the bridge and main area. Summer hours and prices on the tickets page.",
+      "drive_minutes": 20,
+      "url": "https://www.capbridge.com/",
+      "found_via": "Destination Vancouver things to do",
+      "image": {
+        "url": "https://www.capbridge.com/wp-content/uploads/2022/08/Media-Hero-Desktop-01-428x241.jpg",
+        "page_url": "https://www.capbridge.com/",
+        "credit": "Capilano Suspension Bridge Park",
+        "alt": "Capilano Suspension Bridge",
+        "src": "img/12206c5439850062.jpg"
+      }
+    },
+    {
+      "name": "Granville Island Public Market and artisan district",
+      "good_for": [
+        "parents",
+        "adults",
+        "rainy day",
+        "everyone"
+      ],
+      "details": "Indoor food market (9-6), Net Loft shops, artisan studios and the Kids Market; reached by small False Creek ferries from Yaletown and the West End. Shopping for Karen, Jenna and Andrea; craft studios for Aubrey.",
+      "drive_minutes": 10,
+      "url": "https://granvilleisland.com/",
+      "found_via": "TripAdvisor Vancouver guide; Destination Vancouver"
+    },
+    {
+      "name": "Stanley Park and False Creek seawalls by bike or on foot",
+      "good_for": [
+        "teens",
+        "adults",
+        "parents",
+        "everyone"
+      ],
+      "details": "The flat seawall runs from Yaletown (about 10 min from Level Seymour) around False Creek to English Bay and Stanley Park (2-5 min from the West End options); Denman St has bike rentals. The parents can walk short flat stretches; teens can ride the full 10 km Stanley Park loop.",
+      "drive_minutes": 0,
+      "url": "https://www.destinationvancouver.com/things-to-do/",
+      "found_via": "TripAdvisor Vancouver guide; Destination Vancouver"
+    },
+    {
+      "name": "Vancouver Mysteries outdoor escape game",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "Two-hour outdoor puzzle game through downtown starting near Waterfront Station, about C$35 pp plus tax; Heroes & Villains has a family version. Indoor rooms (EXIT West Broadway, Find and Seek) are the rainy-day alternative.",
+      "drive_minutes": 10,
+      "url": "https://vancouvermysteries.com/"
+    },
+    {
+      "name": "Science World",
+      "good_for": [
+        "teens",
+        "rainy day",
+        "everyone"
+      ],
+      "details": "Hands-on science exhibits under the geodesic dome on False Creek; the indoor fallback on a wet day.",
+      "drive_minutes": 10,
+      "url": "https://www.destinationvancouver.com/things-to-do/",
+      "found_via": "Destination Vancouver things to do"
+    }
+  ],
+  "shopping_exploring": "Granville St and Robson St shopping within a few minutes of the downtown options; Yaletown boutiques; Granville Island for markets and studios; Gastown for boutiques. Vida Spa at The Sutton Place Hotel (855 Burrard) for spa time.",
+  "restaurants": [
+    {
+      "name": "Tacofino Yaletown Burrito Bar",
+      "category": "casual",
+      "notes": "West Coast Mexican burritos, tacos and bowls; quick lunch. Walk time from Level Seymour approximate.",
+      "walk_minutes_from_lodging": 7,
+      "url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown"
+    },
+    {
+      "name": "Ignite Pizzeria Yaletown",
+      "category": "casual",
+      "notes": "Neapolitan wood-fired pizza; Destination Vancouver says it works well for groups. Walk time from Level Seymour approximate.",
+      "walk_minutes_from_lodging": 7,
+      "url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown"
+    },
+    {
+      "name": "Yaletown Brewing Co.",
+      "category": "family dinner",
+      "notes": "Brewpub classics and house beers; Destination Vancouver calls it a practical family option. Walk time from Level Seymour approximate.",
+      "walk_minutes_from_lodging": 8,
+      "url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown"
+    },
+    {
+      "name": "Blue Water Cafe",
+      "category": "special dinner",
+      "notes": "Seafood and raw bar, 1095 Hamilton St, Yaletown; dinner Sun-Thu from 5 pm, Fri-Sat from 4:30; private dining rooms. About 6 min from Level Seymour.",
+      "walk_minutes_from_lodging": 6,
+      "url": "https://bluewatercafe.ca/",
+      "image": {
+        "url": "https://bluewatercafe.ca/wp-content/uploads/elementor/thumbs/BWC_25thanniversary_homepage-rmycvkaaz78mvcboqrjsa8ycd6zs3y6rvnnd9y1ej6.webp",
+        "page_url": "https://bluewatercafe.ca/",
+        "credit": "Blue Water Cafe",
+        "alt": "Blue Water Cafe, Yaletown",
+        "src": null
+      }
+    },
+    {
+      "name": "OEB Breakfast Co. Yaletown",
+      "category": "breakfast/coffee",
+      "notes": "Sit-down breakfast and brunch with a playful menu. Walk time from Level Seymour approximate.",
+      "walk_minutes_from_lodging": 7,
+      "url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown"
+    },
+    {
+      "name": "Kintaro Ramen",
+      "category": "casual",
+      "notes": "Ramen at 788 Denman St; expect queues. Walk time is from Times Square Suites (West End); about 25 min from Level.",
+      "walk_minutes_from_lodging": 4,
+      "url": "https://vanmag.com/?p=5722"
+    },
+    {
+      "name": "Peaked Pies",
+      "category": "casual",
+      "notes": "Australian-style meat pies, 975 Denman St. Walk time is from Times Square Suites.",
+      "walk_minutes_from_lodging": 2,
+      "url": "https://vanmag.com/?p=5722"
+    },
+    {
+      "name": "Cactus Club Cafe English Bay",
+      "category": "family dinner",
+      "notes": "1790 Beach Ave, ocean views steps from the beach, patio, group booking via SevenRooms; open from 11:30 am daily. Walk time is from Times Square Suites; a short drive or taxi from Level.",
+      "walk_minutes_from_lodging": 8,
+      "url": "https://www.cactusclubcafe.com/location/english-bay/",
+      "image": {
+        "url": "https://www.cactusclubcafe.com/wp-content/uploads/2014/11/English-Bay-2.jpg",
+        "page_url": "https://www.cactusclubcafe.com/location/english-bay/",
+        "credit": "Cactus Club Cafe",
+        "alt": "Cactus Club Cafe English Bay",
+        "src": "img/f260a999f0930234.jpg"
+      }
+    },
+    {
+      "name": "Espana",
+      "category": "family dinner",
+      "notes": "Spanish tapas for sharing, 1118 Denman St; recommended for groups. Walk time is from Times Square Suites.",
+      "walk_minutes_from_lodging": 4,
+      "url": "https://vanmag.com/?p=5722"
+    },
+    {
+      "name": "Lift Bar Grill View",
+      "category": "special dinner",
+      "notes": "333 Menchions Mews, Coal Harbour; harbour, Stanley Park and mountain views, rooftop deck; Sunday prime rib C$65, group bookings page. Dinner daily from 5 pm. Walk time is from Times Square Suites.",
+      "walk_minutes_from_lodging": 12,
+      "url": "https://www.liftbarandgrill.com/",
+      "image": {
+        "url": "https://www.liftbarandgrill.com/wp-content/uploads/2026/04/fdbfbc49-e345-4cee-bdda-e5c3ecc81ac9.png",
+        "page_url": "https://www.liftbarandgrill.com/",
+        "credit": "Lift Bar Grill View",
+        "alt": "Lift Bar Grill View, Coal Harbour",
+        "src": "img/bbc55649985e031c.webp"
+      }
+    },
+    {
+      "name": "The Teahouse in Stanley Park",
+      "category": "special dinner",
+      "notes": "Ferguson Point in Stanley Park, ocean views; a drive rather than a walk. Dinner for Two set C$139 (Thu-Mon from 4:30); OpenTable bookings.",
+      "walk_minutes_from_lodging": null,
+      "url": "https://www.vancouverdine.com/teahouse",
+      "image": {
+        "url": "https://www.vancouverdine.com/wp-content/uploads/2021/02/sunset.jpg",
+        "page_url": "https://www.vancouverdine.com/teahouse",
+        "credit": "The Teahouse",
+        "alt": "Sunset at The Teahouse, Stanley Park",
+        "src": "img/2b062dd94e70bb12.jpg"
+      }
+    },
+    {
+      "name": "Cacao 70 Eatery",
+      "category": "breakfast/coffee",
+      "notes": "Brunch, waffles, omelettes and hot chocolate, 1047 Denman St. Walk time is from Times Square Suites.",
+      "walk_minutes_from_lodging": 2,
+      "url": "https://vanmag.com/?p=5722"
+    }
+  ],
+  "weather": {
+    "july": {
+      "high_f": 73,
+      "low_f": 59,
+      "rain_days": 7,
+      "notes": "1991-2020 normals from ERA5 reanalysis (weathermonth.com), about 23 C / 15 C; the official Vancouver Harbour CS station normals were not read. Early July is drier and sunnier than June."
+    },
+    "source_url": "https://weathermonth.com/en/vancouver-weather-in-july"
+  },
+  "logistics": {
+    "airport": "Vancouver International (YVR)",
+    "drive_minutes_from_airport": 30,
+    "flights": {
+      "den": "Nonstop on United and Air Canada (Star Alliance only); frequency unclear across aggregators (3 per week to several daily). Confirm the July 2027 schedule.",
+      "bay_area": "SFO nonstop on United, Air Canada and WestJet; a Sacramento nonstop is listed by one aggregator but unconfirmed; no Oakland nonstop found."
+    },
+    "car_needed": "No for downtown (walk, False Creek ferries, Canada Line from YVR). One car helps for Furry Creek, the Langley horse and alpaca outings, Deep Cove and Grouse/Capilano; hotel parking is extra.",
+    "notes": "Passports required for everyone (US-Canada border). Canada Line train runs YVR to Yaletown-Roundhouse and Waterfront in about 25 min."
+  },
+  "caveats": [
+    "BC and Vancouver short-term rental rules limit rentals to a host's principal residence, so no whole house with a guest suite is legal in the city; hotel suites are the option.",
+    "No downtown option has a private room that seats all 8 at one table; evenings would be in the 2BR suite.",
+    "Level Seymour's bookable 2BR has two queens, so Ethan (15) and Aubrey (13) share a queen or one takes the sofa bed; Carmana's Executive 2BR (king + 2 twins, verified) and Lord Stanley's Presidential (king + twins, unpriced) give the teens their own beds.",
+    "Times Square Suites' Two Bedroom Two Bathroom suite is not offered online for Jul 4-10, 2027 (price-checker: sold out); it is now a backup, kept with its quote.",
+    "Rosedale on Robson's Deluxe King and Two Bedroom Family Suite are not offered for the dates; the bookable 2BR is 525 sq ft with 1 queen + 1 sofa bed.",
+    "Lodging prices quoted 2026-11-14 for Jul 4-10, 2027: Level Seymour (US$1,418-1,818/night), Carmana (US$1,430) and La Grande Residence (US$1,777) verified; Rosedale (US$1,068) is an estimate because the split's two-bedroom unit is not offered online; Lord Stanley (US$1,060-1,560) is an unquoted estimate because it is not sold online (email info@lordstanley.com or call 604-688-9299). Backups: Times Square Suites (US$1,590-2,268, sold out online) and Sandman Suites on Davie (US$993-1,418, unquoted estimate).",
+    "Animal experiences rest on farm animals: the two hands-on options (Glen Valley horseback rides, Kensington Prairie alpaca walks) are both in Langley, about 55 min away; the alpaca farm is open Fri-Sun only.",
+    "Vancouver Aquarium Sea Otter Encounter is sold out with no dates until further notice; the Pinniped Encounter is 14+ (excludes Aubrey, 13). Neither counts.",
+    "Glen Valley Stables' website carries unrelated spam text alongside its rate and FAQ content; the rates read are labeled 2025. Confirm by phone.",
+    "Grouse Mountain grizzly Grinder died July 31, 2026; whether Coola is still in the habitat was not confirmed on the refuge page.",
+    "Passports required for all 8.",
+    "Lodging re-quoted 2026-11-15 for Jul 4-10, 2027 at 0.7005 USD per CAD (CAD rates unchanged from 2026-11-14), superseding the USD figures above: Level Seymour US$1,401-1,796/night, Carmana US$1,413 and La Grande Residence US$1,755 verified; Rosedale US$1,055 estimate; Lord Stanley US$1,060-1,560 unquoted estimate (not sold online); backup Sandman Suites on Davie US$1,430 (three of four suites exact, the City View king priced as an Ocean View king). None is over the US$2,800 cap."
+  ],
+  "open_questions": [
+    "Level Seymour: are two 1BR suites and the Deluxe 2BR available on the same floor, does any 2BR have a king + twin layout, and is there a bookable lounge for 8? Ask Level reservations (778.328.4600).",
+    "Level Seymour and La Grande Residence: elevator access to all suite floors (not stated in listings read). Ask each front desk.",
+    "La Grande Residence: hotel page says 1.5 bathrooms for two-bedroom suites; confirm the Two Bedroom Sutton Suite specifically with reservations.",
+    "Times Square Suites (backup): can the Two Bedroom Two Bathroom suite be booked by phone for Jul 4-10, 2027, does it have two kitchens and seating for 8, and can three suites be on one floor? Ask the hotel.",
+    "Carmana Hotel & Suites: elevator access, pool, and whether the three suites can be on one floor (rates verified 2026-11-14; parking C$41/day per the engine). Ask the hotel.",
+    "Lord Stanley Suites: is the Presidential Suite offered for a 6-night July stay, rates for it + two Deluxe Suites, and elevator access to the top floor? Email info@lordstanley.com or call 604-688-9299.",
+    "Rosedale on Robson: can a Deluxe King suite and the Two Bedroom Family Suite (queen + two twins) be booked for Jul 4-10, 2027 by phone, and what are the bathroom counts and elevator access? Ask reservations@rosedaleonrobson.com or 1-800-661-8870.",
+    "Sandman Suites on Davie (backup): July 2027 rates for four 1BR suites, elevator access, suite square footage and bath count, and whether the brother's two suites can be adjacent. Ask the hotel or quote its TravelClick engine (hotel 113090).",
+    "Glen Valley Stables: 2027 trail-ride rates, rider weight limit, and a Jul 4-10 slot for 6 riders. Call or text 778-710-1941.",
+    "Kensington Prairie Farm: minimum age for alpaca walks and confirmation it operates Fri Jul 9, 2027. Call 604-625-4395.",
+    "Deep Cove Kayak Centre: 2027 Deep Cove Explorer schedule and price. Call 604.929.2268.",
+    "Vancouver Aquarium: will the Sea Otter Encounter reopen for July 2027? Check vanaqua.org.",
+    "Prince of Whales: 2027 season dates and fares from Granville Island.",
+    "Furry Creek and University Golf Club: July 2027 green fees; University GC renovation status in July 2027.",
+    "DEN-YVR July 2027 frequency on United and Air Canada; whether an SMF nonstop operates.",
+    "Yaletown restaurants (Tacofino, Ignite, Yaletown Brewing, OEB): street addresses not on the Destination Vancouver page read; walk times from Level are approximate."
+  ],
+  "verification_notes": [
+    "Level (stayinglevel.com), Vancouver Aquarium (vanaqua.org) and Greater Vancouver Zoo (gvzoo.com) returned 403 to automated fetches; their facts come from search-result snippets of those pages.",
+    "Greater Vancouver Zoo (about 60 min, Aldergrove) has behind-the-scenes experiences, but no details could be read; not listed as a focus item.",
+    "Level Howe St was excluded: stays of more than 30 nights only.",
+    "price-checker 2026-11-14: Times Square Suites estimate US$850-1,450 to estimate US$1,590-2,268. Both 1BR suites were quoted on the hotel's Roommaster engine; the Two Bedroom ~ Two Bathroom Suite shows 'not available' for Jul 4-10, 2027 (and on a Dec 14-16, 2026 control) but is sold for Jan 12-14, 2027, so it is still estimated.",
+    "price-checker 2026-11-14: Level Yaletown-Seymour estimate US$1,000-1,650 to verified US$1,418-1,818 (SynXis). The engine lists the Deluxe Two Bedroom Suite with 2 queen beds and the One Bedroom Suite with 1 queen; configuration says queen + king for the 2BR (from Airbnb).",
+    "price-checker 2026-11-14: Rosedale on Robson estimate US$750-1,250 to estimate US$1,068. The Superior King Suite was quoted. The split's Deluxe King suite and Two Bedroom Family Suite are not offered for the trip dates, so a second Superior King and the Two Bedroom Deluxe Queen Suite stand in. The engine lists the Deluxe Queen 2BR as 1 queen & 1 sofa bed, 525 sq ft; configuration says a queen in each room.",
+    "price-checker 2026-11-14: La Grande Residence unknown (no amount) to verified US$1,777 on its own TravelClick engine (hotel 113928, separate from the Sutton Place hotel's 113170). Engine names the 2BR 'Two Bedroom Sutton Suite, 1 King, 1 Queen, Sofa Bed'; its bathroom count was not shown (configuration says 1.5).",
+    "price-checker 2026-11-14: The Ark on Bowen estimate US$900-1,300 kept as estimate, not quoted: listing gone. Vrbo 3758291, 3758336 and 3758390 redirect to the Bowen Island area page; control listing 3536579 loads. The value rating is now 1. Lodging score unchanged at 15 and total at 75: Times Square Suites is still eligible (lock-off yes, low US$1,590 under the cap).",
+    "rerun 2026-11-14: The Ark on Bowen removed (listings gone) and replaced with Carmana Hotel & Suites and Lord Stanley Suites on the Park, both unquoted estimates for the price-checker. Lodging score re-based from Times Square Suites (2BR/2BA not bookable online) to Level Yaletown-Seymour (verified); score stays 15/25 and total 75. Text fixed: Level 2BR is 2 queens (engine), Rosedale split now Superior King x2 + Two Bedroom Deluxe Queen (1 queen + sofa bed, 525 sq ft), La Grande 2BR bathroom count marked unconfirmed. Restaurants near Level (Yaletown) added; West End restaurants kept with walk times from Times Square Suites.",
+    "price-checker 2026-11-14: Carmana Hotel & Suites estimate US$1,200-1,850 to verified US$1,430 (C$2,017/night) on the hotel's luxuryres.com engine (h=739), dates set in the on-page calendar: Standard 1 Bedroom Suite (1 King) C$609 x2 and Executive 2 Bedroom Suite (1 King and 2 Twins) C$799 for 2 adults + 2 children, one plan (Best Available Rate). Engine units match configuration (620 sq ft 1BR; 820 sq ft Executive Floor 2BR with balcony). Value rating 6 to 7.",
+    "price-checker 2026-11-14: Lord Stanley Suites on the Park estimate US$1,060-1,560 kept as estimate, not quoted: not sold online. lordstanley.com has no booking engine (email info@lordstanley.com, phone 604-688-9299); third-party resellers not used because the property sells direct. Value rating unchanged at 6.",
+    "price-checker 2026-11-14: lodging score unchanged at 15 and total at 75: Level Yaletown-Seymour, which the score rests on, is still verified inside the cap (US$1,418).",
+    "fact-checker 2026-11-14: retried stayinglevel.com and vanaqua.org by direct fetch (still 403). Aquarium Pinniped Encounter 14+, C$320 per group of up to 4, Mon and Fri 11:45, government ID, 30-45 min: confirmed from the search result quoting vanaqua.org's own page text; sea otter encounter 'sold out, no dates until further notice' confirmed from the search listing title. Not directly read: Level's own site (configuration rests on Airbnb listing plus engine), Greater Vancouver Zoo (not a listed item).",
+    "fact-checker 2026-11-14: Kensington Prairie Farm confirmed directly: alpaca walk = feed and lead an alpaca, 30 min, C$105 per alpaca, max 2 people; Meet + Greet = feed and visit alpacas in their pen, 30 min, C$200 up to 5; pre-booking required; farm open Fri 12-5, Sat 10-4, Sun 12-4, closed Mon-Thu. Hands-on stands. Not stated: age minimum, walk-session times, 2027 schedule. Farm admission C$7.50 and tour C$25 not re-seen on the fetched page.",
+    "fact-checker 2026-11-14: La Grande Residence: hotel page confirms two-bedroom suites have 1.5 baths; configuration, family_split and compromise text updated from 'unconfirmed'. Bed types still only from the engine.",
+    "fact-checker 2026-11-14: Rosedale on Robson: hotel suite page says Two Bedroom Deluxe Queen has a queen in each bedroom, engine says 1 queen & sofa bed; both noted in configuration, unresolved. Pool, hot tub, saunas, breakfast, kitchenette confirmed; sq ft not on the page.",
+    "fact-checker 2026-11-14: Carmana (4 two-bedroom types 820 sq ft, 2 baths, dining seats 4, King + 2 Twins; elevator/pool not stated) and Lord Stanley Presidential (2BR, king + 2 twins, 2 baths, ~1,000 sq ft, top floor, three balconies, max 4; elevator not stated) confirmed. Times Square: full kitchens, rooftop BBQ patio, a 2BR/2BA type confirmed; beds, sleeps and elevator not on the hotel page (the one-elevator claim rests on reviews). Lock-off 'yes' verdicts for all options rest on separate sold-as-own-unit hotel suites; not contradicted.",
+    "fact-checker 2026-11-14: Prince of Whales: price updated to C$239 per adult plus taxes (operator page; seasonal pricing), season Mar-Nov with 'Book now for 2027' on some tours; operates_during_stay left unknown, age minimum not stated. Grouse refuge: Grinder's death confirmed, Coola's presence not confirmed (text softened), summer Ranger and Owl Talks included with admission. Maplewood: Tue-Sun 10-4 confirmed; admission, petting and 2027 not stated. University Golf: renovation, holes 7 and 8 open confirmed, fees and 2027 not stated. Furry Creek: public access, green fees and 2027 season not stated on the club or Chronogolf pages; the GolfNow C$108 deal not re-seen. Could not verify: those claims.",
+    "fact-checker 2026-11-14: no score changed; no lodging, lock-off or focus item correction altered what a score rests on.",
+    "rerun 2026-11-15 (backups): Times Square Suites (price-checker availability sold_out) moved from lodging to lodging_backups with its quote unchanged; Sandman Suites Vancouver on Davie added as a backup (four 1BR suites, hotel page read, price an unquoted estimate). Lodging score unchanged at 15: Level Yaletown-Seymour is still the verified option it rests on. Tried and dropped as backups: Residence Inn Vancouver Downtown (Marriott rooms page lists only studio suites; 2BR not confirmed), Coast Plaza Hotel & Suites (its coasthotels.com URL now redirects to Coast Coal Harbour; current operator and suite list unclear), Sunset Inn & Suites (no suite list or booking engine on its site), Riviera/Robson Suites (booking sites give conflicting names and addresses).",
+    "rerun 2026-11-15 (animals): focus.animals re-ranked by what guests do, then the animal. Added Glen Valley Stables trail rides (operator rates page: 6+, Tue-Sun, year-round; rates labeled 2025) and the Deep Cove Explorer kayak tour (operator page: 12+, daily Mar-Nov, harbour seals not guaranteed). Removed the Vancouver Aquarium Pinniped Encounter item (14+, excludes Aubrey; still in caveats). Greater Vancouver Zoo giraffe feeding searched; nothing found. No falconry or hawk-walk operator found on the mainland (nearest is The Raptors on Vancouver Island). scores.animals 9 to 8: the top two items are both farm animals, which the guidance puts in the lower half; total 75 to 74.",
+    "price-checker 2026-11-15: exchange rate 0.7005 USD per CAD (Wise mid-market converter, read 2026-11-15), replacing 0.709 (2026-11-14); all CAD rates below were unchanged from 2026-11-14.",
+    "price-checker 2026-11-15: Level Yaletown-Seymour verified US$1,418-1,818 to verified US$1,401-1,796 (SynXis, C$2,000-2,564/night). Engine's 2BR card now says two queen beds and two bathrooms; its 1BR card says king or queen. Value rating unchanged at 7.",
+    "price-checker 2026-11-15: La Grande Residence verified US$1,777 to verified US$1,755 (TravelClick 113928, C$2,505.65/night Best Available Rate). Engine now states 1½ bathrooms and 800 sq ft for the Two Bedroom Sutton Suite. Whether the children=2 URL parameter took effect could not be confirmed on the page; rates were identical with and without it. Value rating unchanged at 6.",
+    "price-checker 2026-11-15: Carmana Hotel & Suites verified US$1,430 to verified US$1,413 (luxuryres h=739, C$2,017/night, calendar-entered dates). Value rating unchanged at 7.",
+    "price-checker 2026-11-15: Lord Stanley Suites on the Park estimate US$1,060-1,560 kept as estimate, not quoted: not sold online (site still shows only email and phone for rental inquiries). Value rating unchanged at 6.",
+    "price-checker 2026-11-15: Rosedale on Robson estimate US$1,068 to estimate US$1,055 (C$1,506/night). Deluxe King and Two Bedroom Family Suite still not offered for the dates; the engine shows Superior King Suite only 2 left. Value rating unchanged at 8.",
+    "price-checker 2026-11-15: Sandman Suites on Davie (backup) estimate US$993-1,418 (no availability) to estimate US$1,430, availability available (TravelClick 113090, C$2,041.53/night Best Available Rate). The split's City View 1BR 1 King is not in the engine for the dates; the OceanView 1BR 1King stands in. Engine units are 1-bedroom, 1-bathroom suites, which matches the 1 bath assumed in configuration. Value rating 8 to 7: it costs the same as Carmana (7). Its quick_verdict ('Cheaper') and pro 'Lowest estimated price of the downtown options' are now out of date: Rosedale (US$1,055) and Level's Advanced Purchase (US$1,401) are cheaper. Researcher or fact-checker to fix those fields.",
+    "fact-checker 2026-11-15: Sandman Suites on Davie (backup): hotel page re-read; one-bedroom suites are named 1-Bedroom, 1-Bathroom (baths confirmed), no two-bedroom unit, square footage and address not on the page, elevator not stated (only a 'Near Elevator' suite feature; left as not stated). quick_verdict and the 'Lowest estimated price' pro rewritten to match the price block (US$1,430 is above Rosedale US$1,055 and Level US$1,401, about Carmana US$1,413); compromise line no longer lists baths as unstated. Price block, ratings and lock-off unchanged.",
+    "fact-checker 2026-11-15: Rosedale on Robson: hotel page re-read; Two Bedroom Deluxe Queen is 'a queen bed in each room' (engine says 1 queen + sofa bed, unresolved), Two Bedroom Family Suite (queen + two twins) and Deluxe King exist on the page but are not offered for the dates; all suites have kitchenettes; baths, sq ft and elevator not on the page. configuration and family_split already note the stand-ins; no change. Superior King's separate living room is not stated, but each suite is its own hotel unit, so lock-off yes stands.",
+    "fact-checker 2026-11-15: focus.animals checked against operator pages. Deep Cove Explorer: 12+, C$95 + GST, July-Aug departures 9-12, 1-4, 5-8, harbour seals 'abundance', under-16 share a double kayak with an adult; 2027 not stated (page copyright 2026). Glen Valley: Tue-Sun year-round, 2025 rates, no 2027 info; the 6+ rule appears only in the Birthday Rides section, so booking_difficulty now says to confirm it applies to all rides. Kensington Prairie: walk C$105/alpaca, Fri 12-5, Sat 10-4, Sun 12-4, pre-book, no age minimum stated. Grouse: Grinder's death confirmed, Coola not confirmed, Owl Talks daily in summer. Could not verify: Prince of Whales 2027 dates (not re-fetched), Maplewood.",
+    "fact-checker 2026-11-15: focus.animals reordered by the guidance (what guests do first, then the animal): Deep Cove kayak among wild seals moved to first, then Glen Valley, Kensington, Prince of Whales, Grouse. Maplewood Farm (close viewing, farm animals, lowest-ranked; not used in the brochure) removed to bring the list to 5 (count 3-5); its open_questions line removed. Brochure does not depend on it.",
+    "fact-checker 2026-11-15: animals stays 8/18 (the top two are now a kayak among seals, interactivity viewing and not guaranteed, and a horse ride; the only hands-on items are farm animals); rationale text rewritten for the new order. No score or total changed.",
+    "price-checker 2026-11-15: lodging score unchanged at 15 and total at 74: Level Yaletown-Seymour, which the score rests on, is still verified, available and inside the cap (US$1,401), with a lock-off. No backup promoted. Times Square Suites (backup, sold_out) not re-quoted."
+  ],
+  "sources": [
+    {
+      "title": "Level Yaletown-Seymour (operator)",
+      "url": "https://stayinglevel.com/vancouver/?p=1188",
+      "section": "lodging"
+    },
+    {
+      "title": "Level Seymour booking engine (SynXis)",
+      "url": "https://book-seymour.stayinglevel.com/?adult=2&arrive=2027-07-04&chain=18855&child=0&currency=CAD&depart=2027-07-10&hotel=9641&level=hotel&locale=en-US&productcurrency=CAD&rooms=1",
+      "section": "lodging"
+    },
+    {
+      "title": "Level Seymour penthouse",
+      "url": "https://stayinglevel.com/destinations/vancouver/seymour/suites-seymour/penthouse-seymour",
+      "section": "lodging"
+    },
+    {
+      "title": "Airbnb: Level Seymour two-bedroom suite",
+      "url": "https://www.airbnb.com/rooms/782611575046081777",
+      "section": "lodging"
+    },
+    {
+      "title": "Daily Hive: Level Downtown-Howe (30+ nights)",
+      "url": "https://dailyhive.com/vancouver/level-vancouver-downtown-howe-1333-1335-howe-street?auto=true",
+      "section": "lodging"
+    },
+    {
+      "title": "Sutton Place: La Grande Residence",
+      "url": "https://www.suttonplace.com/vancouver/la-grande-residence",
+      "section": "lodging"
+    },
+    {
+      "title": "La Grande Residence booking engine (TravelClick)",
+      "url": "https://reservations.suttonplace.com/113928?datein=07/04/2027&dateout=07/10/2027&adults=2&rooms=1#/accommodation/room",
+      "section": "lodging"
+    },
+    {
+      "title": "Travelocity: La Grande Residence suites",
+      "url": "https://www.travelocity.com/Vancouver-Hotels-La-Grande-Residence-Vancouver-At-The-Sutton-Place-Hotel.h1205026.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "Times Square Suites (official)",
+      "url": "https://www.timessquaresuites.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Times Square Suites booking engine (Roommaster)",
+      "url": "https://s005920.officialbookings.com/?CIM=7&CID=4&CIY=2027&COM=7&COD=10&COY=2027&adultsCount=2&childrenCount=0&RMS=1&totalRooms=1&adult_room1=2&child_room1=0&activeBookingEngine=KBE&propertyCode=S005880&skd-checkin=2027-07-04&skd-checkout=2027-07-10&skd-property-code=S005880",
+      "section": "lodging"
+    },
+    {
+      "title": "Travelated: Times Square Suites Two Bedroom Two Bathroom",
+      "url": "https://www.travelated.com/canada/british-columbia/vancouver/times-square-suites-hotel",
+      "section": "lodging"
+    },
+    {
+      "title": "Audley Travel: Times Square Suites (interconnecting suites)",
+      "url": "https://www.audleytravel.com/canada/accommodation/times-square-suites-hotel",
+      "section": "lodging"
+    },
+    {
+      "title": "Travelocity: Times Square Suites reviews (elevator)",
+      "url": "https://www.travelocity.com/Vancouver-Hotels-Times-Square-Suites-Hotel.h91216362.Hotel-Reviews",
+      "section": "lodging"
+    },
+    {
+      "title": "Carmana Hotel & Suites: accommodations",
+      "url": "https://www.carmanahotel.com/accommodations/",
+      "section": "lodging"
+    },
+    {
+      "title": "Carmana Hotel & Suites (official)",
+      "url": "https://www.carmanahotel.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Hotels.com: Carmana Hotel & Suites (2BR 818-820 sq ft)",
+      "url": "https://www.hotels.com/ho197048/carmana-plaza-vancouver-canada/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lord Stanley Suites on the Park (official)",
+      "url": "https://www.lordstanley.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lord Stanley Suites: Presidential Suite",
+      "url": "https://www.lordstanley.com/suites/presidential/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lord Stanley Suites: Deluxe Suite",
+      "url": "https://www.lordstanley.com/suites/deluxe/",
+      "section": "lodging"
+    },
+    {
+      "title": "Lord Stanley Suites: features",
+      "url": "https://www.lordstanley.com/features/",
+      "section": "lodging"
+    },
+    {
+      "title": "Kayak: Lord Stanley Suites reviews and rates",
+      "url": "https://www.kayak.com/Vancouver-Hotels-Lord-Stanley-Suites-On-The-Park.19876.ksp",
+      "section": "lodging"
+    },
+    {
+      "title": "HotelPlanner: Lord Stanley Suites (1889 Alberni St)",
+      "url": "https://www.hotelplanner.com/Hotels/2125/Reservations-Lord-Stanley-Suites-on-the-Park-Vancouver-1889-Alberni-St-V6G3G7",
+      "section": "lodging"
+    },
+    {
+      "title": "Rosedale on Robson (official)",
+      "url": "https://www.rosedaleonrobson.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Rosedale on Robson booking engine",
+      "url": "https://www.rosedaleonrobson.com/book/accommodations?adults=2&children=2&datein=07/04/2027&dateout=07/10/2027&rooms=1#/accommodation/room",
+      "section": "lodging"
+    },
+    {
+      "title": "Sandman Suites Vancouver on Davie (official suite list)",
+      "url": "https://www.sandmanhotels.com/vancouver-davie-street",
+      "section": "lodging"
+    },
+    {
+      "title": "Sandman Suites on Davie booking engine (TravelClick 113090)",
+      "url": "https://reservations.travelclick.com/113090?HotelId=113090&languageid=1&rooms=1&adults=2",
+      "section": "lodging"
+    },
+    {
+      "title": "Travelocity: Sandman Suites Vancouver on Davie (address)",
+      "url": "https://www.travelocity.com/Vancouver-Hotels-Sandman-Suites-Vancouver-On-Davie.h2521.Hotel-Information",
+      "section": "lodging"
+    },
+    {
+      "title": "Marriott: Residence Inn Vancouver Downtown rooms (studios only listed)",
+      "url": "https://www.marriott.com/en-us/hotels/yvrdr-residence-inn-vancouver-downtown/rooms/",
+      "section": "lodging"
+    },
+    {
+      "title": "Airbnb newsroom: record July hotel ADR in Vancouver",
+      "url": "https://news.airbnb.com/record-summer-hotel-prices-in-vancouver/",
+      "section": "lodging"
+    },
+    {
+      "title": "Castanet/BIV: Metro Vancouver hotel rates",
+      "url": "https://www.castanetkamloops.net/news/Metro-Vancouver/625691/World-Cup-drives-Metro-Vancouver-hotel-rates-to-Canadian-record",
+      "section": "lodging"
+    },
+    {
+      "title": "Glen Valley Stables: rates, age minimum and days",
+      "url": "https://glenvalleystables.com/rates/",
+      "section": "animals"
+    },
+    {
+      "title": "Glen Valley Stables (official)",
+      "url": "http://www.glenvalleystables.com/",
+      "section": "animals"
+    },
+    {
+      "title": "The Fraser Valley: Glen Valley Stables trail rides",
+      "url": "https://www.thefraservalley.ca/?p=23932",
+      "section": "animals"
+    },
+    {
+      "title": "Deep Cove Kayak Centre: Deep Cove Explorer tour",
+      "url": "https://deepcovekayak.com/tour/deep-cove-explorer/",
+      "section": "animals"
+    },
+    {
+      "title": "Kensington Prairie Farm (official)",
+      "url": "https://kensingtonprairie.ca/",
+      "section": "animals"
+    },
+    {
+      "title": "Vancouver Aquarium Pinniped Encounters",
+      "url": "https://vanaqua.org/explore/experiences/pinniped-encounters",
+      "section": "animals"
+    },
+    {
+      "title": "Vancouver Aquarium Sea Otter Encounters (sold out)",
+      "url": "https://vanaqua.org/explore/experiences/sea-otter-encounters/",
+      "section": "animals"
+    },
+    {
+      "title": "Maplewood Farm (official)",
+      "url": "https://www.maplewoodfarm.bc.ca/",
+      "section": "animals"
+    },
+    {
+      "title": "North Vancouver: Behind the Scenes at Maplewood Farm",
+      "url": "https://northvancouver.com/?p=23633",
+      "section": "animals"
+    },
+    {
+      "title": "Grouse Mountain Wildlife Refuge",
+      "url": "https://grousemountain.com/wildlife-refuge",
+      "section": "animals"
+    },
+    {
+      "title": "BC Ferries: Prince of Whales Vancouver half-day (2026 season)",
+      "url": "https://www.bcferries.com/activities/PRINCEOFWHALESVANCOUVERHALF",
+      "section": "animals"
+    },
+    {
+      "title": "FanVancouver: whale watching prices",
+      "url": "https://fanvancouver.com/explore/whale-watching/",
+      "section": "animals"
+    },
+    {
+      "title": "Greater Vancouver Zoo news (giraffes; no feeding program found)",
+      "url": "https://gvzoo.com/news/greater-vancouver-zoo-mourns-the-loss-of-beloved-giraffe-jenga",
+      "section": "animals"
+    },
+    {
+      "title": "GolfNow: Furry Creek tee times",
+      "url": "https://www.golfnow.com/tee-times/facility/311/tee-time/240775886",
+      "section": "golf"
+    },
+    {
+      "title": "Chronogolf: Furry Creek",
+      "url": "https://www.chronogolf.com/club/furry-creek-golf-country-club",
+      "section": "golf"
+    },
+    {
+      "title": "GolfLink: Furry Creek estimate",
+      "url": "https://www.golflink.com/golf-courses/bc/furry-creek/furry-creek-golf-country-club",
+      "section": "golf"
+    },
+    {
+      "title": "University Golf Club (official)",
+      "url": "https://universitygolf.com/",
+      "section": "golf"
+    },
+    {
+      "title": "Destination Vancouver: things to do",
+      "url": "https://www.destinationvancouver.com/things-to-do/",
+      "section": "activities"
+    },
+    {
+      "title": "TripAdvisor: Vancouver travel guide",
+      "url": "https://www.tripadvisor.com/Guide-g154943-k1091-Vancouver_British_Columbia.html",
+      "section": "activities"
+    },
+    {
+      "title": "Capilano Suspension Bridge Park",
+      "url": "https://www.capbridge.com/",
+      "section": "activities"
+    },
+    {
+      "title": "Granville Island",
+      "url": "https://granvilleisland.com/",
+      "section": "activities"
+    },
+    {
+      "title": "Vancouver Mysteries",
+      "url": "https://vancouvermysteries.com/",
+      "section": "activities"
+    },
+    {
+      "title": "Destination Vancouver: 20 restaurants in Yaletown",
+      "url": "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown",
+      "section": "restaurants"
+    },
+    {
+      "title": "Blue Water Cafe (official)",
+      "url": "https://bluewatercafe.ca/",
+      "section": "restaurants"
+    },
+    {
+      "title": "BC Living: Vancouver large party restaurant guide",
+      "url": "https://bcliving.ca/?p=104470",
+      "section": "restaurants"
+    },
+    {
+      "title": "Vancouver Magazine: Denman Street restaurants",
+      "url": "https://vanmag.com/?p=5722",
+      "section": "restaurants"
+    },
+    {
+      "title": "That Adventurer: West End restaurants",
+      "url": "https://thatadventurer.co.uk/best-restaurants-in-the-west-end-vancouver/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Cactus Club Cafe English Bay",
+      "url": "https://www.cactusclubcafe.com/location/english-bay/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Lift Bar Grill View",
+      "url": "https://www.liftbarandgrill.com/",
+      "section": "restaurants"
+    },
+    {
+      "title": "The Teahouse in Stanley Park",
+      "url": "https://www.vancouverdine.com/teahouse",
+      "section": "restaurants"
+    },
+    {
+      "title": "Weathermonth: Vancouver weather in July",
+      "url": "https://weathermonth.com/en/vancouver-weather-in-july",
+      "section": "weather"
+    },
+    {
+      "title": "Climate of Vancouver (Wikiwand)",
+      "url": "https://www.wikiwand.com/en/articles/Climate_of_Vancouver",
+      "section": "weather"
+    },
+    {
+      "title": "FlightConnections: DEN-YVR",
+      "url": "https://www.flightconnections.com/flights-from-den-to-yvr",
+      "section": "logistics"
+    },
+    {
+      "title": "FlightsFrom: DEN-YVR nonstops",
+      "url": "https://www.flightsfrom.com/DEN-YVR",
+      "section": "logistics"
+    },
+    {
+      "title": "Roame: SFO-YVR",
+      "url": "https://roame.travel/flightmap/SFO/YVR",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 73,
+    "low_f": 59
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://deepcovekayak.com/tour/deep-cove-explorer/": {
+      "url": "https://deepcovekayak.com/wp-content/uploads/2015/01/Racoon-Island-2.png",
+      "src": "img/e5b0acc4305ca018.png"
+    },
+    "https://www.destinationvancouver.com/things-to-do/": {
+      "url": "https://images.spaicelabs.com/images/flus6j8v/production/2f5a16708e6c13bae96a6bef5140c1b45c460414-1440x900.png?rect=0,72,1440,756&w=1200&h=630",
+      "src": "img/b3b58f191df1dfe8.webp"
+    },
+    "https://granvilleisland.com/": {
+      "url": "https://granvilleisland.com/wp-content/uploads/2022/05/image-1228-_original-1024x680.jpeg",
+      "src": "img/ef9856853cbb7bb8.jpg"
+    },
+    "https://www.destinationvancouver.com/inspirations/food-and-drink/restaurants-in-yaletown": {
+      "url": "https://images.spaicelabs.com/images/flus6j8v/production/50e8424f43bbc1bbcf58c728db47cd67ce8fdb9c-1920x1080.jpg?rect=0,36,1920,1008&w=1200&h=630",
+      "src": "img/a3f15fb5c3a218b4.jpg"
+    },
+    "https://vancouvermysteries.com/": {
+      "url": "https://vancouvermysteries.com/wp-content/uploads/2021/02/VanBestPlaces_VM_300X200_V2.jpg",
+      "src": "img/9fb251ebc627aab5.jpg"
+    },
+    "https://grousemountain.com/wildlife-refuge": {
+      "url": "https://www.grousemountain.com/media/W1siZiIsIjIwMTcvMDEvMzAvMjAvMDcvNDAvMjY1NWIzZTEtMzJmMi00NjMyLTk5ZjgtMWFkOGE2YzI4OTViL21haW4taW1hZ2UtYmVhcnMuanBnIl1d?sha=bd156152c516d006",
+      "src": "img/5ea8c3948765d22b.jpg"
+    },
+    "https://vanmag.com/?p=5722": {
+      "url": "https://vanmag.com/wp-content/uploads/2022/10/DenmanStreet_Feature.jpg",
+      "src": "img/fa6945c00c2960e1.jpg"
+    }
+  }
+}

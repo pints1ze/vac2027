@@ -1,0 +1,1436 @@
+{
+  "slug": "victoria-bc",
+  "name": "Victoria, BC",
+  "region": "Canada",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "Victoria works as a three-suite hotel stay on the Inner Harbour: BC's principal-residence rental law rules out whole houses and guest cottages, so every option here is separate kitchen suites in one hotel, which gives Scott & Andrea a true lock-off by default. The best fit is the Victoria Regent (2BR Executive Suite 307 with a 950 sq ft harbour deck plus two 1BR suites), verified at US$1,560 a night for July 4-10 (re-quoted 2026-11-15), well under the cap, with Old Town restaurants a flat 5-minute walk away. The best animal options are activities with wild animals rather than feeding: a guided sea-lion kayak paddle from Oak Bay (15 min) and a hawk walk at The Raptors (55 min), both with prices and ages unpublished; the Bug Zoo lets visitors hold insects. Bear Mountain golf is 25 min out and July highs sit around 75 F. The biggest caveat is the gathering space: no suite has a confirmed table for 8 indoors, and there are no confirmed nonstop flights from Denver or the Bay Area.",
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: YYJ is about 30 min from the Inner Harbour (within 90). No nonstop from DEN or SFO/OAK/SMF was confirmed; everyone connects via Seattle (Alaska) or Vancouver (Air Canada/United), or takes the Clipper ferry from Seattle. One-stop connections were judged reasonable, so it passes. Seniors: the Inner Harbour, Wharf St and Old Town are flat; all options are hotel suites with no stairs inside, except Swans lofts (avoid for the parents). Elevators were not stated on the Victoria Regent pages read (8-storey building); Chateau Victoria's 2BR suites are on floors 16-17, so it has elevators."
+  },
+  "scores": {
+    "lodging": 19,
+    "town_scenery": 16,
+    "animals": 11,
+    "food": 15,
+    "other": 7,
+    "golf": 8,
+    "weather": 5,
+    "total": 81,
+    "rationale": {
+      "lodging": "19/25: rests on Victoria Regent 2 Bedroom Executive Suite (Waterfront) + two 1BR suites, US$1,560/night (verified, C$2,228 rate re-quoted 2026-11-15), with separate kitchen suites and a 950 sq ft deck in 307, but the dining table seats 6, not 8, the executive suite is booked by phone (307 not selectable online), and elevator and adjacent placement are not stated.",
+      "town_scenery": "16/18: flat, walkable Inner Harbour and Old Town with harbour views from the lodging; it is a small city rather than a village, and parts of downtown slope.",
+      "animals": "11/18: the top two are activities with wild animals (a guided Trial Island kayak paddle among seals and sea lions, 15 min, for paddlers with some experience, and a hawk walk at The Raptors, 55 min), but neither publishes price, minimum age or 2027 dates, the paddle is watching from a kayak rather than touching, and nothing involves exotic animals beyond holding insects at the Bug Zoo.",
+      "food": "15/15: well over 10 restaurants within a 10-minute flat walk of the Victoria Regent, including Il Terrazzo and Q at the Empress for the special dinner.",
+      "other": "7/10: escape rooms, kayaking, whale watching, Butchart Gardens and a museum cover every age, but there are no nonstop flights from either origin and passports are needed.",
+      "golf": "8/9: Bear Mountain Mountain Course (25 min, C$257 peak public rate) is a memorable mountain-top course, and Olympic View (about 25 min) is a cheaper alternative with waterfalls.",
+      "weather": "5/5: July normal high about 75 F (24 C) and July is the driest month; the downtown waterfront usually runs cooler than the station figure."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Victoria Regent Waterfront Hotel & Suites: Executive Suite 307 + two 1BR suites",
+      "kind": "all-suite waterfront hotel, 2BR executive suite + 2 x 1BR suites",
+      "quick_verdict": "Best fit: three kitchen suites on the Inner Harbour, one with a 950 sq ft deck.",
+      "configuration": "Three hotel suites with their own entry doors. Executive Suite 307: 1,800 sq ft, 2 bedrooms each with a king (pillow-top), queen sofa bed in the seating area, two 4-piece baths (walk-in shower; tub/shower), gourmet kitchen (oven, stove, dishwasher, fridge, microwave), dining table seating 6, 'three distinct living spaces', 950 sq ft wrap-around deck over the Inner Harbour; floor not stated (unit number suggests 3rd); no air conditioning. 1BR suites: 950 sq ft, 1 bedroom, sleeps 3, fully equipped kitchen; bathroom count not stated. Alternative gathering unit: Penthouse 800 (1,800 sq ft, 2 kings, queen sofa bed behind the fireplace column, two 4-piece baths, dining table for 8, gas fireplace, 225 sq ft balcony, top floor) for the brother's family, if a table for 8 matters more than the big deck. Free parking with every stay. Elevator not stated on the pages read (8-storey building; confirm). Same-floor or adjacent placement of the three suites not stated. Reservations by phone 1-800-663-7472 for the named suites.",
+      "family_split": {
+        "scott_andrea": "1BR suite (own door, own bath, own kitchen)",
+        "parents": "1BR suite (no stairs inside)",
+        "brother_family": "Executive Suite 307 (two king bedrooms + queen sofa bed; the gathering suite)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own entry door and bathroom; the rubric counts a separate hotel room or suite as a lock-off. Room types on https://www.victoriaregent.com/accommodations/."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 7,
+        "parents": 7,
+        "location": 9,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Finn's is next door on Wharf St; Old Town and Bastion Square about 5 min on the flat; the Empress about 12 min.",
+      "price": {
+        "nightly_total_usd_low": 1560,
+        "nightly_total_usd_high": 1560,
+        "label": "verified",
+        "basis": "Re-read 2026-11-15 in the same engine: rates unchanged (1BR Partial Harbour View C$589, 2 Bedroom Executive Suite (Waterfront) C$1,050 for 2 adults + 2 children, Penthouse 800 C$1,200; plan now labelled 'Daily Rate'); C$2,228/night = US$1,560 at 0.7004 USD per CAD (Wise mid-market, 2026-11-15). Original quote: Hotel's WebRez engine, 2027-07-04 to 2027-07-10 (6 nights), one rate plan (Rack Rate), same rate every night. Scott & Andrea: 1 Bedroom Suite (Partial Harbour View), 2 adults, C$589/night (cheapest 1BR; Marina View C$629, Waterfront C$719). Parents: 1 Bedroom Suite (Partial Harbour View), 2 adults, C$589/night. Brother's family: 2 Bedroom Executive Suite (Waterfront), searched as 2 adults + 2 children, C$1,050/night; shown with 'Call: 250-386-2211' instead of Select, so it is booked by phone and the engine does not let you choose unit 307 over 506. Sum C$2,228/night before tax = US$1,561 at 0.7007 USD per CAD (Wise mid-market, 2026-11-14). Penthouse 800 (table for 8) is C$1,200/night, also by phone; with it the sum would be C$2,378 = US$1,666.",
+        "source_url": "https://secure.webrez.com/Bookings105/activity-edit.html?table=hotels&listing_id=1556&hotel_id=1556&merchant_id=1556&mode=command&command=roomsearch_version6_perl&date_from=20270704&date_to=20270710&num_adults=2&num_children=2",
+        "fees_notes": "Per engine rate details. Each 1BR (C$3,534 room): HRT C$392.64, GST C$178.44, Destination Marketing Fee C$35.34, TOTAL C$4,140.42. Executive Suite (C$6,300 room): HRT C$699.96, GST C$318.18, Destination Marketing Fee C$63.00, TOTAL C$7,381.14. Parking included (hotel site).",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "1 Bedroom Suite (Partial Harbour View), Rack Rate, C$589/night (Scott & Andrea)",
+          "1 Bedroom Suite (Partial Harbour View), Rack Rate, C$589/night (Sam & Karen)",
+          "2 Bedroom Executive Suite (Waterfront), Rack Rate, C$1,050/night, book by phone (Ryan, Jenna & kids)"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 2228,
+        "local_stay_total_with_tax": 15661.98,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate suites, each with a full kitchen",
+        "950 sq ft harbour deck for evenings",
+        "Flat walk to Old Town restaurants",
+        "Free parking"
+      ],
+      "compromises": [
+        "Executive suite table seats 6, not 8",
+        "No air conditioning",
+        "Elevator and adjacent placement not stated"
+      ],
+      "best_for": "Choose this if you want harbour views and a big deck as the family gathering spot.",
+      "links": [
+        "https://www.victoriaregent.com/accommodations/executive-suite/executive-suite-307/",
+        "https://www.victoriaregent.com/accommodations/",
+        "https://www.victoriaregent.com/accommodations/penthouse-suite/penthouse-suite-800/",
+        "https://www.victoriaregent.com/accommodations/two-bedroom-suite"
+      ],
+      "images": [
+        {
+          "url": "https://www.victoriaregent.com/wp-content/uploads/2023/05/victoria-regent-unit-307-top-image.jpg",
+          "page_url": "https://www.victoriaregent.com/accommodations/executive-suite/executive-suite-307/",
+          "credit": "Victoria Regent",
+          "alt": "Executive Suite 307",
+          "src": "img/64e5f0bf4c2a48f8.jpg"
+        },
+        {
+          "url": "https://www.victoriaregent.com/wp-content/uploads/2023/05/victoria-regent-unit-800-top-image.jpg",
+          "page_url": "https://www.victoriaregent.com/accommodations/penthouse-suite/penthouse-suite-800/",
+          "credit": "Victoria Regent",
+          "alt": "Penthouse Suite 800 living area",
+          "src": "img/3966327dcf9cbb61.jpg"
+        },
+        {
+          "url": "https://www.victoriaregent.com/wp-content/uploads/2025/01/victoria-regent-207-1-bedroom-marina-1.jpg",
+          "page_url": "https://www.victoriaregent.com/accommodations/",
+          "credit": "Victoria Regent",
+          "alt": "One-bedroom marina-view suite",
+          "src": "img/f7f4dfe56934376b.jpg"
+        }
+      ],
+      "review_notes": "Executive Suite 307 and 506 are the only two executive units; 307 has the 950 sq ft deck, 506 only 100 sq ft. Book 307 by name."
+    },
+    {
+      "name": "The Parkside Hotel & Spa: 2BR Premier Suite + two 1BR suites",
+      "kind": "all-suite hotel with spa, 2BR suite + 2 x 1BR suites",
+      "quick_verdict": "Spa, pool and rooftop fire pits; three kitchen suites a short walk from the harbour.",
+      "configuration": "Three hotel suites with their own doors. Two Bedroom Premier: 900-1,000 sq ft, two bedrooms each with a king, two full baths (one en-suite soaker tub), full kitchen, open living room with fireplace and floor-to-ceiling windows, 'spacious dining area' (seats not stated), private balcony, sleeps 6, floor not stated. One Bedroom Luxury: full kitchen, dining and sitting area with fireplace, two spa-style baths, balcony, washer/dryer. One Bedroom Preferred View: top floors, full kitchen, two bathrooms, balcony. Hotel: Parkside Spa, pool and hot tub, rooftop fire pits, movie theatre, fitness centre, balcony barbecues, Tre Fantastico bistro off the lobby. Elevator not stated. Self-parking about C$19/night (Expedia listing).",
+      "family_split": {
+        "scott_andrea": "1BR Preferred View suite (top floor, own door, two baths)",
+        "parents": "1BR Luxury suite",
+        "brother_family": "2BR Premier suite (two king bedrooms; gathering suite)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own entry and bathrooms (suite list on https://www.parksidevictoria.com/)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 6,
+        "parents": 7,
+        "location": 8,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 8,
+      "food_convenience": "On-site bistro; Inner Harbour and downtown restaurants roughly 8-12 min on foot (estimate; address not checked).",
+      "price": {
+        "nightly_total_usd_low": 1150,
+        "nightly_total_usd_high": 1336,
+        "label": "verified",
+        "basis": "Re-read 2026-11-15 in the same engine: rates unchanged for all three units (7 Day Advance Purchase - Go Green C$526 / C$483 / C$633; Best Available Rate C$611 / C$561 / C$736); C$1,642 / C$1,908 per night = US$1,150 / US$1,336 at 0.7004 USD per CAD (Wise mid-market, 2026-11-15). Original quote: Hotel's SynXis engine (Chain 10237, Hotel 40290), 2027-07-04 to 2027-07-10 (6 nights); the engine shows one per-night figure per plan, no night-by-night breakdown. Low = '7 Day Advance Purchase - Go Green' (prepaid, non-refundable, no daily housekeeping); high = Best Available Rate (24-hour cancellation). Scott & Andrea: One Bedroom Preferred View Suite, 2 adults, C$526 / C$611. Parents: One Bedroom Luxury Suite, 2 adults, C$483 / C$561. Brother's family: Two Bedroom Premier Suites, 2 adults + 2 children (15, 13), C$633 / C$736. Sum C$1,642 / C$1,908 per night before tax = US$1,151 / US$1,337 at 0.7007 USD per CAD (Wise mid-market, 2026-11-14). Also shown: I Prefer member rate (free enrolment), CAA/AAA 5% and a refundable Go Green rate, all between the two.",
+        "source_url": "https://be.synxis.com/?Chain=10237&Hotel=40290&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1",
+        "fees_notes": "Rates shown 'Excluding taxes and fees'; tax not shown before checkout. Self-parking about C$19/night (earlier Expedia listing).",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "One Bedroom Preferred View Suite, 7 Day Advance Purchase - Go Green C$526 / Best Available Rate C$611 per night (Scott & Andrea)",
+          "One Bedroom Luxury Suite, 7 Day Advance Purchase - Go Green C$483 / Best Available Rate C$561 per night (Sam & Karen)",
+          "Two Bedroom Premier Suites, 7 Day Advance Purchase - Go Green C$633 / Best Available Rate C$736 per night (Ryan, Jenna & kids)"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 1642,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "On-site spa for Jenna and Andrea",
+        "Pool, hot tub and rooftop fire pits",
+        "Both 1BR picks have two bathrooms",
+        "Balconies and fireplaces in every suite"
+      ],
+      "compromises": [
+        "Dining seats in 2BR not stated",
+        "Longer walk to the harbour than the Regent",
+        "Elevator not stated"
+      ],
+      "best_for": "Choose this if spa time and a pool matter more than a harbour-front address.",
+      "links": [
+        "https://www.parksidevictoria.com/",
+        "https://www.parksidevictoria.com/accommodations/two-bedroom-premier-suite",
+        "https://www.parksidevictoria.com/accommodations/one-bedroom-luxury-suite",
+        "https://www.parksidevictoria.com/accommodations/one-bedroom-preferred-view-suite"
+      ],
+      "images": [
+        {
+          "url": "https://d1ji822ivo7sve.cloudfront.net/parksidevictoria.com-1977027077/cms/cache/v2/665f54c8878ab.jpg/1920x1080/fit/80/2269e0e2fdfa076251c05cd990931696.jpg",
+          "page_url": "https://www.parksidevictoria.com/",
+          "credit": "The Parkside Hotel & Spa",
+          "alt": "Parkside Hotel exterior",
+          "src": "img/329da3a5d87bc531.jpg"
+        },
+        {
+          "url": "https://d1ji822ivo7sve.cloudfront.net/parksidevictoria.com-1977027077/cms/cache/v2/69025507c2952.jpg/730x411/fit/80/f6413988eb753e852143bb8605045d13.jpg",
+          "page_url": "https://www.parksidevictoria.com/accommodations/two-bedroom-premier-suite",
+          "credit": "The Parkside Hotel & Spa",
+          "alt": "Two Bedroom Premier Suite",
+          "src": "img/dafc37ddde4326f8.jpg"
+        },
+        {
+          "url": "https://d1ji822ivo7sve.cloudfront.net/parksidevictoria.com-1977027077/cms/cache/v2/69d97f0a86084.png/1920x864/fit/80/09875221a409ee489e16a86fdebc1c93.jpg",
+          "page_url": "https://www.parksidevictoria.com/accommodations/two-bedroom-premier-suite",
+          "credit": "The Parkside Hotel & Spa",
+          "alt": "Suite living room with dining table",
+          "src": "img/c44ff8e5268d00ca.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chateau Victoria Hotel & Suites: 2BR suite + two 1BR suites",
+      "kind": "downtown high-rise hotel, 2BR suite + 2 x 1BR suites",
+      "quick_verdict": "Cheapest central pick with 16th-17th floor views, but small kitchenettes and a smaller 2BR.",
+      "configuration": "Two Bedroom Suites are on the 16th and 17th floors: about 750 sq ft, one king and one queen plus a sofa bed (Priceline listing), one full bath with walk-in shower plus a half bath, open kitchenette (small fridge, 2-burner stove, microwave), dining table (seats not stated), living area, walk-out balcony with views of the Inner Harbour or Olympic Mountains. 1BR suite layout not read (not stated). High floors imply elevators. No lock-off issue: three separate suites with their own doors.",
+      "family_split": {
+        "scott_andrea": "1BR suite (own door and bath)",
+        "parents": "1BR suite",
+        "brother_family": "2BR suite on floor 16 or 17 (gathering suite)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own entry and bathroom (https://chateauvictoria.com/?p=494)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 5,
+        "parents": 7,
+        "location": 9,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Downtown core near the Inner Harbour; many restaurants within 5-10 min on foot.",
+      "price": {
+        "nightly_total_usd_low": 1058,
+        "nightly_total_usd_high": 1058,
+        "label": "verified",
+        "basis": "Re-read 2026-11-15 in the same engine: rates unchanged (Superior Queen Suite C$429.76 incl. C$4.09 DMF, now marked 'Only 2 left', exactly the two the split needs; Two Bedroom Suite C$665.59 incl. C$6.59 DMF); C$1,510.33/night = US$1,058 at 0.7004 USD per CAD (Wise mid-market, 2026-11-15). Original quote: Hotel's TravelClick engine (12757), 2027-07-04 to 2027-07-10 (6 nights), Daily Best Available Rate (the only public plan; the CAA/BCAA/AAA rate, about 10% lower, needs a membership ID). The engine has no room type called 'One Bedroom Suite'; the Superior Queen Suite is its one-bedroom suite (queen in the bedroom, pull-out couch in the living area, 5th floor). Scott & Andrea: Superior Queen Suite, 2 adults, room C$2,554 for 6 nights = C$425.67/night (shown as C$429.76 incl. C$4.09 Destination Marketing Fee). Parents: Superior Queen Suite, same rate. Brother's family: Two Bedroom Suite (750 sq ft, 1 king, 1 queen, 1 sofa bed), 2 adults + 2 children, C$3,954 = C$659.00/night (shown C$665.59 incl. DMF). Sum C$1,510.33/night before tax and DMF = US$1,058 at 0.7007 USD per CAD (Wise mid-market, 2026-11-14). The engine shows the average nightly figure; no night-by-night breakdown.",
+        "source_url": "https://bookings.travelclick.com/12757?datein=07/04/2027&dateout=07/10/2027&adults=2&children=2&rooms=1#/accommodation/room",
+        "fees_notes": "Engine 'Additional Taxes & Fees' (DMF + taxes): Superior Queen Suite C$438.27 per stay, Two Bedroom Suite C$678.51 per stay. Stay total with tax: 2 x (C$2,554 + C$438.27) + (C$3,954 + C$678.51) = C$10,617.05. Must be over 19 to rent a room; 24-hour cancellation. Parking terms not read.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Superior Queen Suite, Daily Best Available Rate, C$425.67/night before DMF (Scott & Andrea)",
+          "Superior Queen Suite, Daily Best Available Rate, C$425.67/night before DMF (Sam & Karen)",
+          "Two Bedroom Suite, Daily Best Available Rate, C$659.00/night before DMF (Ryan, Jenna & kids)"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 1510.33,
+        "local_stay_total_with_tax": 10617.05,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Lowest estimated price of the central options",
+        "High-floor harbour and mountain views",
+        "Elevator building, central location"
+      ],
+      "compromises": [
+        "2BR is 750 sq ft with 1.5 baths",
+        "Kitchenette only, 2-burner stove",
+        "1BR suite details not stated"
+      ],
+      "best_for": "Choose this if price and views matter more than gathering space.",
+      "links": [
+        "https://chateauvictoria.com/?p=494",
+        "https://chateauvictoria.com/"
+      ],
+      "images": [
+        {
+          "url": "https://chateauvictoria.com/wp-content/uploads/2024/06/DSC07668-e1775758781504.jpg",
+          "page_url": "https://chateauvictoria.com/?p=494",
+          "credit": "Chateau Victoria",
+          "alt": "Two-bedroom suite",
+          "src": "img/a9ea4adce67663db.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Swans Hotel: 2BR suite + 1BR suite + studio",
+      "kind": "boutique heritage hotel above a brewpub, 2BR + 1BR + studio",
+      "quick_verdict": "Best Old Town location, but loft stairs, no stated elevator and no published rates.",
+      "configuration": "1913 brick building, 31 rooms, at 506 Pandora Ave in Old Town. Two-bedroom suites sleep up to 6 (third-party listings: king, two twins, double sofa bed), full kitchen; bathroom count and size not stated. One-bedroom loft suites: full kitchen and living room on the main level; the bedroom is in a loft in some units (stairs). Studio suites: queen or king, full kitchen, sleeps 2. Loft Penthouse is three levels with stairs and a 1,000 sq ft rooftop patio, sleeps 4. Elevator not stated. Brewery, pub and liquor store in the same complex. The parents would need the studio or a non-loft 1BR.",
+      "family_split": {
+        "scott_andrea": "1BR loft suite (own door)",
+        "parents": "Studio suite (no loft stairs)",
+        "brother_family": "2BR suite"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own entry; bathroom per suite implied by hotel format (https://swanshotel.com/rooms/)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 4,
+        "parents": 4,
+        "location": 10,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": 1,
+      "food_convenience": "Brewpub downstairs; Old Town, Chinatown and the harbour all within 5 min.",
+      "price": {
+        "nightly_total_usd_low": 769,
+        "nightly_total_usd_high": 852,
+        "label": "verified",
+        "basis": "Re-read 2026-11-15 in the same engine (2-guest search): average rates unchanged (Loft C$364.50 / C$404, Studio C$342 / C$379, Two-Bedroom Suite King and 2 Twin C$391.50 / C$434); C$1,098 / C$1,217 per night = US$769 / US$852 at 0.7004 USD per CAD (Wise mid-market, 2026-11-15). Original quote: Hotel's WebRez engine (hotel 790), 2027-07-04 to 2027-07-10 (6 nights). Low = Advanced Purchase (non-refundable); high = RACK Regular Price. Friday 9 July costs more. Scott & Andrea: One-Bedroom Loft Suite, King Bed with Full Kitchen, 2 adults: AP C$342 x5 + C$477 Jul 9 = C$2,187 (avg C$364.50); RACK C$379 x5 + C$529 = C$2,424 (avg C$404). Parents: Studio Suite, Queen or King Bed with Full Kitchen, 2 adults: AP C$333,333,333,333,342,378 = C$2,052 (avg C$342); RACK C$369,369,369,369,379,419 = C$2,274 (avg C$379). Brother's family: Two-Bedroom Suite, King and 2 Twin Beds with Full Kitchen, searched as 4 guests (the engine returned no rooms for 2 adults + 2 children): AP C$369 x5 + C$504 = C$2,349 (avg C$391.50); RACK C$409 x5 + C$559 = C$2,604 (avg C$434). Sum C$1,098 / C$1,217 per night before tax = US$769 / US$853 at 0.7007 USD per CAD (Wise mid-market, 2026-11-14).",
+        "source_url": "https://secure.webrez.com/Bookings105/activity-edit.html?table=hotels&listing_id=790&hotel_id=790&merchant_id=790&mode=command&command=roomsearch_version6_perl&date_from=20270704&date_to=20270710&num_adults=2&num_children=0",
+        "fees_notes": "Per engine rate details (DMF, MRDT, PST, GST). Advanced Purchase totals incl. tax: Loft C$2,562.25, Studio C$2,404.14, 2BR C$2,752.08 = C$7,718.47. RACK totals incl. tax: Loft C$2,839.92, Studio C$2,664.22, 2BR C$3,050.83 = C$8,554.97.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "One-Bedroom Loft Suite, King Bed with Full Kitchen, Advanced Purchase avg C$364.50 / RACK avg C$404 per night (Scott & Andrea)",
+          "Studio Suite, Queen or King Bed with Full Kitchen, Advanced Purchase avg C$342 / RACK avg C$379 per night (Sam & Karen)",
+          "Two-Bedroom Suite, King and 2 Twin Beds with Full Kitchen, Advanced Purchase avg C$391.50 / RACK avg C$434 per night, 4 guests (Ryan, Jenna & kids)"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 1098,
+        "local_stay_total_with_tax": 7718.47,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "In the middle of Old Town",
+        "Brewpub and restaurants downstairs",
+        "Character heritage building"
+      ],
+      "compromises": [
+        "Loft bedrooms mean stairs",
+        "Elevator not stated",
+        "Smallest gathering space; no rates"
+      ],
+      "best_for": "Choose this if walking out the door into Old Town matters most.",
+      "links": [
+        "https://swanshotel.com/rooms/",
+        "https://www.swanshotel.com/"
+      ]
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "James Bay Inn: Private Cottage + two Heritage House suites",
+      "kind": "heritage inn, 2BR cottage + 2 x 1BR suites in the 1908 Heritage House",
+      "quick_verdict": "The only option with a separate house: a 2BR cottage plus two kitchen suites, but no elevator.",
+      "configuration": "James Bay Inn, 270 Government St (James Bay, near Beacon Hill Park). Private Cottage: a 1940s house 'presented as cottage style accommodations', described as 'quiet, completely private and homey'; two bedrooms each with one queen, a living room with two sofas and a fireplace (a sofa bed is not stated on the page), fully equipped kitchen with bar counter, a separate dining room seating 6 or more, front yard and private parking for 2 vehicles; bathroom count, size and where the cottage sits relative to the inn not stated. Heritage House (1908): Garden Suite (king bedroom, pull-out sofa, fully equipped kitchen, 1 full bath, sleeps 4, garden views) and Upstairs Suite (king, pull-out sofa, fully equipped kitchen, 1 full bath, sleeps 4; upper floor by its name). Also Sundeck Studio and Upstairs Studio (queen, kitchenette). Which floor the Garden Suite is on and whether the Heritage House has steps at its entrance are not stated. The inn says it has 'no elevators'; no air conditioning. On site: cafe/restaurant and a pub. Gathering room: the cottage living room and dining room (dining seats 6 or more per the rooms page). The booking engine also lists a 'White House' unit and a 'Connecting Room' (not described).",
+      "family_split": {
+        "scott_andrea": "Upstairs Suite, Heritage House (own door, king, full bath, kitchen)",
+        "parents": "Garden Suite, Heritage House (garden level by its name; floor not stated)",
+        "brother_family": "Private Cottage (two queen bedrooms + living room; dining room seats 6+; the gathering house)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate suite with its own full bathroom in the Heritage House, a different building from the cottage the brother's family uses; the rubric counts a separate suite as a lock-off. Room list on https://www.jamesbayinn.com/rooms and the Cloudbeds engine. Whether the Heritage House suites share an inner hallway with each other is not stated (it does not affect the lock-off)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 6,
+        "parents": 5,
+        "location": 7,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": 10,
+      "food_convenience": "Cafe and pub on site; Inner Harbour about 10 min and Old Town about 20 min on the flat through James Bay (estimate from the address).",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "unknown",
+        "basis": "Not released (check back): in the inn's Cloudbeds engine on 2026-11-15, GARDEN SUITE (Heritage House), PRIVATE COTTAGE (Two Bedrooms) and UPSTAIRS SUITE (Heritage House) all show 'Sold Out' for 2027-07-04 to 2027-07-10, and also for a later July control (2027-07-25 to 07-27), while other room types there show 'Only 1 left'; a December control (2026-12-14 to 12-16) shows all three units open ('Only 1 left'). The suites carry 'Seasonal extended stay rates available', so the summer allocation for these three units may not be loaded online, or they may be booked; no rate was displayed for any unit. Ask the front desk, 800-836-2649 / 250-384-7151 or frontdesk@jamesbayinn.com. The site publishes no prices.",
+        "source_url": "https://hotels.cloudbeds.com/en/reservation/cPzNTj?currency=cad&checkin=2027-07-04&checkout=2027-07-10",
+        "fees_notes": "Parking on site (guest review on the inn's home page; engine lists free parking). Taxes not stated.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "CAD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "not_released",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "A whole 2BR cottage with front yard",
+        "Kitchens in all three units",
+        "Cafe and pub on site",
+        "Beacon Hill Park a short walk"
+      ],
+      "compromises": [
+        "No elevator; Upstairs Suite means stairs",
+        "Cottage bathroom count not stated",
+        "No published rates"
+      ],
+      "best_for": "Choose this if a house of your own for the gathering beats a harbour view.",
+      "links": [
+        "https://hotels.cloudbeds.com/en/reservation/cPzNTj?currency=cad",
+        "https://www.jamesbayinn.com/rooms",
+        "https://www.jamesbayinn.com/"
+      ],
+      "images": [
+        {
+          "url": "https://irp.cdn-website.com/e7cf2ff6/dms3rep/multi/opt/frontacrossthestreet-2-2278w.jpeg",
+          "page_url": "https://www.jamesbayinn.com/",
+          "credit": "James Bay Inn",
+          "alt": "James Bay Inn from across the street",
+          "src": "img/091385ad98f97fae.jpg"
+        },
+        {
+          "url": "https://irp.cdn-website.com/e7cf2ff6/dms3rep/multi/opt/descarga+%2860%29-1920w.png",
+          "page_url": "https://www.jamesbayinn.com/rooms",
+          "credit": "James Bay Inn",
+          "alt": "The Private Cottage",
+          "src": "img/8bf3da887f6cd0dd.webp"
+        },
+        {
+          "url": "https://irp.cdn-website.com/e7cf2ff6/dms3rep/multi/opt/Garden+Suite+4-1920w.jpg",
+          "page_url": "https://www.jamesbayinn.com/rooms",
+          "credit": "James Bay Inn",
+          "alt": "Garden Suite, Heritage House",
+          "src": "img/671d5b45a9b01a95.jpg"
+        }
+      ]
+    },
+    {
+      "name": "DoubleTree by Hilton Hotel & Suites Victoria: 2BR suite + two 1BR suites",
+      "kind": "downtown suite hotel, 2BR suite + 2 x 1BR suites or rooms",
+      "quick_verdict": "Two blocks from the Empress with an elevator, but wet-bar suites and dining for four.",
+      "configuration": "Former Executive House Hotel, 777 Douglas St. 2 King 2 Bedroom Suite (Water/Mountain Views): 780 sq ft, two bedrooms each with a king, sofa bed in the separate living area (rollaway on request), 2 bathrooms, 'dining area for four', microwave, mini fridge, Keurig and wet bar (no full kitchen listed), private balcony or patio, sleeps 6; floor not stated (Suiteness listing). Listings disagree on kitchens: Oyster's amenity list says 'Full Kitchen' but its review describes mini-fridges and microwaves; Travelocity lists a 2BR 'Kitchenette' suite. One-bedroom suite type not described on the pages read (Oyster: larger suites have a separate living area with a sleeper sofa). Elevator: yes (Suiteness). No pool or hot tub. Valet parking only, surcharge not stated. Table 21 restaurant (breakfast; dinner most nights, closed Sun-Mon) and Bartholomew's pub on site. Hilton's own room pages returned 403 when read.",
+      "family_split": {
+        "scott_andrea": "One-bedroom suite (own door and bath; exact suite type not confirmed)",
+        "parents": "One-bedroom suite (elevator building)",
+        "brother_family": "2 King 2 Bedroom Suite (two king bedrooms, 2 baths; the gathering suite)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite or room with its own entry and bathroom; the rubric counts a separate hotel room or suite as a lock-off (https://assets-www.suiteness.com/suites/canada/british-columbia/victoria/doubletree-by-hilton-hotel-suites-victoria/2-king-2-bedroom-suite-water-mountain-views)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 4,
+        "parents": 8,
+        "location": 9,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Two restaurants in the building; the Empress about 2 min and the Royal BC Museum about 5 min on foot (Oyster); Old Town about 10 min.",
+      "price": {
+        "nightly_total_usd_low": 1231,
+        "nightly_total_usd_high": 1231,
+        "label": "verified",
+        "basis": "hilton.com booking engine (YYJDSDT), 2027-07-04 to 2027-07-10 (6 nights), read 2026-11-15; the engine shows one 'Book From' average nightly price per room type (the lowest plan), including the 1% Destination Marketing Fee and excluding taxes; the rate-plan list sits behind the Book From button, which was not clicked, so the flexible rate was not seen and high = low. Scott & Andrea: 1 King 1 Bedroom Suite - City View - Sofabed, 2 adults, from C$477/night. Parents: same suite type, 2 adults, from C$477/night. Brother's family: 2 King 2 Bedroom Suite - City View, 2 adults + 2 children (15, 13), from C$803/night; the 'Water/Mountain Views' 2BR named in the configuration is not listed for these dates, so the City View 2BR (same suite type, other view) is priced. Sum C$1,757/night = US$1,231 at 0.7004 USD per CAD (Wise mid-market, 2026-11-15). Also shown: 1 King Deluxe 1 Bedroom Suite C$485, 2 Queens 1 Bedroom Suite - Sofabed C$493; 3 room types sold out for 2 adults (8 for 2 adults + 2 children).",
+        "source_url": "https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=YYJDSDT&arrivalDate=2027-07-04&departureDate=2027-07-10&room1NumAdults=2&room1NumChildren=2&room1ChildAges=15,13",
+        "fees_notes": "Shown prices include a 1.0% Destination Marketing Fee (daily mandatory charge) and exclude taxes and government charges; tax not shown before checkout. Valet parking only, fee not stated.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "1 King 1 Bedroom Suite - City View - Sofabed, Book From C$477/night incl. 1% DMF (Scott & Andrea)",
+          "1 King 1 Bedroom Suite - City View - Sofabed, Book From C$477/night incl. 1% DMF (Sam & Karen)",
+          "2 King 2 Bedroom Suite - City View, Book From C$803/night incl. 1% DMF, 2 adults + 2 children (Ryan, Jenna & kids)"
+        ],
+        "local_currency": "CAD",
+        "local_nightly_total": 1757,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Elevator building, flat two blocks to the harbour",
+        "2BR suite has two kings and two baths",
+        "Restaurant and pub downstairs"
+      ],
+      "compromises": [
+        "Wet bar and microwave, not a kitchen",
+        "2BR dining area seats four",
+        "No pool; valet parking only"
+      ],
+      "best_for": "Choose this if an elevator and the shortest walk to the harbour matter most.",
+      "links": [
+        "https://www.hilton.com/en/hotels/yyjdsdt-doubletree-suites-victoria/rooms/",
+        "https://assets-www.suiteness.com/suites/canada/british-columbia/victoria/doubletree-by-hilton-hotel-suites-victoria/2-king-2-bedroom-suite-water-mountain-views",
+        "https://oyster.com/vancouver-island/hotels/doubletree-by-hilton-hotel-and-suites-victoria"
+      ],
+      "images": [
+        {
+          "url": "https://imagedelivery.net/j444tmn-dIClF7t-Q3FQdw/destinations/victoria/doubletree-by-hilton-hotel-suites-victoria/suites/2-king-2-bedroom-suite-water-mountain-views/king-bedroom.jpg/public",
+          "page_url": "https://assets-www.suiteness.com/suites/canada/british-columbia/victoria/doubletree-by-hilton-hotel-suites-victoria/2-king-2-bedroom-suite-water-mountain-views",
+          "credit": "Suiteness",
+          "alt": "King bedroom, 2 King 2 Bedroom Suite",
+          "src": "img/2f880cc6ab1963f2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Royal Scot Hotel & Suites: 2BR suite + two 1BR suites",
+      "kind": "suite hotel in James Bay, 2BR + 2 x 1BR suites",
+      "quick_verdict": "Quiet James Bay suites with full kitchens, an indoor pool and a games room.",
+      "configuration": "Two-bedroom suite: king in the first bedroom, two doubles in the second, queen sofa bed in the living room, full kitchen with full-size fridge, table for six; about 900 sq ft (Tourism Victoria/listing text); bathroom count not stated. One-bedroom suites: king, queen or twin bedroom, queen sofa bed, full kitchen, table for four, 3-piece bath. Hotel: indoor pool, whirlpool, sauna, billiards room, bridge game room, games room with movies, Floyd's Diner on site, landscaped grounds. Elevator and parking not stated. Address 425 Quebec St, a short walk from the Parliament Buildings and the Inner Harbour.",
+      "family_split": {
+        "scott_andrea": "1BR suite (own door, 3-piece bath)",
+        "parents": "1BR suite",
+        "brother_family": "2BR suite (king + two doubles; kids get their own beds)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel suite with its own entry and bathroom (https://www.royalscot.com/rooms.php)."
+      },
+      "ratings": {
+        "privacy": 8,
+        "shared_space": 6,
+        "parents": 7,
+        "location": 7,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": 8,
+      "food_convenience": "Floyd's Diner on site; Inner Harbour restaurants about 5-10 min, Old Town about 15 min on the flat (estimate).",
+      "price": {
+        "nightly_total_usd_low": 800,
+        "nightly_total_usd_high": 1300,
+        "label": "estimate",
+        "basis": "Not bookable yet, or sold out, for these dates: the hotel's Book Now link goes to Wyndham, which says 'This hotel is not available for your dates' for 2027-07-04 to 2027-07-10 (2 guests), while a 2-night control stay (2026-12-14 to 2026-12-16) shows rates and 'Only 3 rooms left!' (checked 2026-11-14). Ask the hotel, 250-388-5463. Earlier estimate kept: no rates found on the hotel site; scaled from July averages at comparable Inner Harbour suite hotels (Kayak, about $257-279 for the cheapest room) to a 2BR plus two 1BR suites.",
+        "source_url": "https://www.wyndhamhotels.com/en-ca/trademark/victoria-british-columbia/royal-scot-hotel-trademark/rooms-rates?checkInDate=7/4/2027&checkOutDate=7/10/2027&adults=2&children=0&rooms=1",
+        "fees_notes": "Parking not stated. GST, PST and MRDT extra.",
+        "units_quoted": [],
+        "local_currency": "CAD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "property",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Separate beds for both teens",
+        "Games room, billiards and indoor pool",
+        "Full kitchens in every suite",
+        "Quiet street near Parliament"
+      ],
+      "compromises": [
+        "Farther from Old Town dinners",
+        "Suite sizes and baths not stated",
+        "Elevator not stated"
+      ],
+      "best_for": "Choose this if a pool and games room for the teens beat a waterfront view.",
+      "links": [
+        "https://www.royalscot.com/rooms.php",
+        "https://www.royalscot.com/",
+        "https://www.wyndhamhotels.com/en-ca/trademark/victoria-british-columbia/royal-scot-hotel-trademark/rooms-rates"
+      ],
+      "images": [
+        {
+          "url": "https://www.royalscot.com/images/2-bedroom-suite-livingroom.jpg",
+          "page_url": "https://www.royalscot.com/rooms.php",
+          "credit": "Royal Scot Hotel & Suites",
+          "alt": "Two-bedroom suite living room",
+          "src": "img/3f50d93cda7a2f3a.jpg"
+        },
+        {
+          "url": "https://www.royalscot.com/images/2-bedroom-suite1.jpg",
+          "page_url": "https://www.royalscot.com/rooms.php",
+          "credit": "Royal Scot Hotel & Suites",
+          "alt": "Two-bedroom suite",
+          "src": "img/000509008acae481.jpg"
+        }
+      ],
+      "review_notes": "Moved from lodging to backups on the 2026-11-15 rerun: the price-checker found it not available on Wyndham for 2027-07-04 to 2027-07-10 (sold_out) while a December control stay showed rates."
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Ocean River Sports: Trial Island sea lion kayak tour",
+        "what_you_do": "A guided sea-kayak paddle of about 3.5 hours from Oak Bay Marina, past a bird sanctuary and through Discovery Island Marine Park to Trial Island, in drysuits. Harbour seals are regularly seen and sea lions haul out on the rocks; you watch them from the kayak.",
+        "why_memorable": "Paddling among hauled-out sea lions and seals is an activity with wild marine mammals, not a viewing deck.",
+        "interactivity": "close viewing",
+        "drive_minutes": 15,
+        "price_usd": "Not published on the tour page; ask Ocean River Sports, 250-381-4233",
+        "age_min": null,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Book online; runs only on selected days because of sea state and weather, and is meant for paddlers with some previous kayaking experience. Minimum age and 2027 dates not stated. Strenuous: the parents sit this out. Beginners can take Ocean River's downtown Inner Harbour tours from 450 Swift St instead (details not read).",
+        "url": "https://shop.oceanriver.com/pages/trial-island-sea-lion-tour",
+        "image": {
+          "url": "https://shop.oceanriver.com/cdn/shop/files/IMG_9402.jpg?v=1793164596&width=1500",
+          "page_url": "https://shop.oceanriver.com/",
+          "credit": "Ocean River Sports",
+          "alt": "Kayakers on the Trial Island sea lion tour",
+          "src": "img/6ff2f9ffc1873ce8.jpg"
+        }
+      },
+      {
+        "name": "The Raptors (Pacific Northwest Raptors), Duncan",
+        "what_you_do": "Watch daily flying demonstrations, then book a hands-on session: walk through the woods with a hawk or hold a falcon or owl on a glove.",
+        "why_memorable": "A hawk landing on your own glove in the forest is a real encounter, not a viewing.",
+        "interactivity": "hands-on",
+        "drive_minutes": 55,
+        "price_usd": "Not published; one undated TripAdvisor review cites $110 for the Closest Encounter",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Hands-on sessions need advance booking; ages, prices and July 2027 slots not published (call 250-746-0372). Daily demos stated on the operator site, re-read 2026-11-15; no closure notice. Also runs five-day kids' summer camps and a week-long falconry course (dates not published).",
+        "url": "https://www.the-raptors.com/",
+        "image": {
+          "url": "https://www.tourismcowichan.com/wp-content/uploads/2023/10/6X3A3596-scaled.jpg",
+          "page_url": "https://tourismcowichan.com/?p=1711",
+          "credit": "Tourism Cowichan",
+          "alt": "Bird of prey at The Raptors, Duncan",
+          "src": "img/7094229838b18857.jpg"
+        }
+      },
+      {
+        "name": "Alpine Stables trail rides, Cobble Hill",
+        "what_you_do": "Guided horseback rides through rainforest: a 1-hour Beginner Trail Ride for families, a 2-hour rainforest ride, or a 3-hour ride to a summit with ocean and valley views.",
+        "why_memorable": "Riding a horse to a viewpoint over the valley is an outing with the animals rather than a petting stop.",
+        "interactivity": "hands-on",
+        "drive_minutes": 45,
+        "price_usd": "Not shown on the listing ('N/A'); the FareHarbor booking page did not load",
+        "age_min": 5,
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Book through FareHarbor; Beginner Trail Ride from age 5; longer rides need an age and riding-ability check with the stable. Weight limits, address and July 2027 dates not stated. Drive time to Cobble Hill is an estimate via the Malahat.",
+        "url": "https://app.advcollective.com/local-experts/spectacular-summit-ride"
+      },
+      {
+        "name": "Victoria Bug Zoo",
+        "what_you_do": "Walk through a small indoor insect and arachnid collection with an educator, who brings out animals for visitors to hold.",
+        "why_memorable": "Holding leaf insects and stick insects downtown, on a rainy hour or any day.",
+        "interactivity": "hands-on",
+        "drive_minutes": 0,
+        "price_usd": "Prices vary by age; not listed on the home page",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Walk-in or book online; no closure notice. Mon-Fri 11-4, Sat-Sun 10-4; summer hours from June 30. Holding arachnids is 18+, so Ethan and Aubrey can hold insects only.",
+        "url": "https://victoriabugzoo.ca/",
+        "image": {
+          "url": "https://irp.cdn-website.com/2ea9b18f/dms3rep/multi/opt/Leaf-insect-male-e4ad8f7f-704h.JPG",
+          "page_url": "https://victoriabugzoo.ca/",
+          "credit": "Victoria Bug Zoo",
+          "alt": "Male leaf insect",
+          "src": "img/fcb26f2d5b080193.JPG"
+        }
+      },
+      {
+        "name": "Victoria Butterfly Gardens",
+        "what_you_do": "Walk through a tropical indoor garden with free-flying butterflies and birds, a flamingo, tortoises, poison dart frogs and a dwarf caiman.",
+        "why_memorable": "Butterflies may land on you; easy flat indoor walk for the parents, near Butchart Gardens.",
+        "interactivity": "close viewing",
+        "drive_minutes": 25,
+        "price_usd": "Adult C$20, student (13-17) C$16, senior C$16, child (5-12) C$9.50",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Open 7 days; walk-in tickets. Pair with Butchart Gardens.",
+        "url": "https://www.butterflygardens.com/",
+        "image": {
+          "url": "https://butterflygardens.com/cdn/shop/files/From_Website_019A2105.jpg",
+          "page_url": "https://www.butterflygardens.com/",
+          "credit": "Victoria Butterfly Gardens",
+          "alt": "Inside the Victoria Butterfly Gardens",
+          "src": "img/4915c81d6fed3910.jpg"
+        }
+      }
+    ],
+    "golf": [
+      {
+        "name": "Bear Mountain: Mountain Course",
+        "what_you_do": "18 holes on a Nicklaus-designed course climbing Bear Mountain in Langford, with GPS carts.",
+        "why_memorable": "Big elevation changes and views over Victoria and the Olympic Mountains; one of BC's most awarded resort courses.",
+        "drive_minutes": 25,
+        "price_usd": "C$257 public peak rate (May 1-Oct 31), twilight C$177 from 2 pm, junior C$62 from noon; power cart C$28 extra and mandatory (rates page: 'power carts are mandatory'), so about C$285 with cart",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book by phone 250-744-2327 or online; the rates page shows no year. Junior rate asks for a driver's licence, which Ethan (15) will not have.",
+        "url": "https://bearmountain.ca/recreation/golf/rates-specials/",
+        "image": {
+          "url": "https://bearmountain.ca/wp-content/uploads/2016/03/Header-Golf-Main-1.jpg",
+          "page_url": "https://bearmountain.ca/recreation/golf/rates-specials/",
+          "credit": "Bear Mountain",
+          "alt": "Bear Mountain golf course",
+          "src": "img/008bde2ffde2e161.jpg"
+        }
+      },
+      {
+        "name": "Olympic View Golf Club",
+        "what_you_do": "18 public holes in the Westshore hills, with twelve lakes and two waterfalls.",
+        "why_memorable": "A 60-foot waterfall behind the 17th green and Olympic Mountain views, at a fraction of Bear Mountain's fee.",
+        "drive_minutes": 25,
+        "price_usd": "Dynamic pricing; club's 2026 rates page (High Season Apr 1-Nov 1) shows green fees from C$125, twilight C$80, sunset C$60; 2027 rates not published",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Online tee times; the club charges a C$20 advance booking fee for bookings more than 15 days ahead (2026 page; GolfBC URL now redirects to olympicviewgolf.com).",
+        "url": "https://www.golfbc.com/courses/olympic_view/golf_course/rates"
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Butchart Gardens",
+      "good_for": [
+        "parents",
+        "everyone"
+      ],
+      "details": "55-acre historic gardens in Brentwood Bay; paved paths and wheelchairs make it the easiest big outing for Sam and Karen. July hours and 2027 rates were not on the home page; check the Hours & Rates page. Pair with the Butterfly Gardens nearby.",
+      "drive_minutes": 30,
+      "url": "https://www.butchartgardens.com/",
+      "found_via": "TripAdvisor top things to do (via search snippets)",
+      "image": {
+        "url": "https://butchartgardens.com/wp-content/uploads/2026/10/Japanese-Garden-2026-10-27T130638.939-2560x1920.jpg",
+        "page_url": "https://www.butchartgardens.com/",
+        "credit": "The Butchart Gardens",
+        "alt": "Japanese Garden at Butchart Gardens",
+        "src": "img/aec8195b8852dea5.jpg"
+      }
+    },
+    {
+      "name": "Quest Reality Games escape rooms",
+      "good_for": [
+        "teens",
+        "adults",
+        "rainy day"
+      ],
+      "details": "60-minute indoor escape rooms near Bastion Square, about 5 min from the Victoria Regent; family-friendly themes, teens 14+ can play without adults. Prices not checked. Arcadia (escape rooms, VR, arcade) is another downtown option.",
+      "drive_minutes": 0,
+      "url": "https://www.tourismvictoria.com/things-to-do/nightlife-entertainment/escape-rooms/quest-reality-games",
+      "found_via": "Tourism Victoria"
+    },
+    {
+      "name": "Prince of Whales whale watching",
+      "good_for": [
+        "teens",
+        "adults",
+        "everyone"
+      ],
+      "details": "3-4 hour boat or Zodiac trips from 812 Wharf St, below the Empress, to look for orcas, humpbacks, seals and sea lions; July is peak whale season. C$179 Zodiac / C$189 half-day covered boat per adult plus tax (seasonal pricing); private Zodiac C$2,000 per boat. Hourly departures; book a few days ahead in July. Viewing only, so it sits outside the animal ranking. The dock is reached by stairs to the lower causeway; the covered boat suits the parents better than the Zodiac.",
+      "drive_minutes": 0,
+      "url": "https://www.princeofwhales.com/victoria/",
+      "found_via": "Earlier research; operator site"
+    },
+    {
+      "name": "Royal BC Museum and IMAX",
+      "good_for": [
+        "everyone",
+        "rainy day"
+      ],
+      "details": "Natural and human history museum beside the Parliament Buildings, about 12 min flat walk; TripAdvisor users have voted it a top museum in Canada. Elevators inside; check which galleries are open during its modernization.",
+      "drive_minutes": 0,
+      "url": "https://www.tourismvictoria.com/things-to-do",
+      "found_via": "Tourism Victoria rainy-day list"
+    },
+    {
+      "name": "Fisherman's Wharf and Inner Harbour stroll",
+      "good_for": [
+        "parents",
+        "everyone"
+      ],
+      "details": "Flat harbour-front walk past the Empress and Parliament to the floating homes and food kiosks at Fisherman's Wharf; Government St shopping and the Old Town boutiques for Karen, Jenna and Andrea. Feeding the wharf seals is banned (earlier research).",
+      "drive_minutes": 0,
+      "url": "https://www.tourismvictoria.com/things-to-do",
+      "found_via": "Tourism Victoria"
+    }
+  ],
+  "shopping_exploring": "Government St, Lower Johnson St (LoJo) boutiques, Market Square and Chinatown's Fan Tan Alley are all within a 10-minute flat walk of the Victoria Regent. Craigdarroch Castle is a popular tour but has many interior stairs.",
+  "restaurants": [
+    {
+      "name": "Red Fish Blue Fish",
+      "category": "casual",
+      "notes": "Seafood takeout from a container kitchen on the Wharf St pier (1006 Wharf St); outdoor seating only.",
+      "walk_minutes_from_lodging": 8,
+      "url": "https://www.princess.com/blog/best-restaurants-in-victoria-bc"
+    },
+    {
+      "name": "Swans Brewpub",
+      "category": "casual",
+      "notes": "Brewpub with 58 beers on tap at 1601 Store St, under the Swans Hotel.",
+      "walk_minutes_from_lodging": 3,
+      "url": "https://www.swanshotel.com/"
+    },
+    {
+      "name": "Finn's Seafood Chops Cocktails",
+      "category": "family dinner",
+      "notes": "Seafood and steak at 1208 Wharf St, next door to the Victoria Regent, harbour views.",
+      "walk_minutes_from_lodging": 1,
+      "url": "https://www.princess.com/blog/best-restaurants-in-victoria-bc"
+    },
+    {
+      "name": "Nautical Nellies",
+      "category": "family dinner",
+      "notes": "Waterfront seafood and steakhouse at 1001 Wharf St with a broad menu.",
+      "walk_minutes_from_lodging": 8,
+      "url": "https://dailyhive.com/victoria/best-restaurants-victoria-2"
+    },
+    {
+      "name": "Il Terrazzo",
+      "category": "special dinner",
+      "notes": "Northern Italian in a courtyard off Waddington Alley, 555 Johnson St; dinner nightly from 4 pm, reservations highly recommended (250-361-0028); prices not published. Alternative: Q at the Empress (OpenTable: C$51 and over).",
+      "walk_minutes_from_lodging": 4,
+      "url": "https://www.ilterrazzo.com/"
+    },
+    {
+      "name": "Jam Cafe",
+      "category": "breakfast/coffee",
+      "notes": "Brunch spot open 8 am-2 pm weekdays, 8-3 weekends; expect lines. Street address not on its home page.",
+      "walk_minutes_from_lodging": 6,
+      "url": "https://jamcafes.com/",
+      "image": {
+        "url": "https://jamcafes.com/wp-content/uploads/2024/09/main-home-650x1300.jpg",
+        "page_url": "https://jamcafes.com/",
+        "credit": "Jam Cafe",
+        "alt": "Jam Cafe breakfast",
+        "src": "img/627c8ef27fa9f604.jpg"
+      }
+    }
+  ],
+  "weather": {
+    "source_url": "https://currentresults.com/Weather/Canada/British-Columbia/temperature-july.php",
+    "july": {
+      "high_f": 75,
+      "low_f": 54,
+      "rain_days": null,
+      "notes": "Environment Canada 1981-2010 normals for 'Victoria' via Current Results: 24 C / 12 C. NOAA 1991-2020 via Extreme Weather Watch gives 23.7 C / 11.7 C. These are airport/inland figures; the downtown waterfront is usually cooler. July is the driest month; a rain-day count was not found."
+    }
+  },
+  "logistics": {
+    "airport": "Victoria International (YYJ)",
+    "drive_minutes_from_airport": 30,
+    "flights": {
+      "den": "No nonstop found. One stop via Seattle (Alaska) or Vancouver (United or Air Canada to YVR, then Air Canada to YYJ); or fly to SEA and take the Victoria Clipper ferry to the Inner Harbour.",
+      "bay_area": "No nonstop confirmed from SFO, OAK or SMF. Alaska sells SFO-YYJ (fares from about $187-198 one way) with a Seattle connection; Air Canada via YVR."
+    },
+    "car_needed": "Not downtown; everything in Old Town and the Inner Harbour is walkable. One rental car for Butchart Gardens, Bear Mountain, Olympic View, Oak Bay Marina, Alpine Stables and The Raptors in Duncan.",
+    "notes": "Passports needed for all eight. The Clipper and Harbour Air floatplanes land in the Inner Harbour, a few minutes from the hotels. The Malahat highway to Duncan is about 55 min each way."
+  },
+  "caveats": [
+    "BC's principal-residence rule means no whole houses or guest cottages; all options are hotel suites (the James Bay Inn backup's cottage is part of the inn).",
+    "No suite has a confirmed indoor table for 8 except Penthouse 800 at the Victoria Regent.",
+    "No confirmed nonstop flights from Denver or the Bay Area; everyone connects and needs a passport.",
+    "The top animal options (sea-lion kayak, hawk walk, horseback) publish no prices, ages or 2027 dates; the kayak tour expects some paddling experience.",
+    "The Oswego Hotel's own domain is parked; its status could not be confirmed, so it was left out.",
+    "Price update 2026-11-14: Victoria Regent, Parkside, Chateau Victoria and Swans now have quotes for 2027-07-04 to 2027-07-10 from the hotels' own engines (all under the nightly cap); Royal Scot was not available on Wyndham for these dates and has moved to the backups.",
+    "Price update 2026-11-15: all four lodging options re-quoted with unchanged local rates (all under the cap); Chateau Victoria's Superior Queen Suite shows 'Only 2 left', exactly the two the split needs. Backups: DoubleTree verified at US$1,231/night; James Bay Inn's cottage and both Heritage House suites show 'Sold Out' for all of July 2027 tried (not released or booked; ask the front desk)."
+  ],
+  "open_questions": [
+    "Victoria Regent: elevator, and can Executive Suite 307 and two 1BR suites be placed on the same floor? Ask reservations, 1-800-663-7472.",
+    "Victoria Regent: Executive Suite 307 (deck) and Penthouse 800 are sold by phone only; confirm unit and rate with reservations, 250-386-2211.",
+    "Parkside: dining-table seats in the 2BR Premier, elevator, and July rates (hotel reservations).",
+    "Chateau Victoria: 1BR suite layout and parking terms (hotel).",
+    "Royal Scot: suite sizes, 2BR bathroom count, elevator, and whether the July 4-10 dates are sold out or not yet released (hotel, 250-388-5463).",
+    "Swans: elevator, which 1BR suites are non-loft, 2BR layout and rates (hotel, 1-250-361-3310).",
+    "James Bay Inn: cottage bathroom count, Garden Suite floor and entrance steps, where the cottage sits, and July rates (front desk, 800-836-2649).",
+    "DoubleTree Victoria: whether the 2BR suite has a kitchen or kitchenette, which one-bedroom suite type exists, valet fee and July rates (hotel / hilton.com).",
+    "The Raptors: hands-on session prices, minimum ages and July 2027 schedule (250-746-0372).",
+    "Ocean River Sports Trial Island tour: price, minimum age, experience needed and July 2027 days (250-381-4233).",
+    "Alpine Stables: ride prices, weight limits, address and July 2027 availability (FareHarbor page did not load; contact the stable).",
+    "Bear Mountain: 2027 peak green fee and whether the cart is included (pro shop 250-744-2327).",
+    "Olympic View: 2027 green fees (club, 250-474-3673).",
+    "July rain-day count and a downtown (Gonzales/Harbour) temperature normal were not found (Environment Canada normals).",
+    "Summer 2027 airline schedules: any new DEN or SFO nonstop to YYJ (airline route maps)."
+  ],
+  "verification_notes": [
+    "Lock-off verdicts rest on the hotel format (separate suites with their own doors), not on floor plans.",
+    "price-checker 2026-11-14: Victoria Regent: estimate US$1,100-1,700 to verified US$1,561 (C$2,228/night, Rack Rate only, WebRez). The engine sells '2 Bedroom Executive Suite (Waterfront)' by phone only and cannot pick unit 307 (deck) over 506; Penthouse 800-803 are C$1,200/night, also by phone. All rooms state minimum age 19 (to register). Value 8 to 7.",
+    "price-checker 2026-11-14: Parkside: estimate US$1,050-1,650 to verified US$1,151-1,337 (C$1,642 advance-purchase non-refundable to C$1,908 best available, SynXis). The engine also lists a 'One Bedroom Deluxe Suite' (C$397-461) and 'Two Bedroom Deluxe Suites' (C$590-686) cheaper than the units in the split. Value stays 8.",
+    "price-checker 2026-11-14: Chateau Victoria: estimate US$850-1,350 to verified US$1,058 (C$1,510.33/night, Daily Best Available Rate, TravelClick). The engine has no 'One Bedroom Suite'; the split's 1BR suites were priced as the Superior Queen Suite (one bedroom with queen + pull-out couch, 5th floor); the Deluxe 2 Queen Suite (one bedroom, two queens, floors 6-15) is C$469/night before DMF. Engine lists the Two Bedroom Suite as 1 king, 1 queen, 1 sofa bed, 750 sq ft, matching the configuration. Value stays 9.",
+    "price-checker 2026-11-14: Royal Scot: estimate US$800-1,300 kept; no quote: Wyndham shows 'This hotel is not available for your dates' for the stay while a 2026-12-14/16 control returns rates, so the dates are not bookable yet or sold out. Value stays 9 (on the estimate).",
+    "price-checker 2026-11-14: Swans: unknown to verified US$769-853 (C$1,098 Advanced Purchase non-refundable to C$1,217 RACK, WebRez); Friday 9 July is the dearest night. The 2BR returned no rooms for 2 adults + 2 children, so it was priced for 4 guests. A 4-guest search also lists a non-loft 'One-Bedroom Suite, Queen Bed with Full Kitchen' (avg C$396.50-434), not in the 2-guest results; the Studio Suite showed as unavailable for 4 guests. Value 5 to 9.",
+    "fact-checker 2026-11-14: Bear Mountain cart corrected: rates page says power carts are mandatory at C$28 on top of the C$257 green fee (JSON had 'other sources say cart included'). Olympic View: rates page moved to olympicviewgolf.com; 2026 peak fees from C$125 (twilight C$80), advance-booking fee C$20 not C$15; replaced the 2024 'from C$69' figure. Beacon Hill farm suggested donation updated to $7 adult / $6 child (2026 reopening, 10-4 daily, goat stampede 10:10 and 4:10); 2027 season still unconfirmed. Public access to Olympic View is not stated on the rates page (could not verify).",
+    "fact-checker 2026-11-14: lodging configuration checked against the hotels' own pages: Victoria Regent 307 (2BR, 2 kings, queen sofa bed, 2 baths, table for 6, 950 sq ft deck, no A/C, floor/elevator not stated) and 1BR (950 sq ft, sleeps 3, bath count not stated) confirmed; Parkside 2BR Premier (2 kings, 2 baths, 900+ sq ft, dining seats not stated) confirmed; Chateau 2BR (floors 16-17, 750 sq ft, 1 full bath with walk-in shower + 1 ensuite half bath, kitchenette) confirmed, bed types not on the page (Priceline only) and 1BR not described on the page; Royal Scot suites (1BR 3-piece bath, table for 4; 2BR table for 6, beds as stated) confirmed, but the page gives no sq ft, so '900 sq ft' rests on the Tourism Victoria listing only; Swans: studio, 1BR loft (page text says queen in separate bedroom while heading says king), 2BR (sleeps 6) confirmed; baths and elevator not stated. Swans also lists a Loft Penthouse with dining for 8 (from $1,500, three levels, stairs; not suitable for the parents). Lock-off verdicts (separate hotel suites with own doors) unchanged. Not re-opened: Parkside 1BR pages, Parkside/Swans/Chateau image pages.",
+    "fact-checker 2026-11-14: focus items confirmed on operator pages: Bug Zoo (hours M-F 11-4, Sat-Sun 10-4, arachnids 18+, prices not listed), Raptors (daily demos and hawk walk/falcon/owl experiences listed; no dates, prices, ages published), Butterfly Gardens (prices match, open 7 days), Prince of Whales (C$179/C$189/C$2,000 and year-round/Mar-Nov seasons match), Bear Mountain (C$257/177/62 match). No item closed or ruled out; no score changed.",
+    "price-checker 2026-11-14: lodging score unchanged at 19/25 and total unchanged at 81: the Victoria Regent option it rests on is now verified inside the cap and keeps its lock-off; the points it lost were for the table and unstated elevator/placement, not price.",
+    "rerun 2026-11-15: Royal Scot moved from lodging to lodging_backups with its sold_out quote; two backups added (James Bay Inn cottage + Heritage House suites; DoubleTree Victoria 2BR + 1BR suites), both lock-off 'yes', both price 'unknown' for the price-checker. Harbour Towers was tried but its domain did not resolve (status unknown, not listed). Hilton's own pages returned 403, so DoubleTree rests on Suiteness and Oyster.",
+    "rerun 2026-11-15: animals re-ranked under the new guidance (what you do, then the animal). New items: Ocean River Trial Island sea-lion kayak tour (activity among large wild marine mammals; labelled close viewing because nothing is touched) and Alpine Stables horseback rides (activity with farm animals). Prince of Whales (viewing large wild) moved to activities, replacing the generic kayaking entry; Beacon Hill Children's Farm (farm-animal petting, 2027 season unconfirmed) dropped from the list. Shaw Centre for the Salish Sea: admission C$19.50 adult / C$13.75 youth; fall/winter hours 10-4:30, closed Wednesdays; no touch pool or feeding program named on its pages, so it stays out. Animals score kept at 11: the top two are activities, but both lack published prices, ages and 2027 dates, and neither involves touching.",
+    "price-checker 2026-11-15: Victoria Regent: verified US$1,561 to verified US$1,560 (same C$2,228/night in WebRez; FX 0.7004 vs 0.7007). Value stays 7.",
+    "price-checker 2026-11-15: Parkside: verified US$1,151-1,337 to verified US$1,150-1,336 (same C$1,642-1,908/night in SynXis; FX change only). Value stays 8.",
+    "price-checker 2026-11-15: Chateau Victoria: verified US$1,058 unchanged (same C$1,510.33/night in TravelClick); Superior Queen Suite now shows 'Only 2 left'. Value stays 9.",
+    "price-checker 2026-11-15: Swans: verified US$769-853 to verified US$769-852 (same C$1,098-1,217/night in WebRez; FX change only). Value stays 9.",
+    "price-checker 2026-11-15: James Bay Inn (backup): unknown, no amount, kept unknown; availability not_released: the three units in the split show 'Sold Out' on Cloudbeds for 2027-07-04/10 and for a 2027-07-25/27 control, but are open for 2026-12-14/16; other room types are open in late July, so these units may simply be booked. No rate shown for any unit. Value stays 5 (price unknown).",
+    "price-checker 2026-11-15: DoubleTree Victoria (backup): unknown to verified US$1,231 (C$1,757/night 'Book From' prices incl. 1% DMF on hilton.com, which loaded this time). The engine lists the 2BR as '2 King 2 Bedroom Suite - City View'; the configuration's 'Water/Mountain Views' version is not offered for these dates. Value 5 to 8.",
+    "price-checker 2026-11-15: lodging score unchanged at 19/25, total unchanged at 81: the Victoria Regent option it rests on is still available and inside the cap with its lock-off, so no backup was promoted.",
+    "fact-checker 2026-11-15: James Bay Inn backup corrected from the rooms page: Private Cottage has a living room with two sofas and fireplace (no sofa bed stated), a kitchen with bar counter and a separate dining room seating 6 or more, private parking for 2; configuration, family_split, gathering-room line, compromises and the open question updated. Cottage bath count, entrance and whether it is a separate building are still not stated (page says 'completely private' 1940s house); the lock-off 'yes' rests on the Heritage House suites having their own full baths and was left as is. Garden Suite and Upstairs Suite (king, pull-out sofa, full kitchen, 1 full bath, sleeps 4) confirmed; floors and entrances not stated. Ratings left unchanged (backup, not scored).",
+    "fact-checker 2026-11-15: DoubleTree backup confirmed on Suiteness: 2 kings, sofa bed, 2 baths, dining for four, wet bar/microwave/mini fridge with no full kitchen, hotel elevator (page does not say it serves this suite); the price block (City View 2BR) was not touched. hilton.com room page not re-opened (403 earlier).",
+    "fact-checker 2026-11-15: Victoria Regent 307 (2 kings, queen sofa bed, 2 baths, table for 6, 950 sq ft deck, no A/C, elevator and floor not stated) and Parkside 2BR Premier (2 kings, 2 baths, kitchen, dining seats not stated, sleeps 6) re-confirmed. Not re-opened: Chateau, Swans, Royal Scot pages (checked 2026-11-14).",
+    "fact-checker 2026-11-15: animals list order checked against the guidance (kayak among sea lions > hawk walk > horse ride > hold insects > butterfly walk-through; consistent with what-you-do then animal). Ocean River Trial Island page confirms drysuit paddle, about 3.5 h, some kayaking experience needed, runs on certain days by sea state, no price, age or season (operates_during_stay stays unknown). Raptors home page confirms hawk walk, falcon on glove and owl encounters; it does not name a 'Closest Encounter', price, age or July dates, and the programs page returned 404, so the daily-demonstration claim and the undated $110 review could not be re-verified on this pass. Alpine Stables listing confirms 1-h Beginner ride (age 5+), 2-h rainforest ride and 3-h summit ride, price N/A, and now shows 'Booking Not Available' in its availability section with the calendar still visible, so July 2027 operation stays unknown. Bug Zoo (hours, arachnids 18+, animal handling with an educator, no closure) confirmed; Butterfly Gardens not re-opened. No item closed or ruled out; animals stays 11/18.",
+    "fact-checker 2026-11-15: no score changed (lodging 19, animals 11, total 81 unchanged); no price block or value rating touched."
+  ],
+  "brochure": {
+    "tagline": "Harbour walks, whale boats, gardens and a hawk walk",
+    "intro": "Victoria is a flat, walkable harbour city where a week runs on short strolls, boat rides and good dinners. Base yourselves on the Inner Harbour, then take a car out to Butchart Gardens, the golf courses and a hawk walk.",
+    "highlights": [
+      "Kayak among sea lions and seals from Oak Bay",
+      "Whale-watching boats leave from the Inner Harbour",
+      "Walk with a hawk at The Raptors",
+      "Butchart Gardens on paved paths",
+      "Mountain-top golf at Bear Mountain, 25 minutes away",
+      "Old Town restaurants a short flat walk from the hotels"
+    ],
+    "pros": [
+      "Flat harbour-front walks, easy for everyone",
+      "Whales, gardens, golf and a museum all close by",
+      "Kitchens in every suite, so breakfasts at home are easy",
+      "Plenty of restaurants within a short walk",
+      "July is the driest month, with highs around 75 F"
+    ],
+    "cons": [
+      "Passports needed for everyone",
+      "No nonstop flights; one connection each way",
+      "Hotel suites only, with no air conditioning at the Victoria Regent",
+      "A rental car helps for Butchart, golf and The Raptors"
+    ],
+    "stays": [
+      {
+        "name": "Victoria Regent Waterfront Hotel & Suites: Executive Suite 307 + two 1BR suites",
+        "title": "Victoria Regent Waterfront Hotel & Suites",
+        "blurb": "Kitchen suites on the Inner Harbour, with Finn's restaurant next door and Old Town a short walk away. The big suite has a wrap-around deck over the water.",
+        "highlights": [
+          "Harbour views",
+          "950 sq ft deck on the 2-bedroom suite",
+          "Full kitchens",
+          "Free parking"
+        ]
+      },
+      {
+        "name": "The Parkside Hotel & Spa: 2BR Premier Suite + two 1BR suites",
+        "title": "The Parkside Hotel & Spa",
+        "blurb": "An all-suite hotel with an on-site spa, a pool and hot tub, and rooftop fire pits. Downtown and the harbour are a short walk.",
+        "highlights": [
+          "Spa, pool and hot tub",
+          "Rooftop fire pits",
+          "Balconies and fireplaces",
+          "Full kitchens"
+        ]
+      },
+      {
+        "name": "Chateau Victoria Hotel & Suites: 2BR suite + two 1BR suites",
+        "title": "Chateau Victoria Hotel & Suites",
+        "blurb": "A downtown high-rise a few minutes from the Inner Harbour, with the two-bedroom suites on the 16th and 17th floors.",
+        "highlights": [
+          "Harbour and mountain views",
+          "Balconies",
+          "Elevator building",
+          "Restaurants within a 5-minute walk"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Sea lion kayak tour to Trial Island",
+        "kind": "animals",
+        "blurb": "A guided paddle of about 3.5 hours from Oak Bay, 15 minutes away, to watch seals and sea lions on the rocks. Runs on selected days; some kayaking experience needed.",
+        "url": "https://shop.oceanriver.com/pages/trial-island-sea-lion-tour",
+        "image": {
+          "url": "https://shop.oceanriver.com/cdn/shop/files/IMG_9402.jpg?v=1793164596&width=1500",
+          "page_url": "https://shop.oceanriver.com/",
+          "credit": "Ocean River Sports",
+          "alt": "Kayakers on the Trial Island sea lion tour",
+          "src": "img/6ff2f9ffc1873ce8.jpg"
+        }
+      },
+      {
+        "name": "A hawk walk at The Raptors",
+        "kind": "animals",
+        "blurb": "Daily flying shows near Duncan, about 55 minutes away, plus booked sessions to walk with a hawk or hold a falcon or owl.",
+        "url": "https://www.the-raptors.com/",
+        "image": {
+          "url": "https://www.tourismcowichan.com/wp-content/uploads/2023/10/6X3A3596-scaled.jpg",
+          "page_url": "https://tourismcowichan.com/?p=1711",
+          "credit": "Tourism Cowichan",
+          "alt": "Bird of prey at The Raptors, Duncan",
+          "src": "img/7094229838b18857.jpg"
+        }
+      },
+      {
+        "name": "Victoria Bug Zoo",
+        "kind": "rainy day",
+        "blurb": "A small downtown insect collection where an educator lets visitors hold leaf and stick insects.",
+        "url": "https://victoriabugzoo.ca/",
+        "image": {
+          "url": "https://irp.cdn-website.com/2ea9b18f/dms3rep/multi/opt/Leaf-insect-male-e4ad8f7f-704h.JPG",
+          "page_url": "https://victoriabugzoo.ca/",
+          "credit": "Victoria Bug Zoo",
+          "alt": "Male leaf insect",
+          "src": "img/fcb26f2d5b080193.JPG"
+        }
+      },
+      {
+        "name": "Whale watching from the Inner Harbour",
+        "kind": "outdoors",
+        "blurb": "A 3-4 hour boat or Zodiac trip with Prince of Whales to look for orcas, humpbacks and seals. The covered boat is easier for the grandparents.",
+        "url": "https://www.princeofwhales.com/victoria/"
+      },
+      {
+        "name": "Golf at Bear Mountain",
+        "kind": "golf",
+        "blurb": "A Nicklaus-designed mountain course 25 minutes away with views over Victoria and the Olympic Mountains.",
+        "url": "https://bearmountain.ca/recreation/golf/rates-specials/",
+        "image": {
+          "url": "https://bearmountain.ca/wp-content/uploads/2016/03/Header-Golf-Main-1.jpg",
+          "page_url": "https://bearmountain.ca/recreation/golf/rates-specials/",
+          "credit": "Bear Mountain",
+          "alt": "Bear Mountain golf course",
+          "src": "img/008bde2ffde2e161.jpg"
+        }
+      },
+      {
+        "name": "Butchart Gardens",
+        "kind": "outdoors",
+        "blurb": "55 acres of historic gardens on paved paths, with wheelchairs available.",
+        "url": "https://www.butchartgardens.com/",
+        "image": {
+          "url": "https://butchartgardens.com/wp-content/uploads/2026/10/Japanese-Garden-2026-10-27T130638.939-2560x1920.jpg",
+          "page_url": "https://www.butchartgardens.com/",
+          "credit": "The Butchart Gardens",
+          "alt": "Japanese Garden at Butchart Gardens",
+          "src": "img/aec8195b8852dea5.jpg"
+        }
+      },
+      {
+        "name": "Harbour tour on the Victoria Harbour Ferry",
+        "kind": "town",
+        "blurb": "A 45-minute boat tour from the Empress dock, running daily from February through October.",
+        "url": "https://www.tourismvictoria.com/things-to-do/attractions/victoria-harbour-ferry-company-ltd",
+        "image": {
+          "url": "https://admin.tourismvictoria.com/content/uploads/2023/10/Victoria-Harbour-Ferry-012068035056a36_01206989-5056-a36a-0a3b781c69afa1d0.jpg",
+          "page_url": "https://www.tourismvictoria.com/things-to-do/attractions/victoria-harbour-ferry-company-ltd",
+          "credit": "Tourism Victoria",
+          "alt": "Victoria Harbour Ferry on the harbour",
+          "src": "img/24b310e44df8937d.jpg"
+        }
+      },
+      {
+        "name": "Fisherman's Wharf",
+        "kind": "food",
+        "blurb": "A flat harbour-front walk to the floating homes and food kiosks, with seafood to eat outdoors.",
+        "url": "https://www.tourismvictoria.com/things-to-do/attractions/fishermans-wharf",
+        "image": {
+          "url": "https://admin.tourismvictoria.com/content/uploads/2023/10/fw30_3cbd2ef6-5056-a36a-0a3d31fda645a2e7.jpg",
+          "page_url": "https://www.tourismvictoria.com/things-to-do/attractions/fishermans-wharf",
+          "credit": "Tourism Victoria",
+          "alt": "Fisherman's Wharf, Victoria",
+          "src": "img/bc708545414f2217.jpg"
+        }
+      },
+      {
+        "name": "Royal BC Museum",
+        "kind": "rainy day",
+        "blurb": "Walk-through galleries beside the Parliament Buildings, with an IMAX theatre nearby.",
+        "url": "https://www.tourismvictoria.com/things-to-do/attractions/royal-bc-museum",
+        "image": {
+          "url": "https://admin.tourismvictoria.com/content/uploads/2023/10/1-Mammoth3_D81B7274-87DE-49F7-BEDF97101B7428A8_36d8ef88-755b-4ff5-adb75354aee73b9f.jpg",
+          "page_url": "https://www.tourismvictoria.com/things-to-do/attractions/royal-bc-museum",
+          "credit": "Tourism Victoria",
+          "alt": "Mammoth display at the Royal BC Museum",
+          "src": "img/fa3611edb497eac3.jpg"
+        }
+      },
+      {
+        "name": "Escape rooms near Bastion Square",
+        "kind": "rainy day",
+        "blurb": "60-minute indoor puzzle rooms with family-friendly themes, about 5 minutes from the harbour.",
+        "url": "https://www.tourismvictoria.com/things-to-do/nightlife-entertainment/escape-rooms/quest-reality-games"
+      }
+    ],
+    "dinner_spots": [
+      "Finn's Seafood Chops Cocktails: harbour-view dinner next door to the Regent",
+      "Il Terrazzo: Northern Italian in a courtyard, for the special night",
+      "Nautical Nellies: waterfront seafood and steak with a broad menu",
+      "Jam Cafe: weekend brunch (expect a line)"
+    ]
+  },
+  "images": {
+    "hero": {
+      "url": "https://admin.tourismvictoria.com/content/uploads/2026/06/Inner-Harbour-with-Flowers-in-the-Summer-1047x698.png",
+      "page_url": "https://www.tourismvictoria.com/things-to-do",
+      "credit": "Tourism Victoria",
+      "alt": "Victoria's Inner Harbour with summer flowers",
+      "src": "img/d7568695fc2b17cb.webp"
+    },
+    "gallery": [
+      {
+        "url": "https://butchartgardens.com/wp-content/uploads/2026/10/Japanese-Garden-2026-10-27T130638.939-2560x1920.jpg",
+        "page_url": "https://www.butchartgardens.com/",
+        "credit": "The Butchart Gardens",
+        "alt": "Japanese Garden at Butchart Gardens",
+        "src": "img/aec8195b8852dea5.jpg"
+      },
+      {
+        "url": "https://www.tourismcowichan.com/wp-content/uploads/2023/12/6X3A3980-scaled.jpg",
+        "page_url": "https://tourismcowichan.com/?p=1711",
+        "credit": "Tourism Cowichan",
+        "alt": "Raptor at The Raptors, Duncan",
+        "src": "img/4bcfa72143725ab7.jpg"
+      },
+      {
+        "url": "https://bearmountain.ca/wp-content/uploads/2023/10/Golf-KEVL.jpg",
+        "page_url": "https://bearmountain.ca/recreation/golf/rates-specials/",
+        "credit": "Bear Mountain",
+        "alt": "Bear Mountain golf",
+        "src": "img/5fc7d0fc38459813.jpg"
+      },
+      {
+        "url": "https://butterflygardens.com/cdn/shop/files/plants_hero2.jpg",
+        "page_url": "https://www.butterflygardens.com/",
+        "credit": "Victoria Butterfly Gardens",
+        "alt": "Tropical plants at the Butterfly Gardens",
+        "src": "img/e7a6f2792d15ea44.jpg"
+      },
+      {
+        "url": "https://www.victoriaregent.com/wp-content/uploads/2023/06/booking-engine-hero-image.jpg",
+        "page_url": "https://www.victoriaregent.com/accommodations/",
+        "credit": "Victoria Regent",
+        "alt": "Victoria Regent harbour view",
+        "src": "img/e00ee516eaa53266.jpg"
+      },
+      {
+        "url": "https://admin.tourismvictoria.com/content/uploads/2023/10/fw30_3cbd2ef6-5056-a36a-0a3d31fda645a2e7.jpg",
+        "page_url": "https://www.tourismvictoria.com/things-to-do/attractions/fishermans-wharf",
+        "credit": "Tourism Victoria",
+        "alt": "Fisherman's Wharf, Victoria",
+        "src": "img/bc708545414f2217.jpg"
+      },
+      {
+        "url": "https://admin.tourismvictoria.com/content/uploads/2023/10/Victoria-Harbour-Ferry-2-014705f75056a36_0147074e-5056-a36a-0abcc9ac7c1f6e7a.jpg",
+        "page_url": "https://www.tourismvictoria.com/things-to-do/attractions/victoria-harbour-ferry-company-ltd",
+        "credit": "Tourism Victoria",
+        "alt": "Victoria Harbour Ferry",
+        "src": "img/340e6a247139fabf.jpg"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Victoria Regent accommodations",
+      "url": "https://www.victoriaregent.com/accommodations/",
+      "section": "lodging"
+    },
+    {
+      "title": "Victoria Regent Executive Suite 307",
+      "url": "https://www.victoriaregent.com/accommodations/executive-suite/executive-suite-307/",
+      "section": "lodging"
+    },
+    {
+      "title": "Victoria Regent Penthouse Suite 800",
+      "url": "https://www.victoriaregent.com/accommodations/penthouse-suite/penthouse-suite-800/",
+      "section": "lodging"
+    },
+    {
+      "title": "Victoria Regent Two Bedroom Suite",
+      "url": "https://www.victoriaregent.com/accommodations/two-bedroom-suite",
+      "section": "lodging"
+    },
+    {
+      "title": "Kayak: Victoria Regent prices",
+      "url": "https://www.kayak.com/Victoria-Hotels-Victoria-Regent-Waterfront-Hotel-Suites.5607.ksp",
+      "section": "lodging"
+    },
+    {
+      "title": "Parkside Hotel & Spa",
+      "url": "https://www.parksidevictoria.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Parkside Two Bedroom Premier Suite",
+      "url": "https://www.parksidevictoria.com/accommodations/two-bedroom-premier-suite",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo: Parkside Hotel & Spa",
+      "url": "https://vrbo.com/en-ca/pdp/lo/2774661",
+      "section": "lodging"
+    },
+    {
+      "title": "Chateau Victoria Two Bedroom Suites",
+      "url": "https://chateauvictoria.com/?p=494",
+      "section": "lodging"
+    },
+    {
+      "title": "Kayak: Chateau Victoria prices",
+      "url": "https://www.kayak.com/Victoria-Hotels-Chateau-Victoria-Hotel-and-Suites.17434.ksp",
+      "section": "lodging"
+    },
+    {
+      "title": "Priceline: Chateau Victoria 2BR suite",
+      "url": "https://www.priceline.com/hotel-deals/en-us/P3000031000/H4779805/chateau-victoria-hotel-suites.ssp",
+      "section": "lodging"
+    },
+    {
+      "title": "Royal Scot suites",
+      "url": "https://www.royalscot.com/rooms.php",
+      "section": "lodging"
+    },
+    {
+      "title": "Royal Scot home and amenities",
+      "url": "https://www.royalscot.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "Tourism Victoria: Royal Scot",
+      "url": "https://tourismvictoria.com/accommodations/hotels-bbs/dmf-property/royal-scot-hotel-and-suites",
+      "section": "lodging"
+    },
+    {
+      "title": "Swans Hotel rooms",
+      "url": "https://swanshotel.com/rooms/",
+      "section": "lodging"
+    },
+    {
+      "title": "James Bay Inn home (no elevator, parking, on-site cafe and pub)",
+      "url": "https://www.jamesbayinn.com/",
+      "section": "lodging"
+    },
+    {
+      "title": "James Bay Inn rooms, suites and Private Cottage",
+      "url": "https://www.jamesbayinn.com/rooms",
+      "section": "lodging"
+    },
+    {
+      "title": "James Bay Inn Cloudbeds booking engine",
+      "url": "https://hotels.cloudbeds.com/en/reservation/cPzNTj?currency=cad",
+      "section": "lodging"
+    },
+    {
+      "title": "Suiteness: DoubleTree Victoria 2 King 2 Bedroom Suite",
+      "url": "https://assets-www.suiteness.com/suites/canada/british-columbia/victoria/doubletree-by-hilton-hotel-suites-victoria/2-king-2-bedroom-suite-water-mountain-views",
+      "section": "lodging"
+    },
+    {
+      "title": "Oyster: DoubleTree by Hilton Hotel & Suites Victoria",
+      "url": "https://oyster.com/vancouver-island/hotels/doubletree-by-hilton-hotel-and-suites-victoria",
+      "section": "lodging"
+    },
+    {
+      "title": "BC principal residence requirement",
+      "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/short-term-rentals/principal-residence-requirement",
+      "section": "lodging"
+    },
+    {
+      "title": "Castanet: end of non-conforming short-term rentals",
+      "url": "https://www.castanet.net/edition/news-story-461457-3-.htm",
+      "section": "lodging"
+    },
+    {
+      "title": "Ocean River Sports: Trial Island sea lion tour",
+      "url": "https://shop.oceanriver.com/pages/trial-island-sea-lion-tour",
+      "section": "animals"
+    },
+    {
+      "title": "Ocean River Sports tours and rentals",
+      "url": "https://shop.oceanriver.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Adventure Collective: Alpine Stables rides, Cobble Hill",
+      "url": "https://app.advcollective.com/local-experts/spectacular-summit-ride",
+      "section": "animals"
+    },
+    {
+      "title": "Victoria Bug Zoo",
+      "url": "https://victoriabugzoo.ca/",
+      "section": "animals"
+    },
+    {
+      "title": "The Raptors, Duncan",
+      "url": "https://www.the-raptors.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Tourism Cowichan: Pacific Northwest Raptors",
+      "url": "https://tourismcowichan.com/?p=1711",
+      "section": "animals"
+    },
+    {
+      "title": "Victoria Buzz: Beacon Hill Children's Farm reopens",
+      "url": "https://victoriabuzz.com/?p=141109",
+      "section": "animals"
+    },
+    {
+      "title": "Victoria Buzz: Children's Farm 2024 season",
+      "url": "https://victoriabuzz.com/2024/03/victorias-beloved-beacon-hill-childrens-farm-reopens-for-the-season/",
+      "section": "animals"
+    },
+    {
+      "title": "Prince of Whales Victoria",
+      "url": "https://www.princeofwhales.com/victoria/",
+      "section": "activities"
+    },
+    {
+      "title": "Victoria Butterfly Gardens",
+      "url": "https://www.butterflygardens.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Shaw Centre for the Salish Sea",
+      "url": "https://www.salishseacentre.org/",
+      "section": "animals"
+    },
+    {
+      "title": "Shaw Centre for the Salish Sea: admission and hours",
+      "url": "https://www.salishseacentre.org/admission-hours",
+      "section": "animals"
+    },
+    {
+      "title": "Bear Mountain golf rates",
+      "url": "https://bearmountain.ca/recreation/golf/rates-specials/",
+      "section": "golf"
+    },
+    {
+      "title": "GolfBC: Olympic View rates",
+      "url": "https://www.golfbc.com/courses/olympic_view/golf_course/rates",
+      "section": "golf"
+    },
+    {
+      "title": "Greater Victoria Chamber: Olympic View",
+      "url": "https://web.victoriachamber.ca/2018/Golf-Courses-Golf-Supplies/Olympic-View-Golf-Club-342",
+      "section": "golf"
+    },
+    {
+      "title": "Tourism Victoria things to do",
+      "url": "https://www.tourismvictoria.com/things-to-do",
+      "section": "activities"
+    },
+    {
+      "title": "Tourism Victoria: Quest Reality Games",
+      "url": "https://www.tourismvictoria.com/things-to-do/nightlife-entertainment/escape-rooms/quest-reality-games",
+      "section": "activities"
+    },
+    {
+      "title": "Butchart Gardens",
+      "url": "https://www.butchartgardens.com/",
+      "section": "activities"
+    },
+    {
+      "title": "PlanetWare: top-rated things to do in Victoria",
+      "url": "https://planetware.com/tourist-attractions-/victoria-cdn-bc-bcvc.htm",
+      "section": "activities"
+    },
+    {
+      "title": "Princess: best restaurants in Victoria",
+      "url": "https://www.princess.com/blog/best-restaurants-in-victoria-bc",
+      "section": "restaurants"
+    },
+    {
+      "title": "Daily Hive: essential Victoria restaurants",
+      "url": "https://dailyhive.com/victoria/best-restaurants-victoria-2",
+      "section": "restaurants"
+    },
+    {
+      "title": "Il Terrazzo",
+      "url": "https://www.ilterrazzo.com/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Jam Cafe",
+      "url": "https://jamcafes.com/",
+      "section": "restaurants"
+    },
+    {
+      "title": "OpenTable: Q at the Empress",
+      "url": "https://www.opentable.co.th/r/q-at-the-empress-the-fairmont-empress-hotel-victoria",
+      "section": "restaurants"
+    },
+    {
+      "title": "Current Results: BC July temperatures",
+      "url": "https://currentresults.com/Weather/Canada/British-Columbia/temperature-july.php",
+      "section": "weather"
+    },
+    {
+      "title": "Extreme Weather Watch: Victoria monthly temperatures",
+      "url": "https://www.extremeweatherwatch.com/cities/victoria/average-temperature-by-month",
+      "section": "weather"
+    },
+    {
+      "title": "Alaska Airlines: SFO to Victoria",
+      "url": "https://www.alaskaair.com/en/flights-from-san-francisco-to-victoria",
+      "section": "logistics"
+    },
+    {
+      "title": "Air Canada: Denver to Victoria",
+      "url": "https://www.aircanada.com/en-ca/flights-from-denver-to-victoria",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 75,
+    "low_f": 54
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "https://www.princeofwhales.com/victoria/": {
+      "url": "https://princeofwhales.com/wp-content/uploads/2023/01/vic-gallery-2.jpg",
+      "src": "img/2375f9dec112cad5.jpg"
+    },
+    "https://www.tourismvictoria.com/things-to-do/nightlife-entertainment/escape-rooms/quest-reality-games": {
+      "url": "https://admin.tourismvictoria.com/content/uploads/2023/12/Victoria-Inner-Harbour-marina-with-the-Parliament-Buildings-in-the-background.jpg",
+      "src": "img/af1ba6fda0558d46.jpg"
+    },
+    "https://www.tourismvictoria.com/things-to-do": {
+      "url": "https://admin.tourismvictoria.com/content/uploads/2019/03/Fan-Tan-Alley-Explorers-4-scaled.jpg",
+      "src": "img/2451c5dbe7c0ba37.jpg"
+    },
+    "https://app.advcollective.com/local-experts/spectacular-summit-ride": {
+      "url": "https://cdn.filestackcontent.com/IkP0SpsfRPSkzvhm3FSt",
+      "src": "img/c34cae934da48c59.jpg"
+    },
+    "https://swanshotel.com/rooms/": {
+      "url": "https://swanshotel.com/app/uploads/2019/04/3-Penthouse.jpg",
+      "src": "img/ce05f0d249b13e0c.jpg"
+    },
+    "https://www.princess.com/blog/best-restaurants-in-victoria-bc": {
+      "url": "https://assets.princess.com/is/image/princesscruises/victoria-crab%3AHero-XL?ts=1789660753496",
+      "src": "img/977ce8d32f0b9541.webp"
+    },
+    "https://dailyhive.com/victoria/best-restaurants-victoria-2": {
+      "url": "https://images-dh-production-baselayer.dailyhive.com/uploads/2024/07/MixCollage-15-Jul-2024-01-18-PM-6918.jpg?format=auto",
+      "src": "img/5c58ced544188dc9.jpg"
+    },
+    "https://www.ilterrazzo.com/": {
+      "url": "https://ilterrazzo.com/wp-content/uploads/il-terrazzo-dinning-room-1024x683.jpg",
+      "src": "img/af5750503a3146db.jpg"
+    }
+  }
+}

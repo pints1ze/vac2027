@@ -1,0 +1,1544 @@
+{
+  "slug": "coeur-d-alene",
+  "name": "Coeur d'Alene, ID",
+  "region": "US mountain",
+  "type": "land",
+  "researched_on": "2026-11-15",
+  "researched_for": {
+    "check_in": "2027-07-04",
+    "check_out": "2027-07-10"
+  },
+  "summary": "A good town pick with bookable lodging. The lodging score now rests on both sides of a Sanders Beach duplex by Tubbs Hill (sharing only a driveway, main-floor king on each side), verified at US$1,450.33/night; Casago's historic 4BR across from McEuen Park plus a 1BR cottage, the better layout, is out because the cottage is booked for the trip nights while later July dates price (2026-11-15). Also bookable: a Fort Grounds 5BR by City Beach with Scott & Andrea in a resort Lake Tower room, verified at US$2,198.67/night; the Sherman Suite house and the historic guest house plus cottage are closed for the dates and sit in the backups. Animals are better than first thought: tiger feeding at Cat Tales (45 min) and sloth or capybara feeding at Big Red's Barn (15 min), both Thu-Sun only. Golf is good (the floating green, and Circling Raven 40 min away), and the NOAA July normal high is 83 F, 8 F over the target.",
+  "images": {
+    "hero": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lake_Coeur_d%27Alene_from_Tubbs_Hill_at_Sunset.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Lake_Coeur_d'Alene_from_Tubbs_Hill_at_Sunset.jpg",
+      "credit": "Natecation, Wikimedia Commons (CC BY-SA 4.0)",
+      "alt": "Lake Coeur d'Alene from Tubbs Hill at sunset",
+      "src": "img/473f47d208c35b61.jpg"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Aerial_view_of_Coeur_d%27Alene%2C_Idaho.jpg",
+        "page_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Coeur_d'Alene,_Idaho.jpg",
+        "credit": "Jsayre64, Wikimedia Commons (CC BY-SA 4.0)",
+        "alt": "Aerial view of Coeur d'Alene and the lake",
+        "src": "img/2a783370104f1bfd.jpg"
+      },
+      {
+        "url": "https://www.cattales.org/wp-content/uploads/sites/499/2022/10/BC-Oscar-Hand-Feed-e1666064705419-171x300.jpg",
+        "page_url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+        "credit": "Cat Tales Wildlife Center",
+        "alt": "Hand-feeding Oscar the black bear at Cat Tales",
+        "src": "img/275b2b77349de8a3.jpg"
+      },
+      {
+        "url": "https://bigredsbarn.com/wp-content/uploads/2022/09/5.jpg",
+        "page_url": "https://bigredsbarn.com/product/sloth-private-encounter-50-person/",
+        "credit": "Big Red's Barn",
+        "alt": "Sloth private encounter at Big Red's Barn",
+        "src": "img/f2b2a45c5cff585b.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/City_Park_and_Beach%2C_Coeur_d%27Alene%2C_Idaho_%2850082775548%29.jpg",
+        "page_url": "https://commons.wikimedia.org/wiki/File:City_Park_and_Beach,_Coeur_d'Alene,_Idaho_(50082775548).jpg",
+        "credit": "Ken Lund, Wikimedia Commons (CC BY-SA 2.0)",
+        "alt": "City Park and Beach, Coeur d'Alene",
+        "src": "img/0ad45c72b5c5f25a.jpg"
+      },
+      {
+        "url": "https://morning-read.brightspotcdn.com/dims4/default/60a94f6/2147483647/strip/true/crop/1685x1123+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fmorning-read-brightspot.s3.us-east-1.amazonaws.com%2Fe4%2F6e%2F9a4ab9b7402b95c7a8969116f138%2Fcircling-raven-golf-club-8-lores-1.jpg",
+        "page_url": "https://www.firstcallgolf.com/industry-news/release/2026-03-31/circling-raven-golf-club-set-to-open-april-3-coeur-dalene-casino-amenity-unveils-new-programs-enhancements",
+        "credit": "Russell Kirk / Golflinksphotography via First Call",
+        "alt": "Circling Raven Golf Club, hole 8",
+        "src": "img/d2be564c229d2fec.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/2008-1018-021-CoeurdAleneResort.JPG",
+        "page_url": "https://commons.wikimedia.org/wiki/File:2008-1018-021-CoeurdAleneResort.JPG",
+        "credit": "Bobak Ha'Eri, Wikimedia Commons (CC BY 3.0)",
+        "alt": "The Coeur d'Alene Resort on the lake",
+        "src": "img/88b0bd895af69420.jpg"
+      },
+      {
+        "url": "https://b855490.assetcdn.net/2.0/855490/wp-content/uploads/2022/01/CdA_Resort_Aerial_Afternoon-0059.jpg?lossy=2&strip=1&avif=1",
+        "page_url": "https://coeurdalene.org/places/idaho/coeur-dalene/lodging/the-coeur-dalene-resort/",
+        "credit": "Visit Coeur d'Alene",
+        "alt": "Aerial view of The Coeur d'Alene Resort on the lake",
+        "src": "img/1189b9eb09e8f9eb.jpg"
+      }
+    ]
+  },
+  "brochure": {
+    "tagline": "Lake cruises, a floating golf green and big-cat feeding at Cat Tales",
+    "intro": "Coeur d'Alene is a flat lakefront town where Sherman Avenue runs from the resort to the park. Days mix boat rides, beach time and golf, with trips out to feed a tiger or bear at Cat Tales and meet a sloth at Big Red's Barn. Evenings are for pizza downtown or a view dinner at the resort.",
+    "highlights": [
+      "Scenic and dinner cruises leave from the resort dock",
+      "Play the world's only floating golf green",
+      "Feed a tiger or bear at Cat Tales, a sloth at Big Red's",
+      "Sherman Avenue shops and restaurants on flat sidewalks",
+      "Lake views from Tubbs Hill, a short downtown hike",
+      "Roller coasters and a water park 25 minutes away"
+    ],
+    "pros": [
+      "Flat, walkable lakefront downtown",
+      "Spokane airport is about 40 minutes away",
+      "Golf at the resort and at Circling Raven",
+      "Lots of restaurants, from burgers to a wine-cellar dinner",
+      "Light July rain"
+    ],
+    "cons": [
+      "July highs average about 83 F",
+      "Cat Tales, Circling Raven and Silverwood need a car",
+      "Cat Tales and Big Red's Barn are open Thursday to Sunday only",
+      "July 4 arrival means holiday crowds"
+    ],
+    "stays": [
+      {
+        "name": "Sanders Beach duplex, both sides (Vrbo 2183982 + Vrbo 2183980)",
+        "title": "Sanders Beach duplex by Tubbs Hill",
+        "blurb": "Two four-bedroom homes side by side on Sanders Beach, a minute from the Tubbs Hill trails. McEuen Park and the lake are about 4 minutes on foot.",
+        "highlights": [
+          "Tubbs Hill 1 minute, McEuen Park 4 minutes on foot",
+          "Decks, gardens and grills",
+          "Main-floor king bedroom in each home",
+          "Basement family room and full kitchens"
+        ]
+      },
+      {
+        "name": "Fort Grounds 5BR house by City Beach (Vrbo 2182322) + Coeur d'Alene Resort Lake Tower room",
+        "title": "Fort Grounds house by City Beach, plus a resort lake-view room",
+        "blurb": "A five-bedroom house with a backyard, about 6 minutes on foot from the lake. A fireplace room at the lakefront resort sits at the foot of Sherman Avenue.",
+        "highlights": [
+          "Backyard and deck",
+          "Dining table, couch area and foosball",
+          "Main-floor bedroom and bath",
+          "Lake-view resort room with balcony"
+        ]
+      },
+      {
+        "name": "The Coeur d'Alene Resort: three Lake Tower rooms",
+        "title": "The Coeur d'Alene Resort, Lake Tower",
+        "blurb": "A full-service resort right on the lake at the foot of Sherman Avenue. Restaurants, the marina and the spa are all on site.",
+        "highlights": [
+          "Lake-view rooms with balconies",
+          "Boat shuttle to the floating-green course",
+          "Spa with indoor pool",
+          "Restaurants on site"
+        ]
+      }
+    ],
+    "things_to_do": [
+      {
+        "name": "Cat Tales: feed a tiger",
+        "kind": "animals",
+        "blurb": "Feed one of the tigers at close range, ages 8 and up, about 45 minutes away. Open Thursday to Sunday.",
+        "url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+        "image": {
+          "url": "https://www.cattales.org/wp-content/uploads/sites/499/2022/10/Koshka-Hand-Feed-e1666065472465-171x300.jpg",
+          "page_url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+          "credit": "Cat Tales Wildlife Center",
+          "alt": "Feeding Koshka the Siberian tiger",
+          "src": "img/e5f9851ab0770b89.jpg"
+        }
+      },
+      {
+        "name": "Big Red's Barn: sloth or capybara encounter",
+        "kind": "animals",
+        "blurb": "A private session to pet and feed a sloth (ages 10 and up) or a capybara (ages 8 and up), indoors and 15 minutes away. Book ahead; open Thursday to Sunday.",
+        "url": "https://bigredsbarn.com/product/sloth-private-encounter-50-person/",
+        "image": {
+          "url": "https://bigredsbarn.com/wp-content/uploads/2022/09/5.jpg",
+          "page_url": "https://bigredsbarn.com/product/sloth-private-encounter-50-person/",
+          "credit": "Big Red's Barn",
+          "alt": "Sloth private encounter at Big Red's Barn",
+          "src": "img/f2b2a45c5cff585b.jpg"
+        }
+      },
+      {
+        "name": "Cat Tales: feed a black bear",
+        "kind": "animals",
+        "blurb": "Hand-feed fruit to Oscar the bear with a keeper beside you, ages 5 and up; open Thursday to Sunday.",
+        "url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+        "image": {
+          "url": "https://www.cattales.org/wp-content/uploads/sites/499/2022/10/BC-Oscar-Hand-Feed-e1666064705419-171x300.jpg",
+          "page_url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+          "credit": "Cat Tales Wildlife Center",
+          "alt": "Hand-feeding Oscar the black bear at Cat Tales",
+          "src": "img/275b2b77349de8a3.jpg"
+        }
+      },
+      {
+        "name": "The floating-green golf course",
+        "kind": "golf",
+        "blurb": "A water taxi takes you to the resort course, where the 14th green floats on the lake.",
+        "url": "https://www.cdaresort.com/golf/",
+        "image": {
+          "url": "https://b855490.assetcdn.net/2.0/855490/wp-content/uploads/2022/01/CdA_Resort_Aerial_Afternoon-0059.jpg?lossy=2&strip=1&avif=1",
+          "page_url": "https://coeurdalene.org/places/idaho/coeur-dalene/lodging/the-coeur-dalene-resort/",
+          "credit": "Visit Coeur d'Alene",
+          "alt": "Aerial view of The Coeur d'Alene Resort on the lake",
+          "src": "img/1189b9eb09e8f9eb.jpg"
+        }
+      },
+      {
+        "name": "Lake Coeur d'Alene cruises",
+        "kind": "outdoors",
+        "blurb": "Daily scenic cruises plus brunch and dinner cruises, with Fourth of July cruises listed.",
+        "url": "http://www.cdacruises.com",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lake_Coeur_d%27Alene_from_Tubbs_Hill_at_Sunset.jpg",
+          "page_url": "https://commons.wikimedia.org/wiki/File:Lake_Coeur_d'Alene_from_Tubbs_Hill_at_Sunset.jpg",
+          "credit": "Natecation, Wikimedia Commons (CC BY-SA 4.0)",
+          "alt": "Lake Coeur d'Alene from Tubbs Hill at sunset",
+          "src": "img/473f47d208c35b61.jpg"
+        }
+      },
+      {
+        "name": "Tubbs Hill walk",
+        "kind": "outdoors",
+        "blurb": "A short, scenic hike in downtown with views over the lake; the parents can skip it and sit at the park.",
+        "url": "https://coeurdalene.org/places/idaho/coeur-dalene/outdoor-activities/take-a-hike/",
+        "image": {
+          "url": "https://b855490.assetcdn.net/2.0/855490/wp-content/uploads/2019/05/11806_Tubbs.jpg?lossy=2&strip=1&avif=1",
+          "page_url": "https://coeurdalene.org/places/idaho/coeur-dalene/outdoor-activities/take-a-hike/",
+          "credit": "Visit Coeur d'Alene",
+          "alt": "Tubbs Hill above Lake Coeur d'Alene",
+          "src": "img/83dd89f2c0edca9b.jpg"
+        }
+      },
+      {
+        "name": "Coeur d'Alene Carousel",
+        "kind": "town",
+        "blurb": "A hand-carved 1922 carousel that runs daily in summer while school is out.",
+        "url": "https://coeurdalene.org/places/idaho/coeur-dalene/attractions/coeur-dalene-carousel/"
+      },
+      {
+        "name": "The Spa at The Coeur d'Alene Resort",
+        "kind": "spa",
+        "blurb": "Open daily, with an indoor pool, jacuzzi, infrared sauna and a lakeside meditation room.",
+        "url": "https://www.cdaresort.com/spa/",
+        "image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/2008-1018-021-CoeurdAleneResort.JPG",
+          "page_url": "https://commons.wikimedia.org/wiki/File:2008-1018-021-CoeurdAleneResort.JPG",
+          "credit": "Bobak Ha'Eri, Wikimedia Commons (CC BY 3.0)",
+          "alt": "The Coeur d'Alene Resort on the lake",
+          "src": "img/88b0bd895af69420.jpg"
+        }
+      },
+      {
+        "name": "Thrw Pottery Studio",
+        "kind": "rainy day",
+        "blurb": "Drop in to hand-build or reserve a wheel session with a beginner demo, about 8 minutes by car.",
+        "url": "https://www.thrwpottery.com/",
+        "image": {
+          "url": "https://images.squarespace-cdn.com/content/v1/6738ce956fcfcc2ccf76593d/12bf310d-04bf-43b7-a035-e98f143a8799/IMG_3512+2.JPG",
+          "page_url": "https://www.thrwpottery.com/",
+          "credit": "Thrw Pottery",
+          "alt": "Thrw Pottery studio",
+          "src": "img/3dc392a7d709450f.jpg"
+        }
+      },
+      {
+        "name": "Silverwood Theme Park and Boulder Beach Water Park",
+        "kind": "outdoors",
+        "blurb": "Roller coasters and a water park in Athol, about 25 minutes north.",
+        "url": "https://www.silverwoodthemepark.com/"
+      }
+    ],
+    "dinner_spots": [
+      "Beverly's: lake-view dinner and a big wine cellar on the 7th floor",
+      "Tito's Italian Grill: brick-oven pizza on Sherman Avenue",
+      "Dockside Restaurant: salad bar and desserts at the resort",
+      "Honey Eatery: brunch daily on Sherman Avenue"
+    ]
+  },
+  "hard_constraints": {
+    "airport": true,
+    "seniors": true,
+    "notes": "Airport: Spokane International (GEG) is about 40 min (roughly 35 miles on I-90, map estimate) from downtown Coeur d'Alene, inside the 90-min check. GEG carriers include United, Southwest, Alaska, Delta, American and Allegiant (airport site); DEN nonstops (United, Southwest) come from the earlier pass and were not re-verified, and Bay Area nonstops were not confirmed this pass. Seniors: downtown Coeur d'Alene is a flat lakefront grid (Sherman Ave, McEuen Park, City Park). The lodging score now rests on the Sanders Beach duplex: the parents have the main-floor king on the Vrbo 2183982 side, near Tubbs Hill and about 4 min on foot from McEuen Park; the lower bedrooms are down stairs, and the floors of the full baths and entry steps are not stated on the listing. The Casago Historic 4BR (main-floor king with en-suite) and the Sherman Suite (downstairs queen and bath) are sold out and sit in the backups. Tubbs Hill, Cat Tales and the golf outings are optional."
+  },
+  "scores": {
+    "lodging": 15,
+    "town_scenery": 16,
+    "animals": 13,
+    "food": 14,
+    "other": 8,
+    "golf": 8,
+    "weather": 1,
+    "total": 75,
+    "rationale": {
+      "lodging": "15/25: rests on the Sanders Beach duplex, both sides (Vrbo 2183982 + 2183980), verified at US$1,450.33/night (fees included, well inside the cap), with a whole side for Scott & Andrea and a main-floor king for the parents, but stairs to the lower bedrooms, no stated dining seat count and a 10-min walk to Sherman Ave, below the Casago Historic 4BR + Cottage it replaced (that cottage is booked for the trip nights as of 2026-11-15).",
+      "town_scenery": "16/18: flat, walkable lakefront downtown with Sherman Avenue, McEuen Park, City Beach and Tubbs Hill all within about 10 min on foot of the recommended lodging; lake views are a short walk rather than from the house.",
+      "animals": "13/18: the top two are both exotic-animal feeding within 60 min, Cat Tales tiger feeding (8+, 45 min) and a Big Red's Barn sloth or capybara feed-and-pet session (8-10+, 15 min), with Cat Tales bear hand-feeding third; nothing lets the party do an activity with animals, both venues open Thu-Sun only, and the tiger feeding method is not described.",
+      "food": "14/15: well over 10 restaurants on Sherman Avenue and at the resort within about 5-10 min on foot, including Beverly's (7th floor of the resort, 14,000-bottle wine cellar) as the special dinner.",
+      "other": "8/10: Silverwood theme park, zip lines, lake cruises (including Fourth of July cruises), the resort spa and a pottery studio cover teens, crafts and spa; no escape room was found, and GEG is 40 min away but flight routes were not re-verified this pass.",
+      "golf": "8/9: the Coeur d'Alene Resort course with its floating 14th green, boat shuttle and forecaddies, plus Circling Raven (No. 1 public course in Idaho) about 40 min away; green fees are unpublished and non-guest access to the resort course is not stated.",
+      "weather": "1/5: Coeur d'Alene July normal high is 83 F (NOAA 1991-2020 via Current Results), 8 F over the 75 F target, so 20% of the weight; rain is light (0.7 in, 4 wet days)."
+    }
+  },
+  "lodging": [
+    {
+      "name": "Casago: Walk Downtown 3BR + Loft w/ Hot Tub + Walk Downtown 1BR King Cottage",
+      "kind": "3BR house with hot tub + separate 1BR cottage (two bookings, same manager)",
+      "quick_verdict": "Three-king house with a private hot tub plus a separate cottage; stairs unstated and July not open yet.",
+      "configuration": "(1) Walk Downtown CDA 3BR + Loft w/ Hot Tub & 6 Bikes (Casago 1005836, permit 61604): three king bedrooms plus a loft with two twin-over-twin bunks (sleeps 4), 2.5 baths (sections conflict between 2 and 2 + half), sleeps 10. Open living/dining with electric fireplace; dining seat count not stated. Private backyard and patio with seating, gas grill, private hot tub; 4 adult and 2 kids' bikes. Which floor each bedroom is on, and whether there is a main-floor bedroom, is not stated (the loft implies stairs). About 1/4 mile to Sherman Ave and 1/2 mile to the resort and lakefront. A guest review calls it 'Gem House'; the AI summary says 4BR. (2) Same 1BR King Cottage as option 1 (Casago 1005831): single-level, private entrance, no shared walls. Distance between the two not stated. Renters 21+; minimum stay not stated. Same July 2027 calendar problem as option 1.",
+      "family_split": {
+        "scott_andrea": "1BR King Cottage (whole single-level cottage, own entrance)",
+        "parents": "3BR house, one king bedroom (floor not stated)",
+        "brother_family": "3BR house, second king bedroom plus bunk loft for the teens; hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate single-level cottage with own bedroom, bath, kitchen and private entrance (Casago listing 1005831)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 8,
+        "parents": 4,
+        "location": 8,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 6,
+      "food_convenience": "About 1/4 mile to Sherman Ave per the listing.",
+      "price": {
+        "nightly_total_usd_low": 1000,
+        "nightly_total_usd_high": 1800,
+        "label": "estimate",
+        "basis": "Sold out (the cottage), 2026-11-15: the 1BR King Cottage (1005831) is unavailable for 2027-07-04/10, 2027-07-03/10 and 2027-07-05/07 while it priced controls on 2026-12-15/17 and 2027-07-25/27, so the trip nights are booked; the 3BR + Loft (1005836, 6 adults) also returned 'This unit is unavailable for the dates selected' for 2027-07-04/10 (no control run on it this pass). Old estimate kept, not a quote: Casago average rates US$656 (3BR + loft) + US$157 (cottage) = US$813/night, assumed 1.2-2.2x for early July.",
+        "source_url": "https://casago.com/rentals/1005836/?checkIn=2027-07-04&checkOut=2027-07-10&adults=6",
+        "fees_notes": "No trip-date quote. Casago control quotes add a fixed fee per stay and show totals 'excl. taxes'; tax amounts not shown.",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Private hot tub and backyard",
+        "Three king bedrooms plus a bunk loft",
+        "Bikes included",
+        "Scott & Andrea in their own cottage"
+      ],
+      "compromises": [
+        "July 2027 not yet open to book",
+        "Bedroom floors not stated; stairs likely",
+        "Two bookings; distance apart not stated",
+        "Bath count inconsistent in the listing"
+      ],
+      "best_for": "Choose this if a hot tub night spot matters and the parents can manage some stairs.",
+      "links": [
+        "https://casago.com/rentals/1005836/",
+        "https://casago.com/rentals/1005831/"
+      ],
+      "images": [
+        {
+          "url": "https://images.casago.com/unit-images/pal/1005836/6a1f76c93af1330013f371ef.jpg",
+          "page_url": "https://casago.com/rentals/1005836/",
+          "credit": "Casago",
+          "alt": "Walk Downtown 3BR + loft house with hot tub",
+          "src": "img/c856a6ffe78c5672.jpg"
+        }
+      ]
+    },
+    {
+      "name": "One Lakeside: Three-Bedroom Lake View Suite + One-Bedroom Lake View Suite",
+      "kind": "boutique suite hotel: 3BR suite + 1BR suite",
+      "quick_verdict": "Two full-kitchen suites in a downtown suite hotel a block from City Park; the 3BR is sold by phone only.",
+      "configuration": "One Lakeside, 201 N. First Street, downtown Coeur d'Alene (hotel site). Three-Bedroom Lake View Suite: 3 bedrooms, 3 baths, sleeps 8; two king beds, two twins (can be pushed into a king) and a sleeper sofa; primary bath with walk-in shower and separate tub; full kitchen; private balcony with lake, mountain and city views. A separate living room is not described and the dining seat count is not stated; square footage not stated. One-Bedroom Lake View Suite: king bed, queen sleeper sofa, 1 bath, full kitchen, living room, west-facing balcony with partial views of the lake and City Park. The building has a rooftop gathering place and a 4th-floor outdoor terrace. Elevator, pool/hot tub and minimum stay are not stated on the hotel pages; the booking engine lists self-parking at US$15/night and a US$30/day resort fee. City Park and Sherman Avenue restaurants are a short walk (distances not stated on the site).",
+      "family_split": {
+        "scott_andrea": "One-Bedroom Lake View Suite (own suite and door)",
+        "parents": "Three-Bedroom Lake View Suite, king bedroom with primary bath",
+        "brother_family": "Three-Bedroom Lake View Suite, second king and twin room; suite hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate hotel suite with its own bedroom, bath, kitchen and door (One Lakeside accommodations page)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 5,
+        "parents": 6,
+        "location": 10,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": 3,
+      "food_convenience": "Downtown First Street location; Sherman Avenue restaurants a block or two (map estimate).",
+      "price": {
+        "nightly_total_usd_low": null,
+        "nightly_total_usd_high": null,
+        "label": "estimate",
+        "basis": "Only the 1BR is quoted; the 3BR is not sold online. One-Bedroom Lake View, Best Flexible Rate (only plan shown), US$424/night x 6 = US$2,544 before tax (rechecked 2026-11-15, unchanged; Mountain View Queen US$399 and King US$409 also offered). Three-Bedroom Lake View Suite: not sold online. The SynXis engine lists only one-bedroom suites (sleeps 4 max) for the trip dates and for a 2026-12-14/16 control, and returns 'No rooms are available to accommodate 6 guests' for both; ask One Lakeside (208-775-7277). Sum for the split: unknown (US$424/night covers the 1BR only).",
+        "source_url": "https://be.synxis.com/?Chain=8517&Hotel=30460&arrive=2027-07-04&depart=2027-07-10&adult=2&child=0&rooms=1",
+        "fees_notes": "1BR: State Sales Tax US$152.64 + State Lodging Tax US$50.88; total US$2,747.52. The rate shows as 'including all fees (before taxes)'. The rate text also lists a US$30/day enhanced resort fee (4th-floor terrace, wifi) and self-parking at US$15/night. Deposit is the first night plus tax; cancel 7 days ahead.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "One-Bedroom Lake View, Best Flexible Rate, US$424/night (2 adults)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 424,
+        "local_stay_total_with_tax": 2747.52,
+        "source_kind": "property",
+        "availability": "not_sold_online",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Best downtown location of the options",
+        "Full kitchens in both suites",
+        "Rooftop gathering space and terrace",
+        "3BR suite has three bathrooms"
+      ],
+      "compromises": [
+        "3BR suite sold by phone only (1BR $424/night)",
+        "Elevator not stated on the site",
+        "Suite gathering area seat count unknown",
+        "Hotel, so no yard or fire pit"
+      ],
+      "best_for": "Choose this if walking everywhere downtown matters most and a suite living area is enough.",
+      "links": [
+        "https://be.synxis.com/landing?chain=8517&hotel=30460",
+        "https://www.onelakeside.com/accommodations",
+        "https://one-lakeside.squarespace.com/hotel"
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5b2aa8c036099b9b59d99261/648335df-994e-44de-b7a6-c55912170d3e/CH_One+Lakeside_Lifestyle_June+2025-058.jpg",
+          "page_url": "https://www.onelakeside.com/",
+          "credit": "One Lakeside",
+          "alt": "One Lakeside hotel",
+          "src": "img/00d710133957a2a5.jpg"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5b2aa8c036099b9b59d99261/45f47d03-dba2-4e1b-bd0d-4bba842de250/CH_One+Lakeside_Lifestyle_June+2025-164.jpg",
+          "page_url": "https://www.onelakeside.com/",
+          "credit": "One Lakeside",
+          "alt": "One Lakeside lifestyle photo",
+          "src": "img/256cae76987b17ff.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fort Grounds 5BR house by City Beach (Vrbo 2182322) + Coeur d'Alene Resort Lake Tower room",
+      "kind": "5BR house near City Beach + separate resort hotel room (two bookings)",
+      "quick_verdict": "Big 5BR house a short walk from City Beach, available for the dates, with Scott & Andrea in a lakefront resort room.",
+      "configuration": "(1) Walk to Beach | 5BR Coeur d'Alene Home w/ Private Backyard (Vrbo 2182322; reviews call it 'City Beach House'; owner-managed, permit not stated). Fort Grounds neighborhood: North Idaho College a 2-min walk, Lake Coeur d'Alene about 6 min (0.5 km), the visitor center about 7 min per Vrbo; Sherman Ave restaurants about 15 min on foot (map estimate, not stated). Sleeps 12. Bedrooms: 'Main Level Room by Stairs' king; 'Main Floor Room 2' queen; 'Primary Suite' king with tub-and-shower bath (floor not stated); 'Upstairs Queen Suite' queen with bath; 'Bunk House' 2 twins + twin bunk with its own shower bath. 4 baths, including a main-floor bath. One kitchen; dining table with chairs, couch seating area and foosball table (seat counts not stated); deck/patio and private backyard; no hot tub listed. Garage and onsite parking. Check-in 4 PM, check-out 10 AM; minimum stay and entry steps not stated. (2) The Coeur d'Alene Resort, Lake Tower Lake View with Fireplace King: king bed, sunken living area, balcony, own bath; at the foot of Sherman Ave next to City Beach, about 10-15 min on foot from the house (map estimate). Price-checker 2026-11-14: the listing description differs from the room list above: king master with attached bath, a second king and a third king (bath next to it) on the main floor, a queen master suite upstairs, and a studio behind the garage with bunks, two twins and a full bath; dining table seats 6 with more at the island; renter minimum age 25; outdoor fires restricted Memorial Day to end of October.",
+      "family_split": {
+        "scott_andrea": "Coeur d'Alene Resort Lake Tower Lake View with Fireplace King",
+        "parents": "5BR house, main-level king bedroom with the main-floor bath",
+        "brother_family": "5BR house, Primary Suite for Ryan & Jenna, Bunk House and the queen rooms for the teens; hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate hotel room with its own door and bath in a different building (resort Lake Tower page)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 6,
+        "parents": 7,
+        "location": 7,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": 15,
+      "food_convenience": "City Beach and the resort's restaurants about 10-15 min on foot; Sherman Ave about 15 min (map estimates).",
+      "price": {
+        "nightly_total_usd_low": 2198.67,
+        "nightly_total_usd_high": 2198.67,
+        "label": "verified",
+        "basis": "House (parents + brother's family, 4 adults + children 15 and 13): Vrbo 2182322 'Walk to Beach | 5BR Coeur d'Alene Home w/ Private Backyard', Jul 4-Jul 10, 'The current price is $1,513', US$9,081 for 6 nights ('All fees included'; one price shown, no per-night breakdown), US$1,513.50/night avg (2026-11-15; US$9,089 on 2026-11-14). Scott & Andrea: The Coeur d'Alene Resort Lake Tower Lake View with Fireplace King, Best Available Rate (only plan), Jul 4 US$849, Jul 5 512, Jul 6 569, Jul 7 619, Jul 8 713, Jul 9 849 = US$4,111, US$685.17/night avg (TravelClick 114393; average rechecked unchanged 2026-11-15; see the resort option). Sum: US$13,192 / 6 nights = US$2,198.67/night. The house figure includes Vrbo's fees (cleaning/service not itemized), so it is not a pure pre-fee rate.",
+        "source_url": "https://www.vrbo.com/2182322?startDate=2027-07-04&endDate=2027-07-10&adults=4&children=1_15,1_13",
+        "fees_notes": "House: Vrbo shows 'All fees included'; whether Idaho sales and lodging tax is inside the US$9,089 is not stated: tax not shown before checkout. Minimum renter age 25. Resort room: 'Additional Taxes & Fees' US$595.27 for the stay (not itemized). Whole-stay total with tax left blank because the Vrbo tax is not shown.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Walk to Beach | 5BR Coeur d'Alene Home w/ Private Backyard (Vrbo 2182322), Vrbo price all fees included, US$9,081 for 6 nights, US$1,513.50/night avg (4 adults, 2 children)",
+          "Lake Tower Lake View with Fireplace King, Best Available Rate, US$685.17/night avg (2 adults)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 2198.67,
+        "local_stay_total_with_tax": null,
+        "source_kind": "ota",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Five bedrooms and four baths for six people",
+        "Up to three main-floor bedrooms and a main-floor bath",
+        "About 6 min on foot to the lake",
+        "Scott & Andrea in a lake-view resort room"
+      ],
+      "compromises": [
+        "About 15 min walk to Sherman Ave",
+        "Dining table seats 6 plus island; entry steps not stated",
+        "Renter must be 25+; outdoor fires restricted in summer"
+      ],
+      "best_for": "Choose this if a big house near the beach matters and a slightly longer walk to dinner is fine.",
+      "links": [
+        "https://www.vrbo.com/2182322",
+        "https://bookings.travelclick.com/114393",
+        "https://www.cdaresort.com/blog/rooms/lake-tower/"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/64000000/63650000/63640900/63640883/b4f0153f.jpg",
+          "page_url": "https://www.vrbo.com/2182322",
+          "credit": "Vrbo listing photo",
+          "alt": "Fort Grounds 5BR house near City Beach",
+          "src": "img/d8c664758995d9c4.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/64000000/63650000/63640900/63640883/3d50590d.jpg",
+          "page_url": "https://www.vrbo.com/2182322",
+          "credit": "Vrbo listing photo",
+          "alt": "Fort Grounds 5BR house interior",
+          "src": "img/53ef88f85f343096.jpg"
+        }
+      ]
+    },
+    {
+      "name": "The Coeur d'Alene Resort: three Lake Tower rooms",
+      "kind": "lakefront resort hotel, three separate rooms",
+      "quick_verdict": "Lakefront resort rooms with balconies; no shared room for the group.",
+      "configuration": "The Coeur d'Alene Resort, 338 rooms and suites on the lake at the foot of Sherman Avenue. Lake Tower rooms: king or two doubles, sunken living area, private balcony on Lake View and Lake View with Fireplace rooms. Room sizes, connecting rooms and multi-bedroom suites are not listed on the resort pages; the Jaeger and Hagadone suites have sitting rooms but no published bedroom counts or rates (rechecked on the accommodations page 2026-11-14). No kitchen. The only group spaces are the resort's lobby, restaurants, pool and marina. ADA accessible rooms are available. Split: one Lake Tower room per household; the brother's family would need two double beds for four, or a second room.",
+      "family_split": {
+        "scott_andrea": "Lake Tower Lake View with Fireplace King",
+        "parents": "Lake Tower Lake View with Fireplace King (ADA room on request)",
+        "brother_family": "Lake Tower Lake View Double (2 adults + 2 children)"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate hotel room with its own door and bath (resort Lake Tower page)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 2,
+        "parents": 8,
+        "location": 10,
+        "value": 5
+      },
+      "walk_minutes_to_restaurants": 2,
+      "food_convenience": "Resort restaurants on site (Beverly's, Dockside); Sherman Avenue starts at the resort.",
+      "price": {
+        "nightly_total_usd_low": 2032.83,
+        "nightly_total_usd_high": 2032.83,
+        "label": "verified",
+        "basis": "TravelClick 114393, Best Available Rate (only room rate shown). Scott & Andrea: Lake Tower Lake View with Fireplace King, 2 adults: Jul 4 US$849, Jul 5 512, Jul 6 569, Jul 7 619, Jul 8 713, Jul 9 849 = US$4,111 (avg US$685.17). Parents: second Lake Tower Lake View with Fireplace King, same rates, US$685.17 avg. Brother's family: Lake Tower Lake View Double, 2 adults + 2 children, 'Only 4 left': Jul 4 US$829, Jul 5 492, Jul 6 549, Jul 7 599, Jul 8 677, Jul 9 829 = US$3,975 (avg US$662.50). Sum: US$12,197 / 6 nights = US$2,032.83/night before tax. The plain Lake Tower Lake View King was not offered for these dates, so the fireplace king is quoted. Rechecked 2026-11-15: the engine still shows Fireplace King US$685.17 and Lake View Double US$662.50 avg ('Only 4 left'), so the sum is unchanged.",
+        "source_url": "https://bookings.travelclick.com/114393?datein=07/04/2027&dateout=07/10/2027&adults=2&rooms=1#/accommodation/room",
+        "fees_notes": "'Additional Taxes & Fees' (not itemized): US$595.27 per fireplace king and US$575.58 for the double, US$1,766.12 in all. Whether a resort fee or parking is inside that line is not stated. Deposit is the first night plus tax and surcharge; cancel 7 days before arrival.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Lake Tower Lake View with Fireplace King, Best Available Rate, US$685.17/night avg (2 adults)",
+          "Lake Tower Lake View with Fireplace King, Best Available Rate, US$685.17/night avg (2 adults)",
+          "Lake Tower Lake View Double, Best Available Rate, US$662.50/night avg (2 adults, 2 children), only 4 left"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 2032.83,
+        "local_stay_total_with_tax": 13963.12,
+        "source_kind": "property",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "On the lake at the foot of Sherman Ave",
+        "Balconies on lake-view rooms",
+        "Boat shuttle to the floating-green course",
+        "Spa with indoor pool on site"
+      ],
+      "compromises": [
+        "No shared living room or kitchen",
+        "Family of four in one room"
+      ],
+      "best_for": "Choose this if a full-service lake resort matters more than a gathering room.",
+      "links": [
+        "https://www.cdaresort.com/blog/rooms/lake-tower/",
+        "https://www.cdaresort.com/accommodations"
+      ],
+      "images": [
+        {
+          "url": "https://b855490.assetcdn.net/2.0/855490/wp-content/uploads/2022/01/CdA_Resort_Aerial_Afternoon-0059.jpg?lossy=2&strip=1&avif=1",
+          "page_url": "https://coeurdalene.org/places/idaho/coeur-dalene/lodging/the-coeur-dalene-resort/",
+          "credit": "Visit Coeur d'Alene",
+          "alt": "Aerial view of The Coeur d'Alene Resort on the lake",
+          "src": "img/1189b9eb09e8f9eb.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/2008-1018-021-CoeurdAleneResort.JPG",
+          "page_url": "https://commons.wikimedia.org/wiki/File:2008-1018-021-CoeurdAleneResort.JPG",
+          "credit": "Bobak Ha'Eri, Wikimedia Commons (CC BY 3.0)",
+          "alt": "The Coeur d'Alene Resort",
+          "src": "img/88b0bd895af69420.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sanders Beach duplex, both sides (Vrbo 2183982 + Vrbo 2183980)",
+      "kind": "two sides of a duplex, 4BR each, by Tubbs Hill (two Vrbo bookings, same management)",
+      "quick_verdict": "Two 4BR duplex sides sharing only a driveway, 4 min from McEuen Park; the second side's listing is inferred.",
+      "configuration": "(1) 'Duplex Home - 5 Min Walk to Sanders Beach & Trails, Spacious Family Room, Just 1 Mile to Downtown!' (Vrbo 2183982, Sanders Beach neighborhood, rated 9.4 from 24 reviews): sleeps 10; Main Floor king, Main Floor queen, lower-level queen, lower-floor room with 2 twins, double sofa bed in a common space; 2 full baths + 1 half bath (floors not stated); kitchen, separate dining area (seat count not stated), living area with leather sofas and TV, basement family room; deck/patio, garden, grill; no hot tub or fire pit listed. Tubbs Hill 1 min, McEuen Park and the lake 4 min on foot per Vrbo; about 1 mile to downtown per the title. No pets. Check-in 4 PM, check-out 11 AM; minimum stay and entry steps not stated. Reviews: 'We rented out both sides of the house and it allowed everyone to have their own space'; 'no room walls touched ... Our family room connected to the other sides garage ... The only thing you share is the driveway.' (2) 'Prime Location! 5 Blocks to Sherman Ave, 2 Blocks to McEuen Park' (Vrbo 2183980, Sanders Beach, rated 9.6 from 34 reviews): sleeps 10; Main Floor king, a queen (floor not stated), lower-level queen, lower-level 2 twins; 2 full + 1 half bath; kitchen, separate dining area, deck/patio, grill; pet-friendly, garage parking. Its Vrbo distances (Tubbs Hill 1 min, McEuen Park 4 min, lake 4 min) and photo folder IDs (63726334 vs 63726341) match 2183982, so it is very likely the other side, but neither listing names the other. Fact-check 2026-11-15: the map pins are about 20 m apart (47.66896, -116.77293 vs 47.66885, -116.77273), which fits two sides of one duplex but does not prove it; the titles also disagree on distance ('1 Mile to Downtown' vs '5 Blocks to Sherman Ave') for the same spot. Bed lists match this text; the floors of the full baths, entry steps and dining seat counts are not stated on either listing. Stairs: both have lower levels, so stairs to the lower bedrooms; the main-floor king in each avoids them.",
+      "family_split": {
+        "scott_andrea": "Vrbo 2183980 side, main-floor king (whole side to themselves)",
+        "parents": "Vrbo 2183982 side, main-floor king",
+        "brother_family": "Vrbo 2183982 side, main-floor queen for Ryan & Jenna, lower-level queen and twin rooms for the teens; this side's family room hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate rental with its own entrance, kitchen and baths. A 2024 review of Vrbo 2183982 says the two sides share no room walls and only the driveway; if 2183980 is not the twin side, it is still a separate whole home with the same Vrbo distances to Tubbs Hill and McEuen Park and a map pin about 20 m away (nearby rental). Either way the verdict is yes under the rubric (one side of a duplex, or a nearby rental)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 6,
+        "parents": 6,
+        "location": 8,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": 10,
+      "food_convenience": "5 blocks to Sherman Ave per the 2183980 title (about 10 min on foot, map estimate); McEuen Park 4 min.",
+      "price": {
+        "nightly_total_usd_low": 1450.33,
+        "nightly_total_usd_high": 1504,
+        "label": "verified",
+        "basis": "Parents + brother's family (4 adults + children 15 and 13): Vrbo 2183982 'Duplex Home - 5 Min Walk to Sanders Beach & Trails...', Jul 4-Jul 10, 'Early booking $166 off', current price US$738/night, US$4,430 for 6 nights ('All fees included'), US$738.33/night avg; standard rate shown as US$766/night. Scott & Andrea (2 adults): Vrbo 2183980 'Prime Location! 5 Blocks to Sherman Ave, 2 Blocks to McEuen Park', Jul 4-Jul 10, 'Early booking $158 off', current price US$712/night, US$4,272 for 6 nights ('All fees included'), US$712/night avg; standard rate shown as US$738/night. Sum: US$8,702 / 6 nights = US$1,450.33/night at the early-booking price (low); US$766 + US$738 = US$1,504/night at the standard rate (high). No per-night breakdown shown; the figures include Vrbo fees, so they are not pure pre-fee rates.",
+        "source_url": "https://www.vrbo.com/2183982?startDate=2027-07-04&endDate=2027-07-10&adults=4&children=1_15,1_13",
+        "fees_notes": "Both listings show 'All fees included' (cleaning/service not itemized); whether Idaho sales and lodging tax is inside the totals is not stated: tax not shown before checkout. Both hosts offer a weekly discount at 7+ nights. Free cancellation before 2027-06-20. Minimum renter age 26 on 2183980.",
+        "quoted_on": "2026-11-15",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "Vrbo 2183982 duplex side, early-booking price, US$4,430 for 6 nights, US$738.33/night avg (4 adults, 2 children)",
+          "Vrbo 2183980 house, early-booking price, US$4,272 for 6 nights, US$712/night avg (2 adults)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 1450.33,
+        "local_stay_total_with_tax": null,
+        "source_kind": "ota",
+        "availability": "available",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Two sides share only the driveway",
+        "Main-floor king on each side",
+        "Tubbs Hill 1 min, McEuen Park 4 min",
+        "Basement family room for the teens"
+      ],
+      "compromises": [
+        "Second side inferred, not stated as the twin",
+        "Bath floors and entry steps not stated",
+        "About 10 min walk to Sherman Ave",
+        "Dining seat count not stated"
+      ],
+      "best_for": "Choose this if two whole homes side by side near Tubbs Hill appeal and the Casago calendar stays closed.",
+      "links": [
+        "https://www.vrbo.com/2183982",
+        "https://www.vrbo.com/2183980"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/64000000/63730000/63726400/63726341/w1009h674x0y0-bdf2a58c.jpg?impolicy=resizecrop&rw=598&ra=fit",
+          "page_url": "https://www.vrbo.com/2183982",
+          "credit": "Vrbo listing photo",
+          "alt": "Sanders Beach duplex and lake view",
+          "src": "img/47219f3b48dd2b21.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/64000000/63730000/63726400/63726341/c092cbbb.jpg?impolicy=resizecrop&rw=297&ra=fit",
+          "page_url": "https://www.vrbo.com/2183982",
+          "credit": "Vrbo listing photo",
+          "alt": "Duplex living area",
+          "src": "img/2b38bda422f0b8fa.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/64000000/63730000/63726400/63726334/8696ea46.jpg?impolicy=resizecrop&rw=598&ra=fit",
+          "page_url": "https://www.vrbo.com/2183980",
+          "credit": "Vrbo listing photo",
+          "alt": "Prime Location house near McEuen Park",
+          "src": "img/e3f6bb51f4a643d8.jpg"
+        }
+      ]
+    }
+  ],
+  "lodging_backups": [
+    {
+      "name": "Lake Coeur d'Alene Inn Guest House (Vrbo 4521429) + Casago Downtown CDA Cottage (1005808)",
+      "kind": "4BR historic house with en-suite rooms + separate 2BR cottage (two bookings, two owners)",
+      "quick_verdict": "Four en-suite bedrooms with a main-floor master and game room, plus a separate cottage; distance apart unknown.",
+      "configuration": "(1) Lake Coeur d'Alene Inn Guest House (Vrbo 4521429; owner replies signed Thomas & Mitzi; rated 10 from 6 reviews): a 1904 house on Government Way (photo caption; full address not shown). Sleeps 10. Bedrooms: Elk Room king, Kokanee Room queen, Lake Room (ADA) king, Moose Room king; each has its own bath (Lake, Moose and Elk shower-only, Kokanee tub and shower) plus a half bath downstairs. A review says 'Master on the main floor and 3 bedrooms upstairs'; whether the main-floor master is the ADA Lake Room is not stated. Living room with stone fireplace, leather sofa, piano and TV; game room with pool table; kitchen; dining seat count not stated. Deck/patio, porch, balcony, garden, grill; no hot tub or fire pit listed. Lake Coeur d'Alene 6 min on foot (0.5 km) per Vrbo. Pets allowed (1). Check-in 4 PM, check-out 11 AM; minimum stay and renter age not stated. (2) Downtown CDA Cottage w/ Deck & Courtyard Fire Table (Casago 1005808, permit 59840): 2 bedrooms (king upstairs by fairly steep stairs, no A/C upstairs; queen bedroom's floor not stated), 1 full bath (a guest review puts it on the lower level), full kitchen, living and dining area, private deck with grill, fire table shared with the neighbouring cottage; one of three homes on the lot, each with its own entrance and no shared walls; under 1/2 mile to downtown, McEuen Park and the beaches. Renters 21+. The distance between the two is not stated (Casago gives the address after booking). One Lakeside's 1BR suite (US$424/night, quoted for the dates) would also work for Scott & Andrea if the cottage stays closed.",
+      "family_split": {
+        "scott_andrea": "Casago 2BR cottage (whole cottage, own entrance)",
+        "parents": "Inn Guest House, main-floor master with its own bath (ADA Lake Room if that is the one)",
+        "brother_family": "Inn Guest House, three upstairs en-suite rooms; living room and game room host the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "Separate cottage with its own entrance, kitchen and bath and no shared walls (Casago listing 1005808)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 7,
+        "location": 8,
+        "value": 7
+      },
+      "walk_minutes_to_restaurants": null,
+      "food_convenience": "House is 6 min on foot to the lake per Vrbo; walk to Sherman Ave not stated. Cottage is within walking distance of Sherman Ave per Casago.",
+      "price": {
+        "nightly_total_usd_low": 975,
+        "nightly_total_usd_high": 1700,
+        "label": "estimate",
+        "basis": "Sold out, 2026-11-15: Vrbo 4521429 says 'This property is not available for check-in on this day' for 2027-07-04/10 and 2027-07-03/10, while a 2026-12-15/19 control priced at US$658/night (US$2,632 for 4 nights, fees included; 4-night minimum then); the Casago cottage 1005808 is unavailable for 2027-07-04/10 while it priced a 2027-07-25/27 control at US$233.42/night + US$186 fees. Old estimate kept, not a quote. Inn Guest House: Vrbo 'from US$495' for 1 night, 2 adults, 2026-12-06, taxes and fees included, assumed 1.5-2.5x for July (US$740-1,240). Cottage: Casago average US$180/night, assumed 1.3-2.5x (US$235-450). Casago showed every Coeur d'Alene unit checked unavailable for July 2027 on 2026-11-14.",
+        "source_url": "https://www.vrbo.com/4521429?startDate=2027-07-04&endDate=2027-07-10&adults=4&children=1_15,1_13",
+        "fees_notes": "Casago adds a fixed fee per stay and shows totals excluding tax; Vrbo 6-night fees not shown. Vrbo minimum renter age 28.",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "ota",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Every bedroom has its own bath",
+        "Main-floor master; an ADA room listed",
+        "Game room with pool table, fireplace living room",
+        "Scott & Andrea in a separate cottage"
+      ],
+      "compromises": [
+        "Distance between the two homes not stated",
+        "Casago July calendar not open yet",
+        "Cottage king is up steep stairs",
+        "Walk to Sherman Ave not stated"
+      ],
+      "best_for": "Choose this if en-suite bedrooms for everyone and a game room matter more than being on Sherman Ave.",
+      "links": [
+        "https://www.vrbo.com/4521429",
+        "https://casago.com/rentals/1005808/"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/115000000/114640000/114631600/114631588/b79d82b7.jpg?impolicy=resizecrop&rw=598&ra=fit",
+          "page_url": "https://www.vrbo.com/4521429",
+          "credit": "Vrbo listing photo",
+          "alt": "Lake Coeur d'Alene Inn Guest House exterior",
+          "src": "img/a9acef4b37942273.jpg"
+        },
+        {
+          "url": "https://images.casago.com/unit-images/pal/1005808/6ae91930321a2700295a1fea.jpg?w=830&h=500&fit=crop&q=80&auto=format",
+          "page_url": "https://casago.com/rentals/1005808/",
+          "credit": "Casago",
+          "alt": "Downtown CDA cottage with deck",
+          "src": "img/fd97bdba24b71fdc.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sherman Suite house (Vrbo 3611194) + One Lakeside One-Bedroom Lake View Suite",
+      "kind": "3BR house on Sherman Ave + separate hotel suite about 0.5 mile away (two bookings, two owners)",
+      "quick_verdict": "A 3BR house facing Sherman Ave with a fire pit, plus a downtown hotel suite, but the house is not open for July check-in.",
+      "configuration": "(1) Sherman Suite - Steps to Downtown, Lake CDA! Hot-Tub, Pet & Family Friendly (Vrbo 3611194; hosts Brandi and Brook; permit not stated). Garden District house whose front faces Sherman Avenue; McEuen Park a 3-min walk and the lake about 8 min (0.7 km) per Vrbo. Sleeps 10. Bedroom 1 downstairs: queen. Bedroom 2 'Suite' upstairs: king with attached bath. Bedroom 3 'Master Suite' upstairs: king with attached bath and an outdoor patio. Living room: 3 double beds (type not stated). 4 baths, all shower-only: bath 1 downstairs, baths 2 and 3 attached to the upstairs suites, bath 4 in a garage loft area that also has sleeping space. Living room with gas fireplace, smart TV, leather chairs and a sofa; separate dining area (seat count not stated); private kitchen. Deck/patio, balcony, grill and fire pit; a hot tub is in the title but not in the amenity list, and one review said it was unusable because of its chemical levels. Dogs allowed (limit 2); onsite parking; check-in 4 PM, check-out 11 AM; minimum stay and entry steps not stated. (2) One Lakeside One-Bedroom Lake View Suite, 201 N. First Street (the same unit as the One Lakeside 1BR in the active One Lakeside option above; it appears in both because this option was moved here intact, and it cannot be booked for both): king bed, queen sleeper sofa, 1 bath, full kitchen, living room, west-facing balcony with partial lake and City Park views; elevator not stated on the hotel site. The house's exact address is not published, so the walk between the two is estimated at about 10 min (Garden District to First Street).",
+      "family_split": {
+        "scott_andrea": "One Lakeside One-Bedroom Lake View Suite (own suite and door)",
+        "parents": "Sherman Suite house, downstairs queen bedroom and downstairs bath",
+        "brother_family": "Sherman Suite house, upstairs king suite for Ryan & Jenna; teens in the second king suite or on the living-room doubles; hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "A separate hotel suite in a different building, with its own bedroom, bath, kitchen and door (One Lakeside accommodations page). Within the house itself the upstairs suites have no stated separate entrance, so the lock-off comes from the hotel suite."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 7,
+        "location": 9,
+        "value": 8
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "The house faces Sherman Ave; downtown Sherman restaurants are a few blocks west (map estimate). One Lakeside is a block or two from Sherman Ave.",
+      "price": {
+        "nightly_total_usd_low": 1125,
+        "nightly_total_usd_high": 1900,
+        "label": "estimate",
+        "basis": "House not quoted: not bookable yet, or booked, for these dates. On 2026-11-14 Vrbo 3611194 (4 adults + children 15 and 13) said 'This property is not available for check-in on this day' for 2027-07-04/10, and the same for 2027-07-03/10 and a 2027-06-21/23 probe, while a 2026-12-14/16 control priced at US$755/night, US$1,509 for 2 nights ('the current price', fees included). House still guessed: Vrbo 'from US$701' (November 1-night figure) times 1.0-2.1x for early July, about US$701-1,476; the high end was raised from 1.8x because the comparable Fort Grounds house (Vrbo 2182322) priced July 4-10 at about 2.1x its November 'from' figure. One Lakeside One-Bedroom Lake View, Best Flexible Rate (only plan), US$424/night for 2027-07-04/10 (SynXis, price-checker 2026-11-14; see the One Lakeside option). Sum about US$1,125-1,900/night. Only the hotel suite is quoted; the local totals below cover the suite only.",
+        "source_url": "https://www.vrbo.com/3611194?startDate=2027-07-04&endDate=2027-07-10&adults=4&children=1_15,1_13",
+        "fees_notes": "House: no trip-date quote; the December control figure is shown with fees included, and the tax split is not shown before checkout. One Lakeside 1BR: State Sales Tax US$152.64 + State Lodging Tax US$50.88 on US$2,544 (total US$2,747.52), plus a US$30/day resort fee and self-parking at US$15/night listed in the rate text.",
+        "quoted_on": "2026-11-14",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [
+          "One-Bedroom Lake View, Best Flexible Rate, US$424/night (2 adults)"
+        ],
+        "local_currency": "USD",
+        "local_nightly_total": 424,
+        "local_stay_total_with_tax": 2747.52,
+        "source_kind": "ota",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "House faces Sherman Ave, 3 min to McEuen Park",
+        "Downstairs bedroom and bath for the parents",
+        "Fireplace living room, dining area, fire pit",
+        "Owner-listed on Vrbo, so not on Casago's calendar"
+      ],
+      "compromises": [
+        "Two bookings with two owners",
+        "Not open for July check-in on Vrbo",
+        "Hot tub reported unusable in one review",
+        "About 10 min walk between house and suite",
+        "Teens share a king or sleep in the living room"
+      ],
+      "best_for": "Choose this if the owner opens July and you want a house on Sherman Ave.",
+      "links": [
+        "https://www.vrbo.com/3611194",
+        "https://be.synxis.com/landing?chain=8517&hotel=30460",
+        "https://www.onelakeside.com/accommodations"
+      ],
+      "images": [
+        {
+          "url": "https://media.vrbo.com/lodging/99000000/98500000/98494600/98494579/f3a33fdc.jpg",
+          "page_url": "https://www.vrbo.com/3611194",
+          "credit": "Vrbo listing photo",
+          "alt": "Front of the Sherman Suite house facing Sherman Avenue",
+          "src": "img/c03ecf175b080616.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/99000000/98500000/98494600/98494579/563b10aa.jpg",
+          "page_url": "https://www.vrbo.com/3611194",
+          "credit": "Vrbo listing photo",
+          "alt": "Living room with gas fireplace",
+          "src": "img/cdd521c8d3eb6f25.jpg"
+        },
+        {
+          "url": "https://media.vrbo.com/lodging/99000000/98500000/98494600/98494579/8f3405ee.jpg",
+          "page_url": "https://www.vrbo.com/3611194",
+          "credit": "Vrbo listing photo",
+          "alt": "Backyard fire pit",
+          "src": "img/95bedef29d5a4d0a.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Casago: Historic 4BR Across from McEuen Park + Walk Downtown 1BR King Cottage",
+      "kind": "downtown 4BR house + separate 1BR cottage nearby (two bookings, same manager)",
+      "quick_verdict": "Best layout: historic house with a main-floor king suite plus a separate cottage, but July 2027 is not open to book yet.",
+      "configuration": "Two Casago rentals in downtown Coeur d'Alene; exact addresses are given only after booking, so the distance between them is not stated. (1) Historic 4BR Across from McEuen Park (Casago 1005811, also listed as vacasa.com/unit/1005811, permit 52286): two-level 1920s house, 1,680 sq ft, 3 full baths, sleeps 11-12. Bedroom 1 is a king with private en-suite on the main floor; the other bedrooms are kings, a double and an attic-style room with 5 twin beds (the listing contradicts itself on bedroom numbering and says 4 vs 5 bedrooms). Steep stairs, narrow passages and low clearances upstairs. A review mentions a third bath off the kitchen on the main floor. Full kitchen with coffee bar; 'comfortable seating for the whole group', board games and a dining table (seat count not stated). Front porch, furnished deck with gas grill, landscaped backyard with fire table. No hot tub stated. McEuen Park is directly across the street; downtown about 5 min on foot, City Beach and the resort marina about 10 min, Tubbs Hill trailhead steps away. (2) Walk Downtown CDA 1BR King w/ Deck & Fire Table (Casago 1005831, also on Vacasa, permit 59896): single-level cottage, 1 king bedroom, 1 bath, sofa bed, full kitchen, private entrance with no shared walls, private deck with grill; the backyard fire table is shared with the neighboring cottage. One of three homes on a property near E Front Ave (the companion listing 1023503 says about 1 block to Sherman Ave); less than 1/2 mile to downtown, McEuen Park and the beaches. Both listings: renters must be 21+, minimum stay not stated. Bookability: Casago and Vacasa now list the same inventory (the Vacasa unit page for 1005811 carries the Casago listing), so Vacasa is not a second source. On 2026-11-14 every Casago unit checked was unavailable for all July 2027 dates tried while the same units priced for dates up to 2027-06-30. How this was judged: five different units all blocked for every July week eight months out fits an unopened calendar better than a sell-out, so the option is kept as the score basis on its estimate, with a point off for the risk.",
+      "family_split": {
+        "scott_andrea": "1BR King Cottage (whole single-level cottage, own entrance)",
+        "parents": "Historic 4BR house, main-floor king with en-suite bath",
+        "brother_family": "Historic 4BR house, upstairs bedrooms (kings, attic twin room); hosts the group"
+      },
+      "lockoff": {
+        "scott_andrea": "yes",
+        "basis": "The 1BR cottage is a separate single-level home with its own bedroom, bath and kitchen, a private entrance and no shared walls (Casago listing 1005831)."
+      },
+      "ratings": {
+        "privacy": 9,
+        "shared_space": 7,
+        "parents": 8,
+        "location": 9,
+        "value": 9
+      },
+      "walk_minutes_to_restaurants": 5,
+      "food_convenience": "Downtown about 5 min on foot from the house per the listing; cottage about 1 block from Sherman Ave per the companion listing.",
+      "price": {
+        "nightly_total_usd_low": 700,
+        "nightly_total_usd_high": 1300,
+        "label": "estimate",
+        "basis": "Sold out (the cottage), 2026-11-15: July 2027 is open on Casago, because the 1BR King Cottage (1005831, 2 adults) priced a 2027-07-25/27 control at US$225.32/night + US$166 fees and a 2026-12-15/17 control at US$120.75/night + US$166, but it returned 'This unit is unavailable for the dates selected' for 2027-07-04/10, 2027-07-03/10 and 2027-07-05/07, so the trip nights are booked. Historic 4BR (1005811, 6 adults): unavailable for 2027-07-04/10, 2027-06-28/30, 2027-07-13/15 and 2027-07-25/27, while a 2026-12-15/17 control priced at US$278.86/night + US$414 fees; on its own that reads as not released or owner-blocked. The equivalent cottage on the same lot (Casago 1005808) is also unavailable for 2027-07-04/10 while it priced 2027-07-25/27. So the split cannot be booked as written. Old estimate kept, not a quote: Casago average rates US$365 (4BR) + US$157 (cottage) = US$522/night, assumed roughly 1.3-2.5x for early July.",
+        "source_url": "https://casago.com/rentals/1005831/?checkIn=2027-07-04&checkOut=2027-07-10&adults=2",
+        "fees_notes": "No trip-date quote. Control quotes show Casago adds a fixed fee per stay (US$414 at the 4BR, US$166 at the cottage) and lists totals 'excl. taxes'; tax amounts not shown.",
+        "stay_dates": "2027-07-04/2027-07-10",
+        "units_quoted": [],
+        "local_currency": "USD",
+        "local_nightly_total": null,
+        "local_stay_total_with_tax": null,
+        "source_kind": "manager",
+        "availability": "sold_out",
+        "stale": false,
+        "over_cap": false
+      },
+      "pros": [
+        "Main-floor king suite with en-suite for the parents",
+        "Separate one-level cottage with own entrance",
+        "Across the street from McEuen Park",
+        "Backyard fire table and deck at the house"
+      ],
+      "compromises": [
+        "July 2027 not yet open to book",
+        "Two separate bookings; both must be free",
+        "Distance between the two homes not stated",
+        "Steep stairs upstairs for the teens' family",
+        "Dining table seat count not stated"
+      ],
+      "best_for": "Choose this if you want a real house for evenings, steps from the park and downtown, and can book the day July opens.",
+      "links": [
+        "https://casago.com/rentals/1005811/",
+        "https://casago.com/rentals/1005831/",
+        "https://casago.com/rentals/1023503/",
+        "https://www.vacasa.com/unit/1005811"
+      ],
+      "images": [
+        {
+          "url": "https://images.casago.com/unit-images/pal/1005811/6ac61742f592e2001246c47a.jpg",
+          "page_url": "https://casago.com/rentals/1005811/",
+          "credit": "Casago",
+          "alt": "Historic 4BR house across from McEuen Park",
+          "src": "img/cfe179d4916b7613.jpg"
+        },
+        {
+          "url": "https://images.casago.com/unit-images/pal/1005831/6ae91985aead86002a6ede6f.jpg",
+          "page_url": "https://casago.com/rentals/1005831/",
+          "credit": "Casago",
+          "alt": "Walk Downtown 1BR king cottage",
+          "src": "img/62a059713c9ba350.jpg"
+        }
+      ]
+    }
+  ],
+  "focus": {
+    "animals": [
+      {
+        "name": "Cat Tales Wildlife Center: Big Cat Encounter",
+        "what_you_do": "Protected-contact feeding of a featured tiger (Siberian tigers Koshka and Sestra or Bengal tiger Tigger); the exact method is not described.",
+        "why_memorable": "Feeding a tiger at close range, at the same visit as the bear.",
+        "drive_minutes": 45,
+        "price_usd": "US$15 per person on top of admission",
+        "age_min": 8,
+        "interactivity": "hands-on",
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Walk-up at the gift shop; availability varies with the animals, weather and crowds. Thu-Sun only.",
+        "url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+        "image": {
+          "url": "https://www.cattales.org/wp-content/uploads/sites/499/2022/10/Koshka-Hand-Feed-e1666065472465-171x300.jpg",
+          "page_url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+          "credit": "Cat Tales Wildlife Center",
+          "alt": "Feeding Koshka the Siberian tiger",
+          "src": "img/e5f9851ab0770b89.jpg"
+        }
+      },
+      {
+        "name": "Big Red's Barn: sloth or capybara private encounter",
+        "what_you_do": "A private 20-minute session (the booking form says 30) to pet a sloth and feed it a little (no holding, ages 10+), or to feed and pet a capybara (ages 8+); admission also covers goat feeding, bird holding and bunny petting in the indoor petting zoo.",
+        "why_memorable": "Hands-on time with exotic animals 15 minutes from downtown, indoors, so it also works on a hot or wet day.",
+        "drive_minutes": 15,
+        "price_usd": "Encounter US$50 per person, 2-person minimum (product pages show US$100 per booking); zoo admission US$15, seniors 65+ US$14 at the desk",
+        "age_min": 8,
+        "interactivity": "hands-on",
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book ahead online; the product page shows no calendar or availability, so July 2027 slots could not be confirmed (call 208-719-9047). Zoo open Thu-Sun 10:30 AM-5:30 PM (Jul 4, 8, 9 and 10 fall in the stay); under-16s with an adult.",
+        "url": "https://bigredsbarn.com/product/sloth-private-encounter-50-person/",
+        "image": {
+          "url": "https://bigredsbarn.com/wp-content/uploads/2022/09/5.jpg",
+          "page_url": "https://bigredsbarn.com/product/sloth-private-encounter-50-person/",
+          "credit": "Big Red's Barn",
+          "alt": "Sloth private encounter at Big Red's Barn",
+          "src": "img/f2b2a45c5cff585b.jpg"
+        }
+      },
+      {
+        "name": "Cat Tales Wildlife Center: Black Bear Encounter",
+        "what_you_do": "Hand-feed fruit to Oscar the black bear with a keeper present; tickets bought in the gift shop on arrival.",
+        "why_memorable": "A real hand-feeding of a bear, open to Aubrey and everyone 5 and up.",
+        "drive_minutes": 45,
+        "price_usd": "US$10 per person on top of admission (adults US$18, students US$15, seniors 65+ free)",
+        "age_min": 5,
+        "interactivity": "hands-on",
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Walk-up; encounters end about 30 min before the ~3 PM dinner feedings and depend on the animal and guest volume, so arrive early. Open Thu-Sun 10-4 (Jul 4, 8, 9 and 10 fall in the stay).",
+        "url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+        "image": {
+          "url": "https://www.cattales.org/wp-content/uploads/sites/499/2022/10/BC-Oscar-Hand-Feed-e1666064705419-171x300.jpg",
+          "page_url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+          "credit": "Cat Tales Wildlife Center",
+          "alt": "Guest hand-feeding Oscar the black bear",
+          "src": "img/275b2b77349de8a3.jpg"
+        }
+      },
+      {
+        "name": "Birds of Prey Northwest raptor facility tour",
+        "what_you_do": "On-site tour of a raptor rehabilitation and education facility near St. Maries, by appointment; holding birds is not mentioned.",
+        "why_memorable": "Close look at eagles, hawks and owls with the people who care for them.",
+        "drive_minutes": 60,
+        "price_usd": "Minimum donation US$20 per person (the site prints it beside the 'coming soon' outdoor education facility, so it may not apply to tours)",
+        "age_min": null,
+        "interactivity": "close viewing",
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Appointment only by phone (208-245-1367); days and season not stated.",
+        "url": "https://www.birdsofpreynorthwest.org/",
+        "image": {
+          "url": "https://static.wixstatic.com/media/928d51_1831d2ff79c84589a9a0c52c4d433537~mv2.jpeg/v1/fill/w_926,h_1401,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2082.jpeg",
+          "page_url": "https://www.birdsofpreynorthwest.org/",
+          "credit": "Birds of Prey Northwest",
+          "alt": "Raptor at Birds of Prey Northwest",
+          "src": "img/dccd44ba45700883.jpg"
+        }
+      },
+      {
+        "name": "Rider Ranch wagon ride and Family Barn Night",
+        "what_you_do": "A 20-30 minute horse-drawn wagon tour of the meadow with a cowboy dinner, or a Family Barn Night with time handling horses in the barn and a campfire dinner; trail rides (60-90 min, 8+) appear only in older listings.",
+        "why_memorable": "Being pulled by a horse team and working with horses at a working ranch 20 minutes east of town, if it still runs.",
+        "drive_minutes": 20,
+        "price_usd": "Not published; a 2005 newspaper article gave US$35 for a 1-hour ride and a US$60 minimum for hayrides",
+        "age_min": null,
+        "interactivity": "hands-on",
+        "operates_during_stay": "unknown",
+        "booking_difficulty": "Call 208-667-3373; riderranch.com has an expired security certificate and no 2026-2027 dates were found, so it does not count toward the score.",
+        "url": "https://visitnorthidaho.com/activity/rider-ranch/"
+      }
+    ],
+    "golf": [
+      {
+        "name": "The Coeur d'Alene Resort Golf Course",
+        "what_you_do": "18 holes reached by a 7-minute water taxi from the resort; forecaddie, luxury cart, practice balls and bag tag included.",
+        "why_memorable": "The 14th is the world's only floating green, moved to a different distance each day, with lake views throughout.",
+        "drive_minutes": 5,
+        "price_usd": "Not published on the resort site; third-party guides give US$55+ to US$130-200+ (unverified)",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book by phone (800-935-6283) or online; whether non-resort guests can book is not stated on the golf page.",
+        "url": "https://www.cdaresort.com/golf/",
+        "image": {
+          "url": "https://www.cdaresort.com/wp-content/uploads/2022/06/GolfCollage.webp",
+          "page_url": "https://www.cdaresort.com/golf/",
+          "credit": "The Coeur d'Alene Resort",
+          "alt": "Coeur d'Alene Resort golf course",
+          "src": null
+        }
+      },
+      {
+        "name": "Circling Raven Golf Club",
+        "what_you_do": "18-hole Gene Bates course on 620 acres of wetland, woodland and Palouse grass at the Coeur d'Alene Casino Resort in Worley; GPS carts included.",
+        "why_memorable": "Ranked the No. 1 public course in Idaho and on Golf Magazine's Top 100 lists; peak season runs May 18-Oct 4 (2026).",
+        "drive_minutes": 40,
+        "price_usd": "Peak green fee not published on the pages read; shoulder rates are US$30-40 below peak; Raven Hour all-you-can-play US$75 for Raven Card holders",
+        "age_min": null,
+        "operates_during_stay": "yes",
+        "booking_difficulty": "Book via cdacasino.com/golf; 2027 opening date not yet announced (2026 opened April 3).",
+        "url": "https://www.cdacasino.com/golf",
+        "image": {
+          "url": "https://morning-read.brightspotcdn.com/dims4/default/60a94f6/2147483647/strip/true/crop/1685x1123+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fmorning-read-brightspot.s3.us-east-1.amazonaws.com%2Fe4%2F6e%2F9a4ab9b7402b95c7a8969116f138%2Fcircling-raven-golf-club-8-lores-1.jpg",
+          "page_url": "https://www.firstcallgolf.com/industry-news/release/2026-03-31/circling-raven-golf-club-set-to-open-april-3-coeur-dalene-casino-amenity-unveils-new-programs-enhancements",
+          "credit": "Russell Kirk / Golflinksphotography via First Call",
+          "alt": "Circling Raven Golf Club, hole 8",
+          "src": "img/d2be564c229d2fec.jpg"
+        }
+      }
+    ]
+  },
+  "activities": [
+    {
+      "name": "Lake Coeur d'Alene Cruises",
+      "good_for": [
+        "everyone",
+        "parents"
+      ],
+      "details": "Daily scenic cruises plus brunch and dinner cruises from 115 S. 2nd St at the resort; Fourth of July cruises are listed. Schedule and prices are on tickets.cdacruises.com; an accessibility PDF is linked.",
+      "drive_minutes": 0,
+      "url": "http://www.cdacruises.com",
+      "found_via": "Visit Coeur d'Alene tours & excursions",
+      "image": {
+        "url": "https://www.cdacruises.com/project/uploads/2023/02/1b-Daily-Scenic-Cruises.jpg",
+        "page_url": "http://www.cdacruises.com",
+        "credit": "Lake Coeur d'Alene Cruises",
+        "alt": "Daily scenic cruise on Lake Coeur d'Alene",
+        "src": null
+      }
+    },
+    {
+      "name": "Silverwood Theme Park & Boulder Beach Water Park",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "Roller coasters and a water park in Athol, about 25 min north (map estimate). The park site blocked fetching, so 2027 hours and prices are not confirmed.",
+      "drive_minutes": 25,
+      "url": "https://www.silverwoodthemepark.com/",
+      "found_via": "Visit Coeur d'Alene family activities"
+    },
+    {
+      "name": "Timberline Adventures zip lines",
+      "good_for": [
+        "teens",
+        "adults"
+      ],
+      "details": "Zip lines, sky bridges and treehouse lunch and s'mores tours near Coeur d'Alene; the operator page exposed no prices, age limits or location.",
+      "drive_minutes": null,
+      "url": "http://www.ziptimberline.com",
+      "found_via": "Visit Coeur d'Alene tours & excursions"
+    },
+    {
+      "name": "The Spa at The Coeur d'Alene Resort",
+      "good_for": [
+        "adults",
+        "rainy day"
+      ],
+      "details": "Open daily 8 AM-8 PM; treatments include indoor pool and jacuzzi access, infrared sauna and a lakeside meditation room. Treatment prices and non-guest booking not stated.",
+      "drive_minutes": 0,
+      "url": "https://www.cdaresort.com/spa/",
+      "found_via": "Visit Coeur d'Alene home page",
+      "image": {
+        "url": "https://www.cdaresort.com/wp-content/uploads/2023/05/SpaPic2.jpg",
+        "page_url": "https://www.cdaresort.com/spa/",
+        "credit": "The Coeur d'Alene Resort",
+        "alt": "Spa at The Coeur d'Alene Resort",
+        "src": null
+      }
+    },
+    {
+      "name": "Thrw Pottery Studio",
+      "good_for": [
+        "teens",
+        "rainy day",
+        "adults"
+      ],
+      "details": "Walk-in hand-building during studio hours and reservable Open Wheel sessions with a beginner demo, at 2938 N Government Way (a short drive north). Prices and ages not listed.",
+      "drive_minutes": 8,
+      "url": "https://www.thrwpottery.com/",
+      "found_via": "Visit Coeur d'Alene family activities",
+      "image": {
+        "url": "https://images.squarespace-cdn.com/content/v1/6738ce956fcfcc2ccf76593d/12bf310d-04bf-43b7-a035-e98f143a8799/IMG_3512+2.JPG",
+        "page_url": "https://www.thrwpottery.com/",
+        "credit": "Thrw Pottery",
+        "alt": "Thrw Pottery studio",
+        "src": "img/3dc392a7d709450f.jpg"
+      }
+    }
+  ],
+  "shopping_exploring": "Sherman Avenue is the downtown shopping and dining street, running from the resort east past McEuen Park and City Park; the Tubbs Hill trailhead and the lakefront boardwalk are at its west end. Coeur d'Alene Summer Theatre stages Broadway-style musicals in summer, and the hand-carved 1922 Coeur d'Alene Carousel is listed by the tourism office. No escape room was found on the tourism site.",
+  "restaurants": [
+    {
+      "name": "Beverly's",
+      "category": "special dinner",
+      "notes": "7th floor of The Coeur d'Alene Resort, lake views, 14,000+ bottle wine cellar, DiRoNA award. Dinner 4:30-9 Sun-Thu, 4-9 Fri-Sat; reserve on Tock. Entree prices not listed on the site.",
+      "walk_minutes_from_lodging": 8,
+      "url": "http://www.beverlyscda.com",
+      "image": {
+        "url": "https://beverlyscda.com/wp-content/uploads/2024/06/Beverlys_Hot-Rock-Filet_2023-3-1-scaled.jpg",
+        "page_url": "http://www.beverlyscda.com",
+        "credit": "Beverly's",
+        "alt": "Hot-rock filet at Beverly's",
+        "src": null
+      }
+    },
+    {
+      "name": "Tito's Italian Grill and Wine Shop",
+      "category": "family dinner",
+      "notes": "210 Sherman Ave; brick-oven pizza and Italian-Mediterranean menu, daily 11-9, private dining room for groups; reserve on Tock or (208) 667-2782.",
+      "walk_minutes_from_lodging": 6,
+      "url": "http://www.titoscda.com"
+    },
+    {
+      "name": "Dockside Restaurant",
+      "category": "family dinner",
+      "notes": "The resort's family restaurant with a large salad bar and desserts; breakfast, lunch and dinner.",
+      "walk_minutes_from_lodging": 8,
+      "url": "http://www.docksidecda.com"
+    },
+    {
+      "name": "Crickets Restaurant & Oyster Bar",
+      "category": "casual",
+      "notes": "Downtown bar and grill open 11 AM-1 AM per the tourism site; address not checked.",
+      "walk_minutes_from_lodging": null,
+      "url": "http://cricketsoysterbar.com/"
+    },
+    {
+      "name": "Roger's Ice Cream & Burgers",
+      "category": "casual",
+      "notes": "Family-owned burger and ice cream stand since 1940 at Sherman Ave & 13th St; walk time is a map estimate.",
+      "walk_minutes_from_lodging": 15,
+      "url": "http://www.rogersicecreamburgers.com"
+    },
+    {
+      "name": "Honey Eatery & Social Club",
+      "category": "breakfast/coffee",
+      "notes": "317 E Sherman Ave; brunch daily 9 AM-3 PM (benedicts, waffles, chicken and waffles), dinner to 8-9 PM; Yelp reservations.",
+      "walk_minutes_from_lodging": 5,
+      "url": "https://eatgoodgroup.com/honey-eatery/"
+    }
+  ],
+  "weather": {
+    "july": {
+      "high_f": 83,
+      "low_f": 57,
+      "rain_days": 4,
+      "notes": "NOAA 1991-2020 normals for Coeur d'Alene: 0.7 in of precipitation and 4 wet days in July. Early-July days will run a little below the monthly mean; late-summer wildfire smoke was not assessed by this source."
+    },
+    "source_url": "https://www.currentresults.com/Weather/Idaho/temperature-july.php"
+  },
+  "logistics": {
+    "airport": "Spokane International (GEG)",
+    "drive_minutes_from_airport": 40,
+    "flights": {
+      "den": "United and Southwest nonstops DEN-GEG per the earlier research pass; not re-verified this pass (the airport site lists carriers but not routes).",
+      "bay_area": "GEG nonstops from SFO, OAK and SMF not confirmed this pass; GEG carriers include Alaska, United and Southwest, so check SFO-GEG (United/Alaska) and SMF/OAK-GEG (Southwest), else connect via SEA or DEN."
+    },
+    "car_needed": "Yes, at least one or two: downtown is walkable, but GEG transfer, Cat Tales (45 min), Circling Raven (40 min) and Silverwood (25 min) need cars.",
+    "notes": "GEG to downtown about 40 min via I-90 (map estimate). Check-in day is July 4; expect Independence Day crowds and fireworks downtown and on the lake."
+  },
+  "caveats": [
+    "The score-basis lodging is not bookable yet: as of 2026-11-14 (rechecked the same day on 1005811) every Casago unit (the same inventory Vacasa lists), including the score-basis Historic 4BR + Cottage, shows unavailable for July 2027 while pricing dates through June 2027. It looks unreleased, not booked, but the Fourth of July week may go fast once it opens.",
+    "As of 2026-11-14 the Sherman Suite house (Vrbo 3611194) is not available for check-in on Jul 4, Jul 3 or Jun 21, 2027 while a December 2026 control prices; the price-checker marked it sold out, so it now sits in the backups. The Fort Grounds 5BR (Vrbo 2182322) shows Jul 4-10 available at US$9,089 for 6 nights.",
+    "Two options are verified as of 2026-11-14, both inside the cap: the Fort Grounds 5BR + one resort Lake Tower fireplace king at US$2,200/night (house price includes Vrbo fees; tax not shown before checkout), and three Coeur d'Alene Resort Lake Tower rooms at US$2,032.83/night before tax, which have no shared room for the group. The Casago prices and all backup prices are estimates.",
+    "Fort Grounds 5BR (Vrbo 2182322): minimum renter age 25, and the listing says outdoor fires are restricted Memorial Day through the end of October, so fire pits and fire tables may not be usable in July.",
+    "Heat: July normal high is 83 F, 8 F over the 75 F target.",
+    "Both hands-on animal venues, Cat Tales (45 min) and Big Red's Barn (15 min), open Thu-Sun only, so animal days fall on Jul 4 or Jul 8-10; Red Horse Ranch rides are for ranch guests and Rider Ranch's current operation is unconfirmed.",
+    "The resort golf course may be limited to resort guests; the page does not say.",
+    "Arrival day is July 4: holiday crowds and possibly higher minimum stays.",
+    "Casago rentals require the renter to be 21 or older.",
+    "2026-11-15: Casago's July 2027 calendar is open after all (the 1BR King Cottage 1005831 and the 2BR cottage 1005808 price 2027-07-25/27), and both cottages are booked for the trip nights, so the Casago Historic 4BR + Cottage and 3BR + Cottage options are sold out as written. The Inn Guest House (Vrbo 4521429) and the Sherman Suite house refuse July 3 and 4 check-ins. The lodging score now rests on the Sanders Beach duplex at US$1,450.33/night (Vrbo early-booking price, fees included, tax not shown).",
+    "Vrbo minimum renter ages: 25 (Fort Grounds 2182322), 26 (Sanders Beach 2183980), 28 (Inn Guest House 4521429)."
+  ],
+  "open_questions": [
+    "When Casago Coeur d'Alene opens July 2027 for booking, and whether units 1005811, 1005831, 1005836 and 1005808 are free for 2027-07-04/2027-07-10: ask Casago Coeur d'Alene, or recheck casago.com.",
+    "Distance between the Casago Historic 4BR house and the 1BR King Cottage (addresses released after booking): ask Casago Coeur d'Alene.",
+    "Dining table seat count and minimum stay at the Historic 4BR house: ask Casago.",
+    "Bedroom floors and whether the 3BR + Loft house (1005836) has a main-floor bedroom: ask Casago.",
+    "Sherman Suite (Vrbo 3611194): when July 2027 opens for booking (on 2026-11-14 Vrbo refused check-in on Jul 3, Jul 4 and Jun 21 while December priced) or whether it is booked, the 6-night price, minimum stay, entry steps, dining seat count, whether the hot tub works, and the house's block on Sherman Ave: ask the hosts through Vrbo.",
+    "Fort Grounds 5BR (Vrbo 2182322): whether the US$9,089 Vrbo total for Jul 4-10 includes Idaho sales and lodging tax, entry steps, and which floor each bedroom is on (the description puts three kings on the main floor and a queen suite upstairs, unlike the room list): ask the owner through Vrbo.",
+    "Sanders Beach duplex: whether Vrbo 2183980 is the other side of duplex 2183982, which floor the full baths are on, entry steps, dining seat count and minimum stay: ask the management through Vrbo.",
+    "Lake Coeur d'Alene Inn Guest House (Vrbo 4521429): whether the main-floor master is the ADA Lake Room, the street address (for the walk to Sherman Ave and to the Casago cottage), dining seat count and minimum stay: ask the owners (Thomas & Mitzi) through Vrbo.",
+    "One Lakeside elevator, parking and 3BR suite living/dining seating: ask One Lakeside (208-775-7277).",
+    "One Lakeside Three-Bedroom Lake View Suite rate and availability for 2027-07-04/2027-07-10 (not in the online engine): call One Lakeside (208-775-7277).",
+    "Flamingo Motel (718 E Sherman Ave) as a closer option for Scott & Andrea next to the Sherman Suite: whether rooms have private baths and the July rates were not readable (Mews engine did not render); call (208) 664-2159.",
+    "Whether non-resort guests can book The Coeur d'Alene Resort golf course, and its peak green fee: ask the golf shop (800-935-6283).",
+    "Circling Raven peak 2027 green fee: cdacasino.com/golf rates page or pro shop.",
+    "Big Red's Barn: which days and times sloth and capybara encounters run in July 2027 (the booking calendar shows no dates yet) and the exact per-person price (title US$50/person, price field US$100): call (208) 719-9047.",
+    "Rider Ranch: whether it still operates in 2027 and offers wagon rides, Family Barn Night or trail rides to day visitors, with prices: call 208-667-3373.",
+    "Birds of Prey Northwest tour days in July and age limits: call 208-245-1367.",
+    "Silverwood 2027 hours and prices for July 4-10 (site blocked): silverwoodthemepark.com.",
+    "Timberline Adventures zip line location, prices and age limits: ziptimberline.com or phone.",
+    "DEN and Bay Area nonstop schedules to GEG for July 2027: airline sites.",
+    "Beverly's entree prices (Sam's US$50-80/plate target): the restaurant."
+  ],
+  "verification_notes": [
+    "Web search budget for the session ran out early; most facts came from direct fetches of operator, manager and tourism pages. TripAdvisor (403), Evolve (403), Expedia/Travelocity (429) and Silverwood (403) blocked fetches.",
+    "Casago's listed nightly prices are averages, not dated quotes.",
+    "price-checker 2026-11-14: Casago Historic 4BR + 1BR King Cottage: estimate US$700-1,300 unchanged, no quote. Casago engine (casago.com/rentals/<id>/?checkIn=&checkOut=&adults=) showed both units 'unavailable for the dates selected' for 2027-07-04/2027-07-10; controls priced (4BR 2026-12-14/16; cottage 2027-04-13/15 and 2027-06-08/10), so not bookable yet or sold out.",
+    "price-checker 2026-11-14: Casago 3BR + Loft + 1BR King Cottage: estimate US$1,000-1,800 unchanged, no quote. Both units unavailable for the trip dates in the Casago engine (not bookable yet, or sold out).",
+    "price-checker 2026-11-14: One Lakeside 3BR + 1BR suites: unknown changed to estimate with no total. The One-Bedroom Lake View is quoted at US$424/night (Best Flexible Rate). The Three-Bedroom Lake View Suite is not sold online: SynXis lists only 1BR suites (sleeps 4) for the trip dates and for a December control, so ask the hotel. The engine's 1BR Lake View is a 1 King bed, sleeps 4, 748-881 sq ft unit, which matches the configuration. The engine also states a US$30/day resort fee and self-parking at US$15/night.",
+    "price-checker 2026-11-14: Casago Riverstone 2 King Suites + Riverstone 1BR: estimate US$500-900 unchanged, no quote. Both units unavailable for the trip dates in the Casago engine; the 1BR priced for a 2027-06-28/30 control (US$227.19/night), so not bookable yet or sold out.",
+    "price-checker 2026-11-14: Coeur d'Alene Resort three Lake Tower rooms: unknown changed to verified US$2,032.83/night before tax (2 x Lake Tower Lake View with Fireplace King at US$685.17 avg + Lake Tower Lake View Double at US$662.50 avg, Best Available Rate, TravelClick 114393), inside the cap; value rating 4 changed to 5. The plain Lake Tower Lake View King named in the configuration was not offered for these dates, so the fireplace king was quoted. Jul 4 (Sun, holiday) and Jul 9 (Fri) cost US$829-849 a night, against US$492-512 on Jul 5.",
+    "price-checker 2026-11-14: lodging score 18 and total 72 unchanged. The score still rests on the Casago Historic 4BR + Cottage, which remains inside budget on its estimate. Its price is still unconfirmed, so no points were added back.",
+    "researcher rerun 2026-11-14: dropped the Casago Riverstone option (same unreleased calendar, 1.5 miles from the lake, teens on floor mattresses) and added two options from other owners: the Sherman Suite house (Vrbo 3611194) + One Lakeside 1BR, and the Fort Grounds 5BR (Vrbo 2182322) + a resort Lake Tower room. Vacasa unit pages carry the same Casago listings (vacasa.com/unit/1005811), so Vacasa is not an independent source. Leads checked and rejected: Coeur Yard 4BR (no separate unit), Evolve 515238 (2BR condo, max 4), Evolve 572682 and 523160 (2BR, max 3-4), Lake CDA Vacation Cottage on Airbnb (2BR main level, max 4; the second unit is not listed), Blackwell Hotel (adults only, which excludes the teens), Flamingo Motel (suites named, but private baths and rates not readable). The Coeur d'Alene Resort accommodations page lists no multi-bedroom suites or condos. Lodging 18 to 17 and total 72 to 71: the score still rests on the Casago Historic 4BR + Cottage (listing exists, estimate inside the cap), with one point off because July 2027 is not yet bookable.",
+    "price-checker 2026-11-14: Sherman Suite house (Vrbo 3611194) + One Lakeside 1BR: estimate US$1,125-1,700 changed to estimate US$1,125-1,900, house not quoted. Vrbo (4 adults + children 15, 13) said 'This property is not available for check-in on this day' for 2027-07-04/10, 2027-07-03/10 and a 2027-06-21/23 probe, while a 2026-12-14/16 control priced at US$755/night (US$1,509 for 2 nights), so not bookable yet or booked. One Lakeside 1BR US$424/night reused from today's SynXis quote. High end raised because the comparable Fort Grounds house priced about 2.1x its November figure. Value rating 8 unchanged.",
+    "price-checker 2026-11-14: Fort Grounds 5BR (Vrbo 2182322) + resort Lake Tower fireplace king: estimate US$1,414-2,000 changed to verified US$2,200/night (house US$9,089 for 6 nights, 'All fees included', avg US$1,514.83; resort room US$685.17 avg Best Available Rate, reused from today's TravelClick quote), inside the cap; value rating 7 changed to 5. Vrbo does not say whether tax is in the house total. The listing description differs from the file's configuration: it puts a king master with attached bath, a second king and a third king (bath next to it) on the main floor, a queen master suite upstairs, and a studio behind the garage with twin bunks, two twins and a full bath; it says the wooden dining table seats 6, with more seating at the kitchen island. It also states a minimum renter age of 25 and that outdoor fires are restricted Memorial Day through the end of October.",
+    "price-checker 2026-11-14: Casago Historic 4BR (1005811) rechecked for 2027-07-04/10 (6 guests): still 'This unit is unavailable for the dates selected'. Casago estimates unchanged.",
+    "price-checker 2026-11-14: lodging score 17 and total 71 unchanged. The score still rests on the Casago Historic 4BR + Cottage, which remains inside budget on its estimate; its price is still unconfirmed, so no points were added back.",
+    "fact-checker 2026-11-14: confirmed on casago.com/rentals/1005811: two-level house, 3 full baths, main-floor king with en-suite, steep stairs upstairs, listing contradicts itself on 4 vs 5 bedrooms and on which room has the 5 twins, address withheld until booking, renters 21+. No cottage or guest house is mentioned on that page.",
+    "fact-checker 2026-11-14: confirmed on casago.com/rentals/1005831: 1 king bedroom, 1 bath, sleeper sofa (sleeps 4), own entrance, no shared walls, one of three homes on the property, deck private, yard and fire table shared with the neighbor cottage, under 1/2 mile to downtown. The lock-off yes for Scott & Andrea stands. Casago 1023503 (E Front Ave) describes two side-by-side cottages with own entrances and no shared walls; it does not mention the Historic 4BR.",
+    "fact-checker 2026-11-14: could not verify: distance between the Historic 4BR house and the 1BR cottage. Neither Casago page gives an address; 1005831's map centre is roughly 47.6727, -116.7694 (E Front Ave area), and the 4BR is described only as directly across from McEuen Park. Left as 'not stated'; ask Casago.",
+    "fact-checker 2026-11-14: could not verify: Casago 1005836 (3BR + Loft) and One Lakeside, Sherman Suite and Fort Grounds configuration details were not re-opened; their existing text was left as written.",
+    "fact-checker 2026-11-14: Cat Tales confirmed on cattales.org: bear hand-feeding age 5+ US$10 and tiger feeding age 8+ US$15 per person; open Thu-Sun 10-4, closed Mondays, no separate July schedule or closure posted. The visit page says encounters are 'typically available earlier in the day and may conclude by approximately 2:30 PM', and the animal-adventures page does not say which days encounters run, so Thu-Sun for encounters is inferred from open days (Jul 4 is a Sunday; Jul 8-10 are Thu-Sat). Both ages are fine for Ethan 15 and Aubrey 13. Kept as hands-on, operates yes; confirm July encounter days at (509) 238-4126.",
+    "fact-checker 2026-11-14: could not verify: whether non-resort guests can book The Coeur d'Alene Resort golf course. cdaresort.com/golf and proshop.cdaresort.com are silent on public access, green fee and season; pro shop (208) 667-4653 or (800) 935-6283. Left as not stated.",
+    "fact-checker 2026-11-14: Circling Raven: cdacasino.com/golf calls it the '#1 Public Golf Course in Idaho' with phone/mobile tee-time booking, so it is open to the public; the 2026 season has ended, the club says it reopens in 2027 with no opening date given, and the rates page was not fetchable (404 at /golf/rates), so the peak fee remains unpublished here. GPS carts are mandatory and included; no minimum age stated. 'operates yes' rests on the usual May-Oct season and is not confirmed for 2027.",
+    "fact-checker 2026-11-14: Red Horse Mountain Ranch: redhorsemountainranch.com and its rates page show riding only inside all-inclusive weeks; no day rides for non-guests are sold. Family Vacation Weeks run Sun-Sat, Jun 6-Aug 14, 2027 (so Jul 4-10 is one such week), per person US$4,480 adult, US$4,220 ages 11-17 and US$3,690 ages 3-10, plus 15% resort charge and taxes. Price_usd, what_you_do and why_memorable updated; still does not count toward the score. Riding minimum age not stated.",
+    "fact-checker 2026-11-14: Birds of Prey Northwest: site confirms by-appointment onsite tours, US$20 minimum donation per person, phone 208-245-1367; no days, season, age limit or bird handling stated. Left as close viewing, operates unknown.",
+    "fact-checker 2026-11-14: no score changed; no correction altered a fact that a score rests on.",
+    "researcher rerun 2026-11-15 (lodging backups): the price-checker marked the Sherman Suite house + One Lakeside 1BR sold_out, so it moved from lodging to lodging_backups with its quote and availability unchanged; lodging now has 5 options and the score basis (Casago Historic 4BR + Cottage) is unchanged. Two backups added, both lock-off yes: the Sanders Beach duplex (Vrbo 2183982, which reviews call a duplex sharing only a driveway, + Vrbo 2183980, inferred to be the other side from matching distances and photo folder IDs) and the Lake Coeur d'Alene Inn Guest House (Vrbo 4521429) + Casago Downtown CDA Cottage (1005808). Casago 1023503 ('2 Side-by-Side Homes', sleeps 8 in two small cottages) was checked and not used: it cannot sleep the whole party and shares cottage stock with the score-basis option. A search for a 'Lake Coeur d'Alene Inn' main inn found nothing, so the guest house is treated as a standalone rental. The One Lakeside 1BR now appears both in an active option and in the Sherman Suite backup because the sold-out option was moved intact.",
+    "researcher rerun 2026-11-15 (animals): re-ranked against the current guidance (what you do, then the animal) and listed best first. Added Big Red's Barn (7397 N Government Way, about 15 min; open Thu-Sun 10:30-5:30): private sloth encounter (pet and feed a small amount, no holding, 10+) and capybara encounter (feed and pet, 8+), US$50/person, 2-person minimum, per its product pages; drive time is a map estimate. Added Rider Ranch (6219 S Wolf Lodge Creek Rd): Visit North Idaho lists horse-drawn wagon rides with dinner and a Family Barn Night with horse handling; riderranch.com failed with an expired certificate and the trail-ride price and 8+ age come from a 2005 Spokesman-Review article, so it is operates unknown and does not count. Dropped Red Horse Mountain Ranch from the list (rides only inside all-inclusive ranch weeks, did not count); its source stays. Order: tiger feeding (exotic, feeding) > sloth/capybara feeding (exotic, feeding) > bear hand-feeding (large wild, feeding) > raptor facility tour (birds, tour) > Rider Ranch (farm horses, unconfirmed). Rider Ranch's wagon ride would rank first on activity type if confirmed, but an unconfirmed item cannot be the best option. Animals 7 to 13 and total 71 to 77: the top two items are both exotic-animal feeding within 60 min that run during the stay.",
+    "price-checker 2026-11-15: Casago Historic 4BR + 1BR King Cottage: estimate US$700-1,300, not_released -> estimate US$700-1,300 kept, sold_out. Controls: the cottage (1005831) priced 2026-12-15/17 (US$120.75/night) and 2027-07-25/27 (US$225.32/night) but is unavailable for 2027-07-04/10, 07-03/10 and 07-05/07; the 4BR (1005811) priced 2026-12-15/17 (US$278.86/night) but is unavailable 2027-06-28/30, 07-04/10, 07-13/15 and 07-25/27. Moved to lodging_backups.",
+    "price-checker 2026-11-15: Casago 3BR + Loft + 1BR King Cottage: estimate US$1,000-1,800, not_released -> estimate kept, sold_out (same booked cottage; the 3BR 1005836 is also unavailable for 2027-07-04/10).",
+    "price-checker 2026-11-15: One Lakeside 3BR + 1BR: unchanged, estimate with no sum, not_sold_online; 1BR Lake View still US$424/night on SynXis; 3BR by phone (208-775-7277).",
+    "price-checker 2026-11-15: Fort Grounds 5BR + resort Lake Tower fireplace king: verified US$2,200 -> verified US$2,198.67 (Vrbo total US$9,081, was US$9,089), available.",
+    "price-checker 2026-11-15: Coeur d'Alene Resort three Lake Tower rooms: verified US$2,032.83 -> verified US$2,032.83 (room averages unchanged on TravelClick 114393), available; Lake View Double 'Only 4 left'.",
+    "price-checker 2026-11-15: Sanders Beach duplex (backup): estimate US$950-1,600, no availability -> verified US$1,450.33-1,504 (Vrbo early-booking and standard prices, fees included), available. Promoted into lodging. The Vrbo listings still do not name each other as the two sides of the duplex (open question for the host).",
+    "price-checker 2026-11-15: Inn Guest House + Casago 1005808 cottage (backup): estimate US$975-1,700, no availability -> estimate kept, sold_out (Vrbo 4521429 'not available for check-in' on Jul 3 and Jul 4 while a December 4-night control priced US$658/night; cottage 1005808 unavailable Jul 4-10 while 2027-07-25/27 priced).",
+    "price-checker 2026-11-15: Sherman Suite + One Lakeside 1BR (backup): not rechecked; stays sold_out from 2026-11-14.",
+    "fact-checker 2026-11-15: Sanders Beach duplex: both Vrbo pages opened. Beds, 2 full + 1 half baths, 4BR sleeps 10 each, no stated entry steps, dining seats or bath floors confirmed on both. Whether 2183980 is the other side stays unproven: neither page names the other, but the map pins are about 20 m apart; the titles disagree on distance to downtown (1 mile vs 5 blocks). Lock-off yes kept (one side of a duplex or a nearby rental both qualify; review of 2183982 says only the driveway is shared). Basis, configuration and hard_constraints.notes updated. No rating changed.",
+    "fact-checker 2026-11-15: Inn Guest House (Vrbo 4521429) confirmed: 4 BR (3 king, 1 queen), 4 full + 1 half bath, main-floor master per a review only, no steps, dining seats, address or minimum age stated. Casago 1005808 confirmed: queen bedroom floor is not stated (config said main floor; corrected), bath on lower level only per a review; 21+, own entrance, no shared walls. Both remain sold_out backups; no score change.",
+    "fact-checker 2026-11-15: One Lakeside 1BR appears in the active One Lakeside option and in the Sherman Suite backup; stated plainly in the backup's configuration. The backup stays as is (sold out).",
+    "fact-checker 2026-11-15: animals: Cat Tales page confirms tiger 8+ US$15 and bear 5+ US$10 per person on top of admission, no closure notice; days are not on that page (Thu-Sun inferred from open days). Big Red's Barn: title says US$50/person, displayed price US$100 with a 2-person minimum per booking, so US$100 for 2 and the rule for larger groups is not stated; sloth 10+, under-16s with an adult; open Thu-Sun 10:30-5:30 (year-round hours, no July notice); 20-min vs 30-min duration conflict stays; July slots not visible. Birds of Prey and Rider Ranch pages give no days, season, age or current status: operates stays unknown, neither counts. Ranking follows the guidance; ages 8, 10 and 5 are all at or below Aubrey 13. Animals 13 unchanged.",
+    "fact-checker 2026-11-15: no score changed (lodging 15, animals 13, total 75).",
+    "price-checker 2026-11-15: lodging score 17 to 15, total 77 to 75: the Casago Historic 4BR + Cottage the score rested on is sold out (cottage booked), so the eligible backup, the Sanders Beach duplex (privacy 9, shared space 6, parents 6), was promoted and the score re-based on it. The Fort Grounds 5BR + resort room (configuration sum 22 vs 21) remains eligible at US$2,198.67/night as the alternative. hard_constraints.notes still describes the Casago parent room; the Sanders split gives the parents a main-floor king on the 2183982 side (bath floors and entry steps not stated)."
+  ],
+  "sources": [
+    {
+      "title": "Casago: Historic 4BR Across from McEuen Park",
+      "url": "https://casago.com/rentals/1005811/",
+      "section": "lodging"
+    },
+    {
+      "title": "Vacasa: same Historic 4BR listing (Casago inventory)",
+      "url": "https://www.vacasa.com/unit/1005811",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Walk Downtown CDA 1BR King w/ Deck & Fire Table",
+      "url": "https://casago.com/rentals/1005831/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Walk Downtown CDA - 2 Side-by-Side Homes",
+      "url": "https://casago.com/rentals/1023503/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Downtown CDA Cottage w/ Deck & Courtyard Fire Table",
+      "url": "https://casago.com/rentals/1005808/",
+      "section": "lodging"
+    },
+    {
+      "title": "Casago: Walk Downtown CDA 3BR + Loft w/ Hot Tub",
+      "url": "https://casago.com/rentals/1005836/",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo 3611194: Sherman Suite - Steps to Downtown",
+      "url": "https://www.vrbo.com/3611194",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo 2182322: Walk to Beach 5BR Coeur d'Alene Home (Fort Grounds)",
+      "url": "https://www.vrbo.com/2182322",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo 2183982: Duplex Home, 5 min walk to Sanders Beach",
+      "url": "https://www.vrbo.com/2183982",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo 2183980: Prime Location, 5 blocks to Sherman Ave",
+      "url": "https://www.vrbo.com/2183980",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo 4521429: Lake Coeur d'Alene Inn Guest House",
+      "url": "https://www.vrbo.com/4521429",
+      "section": "lodging"
+    },
+    {
+      "title": "Vrbo 3122262: Sherman Avenue / Downtown 3BR (lead, not used)",
+      "url": "https://www.vrbo.com/3122262",
+      "section": "lodging"
+    },
+    {
+      "title": "Evolve 515238: Walk Downtown condo (lead, max 4)",
+      "url": "https://careers.evolvevacationrental.com/vacation-rentals/us/id/coeur-d'alene/515238",
+      "section": "lodging"
+    },
+    {
+      "title": "Airbnb: Lake CDA Vacation Cottage (lead, max 4)",
+      "url": "https://www.airbnb.com/rooms/1022796126836813636",
+      "section": "lodging"
+    },
+    {
+      "title": "Coeur Yard 4BR, Garden District (lead, not used)",
+      "url": "https://thebeachestates.com/all/usa/idaho/coeur-d-alene/garden-district/coeur-yard-complex",
+      "section": "lodging"
+    },
+    {
+      "title": "Flamingo Motel: rooms",
+      "url": "https://www.flamingomotelidaho.com/services-5",
+      "section": "lodging"
+    },
+    {
+      "title": "One Lakeside: rooms",
+      "url": "https://one-lakeside.squarespace.com/hotel",
+      "section": "lodging"
+    },
+    {
+      "title": "One Lakeside: accommodations",
+      "url": "https://www.onelakeside.com/accommodations",
+      "section": "lodging"
+    },
+    {
+      "title": "The Coeur d'Alene Resort: accommodations",
+      "url": "https://www.cdaresort.com/accommodations",
+      "section": "lodging"
+    },
+    {
+      "title": "The Coeur d'Alene Resort: Lake Tower",
+      "url": "https://www.cdaresort.com/blog/rooms/lake-tower/",
+      "section": "lodging"
+    },
+    {
+      "title": "Cat Tales Wildlife Center",
+      "url": "https://www.cattales.org/",
+      "section": "animals"
+    },
+    {
+      "title": "Cat Tales: Animal Adventures",
+      "url": "https://www.cattales.org/visit/admission-tickets/animal-adventures/",
+      "section": "animals"
+    },
+    {
+      "title": "Big Red's Barn indoor petting zoo",
+      "url": "https://www.bigredsbarn.com/",
+      "section": "animals"
+    },
+    {
+      "title": "Big Red's Barn: sloth private encounter",
+      "url": "https://bigredsbarn.com/product/sloth-private-encounter-50-person/",
+      "section": "animals"
+    },
+    {
+      "title": "Big Red's Barn: capybara private encounter",
+      "url": "https://bigredsbarn.com/product/capybara-private-encounter-50-person/",
+      "section": "animals"
+    },
+    {
+      "title": "Big Red's Barn: admission tickets",
+      "url": "https://bigredsbarn.com/product/admission-tickets/",
+      "section": "animals"
+    },
+    {
+      "title": "Visit North Idaho: Rider Ranch",
+      "url": "https://visitnorthidaho.com/activity/rider-ranch/",
+      "section": "animals"
+    },
+    {
+      "title": "Spokesman-Review (2005): Rider Ranch offers scenic horseback rides",
+      "url": "https://www.spokesman.com/stories/2005/jun/11/rider-ranch-offers-scenic-horseback-rides/",
+      "section": "animals"
+    },
+    {
+      "title": "Family Days Out: Rider Ranch",
+      "url": "https://familydaysout.com/attractions-usa/rider-ranch",
+      "section": "animals"
+    },
+    {
+      "title": "Birds of Prey Northwest",
+      "url": "https://www.birdsofpreynorthwest.org/",
+      "section": "animals"
+    },
+    {
+      "title": "Visit Coeur d'Alene: Red Horse Mountain Ranch",
+      "url": "https://coeurdalene.org/places/idaho/harrison/outdoor-activities/red-horse-mountain-ranch/",
+      "section": "animals"
+    },
+    {
+      "title": "The Coeur d'Alene Resort: golf",
+      "url": "https://www.cdaresort.com/golf/",
+      "section": "golf"
+    },
+    {
+      "title": "Coeur d'Alene Casino: Circling Raven golf",
+      "url": "https://www.cdacasino.com/golf",
+      "section": "golf"
+    },
+    {
+      "title": "First Call: Circling Raven opens April 3 (2026)",
+      "url": "https://www.firstcallgolf.com/industry-news/release/2026-03-31/circling-raven-golf-club-set-to-open-april-3-coeur-dalene-casino-amenity-unveils-new-programs-enhancements",
+      "section": "golf"
+    },
+    {
+      "title": "Green Fee Tracker: Coeur d'Alene green fees 2026",
+      "url": "https://www.greenfeetracker.com/blog/golf-green-fees-coeur-dalene-2026",
+      "section": "golf"
+    },
+    {
+      "title": "Visit Coeur d'Alene (official tourism site)",
+      "url": "https://coeurdalene.org/",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Coeur d'Alene: tours & excursions",
+      "url": "https://coeurdalene.org/play/tours-excursions/",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Coeur d'Alene: family activities",
+      "url": "https://coeurdalene.org/play/family-activities/",
+      "section": "activities"
+    },
+    {
+      "title": "Lake Coeur d'Alene Cruises",
+      "url": "http://www.cdacruises.com",
+      "section": "activities"
+    },
+    {
+      "title": "The Spa at The Coeur d'Alene Resort",
+      "url": "https://www.cdaresort.com/spa/",
+      "section": "activities"
+    },
+    {
+      "title": "Thrw Pottery Studio",
+      "url": "https://www.thrwpottery.com/",
+      "section": "activities"
+    },
+    {
+      "title": "Timberline Adventures",
+      "url": "http://www.ziptimberline.com",
+      "section": "activities"
+    },
+    {
+      "title": "Visit Coeur d'Alene: dining",
+      "url": "https://coeurdalene.org/play/dining/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Beverly's",
+      "url": "http://www.beverlyscda.com",
+      "section": "restaurants"
+    },
+    {
+      "title": "Tito's Italian Grill",
+      "url": "http://www.titoscda.com",
+      "section": "restaurants"
+    },
+    {
+      "title": "Honey Eatery (Eat Good Group)",
+      "url": "https://eatgoodgroup.com/honey-eatery/",
+      "section": "restaurants"
+    },
+    {
+      "title": "Current Results: Idaho July temperatures (NOAA 1991-2020)",
+      "url": "https://www.currentresults.com/Weather/Idaho/temperature-july.php",
+      "section": "weather"
+    },
+    {
+      "title": "Current Results: Idaho July precipitation (NOAA 1991-2020)",
+      "url": "https://www.currentresults.com/Weather/Idaho/precipitation-july.php",
+      "section": "weather"
+    },
+    {
+      "title": "Spokane International Airport: airlines & destinations",
+      "url": "https://www.spokaneairports.com/flights/airlines-destinations/",
+      "section": "logistics"
+    }
+  ],
+  "_trip_dates": "July 4–10, 2027",
+  "trip_weather": {
+    "month": "July",
+    "high_f": 83,
+    "low_f": 57
+  },
+  "stale": {
+    "stale": false,
+    "dates_differ": false,
+    "researched_for": {
+      "check_in": "2027-07-04",
+      "check_out": "2027-07-10",
+      "display": "Jul 4–10, 2027"
+    },
+    "trip_display": "Jul 4–10, 2027",
+    "stale_prices": 0,
+    "stale_price_names": [],
+    "disagreements": [],
+    "check_disagreements": [],
+    "messages": []
+  },
+  "og": {
+    "http://www.ziptimberline.com": {
+      "url": "https://ziptimberline.com/__manus/checkpoint-screenshot.png?v=a756d3b5&badge=0",
+      "src": "img/f6cecc852a7c2750.jpg"
+    },
+    "https://visitnorthidaho.com/activity/rider-ranch/": {
+      "url": "https://visitnorthidaho.com/wp-content/uploads/2021/04/maF-2020-wagon-Photo-courtesy-of-Rider-Ranch.jpg",
+      "src": "img/1af28b2bed60d66f.jpg"
+    },
+    "http://www.rogersicecreamburgers.com": {
+      "url": "https://static.wixstatic.com/media/03863f_47b10361c0684fc09fedcf35f8e61acb%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/03863f_47b10361c0684fc09fedcf35f8e61acb%7Emv2.jpeg",
+      "src": "img/1b874c67d4aaa925.jpg"
+    }
+  }
+}

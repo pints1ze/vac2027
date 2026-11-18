@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rank the places — Our 2027 family trip</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,600&family=Nunito+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/rank.css">
+<script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.6/Sortable.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.95.0"></script>
+</head>
+<body>
+<header class="top wrap">
+  <div class="kicker">Summer 2027 · family vote</div>
+  <h1>Rank the places</h1>
+  <p>Pick your name, drag your favorites to the top, and save. Everyone gets a say; we average within each household, then average the three households.</p>
+  <div class="nav-links"><a href="index.html">← Brochure</a></div>
+</header>
+
+<main class="wrap">
+  <section class="panel">
+    <h2>Who are you?</h2>
+    <div class="who"></div>
+    <p class="status"></p>
+  </section>
+
+  <section class="panel" id="rank-panel" hidden>
+    <h2>Your order — <span id="ranker-label"></span></h2>
+    <p class="hint">#1 is your favorite. Places start in A–Z order; drag to rearrange.</p>
+    <ul class="rank-list" id="rank-list"></ul>
+    <div class="actions">
+      <button type="button" class="btn primary" id="save-btn">Save ranking</button>
+      <button type="button" class="btn ghost" id="reset-btn">Reset to A–Z</button>
+    </div>
+  </section>
+
+  <section>
+    <h2 style="margin:28px 0 10px;font-size:1.5rem">Family consensus</h2>
+    <p class="hint">Lower average rank is better. Each household’s score is the mean of its members who have voted; the board averages those household scores.</p>
+    <div class="board" id="consensus"></div>
+  </section>
+
+  <section>
+    <h2 style="margin:8px 0 10px;font-size:1.5rem">By household</h2>
+    <div class="households" id="households"></div>
+  </section>
+</main>
+<footer class="wrap">Rankings sync through Supabase. Re-open this page anytime to adjust yours.</footer>
+
+<script src="js/config.js"></script>
+<script src="js/common.js"></script>
+<script src="js/rank.js"></script>
+</body>
+</html>
